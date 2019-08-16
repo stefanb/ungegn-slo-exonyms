@@ -34,12 +34,13 @@ func main() {
 			}
 			ex.Lat = ParseDMS(ex.LatDMS)
 			ex.Lon = ParseDMS(ex.LonDMS)
-			fmt.Println(ex)
+			//fmt.Println(ex)
 			// for _, lang := range strings.Split(ex.LangOrig,"/") {
 			//	fmt.Println(lang+",")
 			//}
 			f := geojson.NewPointFeature([]float64{ex.Lon, ex.Lat})
-			f.SetProperty("name", ex.NameSl)
+			f.SetProperty("name:sl", ex.NameSl)
+			f.SetProperty("source:name:sl", "ungegn")
 			featureCollection.AddFeature(f)
 		}
 	}
