@@ -62,6 +62,10 @@ func main() {
 }
 
 func ParseDMS(dms string) float64 {
+	dmsIn := dms
+	dms = strings.ReplaceAll(dms, "\u00b0", "\u00b0 ")
+	dms = strings.ReplaceAll(dms, "\u2032", "\u2032 ")
+	dms = strings.ReplaceAll(dms, "\u2033", "\u2033 ")
 	d, m, s, q := 0, 0, 0, 1
 	for _, part := range strings.Fields(dms) {
 		if len(part) == 1 {
@@ -78,7 +82,7 @@ func ParseDMS(dms string) float64 {
 		}
 		val, err := strconv.Atoi(part[:len(part)-ulen])
 		if err != nil {
-			log.Println("Error parsing:", strconv.Quote(part), err)
+			log.Println("Error parsing:", strconv.Quote(part), "from", strconv.Quote(dmsIn), err)
 			continue
 		}
 
