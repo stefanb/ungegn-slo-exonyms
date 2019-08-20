@@ -2,9 +2,9 @@ package main
 
 import (
 	"encoding/json"
-	"io/ioutil"
 	"fmt"
 	"github.com/tealeg/xlsx"
+	"io/ioutil"
 	"log"
 	"strconv"
 	"strings"
@@ -142,13 +142,13 @@ type Exonym struct {
 	LonDMS      string  `xlsx:"10"`
 	Lon         float64 `xlsx:"-"`
 	//BoolVal bool `xlsx:"4"`
-	NameSlAlt      string  `xlsx:"14"`
-	NameEn      string  `xlsx:"25"`
-	NameFr      string  `xlsx:"26"`
-	NameDe      string  `xlsx:"27"`
-	NameEs      string  `xlsx:"28"`
-	NameRu      string  `xlsx:"29"`
-	NameIt      string  `xlsx:"30"`
-	NameHr      string  `xlsx:"31"`
-	NameHu      string  `xlsx:"32"`
+	NameSlAlt string `xlsx:"14"`
+	NameEn    string `xlsx:"25"`
+	NameFr    string `xlsx:"26"`
+	NameDe    string `xlsx:"27"`
+	NameEs    string `xlsx:"28"`
+	NameRu    string `xlsx:"29"`
+	NameIt    string `xlsx:"30"`
+	NameHr    string `xlsx:"31"`
+	NameHu    string `xlsx:"32"`
 }
