@@ -212,6 +212,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Aberdarsko gorovje",
     "name": "Aberdare Range/Nyandarua",
     "name:es": "Montes Aberdare",
     "name:fr": "Aberdare",
@@ -233,6 +234,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Etiopsko cesarstvo",
     "name": "Mängəstä Ityop′p′ya/ʾĪtyōṗṗyā",
     "name:de": "Abessinien",
     "name:en": "Abyssinia",
@@ -642,6 +644,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Adelijina zemlja;Adelijina obala",
     "name": "Terre Adélie/Adélie Coast",
     "name:de": "Adelieland",
     "name:en": "Adélie Land",
@@ -988,6 +991,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Etiopski ščit",
     "name": "African Shield",
     "name:de": "Afrikanisches Schild",
     "name:en": "African Schield",
@@ -1274,6 +1278,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Aheloos",
     "name": "Achelóos",
     "name:de": "Acheloos",
     "name:en": "Achelous River",
@@ -1625,6 +1630,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Celinograd",
     "name": "Aķmola/Akmolinsk/Celinograd/Astana",
     "name:de": "Aqmola",
     "name:en": "Akmola",
@@ -1830,6 +1836,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ålandski otoki",
     "name": "Landskapet Åland/Ahvenanmaa",
     "name:en": "Åland Islands",
     "name:hr": "Alandski otoci",
@@ -1849,6 +1856,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ålandsko morje",
     "name": "Ålands hav/Ahvenanmeri",
     "name:de": "Åländer See",
     "name:en": "Sea of Åland",
@@ -1869,6 +1877,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Alandski otoki;Ålandski otoki",
     "name": "Landskapet Åland/Ahvenanmaa",
     "name:en": "Åland Islands",
     "name:hr": "Alandski otoci",
@@ -2651,6 +2660,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Alžirska kotlina",
     "name": "Algerian-Provence Basin",
     "name:de": "Algerisch-Provenzalisches Becken",
     "name:en": "Algerian-Provencal Basin",
@@ -4032,6 +4042,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kačji otok",
     "name": "Anguilla",
     "name:hr": "Angvila",
     "name:ru": "Angil′ja",
@@ -4071,6 +4082,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "rt Ann",
     "name": "Cape Ann",
     "name:en": "Cape Ann",
     "name:hr": "Anin rt",
@@ -4211,6 +4223,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južno ledeno morje;Južni ocean",
     "name": "Antarctic Ocean/Southern Ocean/Océan Antartique",
     "name:de": "Antarktischer Ozean/Südlicher Ozean",
     "name:en": "Antarctic Ocean/Southern Ocean",
@@ -4379,6 +4392,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Antilski otoki;Karibski otoki",
     "name": "Antillas/Antilles",
     "name:de": "Antillen",
     "name:en": "Antilles",
@@ -4468,6 +4482,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Antiohija Cezareja;Antiohija Kajsareja",
     "name": "Antiochia Caesareia/Kayseri",
     "name:de": "Antiochia in Pisidien ",
     "name:fr": "Antioche de Pisidie ",
@@ -4817,6 +4832,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Srečna Arabija",
     "name": "Arabia/Arabie/Arabia Felix",
     "name:de": "Arabien",
     "name:en": "Arabia",
@@ -4878,6 +4894,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodna puščava",
     "name": "Aş Şaḥrā ash Sharqīyah",
     "name:de": "Arabische Wüste",
     "name:en": "Eastern Desert",
@@ -4962,6 +4979,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Arafurski šelf",
     "name": "Arafura Shelf",
     "name:en": "Arafura Shelf",
     "name:hr": "Arafurski šelf",
@@ -5300,6 +5318,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Argonski gozd",
     "name": "Argonne",
     "name:de": "Argonnen",
     "name:en": "Forest of Argonne",
@@ -5460,6 +5479,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kanadski arhipelag;Kanadsko otočje",
     "name": "Canada Archipelago",
     "name:de": "Arktischer Archipel",
     "name:es": "Archipiélago Ártico ",
@@ -5481,6 +5501,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Severno ledeno morje",
     "name": "Arctic Ocean/Océan Arctique",
     "name:de": "Arktischer Ozean",
     "name:en": "Arctic Ocean",
@@ -5587,6 +5608,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Armensko kraljestvo",
     "name": "Armenia Maior/Hayastan/Ermenistan",
     "name:en": "Greater Armenia",
     "name:es": "Armenia Mayor",
@@ -6379,6 +6401,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Atlantik",
     "name": "Atlantic Ocean/Océan Atlantique",
     "name:de": "Atlantischer Ozean",
     "name:en": "Atlantic Ocean",
@@ -6402,6 +6425,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Priatlantsko nižavje",
     "name": "Atlantic Coastal Plain",
     "name:de": "Atlantische Küstenebene",
     "name:hr": "Atlantska obalna nizina",
@@ -6854,6 +6878,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Asandski prag;Severnoekvatorialni prag",
     "name": "Asande Rise/Azande Rise",
     "name:de": "Asande-Schwelle/Nordäquatorialschwelle",
     "name:en": "Azande Rise",
@@ -6983,6 +7008,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Azorski prag",
     "name": "Azores-Gibraltar Ridge/Azores Rise",
     "name:de": "Azorenschwelle",
     "name:en": "Azores-Gibraltar Ridge/Azores Rise",
@@ -7216,6 +7242,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Cockburnova dežela",
     "name": "Baffin Island/Qikiqtaaluk",
     "name:de": "Baffininsel",
     "name:es": "Isla de Baffin",
@@ -7337,6 +7364,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Bahami;Bahamski otoki",
     "name": "Bahama Islands",
     "name:hr": "Bahamski otoci",
     "name:hu": "Bahama-szigetek",
@@ -7770,6 +7798,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Balearski otoki",
     "name": "Islas Baleares/Illes Balears/Baleares/Balears",
     "name:de": "Balearische Inseln/Balearen",
     "name:en": "Balearic Islands",
@@ -7986,6 +8015,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Skandinavski ščit",
     "name": "Baltic Shield",
     "name:de": "Baltischer Schild",
     "name:en": "Baltic Shield/Scandinavian Schield",
@@ -8008,6 +8038,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Baltik;Baltiško morje",
     "name": "Östersjön/Østersøen/Ostsee/Läänemeri/Itämeri/Baltijskoje more/Baltijas jūra/Baltijos jura/Morze Bałtyckie",
     "name:en": "Baltic Sea",
     "name:es": "Mare Báltico",
@@ -9485,6 +9516,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "rt Branco",
     "name": "Cabo Branco",
     "name:hr": "Bijeli rt",
     "name:hu": "Branco-fok",
@@ -10217,6 +10249,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Berberija",
     "name": "Côte des Barbaresques",
     "name:de": "Barbareskenstaaten",
     "name:en": "Barbary Coast/Barbary",
@@ -10383,6 +10416,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Bermudi",
     "name": "Bermuda Islands",
     "name:de": "Bermuda-Inseln",
     "name:es": "Bermudas",
@@ -10425,6 +10459,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Hudičev trikotnik",
     "name": "Bermuda Triangle",
     "name:de": "Bermudadreieck/Teufelsdreieck ",
     "name:en": "Bermuda Triangle",
@@ -10572,6 +10607,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Betijske Kordiljere",
     "name": "Cordilleras Béticas/Sistemas Beticos",
     "name:de": "Betische Kordillere",
     "name:en": "Baetic Cordillera/Baetic Ranges",
@@ -10634,6 +10670,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Bonnyjski zaliv",
     "name": "Bight of Bonny/Bight of Biafra",
     "name:de": "Bucht von Bonny",
     "name:es": "Golfo de Biafra ",
@@ -10817,6 +10854,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kantabrijsko morje",
     "name": "Golfe du Gascogne/Golfo de Vizcaya/Mar Cantabrico/Bizkaiko Golkoa",
     "name:de": "Biscaya/Golf von Biskaya",
     "name:en": "Bay of Biscay",
@@ -11282,6 +11320,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "zaliv Bo hai",
     "name": "Bó Hǎi",
     "name:de": "Golf von Bohai ",
     "name:en": "Bohai Sea/Bohai Gulf/Bohai/Bo Hai",
@@ -11305,6 +11344,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mindanajsko morje",
     "name": "Bohol Sea/Mindanao Sea",
     "name:de": "Mindanaosee",
     "name:es": "Mar de Bohol/Mar de Mindanao",
@@ -11327,6 +11367,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Beocija",
     "name": "Boiōtía/Viotía",
     "name:de": "Böotien ",
     "name:en": "Boeotia",
@@ -11430,6 +11471,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Bolivijska planota",
     "name": "Altiplano/Altiplano de Bolivia/Meseta del Collao",
     "name:en": "Altiplano of Bolivia",
     "name:hr": "Bolivijska visoravan",
@@ -11833,6 +11875,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Botniški zaliv",
     "name": "Bottniska viken/Pohjanlahti",
     "name:de": "Bottnische Meerbusen ",
     "name:en": "Gulf of Bothnia",
@@ -11995,6 +12038,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Severni Podganji hrbet",
     "name": "Bowers Ridge",
     "name:en": "Bowers Ridge",
     "name:hr": "Bowersov hrbat",
@@ -12199,6 +12243,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Brandenburško",
     "name": "Brandenburg",
     "name:es": "Brandeburgo",
     "name:fr": "Brandebourg",
@@ -12496,6 +12541,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Brižinje",
     "name": "Freising",
     "name:it": "Frisinga",
     "name:ru": "Frajzing",
@@ -12902,6 +12948,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Van Blommesteinovo zajezitveno jezero",
     "name": "Brokopondostuwmeer/Prof. dr. ir. W.J. van Blommesteinmeer",
     "name:de": "Blommesteinsee ",
     "name:en": "Brokopondo Reservoir",
@@ -12925,6 +12972,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Riograndski prag",
     "name": "Bromley Plateau",
     "name:en": "Bromley Plateau",
     "name:es": "Meseta de Bromley ",
@@ -13286,6 +13334,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ljubek",
     "name": "Lübeck",
     "name:es": "Lubeca",
     "name:it": "Lubecca",
@@ -13385,6 +13434,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Burejinsko gorovje",
     "name": "Bureinskij hrebet",
     "name:de": "Burejagebirge",
     "name:en": "Bureinskiy Range",
@@ -14007,6 +14057,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Istanbul",
     "name": "İstanbul",
     "name:de": "Istanbul",
     "name:en": "Istanbul",
@@ -14263,6 +14314,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Šrilanka",
     "name": "Ceylon/śrī laṃkā",
     "name:de": "Ceylon",
     "name:en": "Ceylon",
@@ -14465,6 +14517,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Seramska globel",
     "name": "Ceram Trough",
     "name:en": "Ceram Trough/Seram Trench",
     "name:hr": "Ceramski jarak",
@@ -14482,6 +14535,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Seramsko morje",
     "name": "Laut Seram",
     "name:de": "Seramsee",
     "name:en": "Ceram Sea/Seram Sea",
@@ -14523,6 +14577,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kajsareja",
     "name": "Caesarea/Iol/Sharshal/Cherchell",
     "name:es": "Caesarea Mauretaniae ",
     "name:fr": "Césarée de Maurétanie",
@@ -14543,6 +14598,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kajsareja Filipi",
     "name": "Caesarea Philippi/Banyâs",
     "name:hr": "Cezareja Filipova",
     "name:ru": "Kesarija Filippa",
@@ -14655,6 +14711,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Čilski prelom",
     "name": "Challenger Fracture Zone",
     "name:en": "Challenger Fracture Zone/Chile Fracture Zone",
     "name:hr": "Challengerova frakturna zona",
@@ -14855,6 +14912,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Džedžujski preliv",
     "name": "Cheju Haehyŏp",
     "name:en": "Cheju Strait",
     "name:hr": "Chejuanski prolaz",
@@ -14893,6 +14951,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Chesterfieldski zaliv",
     "name": "Chesterfield Inlet",
     "name:fr": "Baie Chesterfield ",
     "name:sl": "Chesterfieldov zaliv",
@@ -16055,6 +16114,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Čečenska republika",
     "name": "Čečnija/Noxçiyçö",
     "name:de": "Tschetschenien/Tschetschenische Republik",
     "name:en": "Chechnya/ Chechen Republic ",
@@ -16115,6 +16175,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Madras",
     "name": "Ceṉṉai",
     "name:de": "Chennai",
     "name:en": "Chennai",
@@ -16448,6 +16509,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Čehoslovaška",
     "name": "Československo",
     "name:de": "Tschechoslowakei",
     "name:en": "Czechoslovakia",
@@ -16888,6 +16950,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Černivci",
     "name": "Chernivtsi",
     "name:de": "Czernowitz",
     "name:fr": "Tchernivtsi",
@@ -17008,6 +17071,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Čukotka",
     "name": "Čukotskij avtonomnyj okrug",
     "name:de": "Autonomer Kreis der Tschuktschen",
     "name:en": "Chukotka Autonomous Okrug",
@@ -17092,6 +17156,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Danang",
     "name": "Đà Nẵng ",
     "name:en": "Da Nang",
     "name:fr": "Da Nang",
@@ -17214,6 +17279,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Dacija",
     "name": "Dacia",
     "name:de": "Dakien",
     "name:fr": "Dacie",
@@ -17435,6 +17501,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Danakilsko nižavje",
     "name": "Denkel/Danakil Desert",
     "name:de": "Danakil ",
     "name:en": "Danakil Desert",
@@ -17536,6 +17603,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Helespont",
     "name": "Çanakkale Boğazı/Hellespontos",
     "name:de": "Dardanellen",
     "name:en": "Dardanelles",
@@ -17815,6 +17883,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Dawson-Lambtonov ledenik",
     "name": "Dawson-Lambton Glacier/Dawson-Lambton Ice Stream",
     "name:en": "Dawson-Lambton Glacier",
     "name:es": "Glaciar Buenos Aires",
@@ -18121,6 +18190,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ameriški Deviški otoki",
     "name": "Virgin Islands of the United States/United States Virgin Islands",
     "name:de": "Amerikanischen Jungferninseln",
     "name:es": "Islas Vírgenes de los Estados Unidos",
@@ -18159,6 +18229,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Deviški otoki",
     "name": "Virgin Islands",
     "name:de": "Jungferninseln",
     "name:es": "Islas Vírgenes",
@@ -18221,6 +18292,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja Edith Ronne",
     "name": "Edith Ronne Land",
     "name:de": "Edith-Ronne-Land",
     "name:en": "Edith Ronne Land",
@@ -18240,6 +18312,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja Franca Jožefa",
     "name": "zemlja Franca-Iosifa",
     "name:de": "Franz-Josef-Land",
     "name:en": "Franz Josef Land/Francis Joseph′s Land",
@@ -18262,6 +18335,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja Knuda Rasmussena",
     "name": "Knud Rasmussen Land",
     "name:hr": "Zemlja Knuda Rasmussena",
     "name:hu": "Knud Rasmussen-föld",
@@ -18280,6 +18354,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja kralja Friderika IX.",
     "name": "Kong Frederik IX Land",
     "name:en": "King Frederick IX Land",
     "name:hr": "Zemlja kralja Frederika IX.",
@@ -18299,6 +18374,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja kralja Friderika VIII.",
     "name": "Kong Frederik VIII Land",
     "name:en": "King Frederick VIII Land",
     "name:hr": "Zemlja kralja Frederika VIII.",
@@ -18318,6 +18394,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja kralja Kristijana IX.",
     "name": "Kong Christian IX Land",
     "name:en": "King Christian IX Land",
     "name:hr": "Zemlja kralja Kristijana IX.",
@@ -18337,6 +18414,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja kralja Kristijana X.",
     "name": "Kong Christian X Land",
     "name:en": "King Christian X Land",
     "name:hr": "Zemlja kralja Kristijana X.",
@@ -18374,6 +18452,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja kraljice Maud",
     "name": "Dronning Maud Land",
     "name:de": "Königin-Maud-Land",
     "name:en": "Queen Maud land",
@@ -18397,6 +18476,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja prestolonaslednika Kristijana",
     "name": "Kronprins Christian Land",
     "name:en": "Kronprins Christian Land/Crown Prince Christians Peninsula",
     "name:hr": "Zemlja princa Kristijana",
@@ -18414,6 +18494,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja Marie Byrd",
     "name": "Marie Byrd Land",
     "name:de": "Marie-Byrd-Land/Byrd-Land",
     "name:en": "Marie Byrd Land",
@@ -18454,6 +18535,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja princese Elizabete",
     "name": "Princess Elizabeth Land",
     "name:de": "Princess-Elizabeth-Land",
     "name:en": "Princess Elisabeth Land",
@@ -18475,6 +18557,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Obala Viljema II.;Zemlja Viljema II.",
     "name": "Wilhelm-II-Land/Wilhelm II Coast",
     "name:de": "Kaiser-Wilhelm-II.-Land",
     "name:en": "Wilhelm-II Land/Kaiser Wilhelm II  Land/Wilhelm II Coast",
@@ -19352,6 +19435,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Severni Donec",
     "name": "Sivers′kyy Donets′/Severskij Donec",
     "name:de": "Siwerskyj Donez/Donez ",
     "name:en": "Donetz/Seversky Donets",
@@ -19438,6 +19522,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Donbas",
     "name": "Donetskyy baseyn/Doneckij bassejn",
     "name:de": "Donezbecken",
     "name:en": "Donets Basin",
@@ -19661,6 +19746,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Draždani",
     "name": "Dresden",
     "name:es": "Dresde",
     "name:fr": "Dresde",
@@ -19744,6 +19830,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Družbeni otoki",
     "name": "Îles de la Société/Archipel de la Société/Tōtaiete mā",
     "name:de": " Gesellschaftsinseln",
     "name:en": "Society Islands",
@@ -20294,6 +20381,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Železna vrata",
     "name": "Đerdapska klisura/Porţille de Fier",
     "name:de": "Eisernes Tor",
     "name:en": "Iron Gate",
@@ -20754,6 +20842,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Egejska Makedonija",
     "name": "Makedhonía",
     "name:de": "Ägäis-Makedonien",
     "name:en": "Macedonia",
@@ -21027,6 +21116,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "El Aiun",
     "name": "al-ʾAyūn/al-ʿUyūn",
     "name:de": "Ajun",
     "name:es": "El Aiún",
@@ -21347,6 +21437,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gora svetega Elije",
     "name": "Saint Elias Mountains",
     "name:de": "Eliaskette",
     "name:es": " Montañas de San Elías",
@@ -21369,6 +21460,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jelizavetin rt",
     "name": "mys Elizavety",
     "name:en": "Cape Elizabeth/Cape Elizaveti ",
     "name:fr": "Cap Élisabeth",
@@ -21529,6 +21621,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Emperorjev hrbet",
     "name": "Emperor Seamounts",
     "name:de": "Emperor-Inselkette",
     "name:en": "Emperor Seamounts",
@@ -21645,6 +21738,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Epidaurus",
     "name": "Epidavros",
     "name:de": "Epidauros",
     "name:en": "Epidaurus",
@@ -22205,6 +22299,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Evbeja",
     "name": "Eúboia/Evvoía",
     "name:de": "Euböa",
     "name:en": "Euboea",
@@ -22404,6 +22499,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Evropska unija",
     "name": "European Union",
     "name:de": "Europäische Union",
     "name:en": "European Union",
@@ -22653,6 +22749,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Falklandski otoki;Malvini;Malvinski otoki",
     "name": "Falkland Islands/Islas Malvinas",
     "name:de": "Falklandinseln",
     "name:es": "Islas Malvinas",
@@ -22863,6 +22960,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Farasansko otočje",
     "name": "Jazā′ir Farasān/Juzur Farasan",
     "name:en": "Farasan Islands",
     "name:es": "Islas Farasan",
@@ -23125,6 +23223,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ferganska kotlina",
     "name": "Farg′ona vodiysi/Fergana öröönü/wodii Farghona",
     "name:de": "Ferghanatal",
     "name:en": "Fergana Valley/Fergana Basin",
@@ -23267,6 +23366,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Fezzan",
     "name": "Fizzān/Fezzan",
     "name:de": "Fessan",
     "name:en": "Fezzan",
@@ -23850,6 +23950,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Flamska",
     "name": "Flandre/Vlaanderen",
     "name:de": "Flandern",
     "name:en": "Flanders",
@@ -24444,6 +24545,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Frankfurt na Majni",
     "name": "Frankfurt am Main",
     "name:en": "Frankfurt",
     "name:es": "Francfort-sur-le-Main/Fráncfort",
@@ -24465,6 +24567,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Frankfurt na Odri",
     "name": "Frankfurt an der Oder",
     "name:en": "Frankfurt",
     "name:es": "Fráncfort del Óder",
@@ -24862,6 +24965,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Furlanska nižina",
     "name": "Pianura Friulana",
     "name:de": "Friaul-Ebene",
     "name:en": "Friuli Lowlands",
@@ -24924,6 +25028,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mala Sirta",
     "name": "Khalīj Qābis/Syrtis Minor",
     "name:de": "Golf von Gabès",
     "name:en": "Gulf of Gabès",
@@ -25087,6 +25192,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Želvji otoki",
     "name": "Islas Galápagos/Archipiélago de Colón",
     "name:de": " Galápagos-Inseln",
     "name:en": "Galápagos Islands",
@@ -25272,6 +25378,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Genezareško jezero;Tiberijsko jezero",
     "name": "Jam Kinneret/Buḥayrat Ṭabariyā",
     "name:de": "See Genezareth/Galiläisches Meer/See von Tiberias/Tiberiassee",
     "name:en": "Sea of Galilee/Lake of Gennesaret/Lake Tiberias/Sea of Chinnereth",
@@ -25314,6 +25421,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "polotok Galipoli;Galipoli",
     "name": "Gelibolu Yarımadası",
     "name:de": "Halbinsel Gallipoli",
     "name:en": "Gallipoli",
@@ -26038,6 +26146,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jurijeva dežela",
     "name": "zemlja Georga",
     "name:de": "Prinz-Georg-Land ",
     "name:en": "Zemlya Georga/Prince George Land ",
@@ -26057,6 +26166,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jurijevo jezero",
     "name": "Lake George",
     "name:de": "Georgsee/Dwerusee",
     "name:en": "Lake George/Lake Dweru ",
@@ -26161,6 +26271,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gibraltarska vrata;Gibraltarska ožina",
     "name": "Estrecho de Gibraltar/El Bōghāz Djebel Ţāriq/Strait of Gibraltar/Herakleioi stēlai",
     "name:de": "Straße von Gibraltar/Meerenge von Gibraltar/Säulen des Herakles",
     "name:en": "Strait of Gibraltar/Pillars of Hercules",
@@ -26265,6 +26376,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gilbertova gora",
     "name": "Gilbert Seamount",
     "name:en": "Gilbert Seamount",
     "name:hr": "Gilbertova planina",
@@ -26362,6 +26474,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gize",
     "name": "al-Ǧīza",
     "name:de": "Giseh/Giza",
     "name:en": "Giza",
@@ -26384,6 +26497,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gandža",
     "name": "Gəncə",
     "name:en": "Ganja",
     "name:es": "Ganyá",
@@ -26813,6 +26927,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Golanska planota",
     "name": "Haḍbatu ′l-Jawlān/Murtafaʻātu l-Jawlān/Ramat haGolan",
     "name:de": "Golanhöhen",
     "name:en": "Golan Heights/Syrian Heights",
@@ -26836,6 +26951,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kalvarija",
     "name": "Gulgolet/Gúlgaltā",
     "name:de": "Golgota",
     "name:en": "Calvary/Golgotha",
@@ -27137,6 +27253,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Fudžijama",
     "name": "Fuji-san",
     "name:de": "Fuji",
     "name:en": "Mount Fuji",
@@ -27227,6 +27344,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "gora Kammu",
     "name": "Kanmu Seamount/Kanmu Guyot",
     "name:en": "Kammu Seamount",
     "name:sl": "gora Kanmu",
@@ -27478,6 +27596,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mojzesova gora",
     "name": "Jabal Mūsa/Ṭūr Sīnā’",
     "name:de": "Berg Sinai",
     "name:en": "Mount Sinai/Mount Horeb/Mount Musa",
@@ -27548,6 +27667,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gore Pomorske komande",
     "name": "Great Meteor Seamount/Seewarte Seamounts",
     "name:en": "Great Meteor Seamount/Seewarte Seamounts",
     "name:hr": "Planina Veliki meteor",
@@ -27914,6 +28034,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Britansko gorovje",
     "name": "Britannia Range",
     "name:en": "Britannia Range",
     "name:hr": "Britansko gorje",
@@ -27984,6 +28105,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gorovja izvršnega komiteja",
     "name": "Executive Commitee Range",
     "name:en": "Executive Committee Range",
     "name:hu": "Executive Committee-hegység",
@@ -28079,6 +28201,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Libanonsko gorovje",
     "name": "Ğabal Lubnān",
     "name:de": "Libanon-Gebirge",
     "name:en": "Mount Lebanon",
@@ -28485,6 +28608,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodni Karpati",
     "name": "Poloniny/Beskidy Lesiste/Lisysti Karpaty/Carpáţii Orientali",
     "name:de": "Ostkarpaten/Waldkarpaten",
     "name:en": "Eastern Carpathians/Wooded Carpathians\n",
@@ -28871,6 +28995,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Grenlandski ravnik",
     "name": "Greenland Abyssal Plain",
     "name:en": "Grenland Abyssal Plain",
     "name:hr": "Grenlandska abisalna ravnica",
@@ -28930,6 +29055,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Grenlandski prag",
     "name": "Greenland-Iceland Rise",
     "name:de": "Grönland-Island-Schwelle",
     "name:en": "Greenland-Iceland Rise",
@@ -29565,6 +29691,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gvinejska prelomna proga",
     "name": "Guinea Fracture Zone",
     "name:en": "Guinea Fracture Zone",
     "name:hr": "Gvinejska frakturna zona",
@@ -29664,6 +29791,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Hadrijanovo obzidje",
     "name": "Hadrian′s Wall",
     "name:de": "Hadrianswall",
     "name:es": "Muro de Adriano/Muralla de Adriano",
@@ -29839,6 +29967,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Qiongzhouski preliv",
     "name": "Qióngzhōu Hǎixiá",
     "name:de": "Hainanstraße/Qiongzhou-Straße",
     "name:en": "Qiongzhou Strait/Hainan Strait",
@@ -30381,6 +30510,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Hanzeatska zveza",
     "name": "Hansa/Hanse",
     "name:en": "Hanseatic League",
     "name:es": "Liga Hanseática/Hansa",
@@ -30634,6 +30764,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Havajski otoki;Sandwichevi otoki",
     "name": "Hawaiian Islands/Mokupuni o Hawai‘i",
     "name:de": "Hawaii-Inseln",
     "name:es": "Archipiélago de Hawái",
@@ -30809,6 +30940,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Hearstova dežela",
     "name": "Hearst Island/Hearst Land",
     "name:en": "Hearst Island/Hearst Land",
     "name:es": "Isla Hearst/Tierra de Hearst ",
@@ -30916,6 +31048,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Heezenova prelomna proga",
     "name": "Heezen Fracture Zone",
     "name:en": "Heezen Fracture Zone",
     "name:hr": "Heezenova frakturna zona",
@@ -31078,6 +31211,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Herkulaneum",
     "name": "Herculaneum/Ercolano",
     "name:es": "Herculano",
     "name:fr": "Herculanum",
@@ -31646,6 +31780,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Hodaida;Hodeida",
     "name": "al-Ḥudaida",
     "name:de": "al-Hudaida",
     "name:es": "Al Hudayda",
@@ -31896,6 +32031,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Hormoška ožina",
     "name": "Tangeh ye Hormoz/Madīq Hurmuz",
     "name:de": "Straße von Hormus",
     "name:en": "Strait of Hormuz",
@@ -31942,6 +32078,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sajgon;Saigon",
     "name": "Thành phố Hồ Chí Minh/Sài Gòn",
     "name:de": "Ho-Chi-Minh-Stadt/Saigon",
     "name:en": "Ho Chi Minh City/Saigon",
@@ -32160,6 +32297,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Carpenterjev hrbet;Vzhodni indijskooceanski hrbet",
     "name": "Ninetyeast Ridge",
     "name:en": "Ninetyeast Ridge/East Indian Ridge",
     "name:fr": "Ride du 90° Est",
@@ -32788,6 +32926,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gumin",
     "name": "Gemona del Friuli/Glemone",
     "name:hr": "Gumin",
     "name:ru": "Džemona-del′-Friuli",
@@ -32989,6 +33128,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Psiloritis",
     "name": "Idi",
     "name:de": "Psiloritis-Massiv/Idagebirge",
     "name:en": "Mount Ida",
@@ -33032,6 +33172,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Edom",
     "name": "Edom/Idoumaía/Idumea/Udumi",
     "name:de": "Edom",
     "name:en": "Edom",
@@ -33098,6 +33239,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Elemijski trikotnik",
     "name": "Elemi Triangle",
     "name:de": "Ilemi-Dreieck/Elemi-Dreieck",
     "name:en": "Ilemi Triangle",
@@ -33242,6 +33384,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Prednja Indija",
     "name": "Indian subcontinent",
     "name:de": "Indischer Subkontinent",
     "name:en": "Indian subcontinent",
@@ -33349,6 +33492,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Indokina",
     "name": "Indochina/Indochine",
     "name:de": "Indochina",
     "name:en": "Indochina",
@@ -33502,6 +33646,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ingušetija",
     "name": "Respublika Ingušetija/Ğalğaj Moxk",
     "name:de": "Inguschetien/Inguschien",
     "name:en": "Republic of Ingushetia/Ingushetia",
@@ -33524,6 +33669,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Inšpruk",
     "name": "Innsbruck",
     "name:ru": "Insbruk",
     "name:sl": "Inomost",
@@ -33540,6 +33686,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Otoška Indija;Malajski arhipelag",
     "name": "Insulindia/Malay Archipelago",
     "name:de": "Insulindien/Insulinde",
     "name:en": "Malay Archipelago",
@@ -33584,6 +33731,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kandija",
     "name": "Iráklio",
     "name:de": "Iraklio",
     "name:en": "Heraklion/Iraklion",
@@ -33747,6 +33895,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Reykjaneška kotlina",
     "name": "Irminger Basin",
     "name:en": "Irminger Basin",
     "name:hr": "Irmingerova zavala",
@@ -34140,6 +34289,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Isos",
     "name": "Issos/Issus",
     "name:de": "Issos",
     "name:en": "Issus",
@@ -34545,6 +34695,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Samojedski polotok",
     "name": "poluostrov Jamal",
     "name:de": "Jamal-Halbinsel/Samojeden-Halbinsel",
     "name:en": "Yamal Peninsula ",
@@ -34833,6 +34984,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodno morje",
     "name": "Nihon-kai/Donghae/Japonskoe more",
     "name:de": "Japanische Meer ",
     "name:en": "Sea of Japan/East Sea",
@@ -34895,6 +35047,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodnokarolinski prag",
     "name": "Yap Ridge/West Caroline Ridge",
     "name:en": "Yap Ridge",
     "name:hr": "Yapski hrbat",
@@ -35031,6 +35184,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Udorina svete Ane",
     "name": "Saint Anna Trough",
     "name:en": "Saint Anna Trough",
     "name:hr": "Jarak svete Ane",
@@ -35320,6 +35474,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jeriha",
     "name": "Yériho/Arīhā",
     "name:de": "Jericho",
     "name:en": "Jericho",
@@ -35789,6 +35944,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "jezero Buenos Aires",
     "name": "Lago General Carrera/Lago Buenos Aires",
     "name:en": "General Carreara Lake/Buenos Aires Lake",
     "name:fr": "Lac Buenos Aires/Lac General Carrera",
@@ -35950,6 +36106,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jezero Leopolda II.",
     "name": "Lac Mai-Ndombe",
     "name:de": "Mai-Ndombe-See ",
     "name:en": "Lake Mai-Ndombe ",
@@ -36034,6 +36191,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Maracaibsko jezero",
     "name": "Lago de Maracaibo",
     "name:de": "Maracaibo-See",
     "name:en": "Lake Maracaibo",
@@ -36151,6 +36309,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "jezero Naroč",
     "name": "Vozera Narač",
     "name:de": "Naratsch",
     "name:en": "Lake Narach/Lake Naroch",
@@ -36314,6 +36473,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Leopoldovo jezero",
     "name": "Lake Rukwa",
     "name:de": "Rukwasee",
     "name:fr": "Lac Rukwa",
@@ -36696,6 +36856,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "dolina Jezreelska;Jezreelska dolina",
     "name": "Emek Yizre′el/Marj Ibn Amer",
     "name:de": "Jesreelebene",
     "name:en": "Jezreel Valley",
@@ -37007,6 +37168,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "planota Bauchi",
     "name": "Jos Plateau",
     "name:de": "Bauchiplateau/Josplateau",
     "name:es": "Meseta de Jos",
@@ -37129,6 +37291,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Tihooceansko-antarktična kotlina;Amundsenova kotlina;Bellingshausnova kotlina",
     "name": "Southeast Pacific Basin",
     "name:de": "Pazifisch-Antarktisches Becken",
     "name:en": "Southeast Pacific Basin/Amundsen Basin/Bellingshausen Basin",
@@ -37471,6 +37634,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jukonski teritorij",
     "name": "Yukon Flats",
     "name:hr": "Dolina Jukona",
     "name:sl": "Jukonsko nižavje",
@@ -37568,6 +37732,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Georgesova plitvina",
     "name": "Georges Bank",
     "name:en": "Georges Bank",
     "name:es": "Banco Georges",
@@ -37625,6 +37790,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južnoafriška republika",
     "name": "South Africa/Suid-Afrika",
     "name:de": "Südafrika",
     "name:es": "Sudáfrica",
@@ -37818,6 +37984,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južna Georgia",
     "name": "South Georgia",
     "name:de": "Südgeorgien",
     "name:es": "Georgia del Sur",
@@ -38050,6 +38217,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zgornje Poadižje",
     "name": "Trentino-Alto Adige/Trentino-Südtirol/Trentin-Südtirol",
     "name:es": "Trentino-Alto Adigio/Trentino-Tirol del Sur ",
     "name:fr": "Trentin-Haut-Adige/Trentin-Tyrol du Sud ",
@@ -38318,6 +38486,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Opoldanski prekop",
     "name": "Canal du Midi",
     "name:de": "Kanal des Südens",
     "name:es": "Canal del Mediodía ",
@@ -38499,6 +38668,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južni Pacifik",
     "name": "South Pacific Ocean",
     "name:de": "Südpazifik",
     "name:en": "South Pacific Ocean",
@@ -38522,6 +38692,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južno Trajanovo obzidje;Spodnji Trajanov zid",
     "name": "Zidul de Sus",
     "name:de": "Untere Trajanwall",
     "name:en": "Lower Trajan′s Wall",
@@ -38678,6 +38849,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južnoafriška zveza",
     "name": "Union of South Africa/Unie van Suid-Afrika",
     "name:de": "Südafrikanische Union ",
     "name:es": "Unión Sudafricana ",
@@ -38979,6 +39151,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južnotasmanski hrbet",
     "name": "South Tasman Rise",
     "name:en": "South Tasmania Rise/South Tasmania Ridge",
     "name:hr": "Južnotasmanijski prag",
@@ -39020,6 +39193,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Čogori",
     "name": "K2/Mount Godwin Austen/Qogir Feng/Qiáogēlǐ Fēng/Chogori/Dapsang/Lamba Pahar",
     "name:de": "K2",
     "name:en": "K2",
@@ -39462,6 +39636,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kajmanji otoki",
     "name": "Cayman Islands",
     "name:de": " Kaimaninseln ",
     "name:es": "Islas Caimán ",
@@ -39539,6 +39714,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Nimrud",
     "name": "kālḫū/Nimrud",
     "name:de": "Nimrud",
     "name:en": "Kalkhu/Nimrud",
@@ -39764,6 +39940,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Spodnja Kalifornija",
     "name": "Península de Baja California/Baja California",
     "name:de": "Niedercalifornien",
     "name:fr": "Basse-Californie ",
@@ -39784,6 +39961,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Cortezovo morje",
     "name": "Golfo de California",
     "name:de": "Golf von Kalifornien ",
     "name:en": "Gulf of California",
@@ -40099,6 +40277,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Omansko gorovje",
     "name": "Ǧabāl al-Ḥaǧar",
     "name:de": "Hadschar-Gebirge/Omangebirge ",
     "name:en": "Al Hajar Mountains ",
@@ -40119,6 +40298,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kampanja",
     "name": "Campania",
     "name:de": "Kampanien",
     "name:fr": "Campanie",
@@ -40138,6 +40318,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Neapeljski Apenin",
     "name": "Appennino Campano",
     "name:es": "Apeninos Campanos",
     "name:hr": "Kampanijski Apenin",
@@ -40239,6 +40420,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lavrencijska kotlina",
     "name": "Canada Basin",
     "name:de": "Kanadische Becken ",
     "name:en": "Canadian Basin/Laurentian Basin",
@@ -40277,6 +40459,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lavrencijski ščit",
     "name": "Canadian Shield",
     "name:de": "Kanadische Schild/Laurentischer Schild",
     "name:es": "Escudo Canadiense/Escudo Canádico ",
@@ -40480,6 +40663,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kančendzenga",
     "name": "Kanchanjaŋghā/Sewalungma",
     "name:de": "Kangchendzönga",
     "name:en": "Kangchenjunga",
@@ -40651,6 +40835,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ontongjavski prag",
     "name": "Kapingamarangi Rise",
     "name:en": "Kapingamarangi Rise",
     "name:hu": "Kapingamarangi-hát",
@@ -40668,6 +40853,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kapitolski grič",
     "name": "Campidoglio/Capitolino/Capitolium",
     "name:de": "Kapitol",
     "name:en": "Capitoline Hill",
@@ -40710,6 +40896,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kapčagajsko zajezitvenjo jezero",
     "name": "Qapshaghay Bögeni",
     "name:de": "Kaptschagai-Stausee ",
     "name:en": "Kapshagay Reservoir",
@@ -40852,6 +41039,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Karaginski",
     "name": "ostrov Karaginskij",
     "name:de": "Karaginski",
     "name:en": "Karaginsky Island",
@@ -41112,6 +41300,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kharga",
     "name": "al-Ḫāriǧa",
     "name:de": "Al-Charga",
     "name:en": "El-Kharga′",
@@ -41196,6 +41385,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodna Indija;Karibsko otočje",
     "name": "Carribean Islands/Îles Caraïbes/Islas Caribes",
     "name:de": "Westindischen Inseln/Westindien/Karibische Inseln/Karibik Inseln",
     "name:en": "Carribean Islands/West Indies",
@@ -41480,6 +41670,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Karnske Alpe",
     "name": "Alpi Carniche/Karnische Alpen",
     "name:en": "Carnic Alps",
     "name:es": "Alpes Cárnicos ",
@@ -41555,6 +41746,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Karolini",
     "name": "Caroline Islands",
     "name:de": "Karolinen",
     "name:es": "Islas Carolinas",
@@ -41640,6 +41832,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Karski preliv",
     "name": "proliv Karskie Vorota",
     "name:de": "Karastraße",
     "name:en": "Kara Strait",
@@ -41866,6 +42059,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kastalijski izvir",
     "name": "Kastalía",
     "name:de": "Kastalische Quelle ",
     "name:en": "Castalian Spring",
@@ -42417,6 +42611,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kefalenija",
     "name": "Kefaloniá",
     "name:de": "Kefalonia",
     "name:en": "Kefalonia/Cephalonia",
@@ -42477,6 +42672,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Keltski šelf",
     "name": "Celtic Shelf",
     "name:en": "Celtic Shelf",
     "name:hr": "Keltski šelf",
@@ -43102,6 +43298,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Arkadijski zaliv",
     "name": "Kiparissiakós kólpos",
     "name:de": "Arcadia Bucht",
     "name:en": "Arcadia Bay",
@@ -43121,6 +43318,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kirene",
     "name": "Kyrene/Cyrene/Shahhāt",
     "name:de": "Kyrene",
     "name:en": "Cyrene",
@@ -43200,6 +43398,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kirgizija",
     "name": "Kyrgysstan",
     "name:de": "Kirgisistan",
     "name:en": "Kyrgyzstan",
@@ -43246,6 +43445,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kišinjov",
     "name": "Chişinău",
     "name:de": "Kischinau",
     "name:es": "Chisinau",
@@ -43332,6 +43532,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Veliko kitajsko nižavje",
     "name": "Huáběi Píngyuán/Chángjiāng Zhòngxiàyóu Píngyuán",
     "name:de": "Nordchinesische Ebene/Nordchinesische Tiefland",
     "name:en": "North China Plain ",
@@ -43788,6 +43989,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Keelingovi otoki",
     "name": "Cocos Islands/Keeling Islands",
     "name:de": "Kokosinseln/Keelinginseln ",
     "name:es": "Islas Cocos/Islas Keeling",
@@ -44186,6 +44388,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Komandorska kotlina;Kamčatska kotlina",
     "name": "Komandor Basin/Kamchatka Basin",
     "name:en": "Komador Basin/Kamchatka Basin",
     "name:hr": "Komandorska zavala",
@@ -44204,6 +44407,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Komandorski otoki",
     "name": "Komandorskie ostrova",
     "name:de": "Kommandeurinseln/Komandorski-Inseln ",
     "name:en": "Commander Islands/Komandorsky Islands",
@@ -44689,6 +44893,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kermanšah",
     "name": "Khorramshahr",
     "name:de": "Chorramschahr ",
     "name:es": "Jorramchar",
@@ -44769,6 +44974,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mendelejevov hrbet",
     "name": "Alpha Cordillera",
     "name:en": "Alpha Cordillera/Alpha Ridge",
     "name:hr": "Kordiljera Alfa",
@@ -44958,6 +45164,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodnokorejski zaliv",
     "name": "Sŏjosŏn Man/Cháoxiǎn Wān",
     "name:de": "Korea Bucht(Koreanische Bucht",
     "name:en": "Korea Bay/West Korea Bay",
@@ -45485,6 +45692,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kozmonavtovo morje",
     "name": "More Kozmonavta",
     "name:en": "Cosmonaut Sea",
     "name:ru": "More Kozmonavta",
@@ -45520,6 +45728,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Krakatav",
     "name": "Pulau Rakata/Krakatau",
     "name:en": "Krakatoa",
     "name:es": "Volcán Krakatoa",
@@ -45674,6 +45883,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Moskovski kremelj",
     "name": "Kreml′",
     "name:de": "Moscauer Kreml",
     "name:en": "Moscow Kremlin/The Kremlin",
@@ -45820,6 +46030,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Krimski polotok",
     "name": "Krims′kyy pivostriv/Qırım yarımadası",
     "name:de": "Krim",
     "name:en": "Crimea",
@@ -45843,6 +46054,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jajla",
     "name": "Krymski Hory/Qırım dağları",
     "name:de": "Krimgebirge",
     "name:en": "Crimean Mountains ",
@@ -46049,6 +46261,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Arsinoa",
     "name": "Krokodeílópolis",
     "name:en": "Crocodilopolis/Krokodilopolis ",
     "name:es": "Cocodrilópolis",
@@ -46606,6 +46819,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Prelom Kurčatova",
     "name": "Kurchatov Fracture Zone",
     "name:en": "Kurchatov Fracture Zone",
     "name:hr": "Kurčatova frakturna zona",
@@ -46646,6 +46860,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kurilski otoki;Čišima",
     "name": "Kuril′skie ostrova/Chishima-rettō",
     "name:de": "Kurilen",
     "name:en": "Kuril Islands/Kurile Islands",
@@ -46768,6 +46983,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kurlandski zaliv",
     "name": "Kurskij zaliv/Kuršių marios",
     "name:de": "Kurische Haff ",
     "name:en": "Curonian Lagoon/Curonian Bay ",
@@ -47017,6 +47233,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kuzbas",
     "name": "Kuzneckij bassejn",
     "name:de": "Kusnezker Becken/Kusbass",
     "name:en": "Kuznetsk Basin/Kuzbass",
@@ -47056,6 +47273,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kvarner",
     "name": "Kvarnerski zaljev",
     "name:de": "Kvarner-Bucht",
     "name:en": "Kvarner Gulf",
@@ -47162,6 +47380,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Swanovi otoki",
     "name": "Islas Santanilla/Islas del Cisne ",
     "name:de": "Islas del Cisne ",
     "name:en": "Swan Islands",
@@ -47416,6 +47635,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "otočje Tuvalu",
     "name": "Tuvalu Islands/Lagoon Islands",
     "name:de": "Tuvalu-Inseln",
     "name:es": "Islas Tuvalu",
@@ -47438,6 +47658,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lakadivsko otočje",
     "name": "Laccadive Islands",
     "name:de": "Lakkadiven",
     "name:es": "Laquedivas ",
@@ -47899,6 +48120,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Iberoamerika",
     "name": "Latin America/Amérique Latine/America Latina",
     "name:de": "Lateinamerika",
     "name:en": "Latin America",
@@ -48079,6 +48301,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ledena polica lady Newnes",
     "name": "Lady Newnes Ice Shelf",
     "name:en": "Lady Newness Ice Shelf",
     "name:hu": "Lady Newnes-jég",
@@ -48296,6 +48519,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Obala kralja Leopolda in kraljice Astrid;Obala Leopolda in Astrid",
     "name": "King Leopold and Queen Astrid Coast",
     "name:en": "King Leopold and Queen Astrid Coast/Leopold and Astrid Coast",
     "name:hr": "Obala kralja Leopolda i kraljice Astrid",
@@ -48435,6 +48659,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodnosredozemska kotlina",
     "name": "East Mediterranean Basin",
     "name:en": "East Mediterranean Basin",
     "name:hr": "Istočnosredozemna zavala",
@@ -48494,6 +48719,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lefkas",
     "name": "Lefkáda",
     "name:en": "ni/Leucas",
     "name:es": "Isla de Léucade/Isla Leucas/Isla Lefkada",
@@ -48516,6 +48742,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lefktra",
     "name": "Leúktra",
     "name:de": "Leuktra",
     "name:en": "Leuctra",
@@ -48649,6 +48876,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Libijski ravnik",
     "name": "Aḑ Ḑiffah",
     "name:en": "Libyan Plateau",
     "name:hr": "Libijska visoravan",
@@ -48666,6 +48894,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodna puščava",
     "name": "Aş Şaḥrā al-Lībīyah/Aş Şahrā al-Gharbīyah",
     "name:de": "Libysche Wüste",
     "name:en": "Libyan Desert",
@@ -48999,6 +49228,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vetrni otoki;Eolski otoki",
     "name": "Isole Eolie/Isole Lipari",
     "name:de": "Liparische Inseln/Äolischen Inseln",
     "name:en": "Aeolian Islands/Eolie Islands/Lipari Islands ",
@@ -49133,6 +49363,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lajta",
     "name": "Leitha",
     "name:es": "Leita",
     "name:hr": "Litava",
@@ -49543,6 +49774,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Balijski jarek",
     "name": "Lombok Basin",
     "name:de": "Lombock-Beckens",
     "name:en": "Lombock Basin",
@@ -49810,6 +50042,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Louisiadino otočje",
     "name": "Louisiade Archipelago",
     "name:de": "Louisiade-Archipel ",
     "name:es": "Archipiélago de las Luisiadas",
@@ -50146,6 +50379,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lüneburška pušča",
     "name": "Lüneburger Heide",
     "name:en": "Lüneburg Heath/Lunenburg Heath ",
     "name:es": "Brezal de Luneburgo/Landa de Luneburgo ",
@@ -50386,6 +50620,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Macclefieldska plitvina",
     "name": "Zhōng​shā ​qún​dǎo/Macclesfield Bank",
     "name:en": "Macclesfield Bank",
     "name:hr": "Macclesfieldova pličina",
@@ -51077,6 +51312,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Makao",
     "name": "Macau/Àomén",
     "name:de": "Macao",
     "name:es": "Macao",
@@ -51307,6 +51543,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodna Antarktika",
     "name": "Lesser Antarctica/West Antarktika",
     "name:de": "Westantarktis",
     "name:en": "Lesser Antarctica/West Antarktika",
@@ -51455,6 +51692,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Oltenija",
     "name": "Oltenia/Wallachia Minor/Wallachia Alutana/Wallachia Caesarea",
     "name:de": "Kleine Walachei/Oltenien",
     "name:en": "ni/Lesser Wallachia",
@@ -51478,6 +51716,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Obala popra",
     "name": "Malabar Coast",
     "name:de": "Malabarküste/Pfefferküste",
     "name:en": "Malabar Coast",
@@ -51597,6 +51836,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Njaško jezero",
     "name": "Lake Malawi/Lake Nyasa/Lago Niassa",
     "name:de": "Malawisee/Nyasasee",
     "name:en": "Lake Malawi/Lake Nyasa",
@@ -52492,6 +52732,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "jezero Mensaleh",
     "name": "Buhayrat al-Manzilah",
     "name:en": "Lake Manzala/Lake Manzaleh",
     "name:fr": "Lac Menzaleh",
@@ -52677,6 +52918,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Marianski jarek",
     "name": "Mariana Trench",
     "name:de": "Marianengraben",
     "name:en": "Mariana Trench",
@@ -52700,6 +52942,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mariani;Ladroni",
     "name": "Mariana Islands",
     "name:de": "Marianen",
     "name:es": "Islas Marianas/Las Mariana/Islas de los Ladrones",
@@ -52782,6 +53025,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Markizini otoki",
     "name": "Îles Marquises/Te Fenua `Enata",
     "name:de": "Marquesas-Inseln ",
     "name:en": "Marquesas Islands",
@@ -53233,6 +53477,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Maskarenski hrbet",
     "name": "Mascarene Plateau/Mascarene Ridge",
     "name:de": "Maskarenen-Plateau",
     "name:en": "Mascarene Plateau/Mascarene Ridge",
@@ -53420,6 +53665,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mavricius",
     "name": "Mauritius Trench",
     "name:en": "Mauritius Trench",
     "name:hr": "Mauricijski jarak",
@@ -53707,6 +53953,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mecklenburško",
     "name": "Mecklenburg",
     "name:es": "Mecklemburgo",
     "name:fr": "Mecklembourg",
@@ -53851,6 +54098,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Medžimurje",
     "name": "Međimurje",
     "name:de": "Muraköz ",
     "name:hu": "Muraköz ",
@@ -54079,6 +54327,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mehiško višavje;Mehiška visoka planota",
     "name": "Altiplanicie Mexicana/Altiplano Mexicano/Mesa Central de México",
     "name:de": "Mexikanische Plateau/Plateau von Mexiko",
     "name:en": "Central Mexican Plateau/Mexican Altiplano ",
@@ -54862,6 +55111,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mesinska ožina",
     "name": "Stretto di Messina",
     "name:de": "Straße von Messina ",
     "name:en": "Strait of Messina",
@@ -55075,6 +55325,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Argentinsko medrečje",
     "name": "La Mesopotamia/Región Mesopotámica/Litoral argentino",
     "name:de": "Mesopotamien",
     "name:en": "Mesopotamia",
@@ -55200,6 +55451,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Združene države Mikronezije",
     "name": "Federated States of Micronesia",
     "name:de": "Föderierten Staaten von Mikronesien ",
     "name:en": "Federated States of Micronesia ",
@@ -55340,6 +55592,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Miljsko jezero",
     "name": "Millstätter See",
     "name:fr": "Lac Millstätter ",
     "name:hr": "Millstatsko jezero",
@@ -55462,6 +55715,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "jezero Miraflores",
     "name": "Lago de Miraflores",
     "name:en": "Miraflores Lake",
     "name:sl": "Mirafloreško jezero",
@@ -55499,6 +55753,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mirtojsko morje",
     "name": "Myrtöo pélagos",
     "name:de": "Myrtoische Meer",
     "name:en": "Myrtoan Sea/Mirtoan Sea ",
@@ -55594,6 +55849,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Misurata",
     "name": "Miṣurāta/Mişrātah",
     "name:de": "Misrata",
     "name:en": "Misurata",
@@ -55675,6 +55931,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Miškolc",
     "name": "Miskolc",
     "name:de": "Mischkolz",
     "name:hr": "Miškovac",
@@ -55923,6 +56180,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Burma",
     "name": "Myanmar",
     "name:de": "Myanmar/Birma/Burma",
     "name:en": "Burma/Union of Myanmar",
@@ -55981,6 +56239,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jangce;Jangcekjang",
     "name": "Cháng Jiāng",
     "name:de": "Jangtsekiang",
     "name:en": "Yangtze River",
@@ -56315,6 +56574,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Dišavni otoki",
     "name": "Kepulauan Maluku",
     "name:de": "Molukken",
     "name:en": "Mollucas/Maluku Islands/Moluccan Islands/Spice Islands",
@@ -56401,6 +56661,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mnihov",
     "name": "München",
     "name:en": "Munich",
     "name:es": "Múnich",
@@ -56711,6 +56972,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Nordenskjöldovo morje",
     "name": "more Laptevyh",
     "name:de": "Laptewsee",
     "name:en": "Laotev Sea",
@@ -56842,6 +57104,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Obala Moskitov",
     "name": "Costa de los Mosquitos",
     "name:de": "Miskitoküste",
     "name:en": "Mosquito Coast/Miskito Coast",
@@ -56923,6 +57186,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mosbas",
     "name": "Moskovskij ugol′nyj bassejn/Mosbass",
     "name:en": "Moscow Brown Coal Basin",
     "name:hr": "Moskovski bazen",
@@ -57017,6 +57281,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Čomolungma;Sagarmata",
     "name": "Qomolangma/Sagarmāthā/Zhūmùlǎngmǎ Fēng/Shèngmǔ Fēng/Chomolungma",
     "name:de": "Mount Everest/Sagarmatha/Chomolungma ",
     "name:en": "Mount Everest/Mount Chomolungma",
@@ -57383,6 +57648,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Bombaj",
     "name": "Mumbaī",
     "name:de": "Mumbai",
     "name:en": "Mumbai",
@@ -57423,6 +57689,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "slapovi Kabalega",
     "name": "Murchison Falls/Kabalega Falls/Kabarega Falls",
     "name:es": "Cascadas Murchison/Cascadas Kabalega",
     "name:hr": "Murchisonovi slapovi",
@@ -57902,6 +58169,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kjušujski jarek",
     "name": "Nankai Trough",
     "name:en": "Nankai Trough",
     "name:hr": "Nankajski jarak",
@@ -57944,6 +58212,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Nansenova kordiljera;Gakkelov hrbet",
     "name": "Gakkel Ridge/Nansen Ridge/Cordillera Nansen",
     "name:en": "Nansen Ridge/Cordillera Nansen/Cordillera Nansen/Ermak Plateau",
     "name:hr": "Nansenov hrbat",
@@ -58400,6 +58669,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Tjanšan",
     "name": "Tjan′-Šan′/Tiān Shān/Tengri Tagh/Tenger uul",
     "name:de": "Tian Shan",
     "name:en": "Tian Shan",
@@ -58550,6 +58820,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodna Nemčija;Demokratična republika Nemčija",
     "name": "Deutsche Demokratische Republik",
     "name:en": "East Germany/German Democratic Republic ",
     "name:es": "Alemania Orienta/Alemania del Este/República Democrática Alemana ",
@@ -58752,6 +59023,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Na Žlebeh;Nevejski preval",
     "name": "Sella Nevea/In Nevee",
     "name:de": "Neveasattel",
     "name:hr": "Prijevoj Nevea",
@@ -59087,6 +59359,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Nikaja",
     "name": "Níkaia/Nicaea",
     "name:de": "Nicäa/Nikäa/Nizäa",
     "name:en": "Nicaea",
@@ -59552,6 +59825,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Spodnjekamsko zajezitveno jezero",
     "name": "Nižnekamskoe vodohraniliše",
     "name:de": "Nischnekamsker Stausee ",
     "name:en": "Lower Kama Reservoir/Nizhnekamsk Reservoir ",
@@ -59672,6 +59946,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Severni rt",
     "name": "Nordkapp/Nordkapplatået/Davvenjárga",
     "name:de": "Nordkap",
     "name:en": "North Cape",
@@ -60099,6 +60374,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Nova zemlja",
     "name": "Novaja zemlja",
     "name:de": "Nowaja Semlja",
     "name:en": "Novaya Zemlya",
@@ -60760,6 +61036,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Norfolški jarek",
     "name": "New Caledonia Basin",
     "name:en": "New Caledonia Basin/Norfolk Island Trough",
     "name:fr": "Bassin de la Nouvelle-Calédonie",
@@ -60963,6 +61240,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Oatesova dežela",
     "name": "Oates Coast/Oates Land",
     "name:en": "Oates Coast/Oates Land",
     "name:es": "Tierra de Oates",
@@ -61271,6 +61549,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Dežela Jurija V.",
     "name": "George V Coast",
     "name:en": "George V Land/Côte de George V",
     "name:es": "Tierra de Jorge V/Tierra de George V",
@@ -61311,6 +61590,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zemlja kraljice Marije",
     "name": "Queen Mary Coast",
     "name:en": "Queen Mary Coast",
     "name:es": "Tierra de la Reina Mary",
@@ -61594,6 +61874,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Obrežno gorovje",
     "name": "Coast Ranges",
     "name:de": "Kalifornische Küstengebirge ",
     "name:hr": "Primorsko gorje",
@@ -61753,6 +62034,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Tihooceanski otoki",
     "name": "Oceania/Océanie",
     "name:de": "Ozeanien",
     "name:en": "Oceania",
@@ -61814,6 +62096,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Adrianopel;Drenopolje",
     "name": "Edirne",
     "name:es": "ni/Adrianópolis/Hadrianopolis",
     "name:hr": "Drinopolje",
@@ -61874,6 +62157,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Akvileja",
     "name": "Aquileia",
     "name:fr": "Aquilée",
     "name:hr": "Akvileja",
@@ -61892,6 +62176,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ognjena dežela",
     "name": "Tierra del Fuego",
     "name:de": "Feuerland",
     "name:fr": "Terre de Feu",
@@ -62059,6 +62344,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Okavangovo močvirje",
     "name": "Okavango Delta/Okavango Swamp",
     "name:de": "Okavangodelta",
     "name:es": "Delta del Okavango ",
@@ -62097,6 +62383,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodni svet;Zahod",
     "name": "Occident",
     "name:de": "Westliche Welt/Westen ",
     "name:es": "Occidente",
@@ -62204,6 +62491,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Oldovajska soteska",
     "name": "Olduvai Gorge",
     "name:de": "Olduvai-Schlucht ",
     "name:en": "Olduvai Gorge",
@@ -62895,6 +63183,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Bergamske Alpe;Bergamaške Alpe",
     "name": "Alpi Orobie",
     "name:de": "Bergamasker Alpen ",
     "name:en": "Bergamo Alps ",
@@ -63041,6 +63330,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "gora Osbourn",
     "name": "Osborn Seamount",
     "name:en": "Osborn Seamount",
     "name:hr": "Osbornova planina",
@@ -63142,6 +63432,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Centralna Azija;Notranja Azija",
     "name": "Central Asia/Asie centrale/Central′naja Azija",
     "name:de": "Zentralasie/Mittelasien ",
     "name:en": "Central Asia/Middle Asia/Inner Asia",
@@ -63614,6 +63905,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "otočje Truk",
     "name": "Chuuk Islands",
     "name:de": "Chuuk Inseln",
     "name:es": "Chuuk Inseln",
@@ -63742,6 +64034,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "otoška veriga Ralik",
     "name": "Ralik Chain/Ralik Islands",
     "name:de": "Ralik-Kette ",
     "name:fr": " Îles Ralik ",
@@ -63762,6 +64055,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "otoška veriga Ratak",
     "name": "Ratak Chain/Ratak Islands",
     "name:de": "Ratak-Kette ",
     "name:fr": " Îles Ratak ",
@@ -63863,6 +64157,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Prijateljski otoki",
     "name": "Tonga Islands",
     "name:de": "Tonga-Inseln/Freundschaftsinseln",
     "name:en": "0/Friendly Islands",
@@ -63886,6 +64181,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Nizki otoki",
     "name": "Îles Tuamotu/Archipel des Tuamotu/Paumotu",
     "name:de": "Tuamotu-Archipel ",
     "name:en": "Tuamotus/Tuamotu Archipelago ",
@@ -64276,6 +64572,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "otok Parece Vela",
     "name": "Okinotorishima",
     "name:en": "Okinotori Islands",
     "name:fr": "Île Oki-no-tori ",
@@ -64748,6 +65045,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "otoki Ogasawara",
     "name": "Ogasawara-guntō/Ogasawara-shotō",
     "name:de": "Bonininseln",
     "name:en": "Bonin Islands/Ogasawara Group ",
@@ -64813,6 +65111,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Nesrečni otoki",
     "name": "Islas Desventuradas",
     "name:de": "Desventuradas-Inseln ",
     "name:en": "Desventuradas Islands",
@@ -64833,6 +65132,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Otoki slave",
     "name": "Îles Glorieuses/Archipel des Glorieuses",
     "name:en": "Glorieuses/Glorioso Islands ",
     "name:es": "Islas Gloriosas/Glorioso ",
@@ -65310,6 +65610,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Osmansko cesarstvo",
     "name": "Yüce Osmanlı Devleti/Osmanlı İmparatorluğu",
     "name:de": "Osmanisches Reich/Ottomanisches/Türkisches Reich",
     "name:en": "Ottoman Empire/Osmanic Empire/Osmanian Empire/Ottoman State  ",
@@ -65649,6 +65950,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Preliv Jurija VI.",
     "name": "George VI Sound",
     "name:en": "George VI Sound/King George VI Sound",
     "name:es": "Canal Presidente Sarmiento ",
@@ -65704,6 +66006,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Padska nižina",
     "name": "Pianura Padana/Val Padana",
     "name:de": "Poebene",
     "name:en": "Po Valley/Po Plain/Plain of the Po/Padan Plain ",
@@ -66022,6 +66325,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sveta dežela",
     "name": "Filasṭīn/Eretz-Yisra′el/Palaestina/Palaistinē",
     "name:de": "Palästina",
     "name:en": "Palestine",
@@ -66468,6 +66772,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Panonska nižina",
     "name": "Panonnian Plain",
     "name:de": "Pannonische Tiefebene/Pannonisches Becken/Karpatenbecken",
     "name:en": "Pannonian Plain",
@@ -66511,6 +66816,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Džimujeva gora",
     "name": "Papanin Seamount",
     "name:en": "Papanin Seamount/JimmuSeamount",
     "name:hr": "Papaninova planina",
@@ -66529,6 +66835,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Papua Nova Gvineja",
     "name": "Papua New Guinea/Papua Niugini",
     "name:de": "Papua-Neuguinea ",
     "name:es": "Papúa Nueva Guinea",
@@ -66847,6 +67154,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Pastirica",
     "name": "Pasterze",
     "name:ru": "Pasterce",
     "name:sl": "Pasterca",
@@ -67345,6 +67653,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vališke Alpe",
     "name": "Alpi Pennine/Alpes Pennines/Walliser Alpen",
     "name:de": "0/Penninische Alpen",
     "name:en": "Pennine Alps/Valais Alps",
@@ -67495,6 +67804,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Pergam",
     "name": "Pérgamon/Pergamum",
     "name:de": "Pergamon",
     "name:en": "Pergamon/Pergamum",
@@ -67633,6 +67943,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodna tihooceanska kotlina",
     "name": "Peru Basin",
     "name:de": "Peruanisches Becken",
     "name:en": "Peru Basin",
@@ -67744,6 +68055,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Arabski zaliv;Zaliv",
     "name": "Khalīj-e Fārs/al-ḫalīǧ al-ʻarabi",
     "name:de": "Persische Golf/Arabischer Golf/Arabischer Golf ",
     "name:en": "Persian Gulf",
@@ -68079,6 +68391,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Navarin",
     "name": "Pylos",
     "name:es": "Pilos",
     "name:hr": "Pilos",
@@ -68099,6 +68412,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Pindos",
     "name": "Píndos",
     "name:de": "Pindos",
     "name:en": "Pindus/Pindos",
@@ -68178,6 +68492,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gusarska obala",
     "name": "Baynūnah",
     "name:de": "Piratenküste",
     "name:en": "Pirate Coast",
@@ -68243,6 +68558,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Iberski polotok",
     "name": "Península ibérica/Península Ibérica ",
     "name:de": "Iberische Halbinsel/Pyrenäenhalbinsel ",
     "name:en": "Iberian Peninsula ",
@@ -69199,6 +69515,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "plošča Juan de Fuca",
     "name": "Juan de Fuca Plate",
     "name:de": "Juan-de-Fuca-Platte ",
     "name:en": "Juan de Fuca Plate",
@@ -69498,6 +69815,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Črna Afrika",
     "name": "Sub-Saharan Africa/Afrique subsaharienne",
     "name:de": "Subsahara-Afrika/Subsaharisches Afrika/Afrika südlich der Sahara/Schwarzafrika",
     "name:en": "Sub-Saharan Africa/Black Africa",
@@ -69521,6 +69839,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Pogodbena obala",
     "name": "Trucial States/Trucial Coast",
     "name:de": "Seeräuberküste/Piratenküste ",
     "name:en": "Trucial States/Trucial Oman/Trucial Coast/Trucial Sheikhdoms",
@@ -69929,6 +70248,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ribiški polotok",
     "name": "poluostrov Rybačij",
     "name:de": "Fischerhalbinsel",
     "name:en": "Rybachy Peninsula",
@@ -70327,6 +70647,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Porenje-Pfalško",
     "name": "Rheinland-Pfalz",
     "name:en": "Rhineland-Palatinate ",
     "name:es": "Renania-Palatinado ",
@@ -70349,6 +70670,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Port Artur",
     "name": "Lǚshùnkǒu",
     "name:de": "Port Arthur",
     "name:en": "Port Arthur",
@@ -70804,6 +71126,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Predarlsko",
     "name": "Vorarlberg",
     "name:ru": "Forarl′berg",
     "name:sl": "Predarlska",
@@ -70820,6 +71143,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ciskavkazija",
     "name": "Predkavkaz′e/Ciscaucasia",
     "name:de": "Kaukasusvorland/Vorkaukasus",
     "name:en": "Ciscaucasia/Ciscaucasus/Fore-Caucasus",
@@ -70978,6 +71302,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Radžastanski prekop",
     "name": "Indira Gandhi Canal/Rajasthan Canal",
     "name:hr": "Kanal Indira Gandhi/Rajasthanski kanal",
     "name:sl": "Prekop Indire Gandhi",
@@ -71462,6 +71787,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Preliv svetega Vincenca",
     "name": "Saint Vincent Passage",
     "name:hr": "Prolaz svetog Vincenta",
     "name:hu": "St. Vincent-átjáró",
@@ -71515,6 +71841,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Prelom med petnajsto in dvajseto stopinjo",
     "name": "Barracuda Fracture Zone/Fifteen Twenty Fracture Zone",
     "name:en": "Barracuda Fracture Zone/Fifteen Twenty Fracture Zone",
     "name:sl": "prelom Barakuda",
@@ -71859,6 +72186,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Prelom svetega Andreja",
     "name": "San Andreas Fault",
     "name:de": "San-Andreas-Verwerfung",
     "name:es": "Falla de San Andrés ",
@@ -72057,6 +72385,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kaspijska depresija",
     "name": "Prikaspijskaja nizmennost′/Kaspīy Mangy Oypaty",
     "name:en": "Caspian Lowland/Caspian Depression",
     "name:es": "Depressione caspica",
@@ -72186,6 +72515,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Pripjatsko močvirje",
     "name": "Pripjatskie bolota/Pinskie bolota",
     "name:de": "Rokitnosümpfe/Pripjatsümpfe/Pinskische Sümpfe/Polesische-Sümpfe",
     "name:en": "Pinsk Marshes/Pripyat Marshes/Pripet Marshes",
@@ -72295,6 +72625,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Privetrni otoki",
     "name": "Îles du Vent",
     "name:en": "Windward Islands ",
     "name:es": "Islas de Barlovento",
@@ -72489,6 +72820,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ptolomeja",
     "name": "Ptolemais",
     "name:en": "Ptolemais Hermiou ",
     "name:fr": "Ptolémaïs",
@@ -72507,6 +72839,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ptolomeja",
     "name": "Ptolemais/‘Akkô",
     "name:es": "Ptolemaïs",
     "name:fr": "Ptolémaïs",
@@ -72526,6 +72859,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ptolomeja",
     "name": "Ptolemais/Tolmeta/Āthār Ţulmaythah",
     "name:en": "Ptolemaida",
     "name:es": "Ptolemaida",
@@ -72870,6 +73204,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Rosetta",
     "name": "Rašīd",
     "name:de": "Rosette/Rosetta",
     "name:en": "Rosetta",
@@ -72988,6 +73323,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodnoavstralski hrbet",
     "name": "Broken Ridge",
     "name:en": "Broken Ridge/West Australian Ridge",
     "name:hr": "Zapadnoaustralski hrbat",
@@ -73212,6 +73548,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Reklanska dolina",
     "name": "Val Raccolana/Cjanâl di Racolane",
     "name:de": "Raccolanatal",
     "name:sl": "Reklanica",
@@ -73503,6 +73840,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Republika Mordovija",
     "name": "Mordovskaja respublika/Mordovija Respublikasy",
     "name:de": "Republik Mordwinien ",
     "name:en": "Republic of Mordovia",
@@ -73525,6 +73863,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Jakutija",
     "name": "Respublika Saha/Respublika Jakutija/Saha Respublikata",
     "name:de": "Republik Sacha/Jakutuen",
     "name:en": "Sakha Republic/Yakutia",
@@ -73645,6 +73984,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Recija",
     "name": "Raetia/Rhaetia",
     "name:de": "ni/Rätien/Rhätia",
     "name:es": "Recia",
@@ -74035,6 +74375,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Rimski imperij",
     "name": "Imperium Romanum",
     "name:de": "Römisches Reich",
     "name:en": "Roman Empire",
@@ -74074,6 +74415,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Riograndska planota",
     "name": "Rio Grande Rise",
     "name:de": "Rio-Grande-Schwelle",
     "name:en": "Rio Grande Rise/Rio Grande Plateau",
@@ -74489,6 +74831,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Rokav",
     "name": "English Channel/La Manche",
     "name:de": "Ärmelkanal ",
     "name:en": "0/Channel",
@@ -74511,6 +74854,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Francoska Švica",
     "name": "Romandie",
     "name:de": "Französische Schweiz/Welschland/Welschschweiz/Westschweiz",
     "name:en": "Romandy",
@@ -74651,6 +74995,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ledena polica Edith Ronne",
     "name": "Ronne Ice Shelf",
     "name:de": "Ronne-Schelfeis ",
     "name:en": "Ronne Ice Shelf",
@@ -74819,6 +75164,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Rostov na Donu",
     "name": "Rostov-na-Donu",
     "name:de": "Rostow am Don ",
     "name:en": "Rostov-on-Don ",
@@ -74862,6 +75208,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Rowleyjev šelf",
     "name": "Rowley Shelf",
     "name:en": "Rowley Shelf",
     "name:hr": "Rowleyev šelf",
@@ -76293,6 +76640,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "rt Tenaron",
     "name": "Akrotírio Ténaro",
     "name:de": "Kap Tenaro/Kap Matapan",
     "name:en": "Cape Tainaron/Cape Matapan",
@@ -77658,6 +78006,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Daljni vzhod",
     "name": "Dal′nij Vostok Rossii",
     "name:de": "Fernen Osten",
     "name:en": "Russian Far East",
@@ -77701,6 +78050,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodnoevropsko nižavje",
     "name": "Russkaja ravnina/Vostočno-Evropejskaja ravnina",
     "name:de": "Osteuropäische Ebene ",
     "name:en": "East European Plain/Russian Plain",
@@ -78032,6 +78382,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sahulski šelf",
     "name": "Sahul Shelf",
     "name:en": "Sahul Shelf",
     "name:es": "Plataforma continental Sahul",
@@ -78168,6 +78519,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "zajezitveno jezero Sakakawea",
     "name": "Lake Sakakawea",
     "name:es": "Lago Sakakawea ",
     "name:fr": "Lac Sakakawea ",
@@ -78491,6 +78843,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Solnograško",
     "name": "Salzburg",
     "name:en": "Salzburgerland/ni",
     "name:es": "Estado de Salzburgo",
@@ -78864,6 +79217,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Tera",
     "name": "Thíra/Santorini",
     "name:de": "Santorin",
     "name:en": "Santorin/Santorini",
@@ -79128,6 +79482,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Eginski zaliv",
     "name": "Saronikós kólpos",
     "name:de": "Saronische Golf ",
     "name:en": "Saronic Gulf/Gulf of Aegina",
@@ -79497,6 +79852,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "puščava Sechura",
     "name": "Desierto de Sechura",
     "name:en": "Sechura Desert ",
     "name:hr": "Pustinja Sechura",
@@ -79559,6 +79915,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sejšelsko otočje",
     "name": "Seychelles Islands/Seychelles Archipelago",
     "name:de": "Seychellen Inseln",
     "name:en": "Seychelles Islands/Seychelles Archipelago",
@@ -80610,6 +80967,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Evbejski zaliv",
     "name": "Vórios Evvoïkos kólpos",
     "name:en": "North Euboean Gulf",
     "name:hr": "Sjeverni Eubejski zaljev",
@@ -80716,6 +81074,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Minč",
     "name": "The North Minch/The Minch/An Cuan Sgìth",
     "name:es": "El Minch Norte/El Minch",
     "name:hr": "Sjeverni Minč",
@@ -80868,6 +81227,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Magnezijski otoki",
     "name": "Voríoi Sporádes",
     "name:de": "Nördlichen Sporaden",
     "name:en": "Northern Sporadhes",
@@ -80913,6 +81273,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Severni Pacifik",
     "name": "North Pacific Ocean",
     "name:de": "Nordpazific",
     "name:en": "North Pacific Ocean",
@@ -80935,6 +81296,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Severno Trajanovo obzidje",
     "name": "Valul lui Traian ",
     "name:de": "Obere Trajanwal",
     "name:en": "Upper Trajan′s Wall/Greuthungi Wall ",
@@ -81122,6 +81484,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Prokletije",
     "name": "Bjeshkët e Nemuna/Prokletije",
     "name:de": "Nordalbanische Alpen",
     "name:en": "North Albanian Alps/Prokletije",
@@ -81775,6 +82138,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Shetlandi",
     "name": "Shetland Islands/Sealtainn",
     "name:de": "Shetland-Inseln",
     "name:es": "Islas Shetland",
@@ -82139,6 +82503,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "globel Sigsbee",
     "name": "Sigsbee Deep",
     "name:de": "Sigsbee tief",
     "name:en": "Sigsbee Deep",
@@ -82419,6 +82784,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sinaj",
     "name": "Sīnā′/Shibh Jazīrat Sīnā′",
     "name:de": "Sinai-Halbinsel ",
     "name:en": "Sinai Peninsula/Sinai ",
@@ -82509,6 +82875,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Svetogorski zaliv",
     "name": "Singitikós kólpos",
     "name:de": "Singitischer Golf",
     "name:en": "Singitic Gulf/Gulf of Sighitikos/Gulf of Hagion Oros",
@@ -82782,6 +83149,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sirtska puščava",
     "name": "as-Sidrah/Şahrā′ Surt",
     "name:en": "Sirtica",
     "name:hr": "Sirtika",
@@ -82879,6 +83247,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Skadar",
     "name": "Shkodra/Shkodër",
     "name:hr": "Skadar",
     "name:it": "Scutari",
@@ -82897,6 +83266,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Skadarsko jezero",
     "name": "Skadarsko jezero/Liqen i Shkodrës",
     "name:de": "Skutarisee",
     "name:en": "Lake Skadar/Lake Scutari/Lake Shkodër",
@@ -82941,6 +83311,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mali Meander",
     "name": "Skamandros/Xanthos/Küçük Menderes",
     "name:de": "Skamandros",
     "name:en": "Cayster River",
@@ -83182,6 +83553,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Slano hribovje",
     "name": "Salt Range",
     "name:de": "Salzgebirge",
     "name:hr": "Slano gorje",
@@ -83276,6 +83648,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Obala slonove kosti (samo za obalno reliefno obliko)",
     "name": "Côte d′Ivoire",
     "name:de": "Elfenbeinküste",
     "name:es": "Costa de Marfil",
@@ -83342,6 +83715,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Izmir",
     "name": "İzmir",
     "name:en": "ni/Smyrna",
     "name:es": "Esmirna",
@@ -83364,6 +83738,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Izmirski zaliv",
     "name": "İzmir Körfezi",
     "name:de": "Golf von İzmir/Golf von Smyrna",
     "name:en": "Gulf of İzmir/Gulf of Smyrna",
@@ -83503,6 +83878,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lago de Sobradinho",
     "name": "Lago de Sobradinho",
     "name:de": "Sobradinho-Stausee ",
     "name:en": "Sobradinho Reservoir ",
@@ -83735,6 +84111,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Afriški rog",
     "name": "Geeska Afrika",
     "name:de": "Somali-Halbinsel",
     "name:en": "Horn of Africa/Northeast Africa/Somali Peninsula",
@@ -83872,6 +84249,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sousse",
     "name": "Sūsa/Susa",
     "name:de": "Sousse",
     "name:en": "Sousse",
@@ -84180,6 +84558,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Dolnja Šlezija",
     "name": "Śląsk Dolny/Dolní Slezsko",
     "name:de": "Niederschlesien",
     "name:en": "Lower Silesia",
@@ -84328,6 +84707,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Švicarska planota",
     "name": "(Schweizer) Mitteland/Plateau suisse ",
     "name:en": "Swiss Plateau/Central Plateau ",
     "name:es": "Meseta Suisa",
@@ -84348,6 +84728,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Centralna Afrika",
     "name": "Central Africa/Afrique centrale",
     "name:de": "Zentralafrika",
     "name:en": "Central Africa/Middle Africa",
@@ -84371,6 +84752,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Centralna Amerika",
     "name": "Central America/Amérique centrale/América Central ",
     "name:de": "Zentralamerika",
     "name:en": "Central America",
@@ -84394,6 +84776,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Centralna Evropa",
     "name": "Middle Europe/Europe centrale/Mitteleuropa",
     "name:de": "Mitteleuropa/Zentraleuropa ",
     "name:en": "Central Europe",
@@ -84417,6 +84800,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Srednjeindijskooceanska kotlina",
     "name": "Mid-Indian Basin",
     "name:en": "Mid-Indian Basin/Central Indian Basin",
     "name:hr": "Srednjoindijska zavala",
@@ -84709,6 +85093,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Srednjetihooceanske gore",
     "name": "Mid-Pacific Seamounts",
     "name:en": "Mid-Pacific Seamounts/Johnston-Wake Ridge/Marcus-Necker Ridge",
     "name:hr": "Srednjotihooceanski hrbat",
@@ -84793,6 +85178,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mediteran",
     "name": "Mediterranean Basin/Bassin méditerranéen",
     "name:de": "Mittelmeerraum",
     "name:en": "Mediterranean Basin",
@@ -84875,6 +85261,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "slapovi Boyoma",
     "name": "Chutes Boyoma/Stanley Falls",
     "name:de": "Boyomafälle/Stanleyfälle",
     "name:en": "Boyoma Falls/Stanley Falls",
@@ -85608,6 +85995,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Celebes",
     "name": "Sulawesi",
     "name:de": "Sulawesi",
     "name:en": "Sulawesi",
@@ -85650,6 +86038,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "otoki Sula",
     "name": "Kepulauan Sula",
     "name:de": "Sula-Inseln ",
     "name:en": "Sulu Islands",
@@ -85791,6 +86180,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sundski šelf",
     "name": "Sunda Shelf",
     "name:en": "Sunda Shelf",
     "name:fr": "Plateau continental de Sunda",
@@ -85809,6 +86199,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Javanski jarek",
     "name": "Sunda Trench/Java Trench",
     "name:de": "Sundagraben/Javagraben ",
     "name:en": "Sunda Trench/Java Trench",
@@ -86364,6 +86755,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sao Paulo",
     "name": "São Paulo",
     "name:it": "San Paolo",
     "name:ru": "San-Paulu",
@@ -86381,6 +86773,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "São Tomé in Príncipe",
     "name": "São Tomé",
     "name:en": "São Tomé Island",
     "name:es": "Isla de Santo Tomé",
@@ -86772,6 +87165,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Čardarinsko zajezitveno jezero",
     "name": "Chardara Suw Ombori/Shardara Bögeni",
     "name:de": "Tschardara-Stausee",
     "name:en": "Chardara Reservoir/Shatrdara Reservoir",
@@ -87047,6 +87441,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Mukden",
     "name": "Shěnyáng/Mukden",
     "name:de": "Schenjang",
     "name:en": "Shenyang/Mukden",
@@ -87114,6 +87509,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Šentvid na Glini",
     "name": "Sankt Veit an der Glan",
     "name:ru": "Sankt-Fajt-an-der-Glan",
     "name:sl": "Šentvid ob Glini",
@@ -87253,6 +87649,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Hrbet Širšova",
     "name": "Shirshov Ridge",
     "name:en": "Shirshov Ridge",
     "name:hr": "Hrbat Shirshov",
@@ -87336,6 +87733,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ameriško-antarktični hrbet",
     "name": "Scotia Ridge",
     "name:de": "Amerikanisch-Antarktischer Rücken",
     "name:en": "America-Antarctica Ridge",
@@ -87731,6 +88129,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Lakademon",
     "name": "Spárti/ Spartē",
     "name:de": "Sparta",
     "name:en": "Sparti/Sparta",
@@ -87754,6 +88153,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Montaž",
     "name": "Iôf di Montasio/Jôf dal Montâs",
     "name:de": "Bramkofel/Montasch ",
     "name:fr": "Montasch ",
@@ -88283,6 +88683,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Tajmir",
     "name": "Tajmyr/Tajmyrskij poluostrov",
     "name:de": "Taimyrhalbinsel",
     "name:en": "Taymyr Peninsula ",
@@ -88473,6 +88874,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Formoški preliv",
     "name": "Táiwān Hǎixiá",
     "name:de": "Formosastraße/Taiwan-Straße",
     "name:en": "Taiwan Strait/Formosa Strait/Black Ditch",
@@ -88559,6 +88961,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Tilment",
     "name": "Tagliamento/Tiliment",
     "name:de": "ni/Dülmende (zastarelo)",
     "name:es": "Río Tagliamento ",
@@ -88793,6 +89196,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Velika indijska puščava",
     "name": "Thār/Great Indian Desert",
     "name:de": "Thar/Große Indische Wüste",
     "name:en": "Thar Desert/0",
@@ -89086,6 +89490,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodnoavstralska kotlina;Thomsonova globel",
     "name": "Tasman Basin",
     "name:de": "Tasman-Becken/Tasmanisches Becken/Ost-Australisches-Becken",
     "name:en": "Tasman Basin/East Australian Basin",
@@ -89220,6 +89625,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Tavrus",
     "name": "Toros Dağları",
     "name:de": "Taurusgebirge",
     "name:en": "Taurus Mountains ",
@@ -89799,6 +90205,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Ticinske Alpe",
     "name": "Alpi Ticinesi/Alpi Lepontine Sud-occidentali",
     "name:de": "Tessiner Alpen ",
     "name:es": "Alpes Ticineses",
@@ -90155,6 +90562,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Pacifik;Veliko morje",
     "name": "Pacific Ocean/Océan Pacifique",
     "name:de": "Pazifische Ozean ",
     "name:en": "Pacific Ocean",
@@ -90178,6 +90586,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Pacifiška plošča",
     "name": "Pacific Plate",
     "name:de": "Pazifische Platte ",
     "name:en": "Pacific Plate",
@@ -90200,6 +90609,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Pacifiški otoki",
     "name": "Pacific Islands",
     "name:en": "Pacific Islands",
     "name:es": "Islas del Pacífico",
@@ -90219,6 +90629,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južni Tihooceanski hrbet",
     "name": "Pacific-Antarctic Ridge",
     "name:de": "Südpazifischer Rücken",
     "name:en": "Pacific-Antarctic Ridge",
@@ -90819,6 +91230,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Tonking",
     "name": "Bắc Kỳ/Bắc Bộ/Drang-ngaï ",
     "name:de": "Tonkin/Tonking",
     "name:en": "Tonkin/Tongkin/Tonquin/Tongking",
@@ -91189,6 +91601,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Transamazonska magistrala",
     "name": "Rodovia Transamazônica",
     "name:de": "Transamazônica",
     "name:en": "Trans-Amazonian Highway ",
@@ -91251,6 +91664,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sedmograška;Erdeljsko",
     "name": "Transilvania/Ardeal/Erdély/Siebenbürgen",
     "name:de": "0/Transsilvanien",
     "name:en": "Transylvania",
@@ -91273,6 +91687,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Južni Karpati",
     "name": "Carpaţii Meridionali",
     "name:de": "Transsilvanischen Alpen/Südkarpaten",
     "name:en": "Southern Carpathians/Transylvanian Alps ",
@@ -91862,6 +92277,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "preliv Tsugaru",
     "name": "Tsugaru-kaikyō",
     "name:de": "Tsugaru-Straße ",
     "name:en": "Tsugaru Strait ",
@@ -92334,6 +92750,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Rudolfovo jezero",
     "name": "Lake Turkana/Rudolf Hāyk’",
     "name:de": "Turkana-See/Rudolfsee",
     "name:en": "Lake Turkana/Jade Sea/Lake Rudolf",
@@ -92594,6 +93011,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Republika Udmurtija",
     "name": "Udmurtskaja respublika/Udmurt Respublika",
     "name:de": "Udmurtien/Udmurtische Republik",
     "name:en": "Udmurt Republic/Udmurtia",
@@ -93520,6 +93938,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Hercinsko gorstvo",
     "name": "Hercynian mountain belt/Variscides",
     "name:de": "Variszische Gebirge/Varisziden",
     "name:en": "Hercynian mountain belt/Variscides",
@@ -93605,6 +94024,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Sveti sedež",
     "name": "Città del Vaticano/Status Civitatis Vaticanae",
     "name:de": "Vatikanstadt/Vatikanstaat ",
     "name:en": "Vatican",
@@ -93669,6 +94089,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodna Antarktika",
     "name": "Greater Antarctica/East Antarctica",
     "name:de": "Ostantarktika",
     "name:en": "East Antarctica/Greater Antarctica",
@@ -93752,6 +94173,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Otok",
     "name": "Great Britain/Breatainn Mhòr/Prydain Fawr",
     "name:de": "Großbritannien",
     "name:es": "Gran Bretaña ",
@@ -93774,6 +94196,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Chagoška plitvina",
     "name": "Great Chagos Bank",
     "name:en": "Great Chagos Bank",
     "name:es": "Gran Banco de Chagos",
@@ -93838,6 +94261,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kaniža",
     "name": "Nagykanizsa",
     "name:de": "Großkirchen/Groß-Kanizsa",
     "name:hr": "Velika Kaniža",
@@ -94089,6 +94513,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Muntenija",
     "name": "Muntenia/Ţara Românească/Wallachia Mayor",
     "name:de": "Große Walachei/Muntenien",
     "name:en": "Greater Wallachia/ni",
@@ -94134,6 +94559,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Prerije",
     "name": "Great Plains/Prairies",
     "name:es": "Grandes Llanuras ",
     "name:fr": "Grandes Plaines",
@@ -94463,6 +94889,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Cesarski prekop",
     "name": "Dà Yùnhé",
     "name:de": "Kaiserkanal/Großer Kanal",
     "name:en": "Grand Canal/Beijing-Hangzhou Grand Canal ",
@@ -94815,6 +95242,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodnoavstralske Kordiljere",
     "name": "Great Dividing Range/Eastern Highlands",
     "name:de": "Australisches Bergland/Großes Australisches Scheidegebirge/Australische Kordillere",
     "name:es": "Gran Cordillera Divisoria",
@@ -95250,6 +95678,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Livonijsko višavje",
     "name": "Vidzemes Centrālā Augstiene",
     "name:en": "Vidzeme Upland ",
     "name:hr": "Vidzemska uzvisina",
@@ -95291,6 +95720,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Luzernsko jezero",
     "name": "Vierwaldstätter See",
     "name:en": "Lake Lucerne ",
     "name:es": "Lago de los Cuatro Cantones/Lago de Lucerna ",
@@ -95649,6 +96079,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vincennesov zaliv",
     "name": "Vincennes Bay",
     "name:en": "Vincennes Bay",
     "name:fr": "Baie de Vincennes ",
@@ -95902,6 +96333,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Veliki Kavkaz",
     "name": "Bol′šoj Kavkaz/Didi Kawkasioni/Böyük Qafqaz Dağları",
     "name:de": "Große Kaukasus ",
     "name:en": "Greater Caucasus/Caucasus Major ",
@@ -96157,6 +96589,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Valona",
     "name": "Vlorë/Vlora",
     "name:de": "Vlora",
     "name:fr": "Vlora",
@@ -96398,6 +96831,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vrh komunizma",
     "name": "Qullai Ismoili Somonī/Piku Kommunizm",
     "name:de": "Pik Ismoil Somoni/Pik Kommunismus ",
     "name:en": "Ismoil Somoni Peak/Communism Peak ",
@@ -96441,6 +96875,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vrh revolucije",
     "name": "Qullai Istiqlol/Qullai Inkilob ",
     "name:en": "Independence Peak/Revolution Peak ",
     "name:es": "Pico Independencia/Pico Revolución ",
@@ -96546,6 +96981,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "otoki Kazan",
     "name": "Kazan-Rettō",
     "name:de": "Kazan-rettō ",
     "name:en": "Volcano Islands",
@@ -96845,6 +97281,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vzhodno Primorje",
     "name": "Riviera di Levante",
     "name:es": "Riviera de Levante",
     "name:fr": "Riviera du Levant",
@@ -97111,6 +97548,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Demokratična republika Kongo",
     "name": "Congo/République démocratique du Congo",
     "name:de": "Demokratische Republik Kongo/Kongo",
     "name:en": "Democratic Republic of the Congo/Congo-Kinshasa ",
@@ -97210,6 +97648,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "kordiljera Albatros",
     "name": "East Pacific Rise",
     "name:de": "Ostpazifische Rücken ",
     "name:en": "East Pacific Rise",
@@ -97277,6 +97716,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Bizantinsko cesarstvo",
     "name": "Basileía Rhōmaíōn/Imperium Romanum Orientale",
     "name:de": "Byzantinische Reich/Oströmische Reich",
     "name:en": "Byzantine Empire/Eastern Roman Empire",
@@ -97573,6 +98013,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Otoki Wallis in Futuna",
     "name": "Wallis-et-Futuna",
     "name:de": "Wallis und Futuna ",
     "name:en": "Wallis and Futuna",
@@ -97615,6 +98056,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kitov hrbet",
     "name": "Walvis Ridge",
     "name:de": "Walfischrücken",
     "name:en": "Walvis Ridge",
@@ -97879,6 +98321,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodnoavstralska kotlina",
     "name": "Wharton Basin",
     "name:en": "Wharton Basin/West Australian Basin",
     "name:fr": "Fosse de Wharton",
@@ -97919,6 +98362,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vilčekova dežela",
     "name": "Zemlja Vil′čeka",
     "name:de": "Wilczek-Land ",
     "name:en": "Wilczek Land",
@@ -98146,6 +98590,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "jezero Wollaston",
     "name": "Wollaston Lake",
     "name:fr": "Lac Wollaston",
     "name:hu": "Wollaston-tó",
@@ -98208,6 +98653,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Würtemberško",
     "name": "Württemberg",
     "name:es": "Wurtemberg",
     "name:fr": "Wurtemberg",
@@ -98330,6 +98776,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "rt York",
     "name": "Cape York",
     "name:de": "Kap-York",
     "name:es": "Cabo York",
@@ -98351,6 +98798,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "polotok Cape York",
     "name": "Cape York Peninsula",
     "name:de": "Kap-York-Halbinsel",
     "name:es": "Península del Cabo York ",
@@ -98801,6 +99249,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodni Irian",
     "name": "Papua Barat/Irian Jaya Barat",
     "name:de": "West-Papua",
     "name:en": "West Papua/West Irian Jaya",
@@ -98823,6 +99272,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodno Primorje",
     "name": "Riviera di Ponente",
     "name:es": "Riviera de Poniente",
     "name:fr": "Riviera du Ponant ",
@@ -99054,6 +99504,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Bug",
     "name": "Zakhidnyy Buh/Zakhodni Buh/Bug",
     "name:de": "Bug/Westlicher Bug ",
     "name:en": "Bug River/Western Bug",
@@ -99119,6 +99570,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Vatski otoki",
     "name": "Nederlandse Waddeneilanden/West Friese Eilanden",
     "name:en": "West Frisian Islands ",
     "name:es": "Westfriesischen Inseln ",
@@ -99186,6 +99638,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kongo (Brazzaville)",
     "name": "Congo/République du Congo",
     "name:de": "Republik Kongo/Kongo-Brazzaville ",
     "name:en": "Republic of the Congo/Congo Republic/Congo-Brazzaville/Little Congo/the Congo",
@@ -99695,6 +100148,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Transkavkazija",
     "name": "Zakavkaz′e/Transcaucasia",
     "name:de": "Transkaukasien",
     "name:en": "South Caucasus/Transcaucasia",
@@ -100283,6 +100737,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zaliv vseh svetnikov",
     "name": "Baía de Todos os Santos",
     "name:de": "Allerheiligenbucht",
     "name:es": "Bahía de Todos los Santos",
@@ -100786,6 +101241,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Barka",
     "name": "Al Ǧabal al-′Aḫḍar",
     "name:de": "Jebel Akhdar/Jabal Akhdar/Djebel Akhdar",
     "name:en": "Al Jabal al Akhdar ",
@@ -100806,6 +101262,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kapverdska kotlina",
     "name": "Cape Verde Basin",
     "name:de": "Kapverden-Becken",
     "name:en": "Cape Verde Basin",
@@ -100828,6 +101285,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zelenortski prag;Kapverdski prag",
     "name": "Cape Verde Plateau/Cape Verde Rise",
     "name:en": "Cape Verde Plateau/Cape Verde Terrace/Cape Verde Rise",
     "name:hr": "Kapverdski ravnjak",
@@ -100867,6 +101325,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Kapverdski otoki",
     "name": "Ilhas do Cabo Verde",
     "name:de": "Kapverdischen Inseln ",
     "name:en": "Cape Verde Islands ",
@@ -101056,6 +101515,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gornja Šlezija",
     "name": "Śląsk Górny/Horní Slezsko",
     "name:de": "Oberschlesien",
     "name:en": "Upper Silesia",
@@ -101078,6 +101538,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Gornja Tunguska",
     "name": "Angara/Verhnjaja Tunguska",
     "name:de": "Obere Tunguska",
     "name:en": "Upper Tunguska",
@@ -101462,6 +101923,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Zahodna Nemčija",
     "name": "Bundesrepublik Deutschland",
     "name:en": "Federal Republic of Germany/West Germany  ",
     "name:es": "República Federal de Alemania/Alemania Occidental/Alemania del Oeste",
@@ -101636,6 +102098,7 @@
     ]
    },
    "properties": {
+    "alt_name:sl": "Judovsko avtonomno okrožje",
     "name": "Evrejskaja avtonomnaja oblast′/yidishe avtonome gegnt",
     "name:de": "Jüdische Autonome Oblast ",
     "name:en": "Jewish Autonomous Oblast ",

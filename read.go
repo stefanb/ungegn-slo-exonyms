@@ -43,6 +43,12 @@ func main() {
 			f.SetProperty("name:sl", ex.NameSl)
 			f.SetProperty("source:name:sl", "ungegn")
 
+			if hasValue(ex.NameSlAlt) {
+				ex.NameSlAlt = strings.ReplaceAll(ex.NameSlAlt, "/", ";")
+				ex.NameSlAlt = strings.ReplaceAll(ex.NameSlAlt, ", ", ";")
+				f.SetProperty("alt_name:sl", ex.NameSlAlt)
+			}
+
 			if hasValue(ex.NameEn) {
 				f.SetProperty("name:en", ex.NameEn)
 			}
