@@ -88,7 +88,7 @@ func main() {
 }
 
 func hasValue(in string) bool {
-	return in != "" && in != "–"
+	return in != "" && in != "–" && in != "0" && in != "ni"
 }
 
 func ParseDMS(dms string) float64 {
