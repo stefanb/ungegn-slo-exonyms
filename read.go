@@ -42,14 +42,31 @@ func main() {
 			f.SetProperty("name:sl", ex.NameSl)
 			f.SetProperty("source:name:sl", "ungegn")
 
-			f.SetProperty("name:en", ex.NameEn)
-			f.SetProperty("name:fr", ex.NameFr)
-			f.SetProperty("name:de", ex.NameDe)
-			f.SetProperty("name:es", ex.NameEs)
-			f.SetProperty("name:ru", ex.NameRu)
-			f.SetProperty("name:it", ex.NameIt)
-			f.SetProperty("name:hr", ex.NameHr)
-			f.SetProperty("name:hu", ex.NameHu)
+			if hasValue(ex.NameEn) {
+				f.SetProperty("name:en", ex.NameEn)
+			}
+			if hasValue(ex.NameFr) {
+				f.SetProperty("name:fr", ex.NameFr)
+			}
+			if hasValue(ex.NameDe) {
+				f.SetProperty("name:de", ex.NameDe)
+			}
+			if hasValue(ex.NameEs) {
+				f.SetProperty("name:es", ex.NameEs)
+			}
+			if hasValue(ex.NameRu) {
+				f.SetProperty("name:ru", ex.NameRu)
+			}
+			if hasValue(ex.NameIt) {
+				f.SetProperty("name:it", ex.NameIt)
+			}
+			if hasValue(ex.NameHr) {
+				f.SetProperty("name:hr", ex.NameHr)
+			}
+			if hasValue(ex.NameHu) {
+				f.SetProperty("name:hu", ex.NameHu)
+			}
+
 			featureCollection.AddFeature(f)
 		}
 	}
@@ -68,6 +85,10 @@ func main() {
 
 	log.Printf("Saved %d addresses to %s.", len(featureCollection.Features), geoJsonFilename)
 
+}
+
+func hasValue(in string) bool {
+	return in != "" && in != "–"
 }
 
 func ParseDMS(dms string) float64 {
