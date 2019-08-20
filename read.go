@@ -41,6 +41,15 @@ func main() {
 			f := geojson.NewPointFeature([]float64{ex.Lon, ex.Lat})
 			f.SetProperty("name:sl", ex.NameSl)
 			f.SetProperty("source:name:sl", "ungegn")
+
+			f.SetProperty("name:en", ex.NameEn)
+			f.SetProperty("name:fr", ex.NameFr)
+			f.SetProperty("name:de", ex.NameDe)
+			f.SetProperty("name:es", ex.NameEs)
+			f.SetProperty("name:ru", ex.NameRu)
+			f.SetProperty("name:it", ex.NameIt)
+			f.SetProperty("name:hr", ex.NameHr)
+			f.SetProperty("name:hu", ex.NameHu)
 			featureCollection.AddFeature(f)
 		}
 	}
@@ -77,7 +86,7 @@ func ParseDMS(dms string) float64 {
 
 		unit, ulen := utf8.DecodeLastRuneInString(part)
 		if len(part) == ulen {
-			log.Println("No value to parse from:", part)
+			log.Println("No value to parse from:", part, "in", dmsIn)
 			continue
 		}
 		val, err := strconv.Atoi(part[:len(part)-ulen])
@@ -112,4 +121,13 @@ type Exonym struct {
 	LonDMS      string  `xlsx:"10"`
 	Lon         float64 `xlsx:"-"`
 	//BoolVal bool `xlsx:"4"`
+	NameSlAlt      string  `xlsx:"14"`
+	NameEn      string  `xlsx:"25"`
+	NameFr      string  `xlsx:"26"`
+	NameDe      string  `xlsx:"27"`
+	NameEs      string  `xlsx:"28"`
+	NameRu      string  `xlsx:"29"`
+	NameIt      string  `xlsx:"30"`
+	NameHr      string  `xlsx:"31"`
+	NameHu      string  `xlsx:"32"`
 }
