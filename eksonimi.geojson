@@ -27094,6 +27094,8 @@
     ]
    },
    "properties": {
+    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "marker-color": "#ff0000",
     "name": "Gondaranya/Gondwana/Gondwâna",
     "name:de": "Gondwana",
     "name:en": "Gondwana/Gondwanaland",
@@ -28952,6 +28954,8 @@
     ]
    },
    "properties": {
+    "error": "Error parsing: \"SW\" from: \"30° 16′ 7″ SW\" reason: strconv.Atoi: parsing \"S\": invalid syntax",
+    "marker-color": "#ff0000",
     "name": "Al Buḩayrāt al-Murrah",
     "name:de": "Bitterseen",
     "name:en": "Bitter Lakes",
@@ -29922,6 +29926,8 @@
     ]
    },
    "properties": {
+    "error": "No value to parse from: ″ in: 32° 50′ ″ S",
+    "marker-color": "#ff0000",
     "name": "Mifratz Haifa",
     "name:de": "Bucht von Haifa",
     "name:en": "Haifa Bay",
@@ -38693,6 +38699,8 @@
    },
    "properties": {
     "alt_name:sl": "Južno Trajanovo obzidje;Spodnji Trajanov zid",
+    "error": "Unknown angle unit:9",
+    "marker-color": "#ff0000",
     "name": "Zidul de Sus",
     "name:de": "Untere Trajanwall",
     "name:en": "Lower Trajan′s Wall",
@@ -48200,6 +48208,8 @@
     ]
    },
    "properties": {
+    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "marker-color": "#ff0000",
     "name": "Laurasia/Laurasie",
     "name:de": "Laurasia",
     "name:en": "Laurasia",
@@ -48223,6 +48233,8 @@
     ]
    },
    "properties": {
+    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "marker-color": "#ff0000",
     "name": "Laurentia",
     "name:de": "Laurentia",
     "name:en": "Laurentia",
@@ -60823,6 +60835,8 @@
     ]
    },
    "properties": {
+    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "marker-color": "#ff0000",
     "name": "New World/Neue Welt/Nouveau Monde",
     "name:de": "Neue Welt",
     "name:en": "New World",
@@ -62384,6 +62398,8 @@
    },
    "properties": {
     "alt_name:sl": "Zahodni svet;Zahod",
+    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "marker-color": "#ff0000",
     "name": "Occident",
     "name:de": "Westliche Welt/Westen ",
     "name:es": "Occidente",
@@ -79464,6 +79480,8 @@
     ]
    },
    "properties": {
+    "error": "No dms value to parse: \"???\"No dms value to parse: \"???\"",
+    "marker-color": "#ff0000",
     "name": "Sarjazinskoe vodohraniliše",
     "name:en": "Saryjazin Reservoir",
     "name:hr": "Sarjazinsko jezero",
@@ -81976,6 +81994,8 @@
     ]
    },
    "properties": {
+    "error": "Unknown angle unit:'Error parsing: \"34''\" from: \"5° 58' 34'' Z\" reason: strconv.Atoi: parsing \"34'\": invalid syntax",
+    "marker-color": "#ff0000",
     "name": "Sevilla",
     "name:en": "Sevilla",
     "name:fr": "Séville",
@@ -85533,6 +85553,8 @@
     ]
    },
    "properties": {
+    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "marker-color": "#ff0000",
     "name": "Stýx",
     "name:de": "Styx",
     "name:en": "Styx",
@@ -86979,6 +87001,8 @@
     ]
    },
    "properties": {
+    "error": "No value to parse from: ′ in: 47° 0′ ′″ SNo value to parse from: ″ in: 47° 0′ ′″ S",
+    "marker-color": "#ff0000",
     "name": "Comté de Bourgogne\n/Franche-Comté",
     "name:de": "Freigrafschaft Burgund",
     "name:en": "Free County of Burgundy ",
@@ -89328,6 +89352,8 @@
     ]
    },
    "properties": {
+    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "marker-color": "#ff0000",
     "name": "Tártaros",
     "name:de": "Tartaros",
     "name:en": "Tartarus",
@@ -90226,6 +90252,8 @@
     ]
    },
    "properties": {
+    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "marker-color": "#ff0000",
     "name": "Thetis",
     "name:de": "Tethys/Tethysmeer",
     "name:en": "Tethys Ocean",

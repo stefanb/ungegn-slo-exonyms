@@ -2,7 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
+	"errors"
+	//	"fmt"
 	"github.com/tealeg/xlsx"
 	"io/ioutil"
 	"log"
@@ -32,8 +33,15 @@ func main() {
 			if err != nil {
 				log.Fatal("Error reading to struct:", err)
 			}
-			ex.Lat = ParseDMS(ex.LatDMS)
-			ex.Lon = ParseDMS(ex.LonDMS)
+			errMsg := ""
+			ex.Lat, err = ParseDMS(ex.LatDMS)
+			if err != nil {
+				errMsg = errMsg + err.Error()
+			}
+			ex.Lon, err = ParseDMS(ex.LonDMS)
+			if err != nil {
+				errMsg = errMsg + err.Error()
+			}
 			//fmt.Println(ex)
 			// for _, lang := range strings.Split(ex.LangOrig,"/") {
 			//	fmt.Println(lang+",")
@@ -74,6 +82,11 @@ func main() {
 				f.SetProperty("name:hu", ex.NameHu)
 			}
 
+			if errMsg != "" {
+				log.Println("ERROR:", errMsg)
+				f.SetProperty("error", errMsg)
+				f.SetProperty("marker-color", "#ff0000")
+			}
 			featureCollection.AddFeature(f)
 		}
 	}
@@ -95,15 +108,20 @@ func main() {
 }
 
 func hasValue(in string) bool {
-	return in != "" && in != "–" && in != "0" && in != "ni"
+	return in != "" && in != "–" && in != "0" && in != "ni" && in != "???"
 }
 
-func ParseDMS(dms string) float64 {
+func ParseDMS(dms string) (float64, error) {
+	if !hasValue(dms) {
+		return 0, errors.New("No dms value to parse: " + strconv.Quote(dms))
+	}
+
 	dmsIn := dms
 	dms = strings.ReplaceAll(dms, "\u00b0", "\u00b0 ")
 	dms = strings.ReplaceAll(dms, "\u2032", "\u2032 ")
 	dms = strings.ReplaceAll(dms, "\u2033", "\u2033 ")
 	d, m, s, q := 0, 0, 0, 1
+	errMsg := ""
 	for _, part := range strings.Fields(dms) {
 		if len(part) == 1 {
 			if part == "J" || part == "Z" {
@@ -114,12 +132,12 @@ func ParseDMS(dms string) float64 {
 
 		unit, ulen := utf8.DecodeLastRuneInString(part)
 		if len(part) == ulen {
-			log.Println("No value to parse from:", part, "in", dmsIn)
+			errMsg = errMsg + "No value to parse from: " + part + " in: " + dmsIn
 			continue
 		}
 		val, err := strconv.Atoi(part[:len(part)-ulen])
 		if err != nil {
-			log.Println("Error parsing:", strconv.Quote(part), "from", strconv.Quote(dmsIn), err)
+			errMsg = errMsg + "Error parsing: " + strconv.Quote(part) + " from: " + strconv.Quote(dmsIn) + " reason: " + err.Error()
 			continue
 		}
 
@@ -131,11 +149,15 @@ func ParseDMS(dms string) float64 {
 		case 8243: //'\u2033':
 			s = val
 		default:
-			fmt.Println("Unknown angle unit:", unit)
+			errMsg = errMsg + "Unknown angle unit:" + string(unit)
 		}
 
 	}
-	return float64(q) * (float64(d) + float64(m)/60 + float64(s)/60/60)
+	var err error
+	if errMsg != "" {
+		err = errors.New(errMsg)
+	}
+	return float64(q) * (float64(d) + float64(m)/60 + float64(s)/60/60), err
 }
 
 type Exonym struct {
