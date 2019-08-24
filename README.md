@@ -7,3 +7,5 @@
 Parse xlsx list of Slovenian exonyms and prepare them for OSM
 
 http://ungegn.zrc-sazu.si/Documents/THEGAZETTEEROFSLOVENIANEXONYMS.aspx
+
+The result can be seen in [eksonimi.geojson](eksonimi.geojson) file.
