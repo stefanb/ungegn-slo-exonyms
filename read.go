@@ -3,13 +3,16 @@ package main
 import (
 	"encoding/json"
 	"errors"
+
 	//	"fmt"
-	"github.com/tealeg/xlsx"
 	"io/ioutil"
 	"log"
 	"strconv"
 	"strings"
 	"unicode/utf8"
+
+	"github.com/tealeg/xlsx"
+
 	//"github.com/serjvanilla/go-overpass"
 	geojson "github.com/paulmach/go.geojson"
 )
@@ -57,30 +60,14 @@ func main() {
 				f.SetProperty("alt_name:sl", ex.NameSlAlt)
 			}
 
-			if hasValue(ex.NameEn) {
-				f.SetProperty("name:en", ex.NameEn)
-			}
-			if hasValue(ex.NameFr) {
-				f.SetProperty("name:fr", ex.NameFr)
-			}
-			if hasValue(ex.NameDe) {
-				f.SetProperty("name:de", ex.NameDe)
-			}
-			if hasValue(ex.NameEs) {
-				f.SetProperty("name:es", ex.NameEs)
-			}
-			if hasValue(ex.NameRu) {
-				f.SetProperty("name:ru", ex.NameRu)
-			}
-			if hasValue(ex.NameIt) {
-				f.SetProperty("name:it", ex.NameIt)
-			}
-			if hasValue(ex.NameHr) {
-				f.SetProperty("name:hr", ex.NameHr)
-			}
-			if hasValue(ex.NameHu) {
-				f.SetProperty("name:hu", ex.NameHu)
-			}
+			setOptionalProperty(f, "name:en", ex.NameEn)
+			setOptionalProperty(f, "name:fr", ex.NameFr)
+			setOptionalProperty(f, "name:de", ex.NameDe)
+			setOptionalProperty(f, "name:es", ex.NameEs)
+			setOptionalProperty(f, "name:ru", ex.NameRu)
+			setOptionalProperty(f, "name:it", ex.NameIt)
+			setOptionalProperty(f, "name:hr", ex.NameHr)
+			setOptionalProperty(f, "name:hu", ex.NameHu)
 
 			if errMsg != "" {
 				log.Println("ERROR:", errMsg)
@@ -105,6 +92,14 @@ func main() {
 
 	log.Printf("Saved %d addresses to %s.", len(featureCollection.Features), geoJsonFilename)
 
+}
+
+func setOptionalProperty(f *geojson.Feature, key string, value string) {
+	if !hasValue(value) {
+		return
+	}
+
+	f.SetProperty(key, value)
 }
 
 func hasValue(in string) bool {
