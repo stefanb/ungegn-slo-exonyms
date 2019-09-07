@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"errors"
+	"math"
 
 	//	"fmt"
 	"io/ioutil"
@@ -149,13 +150,15 @@ func ParseDMS(dms string) (float64, error) {
 		default:
 			errMsg = errMsg + "Unknown angle unit:" + string(unit)
 		}
-
 	}
+
 	var err error
 	if errMsg != "" {
 		err = errors.New(errMsg)
 	}
-	return float64(q) * (float64(d) + float64(m)/60 + float64(s)/60/60), err
+
+	deg := float64(q) * (float64(d) + float64(m)/60 + float64(s)/60/60)
+	return math.Round(deg*10000) / 10000, err
 }
 
 type Exonym struct {
