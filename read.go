@@ -69,6 +69,9 @@ func main() {
 			setOptionalProperty(f, "name:hr", ex.NameHr)
 			setOptionalProperty(f, "name:hu", ex.NameHu)
 
+			setOptionalProperty(f, "name:etymology", ex.Etymology)
+			setOptionalProperty(f, "note", ex.Note)
+
 			if errMsg != "" {
 				log.Println("ERROR:", errMsg)
 				f.SetProperty("error", errMsg)
@@ -175,4 +178,7 @@ type Exonym struct {
 	NameIt    string `xlsx:"30"`
 	NameHr    string `xlsx:"31"`
 	NameHu    string `xlsx:"32"`
+
+	Etymology string `xlsx:"33"`
+	Note      string `xlsx:"34"`
 }
