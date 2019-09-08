@@ -55,6 +55,8 @@ func main() {
 			f.SetProperty("name:sl", ex.NameSl)
 			f.SetProperty("source:name:sl", "ungegn")
 
+			setFeatureType(f, ex.FeatureType)
+
 			if hasValue(ex.NameSlAlt) {
 				ex.NameSlAlt = strings.ReplaceAll(ex.NameSlAlt, "/", ";")
 				ex.NameSlAlt = strings.ReplaceAll(ex.NameSlAlt, ", ", ";")
@@ -97,6 +99,10 @@ func save(featureCollection *geojson.FeatureCollection, geoJsonFilename string) 
 	}
 
 	log.Printf("Saved %d addresses to %s.", len(featureCollection.Features), geoJsonFilename)
+}
+
+func setFeatureType(f *geojson.Feature, featureType string) {
+	f.SetProperty("semantic-type", featureType)
 }
 
 func setOptionalProperty(f *geojson.Feature, key string, value string) {
