@@ -103,6 +103,24 @@ func save(featureCollection *geojson.FeatureCollection, geoJsonFilename string) 
 
 func setFeatureType(f *geojson.Feature, featureType string) {
 	f.SetProperty("semantic-type", featureType)
+
+	if strings.Contains(featureType, "upravn") {
+		f.SetProperty("marker-symbol", "circle-stroked")
+	}
+
+	if strings.Contains(featureType, "naselj") {
+		f.SetProperty("marker-symbol", "city")
+	}
+
+	if strings.Contains(featureType, "zgodovinsk") {
+		f.SetProperty("marker-color", "#D2B48C")
+	}
+
+	if strings.Contains(featureType, "država") {
+		f.SetProperty("marker-color", "#D400D4")
+		f.SetProperty("marker-size", "large")
+		f.SetProperty("marker-symbol", "embassy")
+	}
 }
 
 func setOptionalProperty(f *geojson.Feature, key string, value string) {
