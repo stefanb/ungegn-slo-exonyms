@@ -82,12 +82,14 @@ func main() {
 		}
 	}
 
+	save(featureCollection, "eksonimi.geojson")
+}
+
+func save(featureCollection *geojson.FeatureCollection, geoJsonFilename string) {
 	rawJSON, err := json.MarshalIndent(featureCollection, "", " ")
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	geoJsonFilename := "eksonimi.geojson"
 
 	err = ioutil.WriteFile(geoJsonFilename, rawJSON, 0644)
 	if err != nil {
@@ -95,7 +97,6 @@ func main() {
 	}
 
 	log.Printf("Saved %d addresses to %s.", len(featureCollection.Features), geoJsonFilename)
-
 }
 
 func setOptionalProperty(f *geojson.Feature, key string, value string) {
