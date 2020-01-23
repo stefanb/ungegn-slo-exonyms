@@ -128,11 +128,11 @@ func setOptionalProperty(f *geojson.Feature, key string, value string) {
 		return
 	}
 
-	f.SetProperty(key, value)
+	f.SetProperty(key, strings.TrimSpace(value))
 }
 
 func hasValue(in string) bool {
-	return in != "" && in != "–" && in != "0" && in != "ni" && in != "???"
+	return in != "" && in != "–" && in != "0" && in != "ni" && in != "???" && strings.TrimSpace(in) != ""
 }
 
 func ParseDMS(dms string) (float64, error) {
