@@ -74,6 +74,7 @@ func main() {
 
 			setOptionalProperty(f, "name:etymology", ex.Etymology)
 			setOptionalProperty(f, "note", ex.Note)
+			setOptionalProperty(f, "wikidata", ex.Wikidata)
 
 			if errMsg != "" {
 				log.Println("ERROR:", errMsg)
@@ -209,4 +210,5 @@ type Exonym struct {
 
 	Etymology string `xlsx:"33"`
 	Note      string `xlsx:"34"`
+	Wikidata  string `xlsx:"35"`
 }

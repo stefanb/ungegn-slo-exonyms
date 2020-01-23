@@ -11129,7 +11129,8 @@
     "name:fr": "Vénétie",
     "name:sl": "Benečija",
     "semantic-type": "naravna pokrajina/upravna enota",
-    "source:name:sl": "ungegn"
+    "source:name:sl": "ungegn",
+    "wikidata": "Q1243"
    }
   },
   {
@@ -11147,7 +11148,8 @@
     "name:hr": "Beneluks",
     "name:sl": "Beneluks",
     "semantic-type": "drugo",
-    "source:name:sl": "ungegn"
+    "source:name:sl": "ungegn",
+    "wikidata": "Q13116"
    }
   },
   {
@@ -11171,7 +11173,8 @@
     "name:ru": "Venecianskaja laguna",
     "name:sl": "Beneška laguna",
     "semantic-type": "morski hidronim",
-    "source:name:sl": "ungegn"
+    "source:name:sl": "ungegn",
+    "wikidata": "Q76925"
    }
   },
   {
@@ -11189,7 +11192,8 @@
     "name:hr": "Venetske Alpe",
     "name:sl": "Beneške Alpe",
     "semantic-type": "kopenska reliefna oblika",
-    "source:name:sl": "ungegn"
+    "source:name:sl": "ungegn",
+    "wikidata": "Q3613026"
    }
   },
   {
@@ -11209,7 +11213,8 @@
     "name:hr": "Venetske Predalpe",
     "name:sl": "Beneške predalpe",
     "semantic-type": "kopenska reliefna oblika",
-    "source:name:sl": "ungegn"
+    "source:name:sl": "ungegn",
+    "wikidata": "Q2643250"
    }
   },
   {
@@ -11252,7 +11257,8 @@
     "name:ru": "Venecija",
     "name:sl": "Benetke",
     "semantic-type": "naselje",
-    "source:name:sl": "ungegn"
+    "source:name:sl": "ungegn",
+    "wikidata": "Q641"
    }
   },
   {
