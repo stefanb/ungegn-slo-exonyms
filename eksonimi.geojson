@@ -11121,6 +11121,8 @@
     ]
    },
    "properties": {
+    "linkToOSMviaOverpass": "https://overpass-api.de/api/interpreter?data=%5Bout%3Acustom%5D%3Bnode%5Bwikidata%3DQ1243%5D%3Bif%28count%28nodes%29%3D%3D0%29%7Bway%5Bwikidata%3DQ1243%5D%3B%7D%3Bif%28count%28ways%29%3D%3D0%29%7Brel%5Bwikidata%3DQ1243%5D%3B%7D%3Bout+1%3B",
+    "linkToWikidata": "https://www.wikidata.org/wiki/Q1243",
     "marker-symbol": "circle-stroked",
     "name": "Veneto",
     "name:de": "Venetien",
@@ -11143,6 +11145,8 @@
     ]
    },
    "properties": {
+    "linkToOSMviaOverpass": "https://overpass-api.de/api/interpreter?data=%5Bout%3Acustom%5D%3Bnode%5Bwikidata%3DQ13116%5D%3Bif%28count%28nodes%29%3D%3D0%29%7Bway%5Bwikidata%3DQ13116%5D%3B%7D%3Bif%28count%28ways%29%3D%3D0%29%7Brel%5Bwikidata%3DQ13116%5D%3B%7D%3Bout+1%3B",
+    "linkToWikidata": "https://www.wikidata.org/wiki/Q13116",
     "name": "Benelux",
     "name:etymology": "Ime, uradno vpeljano leta 1948 za tri sosednje države, je akronim njihovih originalnih imen België, Nederland in Luxembourg.",
     "name:hr": "Beneluks",
@@ -11162,6 +11166,8 @@
     ]
    },
    "properties": {
+    "linkToOSMviaOverpass": "https://overpass-api.de/api/interpreter?data=%5Bout%3Acustom%5D%3Bnode%5Bwikidata%3DQ76925%5D%3Bif%28count%28nodes%29%3D%3D0%29%7Bway%5Bwikidata%3DQ76925%5D%3B%7D%3Bif%28count%28ways%29%3D%3D0%29%7Brel%5Bwikidata%3DQ76925%5D%3B%7D%3Bout+1%3B",
+    "linkToWikidata": "https://www.wikidata.org/wiki/Q76925",
     "name": "Laguna Veneta/Laguna di Venezia",
     "name:de": "Lagune von Venedig",
     "name:en": "Venetian Lagoon",
@@ -11187,6 +11193,8 @@
     ]
    },
    "properties": {
+    "linkToOSMviaOverpass": "https://overpass-api.de/api/interpreter?data=%5Bout%3Acustom%5D%3Bnode%5Bwikidata%3DQ3613026%5D%3Bif%28count%28nodes%29%3D%3D0%29%7Bway%5Bwikidata%3DQ3613026%5D%3B%7D%3Bif%28count%28ways%29%3D%3D0%29%7Brel%5Bwikidata%3DQ3613026%5D%3B%7D%3Bout+1%3B",
+    "linkToWikidata": "https://www.wikidata.org/wiki/Q3613026",
     "name": "Alpi Venete",
     "name:etymology": "Gorovje je poimenovano po Benetkah oziroma Benečiji.",
     "name:hr": "Venetske Alpe",
@@ -11206,6 +11214,8 @@
     ]
    },
    "properties": {
+    "linkToOSMviaOverpass": "https://overpass-api.de/api/interpreter?data=%5Bout%3Acustom%5D%3Bnode%5Bwikidata%3DQ2643250%5D%3Bif%28count%28nodes%29%3D%3D0%29%7Bway%5Bwikidata%3DQ2643250%5D%3B%7D%3Bif%28count%28ways%29%3D%3D0%29%7Brel%5Bwikidata%3DQ2643250%5D%3B%7D%3Bout+1%3B",
+    "linkToWikidata": "https://www.wikidata.org/wiki/Q2643250",
     "name": "Prealpi Venete",
     "name:de": "Venetischen Voralpen",
     "name:en": "Venetian Prealps",
@@ -11245,6 +11255,8 @@
     ]
    },
    "properties": {
+    "linkToOSMviaOverpass": "https://overpass-api.de/api/interpreter?data=%5Bout%3Acustom%5D%3Bnode%5Bwikidata%3DQ641%5D%3Bif%28count%28nodes%29%3D%3D0%29%7Bway%5Bwikidata%3DQ641%5D%3B%7D%3Bif%28count%28ways%29%3D%3D0%29%7Brel%5Bwikidata%3DQ641%5D%3B%7D%3Bout+1%3B",
+    "linkToWikidata": "https://www.wikidata.org/wiki/Q641",
     "marker-symbol": "city",
     "name": "Venezia",
     "name:de": "Venedig",

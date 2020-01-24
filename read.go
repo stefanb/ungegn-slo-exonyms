@@ -75,6 +75,8 @@ func main() {
 			setOptionalProperty(f, "name:etymology", ex.Etymology)
 			setOptionalProperty(f, "note", ex.Note)
 			setOptionalProperty(f, "wikidata", ex.Wikidata)
+			setWikidataLink(f, "linkToWikidata", ex.Wikidata)
+			setWikidataOverpassLink(f, "linkToOSMviaOverpass", ex.Wikidata)
 
 			if errMsg != "" {
 				log.Println("ERROR:", errMsg)
