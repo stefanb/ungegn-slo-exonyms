@@ -23,4 +23,5 @@ type Exonym struct {
 
 	Etymology string `xlsx:"33"`
 	Note      string `xlsx:"34"`
+	Wikidata  string `xlsx:"35"`
 }
