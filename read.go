@@ -84,21 +84,23 @@ func main() {
 		}
 	}
 
-	save(featureCollection, "eksonimi.geojson")
+	log.Printf("Read %d features.", len(featureCollection.Features))
+
+	saveJSON(featureCollection, "eksonimi.geojson")
 }
 
-func save(featureCollection *geojson.FeatureCollection, geoJsonFilename string) {
-	rawJSON, err := json.MarshalIndent(featureCollection, "", " ")
+func saveJSON(obj interface{}, jsonFilename string) {
+	rawJSON, err := json.MarshalIndent(obj, "", " ")
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	err = ioutil.WriteFile(geoJsonFilename, rawJSON, 0644)
+	err = ioutil.WriteFile(jsonFilename, rawJSON, 0644)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	log.Printf("Saved %d addresses to %s.", len(featureCollection.Features), geoJsonFilename)
+	log.Printf("Saved %d Bytes to %s.", len(rawJSON), jsonFilename)
 }
 
 func setFeatureType(f *geojson.Feature, featureType string) {
