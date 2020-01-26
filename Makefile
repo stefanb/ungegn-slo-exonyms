@@ -7,8 +7,8 @@ build: ## builds the executable
 	go build
 
 .PHONY: run
-run: download ## runs the conversion
-	go run read.go
+run: build download ## runs the conversion
+	./ungegn-slo-exonyms
 
 .PHONY: download
 download: ## downloads the source

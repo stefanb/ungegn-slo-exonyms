@@ -185,28 +185,3 @@ func ParseDMS(dms string) (float64, error) {
 	deg := float64(q) * (float64(d) + float64(m)/60 + float64(s)/60/60)
 	return math.Round(deg*10000) / 10000, err
 }
-
-type Exonym struct {
-	ID          int     `xlsx:"0"`
-	NameSl      string  `xlsx:"1"`
-	NameOrig    string  `xlsx:"4"`
-	LangOrig    string  `xlsx:"5"`
-	FeatureType string  `xlsx:"8"`
-	LatDMS      string  `xlsx:"9"`
-	Lat         float64 `xlsx:"-"`
-	LonDMS      string  `xlsx:"10"`
-	Lon         float64 `xlsx:"-"`
-	//BoolVal bool `xlsx:"4"`
-	NameSlAlt string `xlsx:"14"`
-	NameEn    string `xlsx:"25"`
-	NameFr    string `xlsx:"26"`
-	NameDe    string `xlsx:"27"`
-	NameEs    string `xlsx:"28"`
-	NameRu    string `xlsx:"29"`
-	NameIt    string `xlsx:"30"`
-	NameHr    string `xlsx:"31"`
-	NameHu    string `xlsx:"32"`
-
-	Etymology string `xlsx:"33"`
-	Note      string `xlsx:"34"`
-}
