@@ -7,9 +7,9 @@ type Exonym struct {
 	LangOrig    string  `xlsx:"5"`
 	FeatureType string  `xlsx:"8"`
 	LatDMS      string  `xlsx:"9"`
-	Lat         float64 `xlsx:"-"`
+	Lat         float64 `xlsx:"-" json:"-"`
 	LonDMS      string  `xlsx:"10"`
-	Lon         float64 `xlsx:"-"`
+	Lon         float64 `xlsx:"-" json:"-"`
 	//BoolVal bool `xlsx:"4"`
 	NameSlAlt string `xlsx:"14"`
 	NameEn    string `xlsx:"25"`
