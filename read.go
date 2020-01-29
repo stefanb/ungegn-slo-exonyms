@@ -26,6 +26,7 @@ func main() {
 		log.Fatal(err)
 	}
 
+	exonyms := make([]Exonym, 0)
 	featureCollection := geojson.NewFeatureCollection()
 	for _, sheet := range xlFile.Sheets {
 		for i, row := range sheet.Rows {
@@ -53,7 +54,7 @@ func main() {
 			f := geojson.NewPointFeature([]float64{ex.Lon, ex.Lat})
 			f.SetProperty("name", ex.NameOrig)
 			f.SetProperty("name:sl", ex.NameSl)
-			f.SetProperty("source:name:sl", "ungegn")
+			f.SetProperty("source:name:sl", "GIAM")
 
 			setFeatureType(f, ex.FeatureType)
 
@@ -84,24 +85,28 @@ func main() {
 				f.SetProperty("marker-color", "#ff0000")
 			}
 			featureCollection.AddFeature(f)
+			exonyms = append(exonyms, *ex)
 		}
 	}
 
-	save(featureCollection, "eksonimi.geojson")
+	log.Printf("Read %d features.", len(featureCollection.Features))
+
+	saveJSON(featureCollection, "eksonimi.geojson")
+	saveJSON(exonyms, "eksonimi-giam.json")
 }
 
-func save(featureCollection *geojson.FeatureCollection, geoJsonFilename string) {
-	rawJSON, err := json.MarshalIndent(featureCollection, "", " ")
+func saveJSON(obj interface{}, jsonFilename string) {
+	rawJSON, err := json.MarshalIndent(obj, "", " ")
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	err = ioutil.WriteFile(geoJsonFilename, rawJSON, 0644)
+	err = ioutil.WriteFile(jsonFilename, rawJSON, 0644)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	log.Printf("Saved %d addresses to %s.", len(featureCollection.Features), geoJsonFilename)
+	log.Printf("Saved %d Bytes to %s.", len(rawJSON), jsonFilename)
 }
 
 func setFeatureType(f *geojson.Feature, featureType string) {
