@@ -53,7 +53,7 @@ func main() {
 			f := geojson.NewPointFeature([]float64{ex.Lon, ex.Lat})
 			f.SetProperty("name", ex.NameOrig)
 			f.SetProperty("name:sl", ex.NameSl)
-			f.SetProperty("source:name:sl", "ungegn")
+			f.SetProperty("source:name:sl", "GIAM")
 
 			setFeatureType(f, ex.FeatureType)
 
