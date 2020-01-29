@@ -77,7 +77,7 @@ func main() {
 			setOptionalProperty(f, "note", ex.Note)
 
 			if errMsg != "" {
-				log.Println("ERROR:", errMsg)
+				log.Println("ERROR:", ex.NameSl, "-", errMsg)
 				f.SetProperty("error", errMsg)
 				f.SetProperty("marker-color", "#ff0000")
 			}
