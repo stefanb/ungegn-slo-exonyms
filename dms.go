@@ -22,9 +22,15 @@ func ParseDMS(dms string) (float64, error) {
 	errMsg := ""
 	for _, part := range strings.Fields(dms) {
 		if len(part) == 1 {
-			if part == "J" || part == "Z" {
+			switch part {
+			case "J", "Z":
 				q = -1
+			case "S", "V":
+				q = 1
+			default:
+				errMsg += "Invalid quadrant " + strconv.Quote(part)
 			}
+
 			continue
 		}
 

@@ -40773,6 +40773,8 @@
    },
    "properties": {
     "alt_name:sl": "jezero Naroč",
+    "error": "Invalid quadrant \"v\"",
+    "marker-color": "#ff0000",
     "name": "Vozera Narač",
     "name:de": "Naratsch",
     "name:en": "Lake Narach/Lake Naroch",
@@ -48984,6 +48986,8 @@
     ]
    },
    "properties": {
+    "error": "Invalid quadrant \"E\"",
+    "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Kyzyl",
     "name:de": "Kysyl",
@@ -78221,6 +78225,8 @@
     ]
    },
    "properties": {
+    "error": "Invalid quadrant \"E\"",
+    "marker-color": "#ff0000",
     "name": "Pocklington Trough",
     "name:en": "Pocklington Trough",
     "name:hr": "Pocklingtonov jarak",
@@ -84207,6 +84213,8 @@
     ]
    },
    "properties": {
+    "error": "Invalid quadrant \"E\"",
+    "marker-color": "#ff0000",
     "name": "Rhône Fan",
     "name:en": "Rhone Fan/Rhone Cone",
     "name:etymology": "Vršaj je poimenovan po reki Rona, ki ga je nasula.",
@@ -101347,6 +101355,8 @@
    },
    "properties": {
     "alt_name:sl": "Ticinske Alpe",
+    "error": "Invalid quadrant \"N\"Invalid quadrant \"E\"",
+    "marker-color": "#ff0000",
     "name": "Alpi Ticinesi/Alpi Lepontine Sud-occidentali",
     "name:de": "Tessiner Alpen",
     "name:es": "Alpes Ticineses",
