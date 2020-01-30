@@ -4,7 +4,11 @@ unexport GOFLAGS
 
 .PHONY: build
 build: ## builds the executable
-	go build
+	go build -v
+
+.PHONY: test
+test: ## builds the executable
+	go test -cover
 
 .PHONY: run
 run: build download ## runs the conversion

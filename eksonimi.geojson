@@ -5375,11 +5375,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     35.5372,
+     0,
      45.3772
     ]
    },
    "properties": {
+    "error": "Error parsing \"35° 32′ 14″\": Missing direction",
+    "marker-color": "#ff0000",
     "name": "Arabats′ka zatoka",
     "name:de": "Arabat Bucht",
     "name:en": "Bay of Arabat",
@@ -13195,10 +13197,12 @@
     "type": "Point",
     "coordinates": [
      10.45,
-     46.5333
+     0
     ]
    },
    "properties": {
+    "error": "Error parsing \"46° 32′ 0″\": Missing direction",
+    "marker-color": "#ff0000",
     "name": "Passo dello Stelvio/Stilfser Joch",
     "name:en": "Stelvio Pass",
     "name:es": "Paso Stelvio",
@@ -30444,7 +30448,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Gondaranya/Gondwana/Gondwâna",
     "name:de": "Gondwana",
@@ -31590,11 +31594,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     113.25,
+     0,
      1.4167
     ]
    },
    "properties": {
+    "error": "Error parsing \"113° 15′ 0″\": Missing direction",
+    "marker-color": "#ff0000",
     "name": "Pegunungan Kapuas Hulu",
     "name:en": "Upper Kapuas Mountains",
     "name:etymology": "Gorovje je verjetno poimenovano po reki Kapuas Hulu, katere ime pomeni ′Zgornji Kapuas′.",
@@ -32509,11 +32515,11 @@
     "type": "Point",
     "coordinates": [
      32.4472,
-     30.2686
+     0
     ]
    },
    "properties": {
-    "error": "Error parsing: \"SW\" from: \"30° 16′ 7″ SW\" reason: strconv.Atoi: parsing \"S\": invalid syntax",
+    "error": "Error parsing \"30° 16′ 7″ SW\": Error parsing \"SW\": strconv.Atoi: parsing \"S\": invalid syntax, Missing direction",
     "marker-color": "#ff0000",
     "name": "Al Buḩayrāt al-Murrah",
     "name:de": "Bitterseen",
@@ -33616,7 +33622,7 @@
     ]
    },
    "properties": {
-    "error": "No value to parse from: ″ in: 32° 50′ ″ S",
+    "error": "Error parsing \"32° 50′ ″ S\": No value to parse from \"″\"",
     "marker-color": "#ff0000",
     "name": "Mifratz Haifa",
     "name:de": "Bucht von Haifa",
@@ -34279,12 +34285,13 @@
     "type": "Point",
     "coordinates": [
      15,
-     54
+     0
     ]
    },
    "properties": {
     "alt_name:sl": "Hanzeatska zveza",
-    "marker-color": "#D2B48C",
+    "error": "Error parsing \"54° 0′ 0″\": Missing direction",
+    "marker-color": "#ff0000",
     "marker-symbol": "circle-stroked",
     "name": "Hansa/Hanse",
     "name:en": "Hanseatic League",
@@ -43448,7 +43455,7 @@
    },
    "properties": {
     "alt_name:sl": "Južno Trajanovo obzidje;Spodnji Trajanov zid",
-    "error": "Unknown angle unit:9",
+    "error": "Error parsing \"28° 26′ 39 V\": Unknown angle unit \"9\"",
     "marker-color": "#ff0000",
     "name": "Zidul de Sus",
     "name:de": "Untere Trajanwall",
@@ -43520,10 +43527,12 @@
     "type": "Point",
     "coordinates": [
      -159,
-     20
+     0
     ]
    },
    "properties": {
+    "error": "Error parsing \"20° 0′ 0″\": Missing direction",
+    "marker-color": "#ff0000",
     "name": "Southern Cook Islands/Lower Cook islands",
     "name:es": "Islas Cook Meridionales",
     "name:etymology": "Otočje je poimenovano glede na njegovo lego znotraj celotne otoške skupine.",
@@ -46608,12 +46617,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.0011,
+     0,
      36.8339
     ]
    },
    "properties": {
-    "marker-color": "#D2B48C",
+    "error": "Error parsing \"38° 0′ 4″\": Missing direction",
+    "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Kargamiš/Qarqamisch/Karkamiş",
     "name:de": "Karkemiš",
@@ -47110,11 +47120,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.6653,
+     0,
      29.4747
     ]
    },
    "properties": {
+    "error": "Error parsing \"30° 39′ 55″\": Missing direction",
+    "marker-color": "#ff0000",
     "name": "Birkat Qārūn",
     "name:de": "Birket el-Kerun/Qārūn-See",
     "name:en": "Lake Qaroun/Qaroun Lake",
@@ -48997,11 +49009,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     94.45,
+     0,
      51.7
     ]
    },
    "properties": {
+    "error": "Error parsing \"94° 27′ 0″ E\": Invalid direction \"E\"",
+    "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Kyzyl",
     "name:de": "Kysyl",
@@ -50462,10 +50476,12 @@
     "type": "Point",
     "coordinates": [
      56.3333,
-     38.0167
+     0
     ]
    },
    "properties": {
+    "error": "Error parsing \"38° 1′ 0″\": Missing direction",
+    "marker-color": "#ff0000",
     "marker-symbol": "circle-stroked",
     "name": "Khorāsān",
     "name:de": "Chorasan",
@@ -54176,7 +54192,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Laurasia/Laurasie",
     "name:de": "Laurasia",
@@ -54203,7 +54219,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Laurentia",
     "name:de": "Laurentia",
@@ -68430,7 +68446,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "New World/Neue Welt/Nouveau Monde",
     "name:de": "Neue Welt",
@@ -70161,7 +70177,7 @@
    },
    "properties": {
     "alt_name:sl": "Zahodni svet;Zahod",
-    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Occident",
     "name:de": "Westliche Welt/Westen",
@@ -78239,6 +78255,8 @@
     ]
    },
    "properties": {
+    "error": "Error parsing \"11° 40′ 0″ E  J\": Invalid direction \"E\"",
+    "marker-color": "#ff0000",
     "name": "Pocklington Trough",
     "name:en": "Pocklington Trough",
     "name:hr": "Pocklingtonov jarak",
@@ -84225,6 +84243,8 @@
     ]
    },
    "properties": {
+    "error": "Error parsing \"41° 0′ 0″ E  S\": Invalid direction \"E\"",
+    "marker-color": "#ff0000",
     "name": "Rhône Fan",
     "name:en": "Rhone Fan/Rhone Cone",
     "name:etymology": "Vršaj je poimenovan po reki Rona, ki ga je nasula.",
@@ -85539,10 +85559,12 @@
     "type": "Point",
     "coordinates": [
      1.5828,
-     50.8703
+     0
     ]
    },
    "properties": {
+    "error": "Error parsing \"50° 52′ 13″\": Missing direction",
+    "marker-color": "#ff0000",
     "name": "Cap Gris-Nez",
     "name:etymology": "Ime pomeni dobesedno ′rt Sivi nos′.",
     "name:hu": "Gris-Nez-fok",
@@ -89258,7 +89280,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"???\"No dms value to parse: \"???\"",
+    "error": "No dms value to parse: \"???\"; No dms value to parse: \"???\"",
     "marker-color": "#ff0000",
     "name": "Sarjazinskoe vodohraniliše",
     "name:en": "Saryjazin Reservoir",
@@ -92088,7 +92110,7 @@
     ]
    },
    "properties": {
-    "error": "Unknown angle unit:'Error parsing: \"34''\" from: \"5° 58' 34'' Z\" reason: strconv.Atoi: parsing \"34'\": invalid syntax",
+    "error": "Error parsing \"5° 58' 34'' Z\": Unknown angle unit \"'\", Error parsing \"34''\": strconv.Atoi: parsing \"34'\": invalid syntax",
     "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Sevilla",
@@ -96081,7 +96103,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Stýx",
     "name:de": "Styx",
@@ -97010,11 +97032,13 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     20,
+     0,
      78
     ]
    },
    "properties": {
+    "error": "Error parsing \"20° 0′ 0″\": Missing direction",
+    "marker-color": "#ff0000",
     "marker-symbol": "circle-stroked",
     "name": "Svalbard og Jan Mayen",
     "name:de": "Svalbard und Jan Mayen Inseln",
@@ -97711,7 +97735,7 @@
     ]
    },
    "properties": {
-    "error": "No value to parse from: ′ in: 47° 0′ ′″ SNo value to parse from: ″ in: 47° 0′ ′″ S",
+    "error": "Error parsing \"47° 0′ ′″ S\": No value to parse from \"′\", No value to parse from \"″\"",
     "marker-color": "#ff0000",
     "marker-symbol": "circle-stroked",
     "name": "Comté de Bourgogne\n/Franche-Comté",
@@ -100371,7 +100395,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Tártaros",
     "name:de": "Tartaros",
@@ -101359,12 +101383,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     8.4692,
-     46.4117
+     0,
+     0
     ]
    },
    "properties": {
     "alt_name:sl": "Ticinske Alpe",
+    "error": "Error parsing \"46° 24′ 42″ N\": Invalid direction \"N\"; Error parsing \"8° 28′ 9″ E\": Invalid direction \"E\"",
+    "marker-color": "#ff0000",
     "name": "Alpi Ticinesi/Alpi Lepontine Sud-occidentali",
     "name:de": "Tessiner Alpen",
     "name:es": "Alpes Ticineses",
@@ -101387,7 +101413,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"No dms value to parse: \"–\"",
+    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Thetis",
     "name:de": "Tethys/Tethysmeer",
