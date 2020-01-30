@@ -17,6 +17,11 @@ func TestParseDMS(t *testing.T) {
 		assert.Equal(t, -125.135, d)
 	}
 	{
+		d, err := ParseDMS("90° 0′ 0″ J")
+		assert.NoError(t, err)
+		assert.Equal(t, -90.0, d)
+	}
+	{
 		d, err := ParseDMS("125°8′			6″    Z")
 		assert.NoError(t, err)
 		assert.Equal(t, -125.135, d)
@@ -30,16 +35,6 @@ func TestParseDMS(t *testing.T) {
 		d, err := ParseDMS("25\u00b0    8\u2032  	6\u2033 S")
 		assert.NoError(t, err)
 		assert.Equal(t, 25.135, d)
-	}
-	{
-		d, err := ParseDMS("55\u00b0 J")
-		assert.NoError(t, err)
-		assert.Equal(t, -55.0, d)
-	}
-	{
-		d, err := ParseDMS("555\u00b0 J")
-		assert.NoError(t, err)
-		assert.Equal(t, -555.0, d)
 	}
 	{
 		d, err := ParseDMS("55\u00b0 30\u2032 0\u2033 V")
@@ -68,7 +63,7 @@ func TestParseDMSErrors(t *testing.T) {
 	{
 		d, err := ParseDMS("55\u00b0 15 \u2032 0\u2033Z")
 		assert.Error(t, err)
-		assert.Equal(t, -55.0, d)
+		assert.Equal(t, 0.0, d)
 	}
 	{
 		d, err := ParseDMS("125° 8′ 6″")
@@ -76,9 +71,14 @@ func TestParseDMSErrors(t *testing.T) {
 		assert.Equal(t, 0.0, d)
 	}
 	{
+		d, err := ParseDMS("125° 8′ 6″ J")
+		assert.Error(t, err)
+		assert.Equal(t, 0.0, d)
+	}
+	{
 		d, err := ParseDMS("55\u00b0   \u2032 0\u2033Z")
 		assert.Error(t, err)
-		assert.Equal(t, -55.0, d)
+		assert.Equal(t, 0.0, d)
 	}
 	{
 		d, err := ParseDMS("5d 0m 11s S")
@@ -90,6 +90,17 @@ func TestParseDMSErrors(t *testing.T) {
 		assert.Error(t, err)
 		assert.Equal(t, 0.0, d)
 	}
+	{
+		d, err := ParseDMS("55\u00b0 J")
+		assert.Error(t, err)
+		assert.Equal(t, 0.0, d)
+	}
+	{
+		d, err := ParseDMS("3° 66′ 0″ Z")
+		assert.Error(t, err)
+		assert.Equal(t, 0.0, d)
+	}
+
 }
 
 func BenchmarkParseDMS(b *testing.B) {

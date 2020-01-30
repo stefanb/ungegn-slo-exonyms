@@ -4,70 +4,55 @@ import (
 	"errors"
 	"fmt"
 	"math"
+	"regexp"
 
 	"strconv"
 	"strings"
-	"unicode/utf8"
 )
 
+//"125° 8′ 6″ Z"
+var dmsRegex = regexp.MustCompile(`^\s*([0-1]?[0-9]?[0-9])°\s*([0-5]?[0-9])′\s*([0-5]?[0-9])″\s*([SsJjVvZz])\s*$`)
+
+// ParseDMS takes the input DMS notation string (eg "125° 8′ 6″ Z") and converts it to decimal degrees
 func ParseDMS(dms string) (float64, error) {
 	if !hasValue(dms) {
 		return 0, errors.New("No dms value to parse: " + strconv.Quote(dms))
 	}
 
-	dmsIn := dms
-	dms = strings.ReplaceAll(dms, "\u00b0", "\u00b0 ")
-	dms = strings.ReplaceAll(dms, "\u2032", "\u2032 ")
-	dms = strings.ReplaceAll(dms, "\u2033", "\u2033 ")
-	d, m, s, q := 0, 0, 0, 0
-	errorMsgs := make([]string, 0, 0)
-	directionAttempted := false
-	for _, part := range strings.Fields(dms) {
-		if len(part) == 1 {
-			directionAttempted = true
-			switch strings.ToUpper(part) {
-			case "J", "Z":
-				q = -1
-			case "S", "V":
-				q = 1
-			default:
-				errorMsgs = append(errorMsgs, "Invalid direction "+strconv.Quote(part))
-			}
-
-			continue
-		}
-
-		unit, ulen := utf8.DecodeLastRuneInString(part)
-		if len(part) == ulen {
-			errorMsgs = append(errorMsgs, "No value to parse from "+strconv.Quote(part))
-			continue
-		}
-		val, err := strconv.Atoi(part[:len(part)-ulen])
-		if err != nil {
-			errorMsgs = append(errorMsgs, "Error parsing "+strconv.Quote(part)+": "+err.Error())
-			continue
-		}
-
-		switch unit {
-		case 176: //'\u00b0':
-			d = val
-		case 8242: //'\u2032':
-			m = val
-		case 8243: //'\u2033':
-			s = val
-		default:
-			errorMsgs = append(errorMsgs, "Unknown angle unit "+strconv.Quote(string(unit)))
-		}
+	matches := dmsRegex.FindStringSubmatch(dms)
+	if len(matches) != 5 {
+		return 0, fmt.Errorf("Error parsing %s", strconv.Quote(dms))
 	}
 
-	if q == 0 && !directionAttempted {
-		errorMsgs = append(errorMsgs, "Missing direction")
-	}
-	var err error
-	if len(errorMsgs) != 0 {
-		err = fmt.Errorf("Error parsing %s: %s", strconv.Quote(dmsIn), strings.Join(errorMsgs, ", "))
+	q := 0
+	var dmax int
+
+	switch strings.ToUpper(matches[4]) {
+	case "J":
+		q = -1
+		dmax = 90
+	case "Z":
+		q = -1
+		dmax = 180
+	case "S":
+		q = 1
+		dmax = 90
+	case "V":
+		q = 1
+		dmax = 180
+	default:
+		return 0, fmt.Errorf("Invalid direction %s", strconv.Quote(matches[4]))
 	}
 
-	deg := float64(q) * (float64(d) + float64(m)/60 + float64(s)/60/60)
-	return math.Round(deg*10000) / 10000, err
+	// errors disallowed by regex :)
+	d, _ := strconv.Atoi(matches[1])
+	m, _ := strconv.Atoi(matches[2])
+	s, _ := strconv.Atoi(matches[3])
+
+	deg := (float64(d) + float64(m)/60 + float64(s)/60/60)
+
+	if d > dmax {
+		return 0, fmt.Errorf("%d deegrees to large for direction %s.", d, strconv.Quote(matches[4]))
+	}
+	return float64(q) * math.Round(deg*10000) / 10000, nil
 }
