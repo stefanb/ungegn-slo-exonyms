@@ -37,11 +37,11 @@ func main() {
 			errMsg := ""
 			ex.Lat, err = ParseDMS(ex.LatDMS)
 			if err != nil {
-				errMsg = errMsg + err.Error()
+				errMsg = errMsg + "; " + err.Error()
 			}
 			ex.Lon, err = ParseDMS(ex.LonDMS)
 			if err != nil {
-				errMsg = errMsg + err.Error()
+				errMsg = errMsg + "; " + err.Error()
 			}
 			//fmt.Println(ex)
 			// for _, lang := range strings.Split(ex.LangOrig,"/") {
@@ -73,6 +73,7 @@ func main() {
 			setOptionalProperty(f, "note", ex.Note)
 
 			if errMsg != "" {
+				errMsg = strings.TrimPrefix(errMsg, "; ")
 				log.Println("ERROR:", ex.NameSl, "-", errMsg)
 				f.SetProperty("error", errMsg)
 				f.SetProperty("marker-color", "#ff0000")

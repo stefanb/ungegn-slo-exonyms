@@ -2,6 +2,7 @@ package main
 
 import (
 	"errors"
+	"fmt"
 	"math"
 
 	"strconv"
@@ -19,16 +20,18 @@ func ParseDMS(dms string) (float64, error) {
 	dms = strings.ReplaceAll(dms, "\u2032", "\u2032 ")
 	dms = strings.ReplaceAll(dms, "\u2033", "\u2033 ")
 	d, m, s, q := 0, 0, 0, 0
-	errMsg := ""
+	errorMsgs := make([]string, 0, 0)
+	directionAttempted := false
 	for _, part := range strings.Fields(dms) {
 		if len(part) == 1 {
+			directionAttempted = true
 			switch strings.ToUpper(part) {
 			case "J", "Z":
 				q = -1
 			case "S", "V":
 				q = 1
 			default:
-				errMsg += "Invalid direction " + strconv.Quote(part)
+				errorMsgs = append(errorMsgs, "Invalid direction "+strconv.Quote(part))
 			}
 
 			continue
@@ -36,12 +39,12 @@ func ParseDMS(dms string) (float64, error) {
 
 		unit, ulen := utf8.DecodeLastRuneInString(part)
 		if len(part) == ulen {
-			errMsg = errMsg + "No value to parse from: " + part + " in: " + dmsIn
+			errorMsgs = append(errorMsgs, "No value to parse from "+strconv.Quote(part))
 			continue
 		}
 		val, err := strconv.Atoi(part[:len(part)-ulen])
 		if err != nil {
-			errMsg = errMsg + "Error parsing: " + strconv.Quote(part) + " from: " + strconv.Quote(dmsIn) + " reason: " + err.Error()
+			errorMsgs = append(errorMsgs, "Error parsing "+strconv.Quote(part)+": "+err.Error())
 			continue
 		}
 
@@ -53,16 +56,16 @@ func ParseDMS(dms string) (float64, error) {
 		case 8243: //'\u2033':
 			s = val
 		default:
-			errMsg = errMsg + "Unknown angle unit:" + string(unit)
+			errorMsgs = append(errorMsgs, "Unknown angle unit "+strconv.Quote(string(unit)))
 		}
 	}
 
-	if q == 0 {
-		errMsg += "No direction in " + strconv.Quote(dms)
+	if q == 0 && !directionAttempted {
+		errorMsgs = append(errorMsgs, "Missing direction")
 	}
 	var err error
-	if errMsg != "" {
-		err = errors.New(errMsg)
+	if len(errorMsgs) != 0 {
+		err = fmt.Errorf("Error parsing %s: %s", strconv.Quote(dmsIn), strings.Join(errorMsgs, ", "))
 	}
 
 	deg := float64(q) * (float64(d) + float64(m)/60 + float64(s)/60/60)
