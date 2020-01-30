@@ -18,17 +18,17 @@ func ParseDMS(dms string) (float64, error) {
 	dms = strings.ReplaceAll(dms, "\u00b0", "\u00b0 ")
 	dms = strings.ReplaceAll(dms, "\u2032", "\u2032 ")
 	dms = strings.ReplaceAll(dms, "\u2033", "\u2033 ")
-	d, m, s, q := 0, 0, 0, 1
+	d, m, s, q := 0, 0, 0, 0
 	errMsg := ""
 	for _, part := range strings.Fields(dms) {
 		if len(part) == 1 {
-			switch part {
+			switch strings.ToUpper(part) {
 			case "J", "Z":
 				q = -1
 			case "S", "V":
 				q = 1
 			default:
-				errMsg += "Invalid quadrant " + strconv.Quote(part)
+				errMsg += "Invalid direction " + strconv.Quote(part)
 			}
 
 			continue
@@ -57,6 +57,9 @@ func ParseDMS(dms string) (float64, error) {
 		}
 	}
 
+	if q == 0 {
+		errMsg += "No direction in " + strconv.Quote(dms)
+	}
 	var err error
 	if errMsg != "" {
 		err = errors.New(errMsg)

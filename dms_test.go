@@ -71,6 +71,11 @@ func TestParseDMSErrors(t *testing.T) {
 		assert.Equal(t, -55.0, d)
 	}
 	{
+		d, err := ParseDMS("125° 8′ 6″")
+		assert.Error(t, err)
+		assert.Equal(t, 0.0, d)
+	}
+	{
 		d, err := ParseDMS("55\u00b0   \u2032 0\u2033Z")
 		assert.Error(t, err)
 		assert.Equal(t, -55.0, d)
