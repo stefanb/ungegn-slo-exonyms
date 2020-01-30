@@ -91,3 +91,10 @@ func TestParseDMSErrors(t *testing.T) {
 		assert.Equal(t, 0.0, d)
 	}
 }
+
+func BenchmarkParseDMS(b *testing.B) {
+	// run the Fib function b.N times
+	for n := 0; n < b.N; n++ {
+		_, _ = ParseDMS("125° 8′ 6″ Z")
+	}
+}
