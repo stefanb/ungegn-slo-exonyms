@@ -79,10 +79,10 @@ func main() {
 
 			case "nestandardiziran", "non-standardized":
 				switch strings.ToUpper(ex.RecommendedUse) {
-				case "A", "B":
+				case "A", "B", "C":
 					nameSlTag = "name:sl"
 					f.SetProperty(nameSlTag, ex.NameSl)
-				case "C", "D", "E":
+				case "D", "E":
 					nameSlTag = "alt_name:sl"
 					if hasValue(ex.NameSlAlt) {
 						ex.NameSlAlt = ex.NameSl + ";" + ex.NameSlAlt
