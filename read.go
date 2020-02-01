@@ -22,7 +22,12 @@ func main() {
 		log.Fatal(err)
 	}
 
-	exonyms := make([]Exonym, 0)
+	wholeExcelFile, err := xlFile.ToSlice()
+	if err != nil {
+		log.Fatal(err)
+	}
+	saveJSON(wholeExcelFile, "eksonimi-giam.json")
+
 	featureCollection := geojson.NewFeatureCollection()
 	for _, sheet := range xlFile.Sheets {
 		for i, row := range sheet.Rows {
@@ -79,14 +84,12 @@ func main() {
 				f.SetProperty("marker-color", "#ff0000")
 			}
 			featureCollection.AddFeature(f)
-			exonyms = append(exonyms, *ex)
 		}
 	}
 
 	log.Printf("Read %d features.", len(featureCollection.Features))
 
 	saveJSON(featureCollection, "eksonimi.geojson")
-	saveJSON(exonyms, "eksonimi-giam.json")
 }
 
 func saveJSON(obj interface{}, jsonFilename string) {
