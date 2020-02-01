@@ -541,6 +541,7 @@
    },
    "properties": {
     "alt_name:sl": "Abukirski zaliv",
+    "marker-size": "small",
     "name": "Khalīj Abu Qīr",
     "name:de": "Die Abukir-Bucht",
     "name:en": "Abu Qir Bay",
@@ -583,6 +584,7 @@
    },
    "properties": {
     "alt_name:sl": "Adamava",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Province de l′Adamaoua",
     "name:en": "Adamawa Region",
@@ -675,6 +677,7 @@
    },
    "properties": {
     "alt_name:sl": "Adelajda",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Adelaide",
     "name:es": "Adelaida",
@@ -696,6 +699,7 @@
    },
    "properties": {
     "alt_name:sl": "Adelajdin otok",
+    "marker-size": "small",
     "name": "Adelaide Island",
     "name:de": "Adelaide-Insel",
     "name:es": "Isla Adelaida",
@@ -796,6 +800,7 @@
    },
    "properties": {
     "alt_name:sl": "Adiča",
+    "marker-size": "small",
     "name": "Adyča",
     "name:de": "Adytscha",
     "name:en": "Adycha",
@@ -936,6 +941,7 @@
    },
    "properties": {
     "alt_name:sl": "Adua",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Adwa",
     "name:es": "Adua",
@@ -1011,6 +1017,7 @@
    },
    "properties": {
     "alt_name:sl": "Adžmer",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Ajmer",
     "name:etymology:sl": "Naselje je poimenovano po radžah Ajayadeva, ki so ga ustanovili v 11. stoletju.",
@@ -1504,6 +1511,7 @@
    },
    "properties": {
     "alt_name:sl": "Aigion",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Aigio",
     "name:de": "Egio",
@@ -1527,6 +1535,7 @@
    },
    "properties": {
     "alt_name:sl": "Aiguilonski zaliv",
+    "marker-size": "small",
     "name": "Pertuis Breton/Baie de l′Aiguillon",
     "name:en": "Pertuis d′Antioche Strait",
     "name:es": "Pertuis d′Antioquía",
@@ -1592,6 +1601,7 @@
    },
    "properties": {
     "alt_name:sl": "Ajantsko hribovje",
+    "marker-size": "small",
     "name": "Ajanta Range",
     "name:es": "Montes Ajanta",
     "name:etymology:sl": "Hribovje je poimenovano po vasi Ajinṭhā in bližnjih svetovno znanih Ajantskih jamah (Ajanta Caves).",
@@ -1824,6 +1834,7 @@
    },
    "properties": {
     "alt_name:sl": "Akmola;Celinograd",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Aķmola/Akmolinsk/Celinograd/Astana",
     "name:de": "Aqmola",
@@ -1945,6 +1956,7 @@
    },
    "properties": {
     "alt_name:sl": "Aktjubinsk",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Aķtöbe",
     "name:de": "Aqtöbe",
@@ -2252,6 +2264,7 @@
    },
    "properties": {
     "alt_name:sl": "Alboran",
+    "marker-size": "small",
     "name": "Isla de Alborán",
     "name:etymology:sl": "Otok je poimenovan po tunizijskem piratu Al Boraniju, od katerega je Španija prevzela kontrolo nad otokom po bitki v njegovi bližini leta 1540.",
     "name:hr": "Alboran",
@@ -2364,6 +2377,7 @@
    },
    "properties": {
     "alt_name:sl": "Alegeni",
+    "marker-size": "small",
     "name": "Allegheny Mountains",
     "name:etymology:sl": "Hribovje je poimenovano po reki Allegheny, katere ime izhaja iz jezika Indijancev Delaware in je nejasnega izvora, povsem mogoče pa je, da pomeni ′Neskončna planina′.",
     "name:hr": "Alegeni",
@@ -2385,6 +2399,7 @@
    "properties": {
     "alt_name:sl": "Aleksandreta",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "İskenderun",
     "name:de": "Alexandrette",
@@ -2461,6 +2476,7 @@
    },
    "properties": {
     "alt_name:sl": "Aleksandropolis",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Alexandroúpoli",
     "name:de": "Alexandoupolis",
@@ -2509,6 +2525,7 @@
    },
    "properties": {
     "alt_name:sl": "Aleksandrov otok",
+    "marker-size": "small",
     "name": "Alexander Island",
     "name:de": "Alexander-I.-Insel",
     "name:es": "Isla Alejandro I",
@@ -2837,6 +2854,7 @@
    },
    "properties": {
     "alt_name:sl": "Alorski otoki",
+    "marker-size": "small",
     "name": "Kepulauan Alor",
     "name:de": "Alor-Archipel",
     "name:en": "Alor Archipelago",
@@ -2884,6 +2902,7 @@
    },
    "properties": {
     "alt_name:sl": "Aluta",
+    "marker-size": "small",
     "name": "Olt",
     "name:en": "Olt River",
     "name:es": "Río Olt",
@@ -3004,6 +3023,7 @@
    },
    "properties": {
     "alt_name:sl": "Amadeusovo jezero",
+    "marker-size": "small",
     "name": "Lake Amadeus",
     "name:es": "Lago Amadeo",
     "name:etymology:sl": "Jezero je poimenovano po španskem kralju Amadeju I. (1870‒1873).",
@@ -3242,6 +3262,7 @@
    },
    "properties": {
     "alt_name:sl": "Ambrakijski zaliv",
+    "marker-size": "small",
     "name": "Amvrakikos kólpos",
     "name:de": "Ambrakischer Golf",
     "name:en": "Ambracian Gulf",
@@ -3341,6 +3362,7 @@
    },
    "properties": {
     "alt_name:sl": "Ameriški slap",
+    "marker-size": "small",
     "name": "American Falls",
     "name:etymology:sl": "Slap je poimenovan glede na njegovo lego na ameriški strani (v Združenih državah Amerike) Niagarskih slapov.",
     "name:hr": "Američki slapovi",
@@ -3551,6 +3573,7 @@
    },
    "properties": {
     "alt_name:sl": "Ammersko jezero",
+    "marker-size": "small",
     "name": "Ammersee",
     "name:es": "Lago Ammer",
     "name:etymology:sl": "Jezero je poimenovano po reki Ammer, ki se izliva vanj. Iz jezera izteka reka Amper.",
@@ -3699,6 +3722,7 @@
    },
    "properties": {
     "alt_name:sl": "Amundsenov zaliv",
+    "marker-size": "small",
     "name": "Amundsen Gulf",
     "name:de": "Amundsen-Golf",
     "name:es": "Golfo de Amundsen",
@@ -3834,6 +3858,7 @@
    },
    "properties": {
     "alt_name:sl": "Anadir",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Anadyr′",
     "name:de": "Anadyr",
@@ -4271,6 +4296,7 @@
    },
    "properties": {
     "alt_name:sl": "Andreanovovi otoki",
+    "marker-size": "small",
     "name": "Andreanof Islands",
     "name:de": "Andreanof Islands",
     "name:es": "Islas Andreanof",
@@ -4294,6 +4320,7 @@
    },
    "properties": {
     "alt_name:sl": "Andros",
+    "marker-size": "small",
     "name": "Ándros",
     "name:de": "Andros",
     "name:en": "Andros",
@@ -4317,6 +4344,7 @@
    },
    "properties": {
     "alt_name:sl": "Anegadski prehod",
+    "marker-size": "small",
     "name": "Anegada Passage",
     "name:de": "Anegada-Passage",
     "name:etymology:sl": "Preliv je poimenovan po otoku Anagada, najbolj severozahodnem otoku v Britanskih Deviških otokih.",
@@ -4502,6 +4530,7 @@
    },
    "properties": {
     "alt_name:sl": "Angora",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Ankara",
     "name:en": "Angora",
@@ -4612,6 +4641,7 @@
    },
    "properties": {
     "alt_name:sl": "Anjoujevi otoki",
+    "marker-size": "small",
     "name": "ostrova Anžu",
     "name:de": "Anschuinseln",
     "name:en": "Anzhu Islands",
@@ -5152,6 +5182,7 @@
    },
    "properties": {
     "alt_name:sl": "Apalaški zaliv",
+    "marker-size": "small",
     "name": "Apalachee Bay",
     "name:es": "Bahía Apalachee",
     "name:etymology:sl": "Zaliv je poimenovan po indijanskem plemenu Apalachee.",
@@ -5221,6 +5252,7 @@
    },
    "properties": {
     "alt_name:sl": "Apolimski preliv",
+    "marker-size": "small",
     "name": "Apolima Strait",
     "name:es": "Estrecho de Apolima",
     "name:etymology:sl": "Pojav je poimenovan po otoku Apolima sredi preliva.",
@@ -5527,6 +5559,7 @@
    },
    "properties": {
     "alt_name:sl": "Arabski zaliv",
+    "marker-size": "small",
     "name": "Khalīj al ′Arab",
     "name:etymology:sl": "Slovensko ime je dobesedni prevod arabskega imena.",
     "name:hr": "Arapski zaljev",
@@ -5772,6 +5805,7 @@
    },
    "properties": {
     "alt_name:sl": "Arbil",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Erbīl/Hewlêr",
     "name:de": "Arbil",
@@ -6033,6 +6067,7 @@
    },
    "properties": {
     "alt_name:sl": "Arhipelag kraljice Adelaide",
+    "marker-size": "small",
     "name": "Archipiélago Reina Adelaida",
     "name:en": "Queen Adelaide Archipelago",
     "name:etymology:sl": "Arhipelag je poimenovan po angleški kraljici Adelajdi (1792‒1849), ženi kralja Viljema IV.",
@@ -6055,6 +6090,7 @@
    },
    "properties": {
     "alt_name:sl": "arhipelag Recherche",
+    "marker-size": "small",
     "name": "Archipelago of the Recherche",
     "name:de": "Recherche-Archipel",
     "name:etymology:sl": "Ime L′Archipel de la Recherche je Evropejcem že prej znanim otokom leta 1792 nadel francoski raziskovalec Bruni d′Entrecasteaux po eni od admiralskih ladij, imenovani Le Recherche v pomenu ′Raziskovanje′.",
@@ -6223,6 +6259,7 @@
    },
    "properties": {
     "alt_name:sl": "Armanjaško gričevje",
+    "marker-size": "small",
     "name": "Collines de l′Armagnac",
     "name:etymology:sl": "Gričevje je poimenovano po pokrajini Armagnac, poimenovani po družini, katere ime lahko izvira iz njenih povezav z Armenijo.",
     "name:hr": "Armanjačka brda",
@@ -6385,6 +6422,7 @@
    },
    "properties": {
     "alt_name:sl": "Arnhemski rt",
+    "marker-size": "small",
     "name": "Cape Arnhem",
     "name:etymology:sl": "Rt je poimenovan po ladji Arnhem, s katero je leta 1623 nizozemski morjeplovec Willem Janszoon (ok. 1570−1630) plul mimo njega in zajadral v Carpentarijski zaliv.",
     "name:hr": "Arnhemov rt",
@@ -6886,6 +6924,7 @@
    },
    "properties": {
     "alt_name:sl": "Asunsion",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Asunción",
     "name:etymology:sl": "Mesto je bilo ustanovljeno 15. avgusta 1537, na dan Marijinega vnebovzetja in je po tem dogodku dobilo ime.",
@@ -7100,6 +7139,7 @@
    },
    "properties": {
     "alt_name:sl": "Athabaško jezero",
+    "marker-size": "small",
     "name": "Lake Athabasca",
     "name:de": "Athabascasee",
     "name:es": "Lago Athabasca",
@@ -7314,6 +7354,7 @@
    },
    "properties": {
     "alt_name:sl": "Attersko jezero",
+    "marker-size": "small",
     "name": "Attersee",
     "name:fr": "Lac d′Attersee",
     "name:hr": "Attersko jezero",
@@ -7379,6 +7420,7 @@
    },
    "properties": {
     "alt_name:sl": "Austinovo jezero",
+    "marker-size": "small",
     "name": "Lake Austin",
     "name:etymology:sl": "Jezero je poimenovano po geodetu Robertu Austinu (1825−1905), ki je kot prvi Evropejec raziskoval in kartiral območje jezera.",
     "name:hr": "Austinovo jezero",
@@ -7587,6 +7629,7 @@
    },
    "properties": {
     "alt_name:sl": "Avstralsko nižavje",
+    "marker-size": "small",
     "name": "Australian Lowland",
     "name:etymology:sl": "Nižavje je poimenovano glede na njegovo lego v Avstraliji.",
     "name:hr": "Australska nizina",
@@ -8098,6 +8141,7 @@
    "properties": {
     "alt_name:sl": "Badensko",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Baden",
     "name:etymology:sl": "Ime pomeni ′Kopališča′, kar se nanaša na tamkajšnje naravne vrelce.",
@@ -8373,6 +8417,7 @@
    },
    "properties": {
     "alt_name:sl": "Bajdaraški zaliv",
+    "marker-size": "small",
     "name": "Bajdarackaja guba",
     "name:en": "Baydaratskaya Bay",
     "name:es": "Bahía de Bajdaratskaya",
@@ -8492,6 +8537,7 @@
    },
    "properties": {
     "alt_name:sl": "Bajuda",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bayyūḑah",
     "name:en": "Bayuda",
@@ -8535,6 +8581,7 @@
    },
    "properties": {
     "alt_name:sl": "Baker",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bakar",
     "name:etymology:sl": "Naselje je poimenovano po bližnjem rudniku bakrove rude, ime pa lahko izhaja tudi od besede bukara, lesenega vrča z obliko, podobno obliki Bakrskega zaliva.",
@@ -8863,6 +8910,7 @@
    },
    "properties": {
     "alt_name:sl": "Balintanški preliv",
+    "marker-size": "small",
     "name": "Balintang Channel",
     "name:de": "Balintangkanal",
     "name:es": "Canal Balintang",
@@ -8935,6 +8983,7 @@
    },
    "properties": {
     "alt_name:sl": "Balkanski zaliv",
+    "marker-size": "small",
     "name": "Türkmenbaşy Aýlagy",
     "name:en": "Krasnovodsk Gulf",
     "name:etymology:sl": "Zaliv je poimenovan po mestu na vzhodni obali Kaspijskega jezera Krasnovodsk, zdaj v čast turkmenistanskega predsednika Sapurmurata Nijazova (1940−2006) z vzdevkom Turkmenbasi (kar pomeni ′Voditelj Turkmenov′) preimenovanega v Turkmenbaši (Türkmenbaşy).",
@@ -9028,6 +9077,7 @@
    },
    "properties": {
     "alt_name:sl": "Banatsko hribovje",
+    "marker-size": "small",
     "name": "Munții Banatului",
     "name:de": "Banater Gebirge",
     "name:etymology:sl": "Hribovje je poimenovano po pokrajini Banat.",
@@ -9074,6 +9124,7 @@
    },
    "properties": {
     "alt_name:sl": "Banggajski otoki",
+    "marker-size": "small",
     "name": "Kepulauan Banggai",
     "name:de": "Banggai-Inseln",
     "name:en": "Banggai Archipelago",
@@ -9213,6 +9264,7 @@
    },
    "properties": {
     "alt_name:sl": "Banksov polotok",
+    "marker-size": "small",
     "name": "Banks Peninsula",
     "name:es": "Península de Banks",
     "name:etymology:sl": "Polotok je poimenovan v čast britanskega naravoslovca, sira Josepha Banksa (1743‒1820), predsednika Kraljevega društva in člana Cookove odprave okrog sveta v letih 1768‒1772.",
@@ -9235,6 +9287,7 @@
    },
    "properties": {
     "alt_name:sl": "Banksov preliv",
+    "marker-size": "small",
     "name": "Banks Strait",
     "name:etymology:sl": "Preliv je poimenovan v čast britanskega naravoslovca, sira Josepha Banksa (1743‒1820), predsednika Kraljevega društva in člana Cookove odprave okrog sveta v letih 1768‒1773.",
     "name:hr": "Banksov prolaz",
@@ -9254,6 +9307,7 @@
    },
    "properties": {
     "alt_name:sl": "Banksovi otoki",
+    "marker-size": "small",
     "name": "Îles Banks/Bankis",
     "name:de": "Banks-Inseln",
     "name:en": "Banks Islands",
@@ -9410,6 +9464,7 @@
    },
    "properties": {
     "alt_name:sl": "Baranja",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Baranya",
     "name:de": "Komitat Baranya",
@@ -9595,6 +9650,7 @@
    },
    "properties": {
     "alt_name:sl": "Barleejevo jezero",
+    "marker-size": "small",
     "name": "Lake Barlee",
     "name:etymology:sl": "Jezero je poimenovano po kolonialnem sekretarju Zahodne Avstralije Fredericku Barleeju (1827‒1884).",
     "name:hu": "Barlee-tó",
@@ -9632,6 +9688,7 @@
    },
    "properties": {
     "alt_name:sl": "Barrowov preliv",
+    "marker-size": "small",
     "name": "Barrow Strait",
     "name:es": "Estrecho de Barrow",
     "name:etymology:sl": "Leta 1819 odkriti preliv je poimenovan v čast siru Johnu Barrowu (1764‒1843), britanskemu pokrovitelju raziskovanj Arktike.",
@@ -9675,6 +9732,7 @@
    },
    "properties": {
     "alt_name:sl": "Basilanski preliv",
+    "marker-size": "small",
     "name": "Basilan Strait",
     "name:de": "Straße von Basilan",
     "name:es": "Estrecho de Basilan",
@@ -9798,6 +9856,7 @@
    },
    "properties": {
     "alt_name:sl": "Batabanski zaliv",
+    "marker-size": "small",
     "name": "Golfo de Batabanó",
     "name:de": "Golf von Batabanó",
     "name:en": "Gulf of Batabanó",
@@ -9867,6 +9926,7 @@
    },
    "properties": {
     "alt_name:sl": "Bathurstov rt",
+    "marker-size": "small",
     "name": "Cape Bathurst",
     "name:etymology:sl": "Rt je poimenovan po Henryju Bathurstu, 3. grofu Bathurškem (1762‒1834), ki je bil tudi državni sekretar za kolonije. Ime mu je leta 1826 nadel odkritelj, škotski naravoslovec in arktični raziskovalec John Richardson.",
     "name:hr": "Bathurstov rt",
@@ -10024,6 +10084,7 @@
    "properties": {
     "alt_name:sl": "Bavči",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Bauchi",
     "name:etymology:sl": "Ime naj bi izhajajo iz priimka kmetovalca Bausheja, ki se je tu naselil pred 19. stoletjem.",
@@ -10043,6 +10104,7 @@
    },
    "properties": {
     "alt_name:sl": "Bazileja",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Basel/Bâle",
     "name:es": "Basilea",
@@ -10160,6 +10222,7 @@
    },
    "properties": {
     "alt_name:sl": "Beethovnov polotok",
+    "marker-size": "small",
     "name": "Beethoven Peninsula",
     "name:de": "Beethoven Halbinsel",
     "name:es": "Beethoven Peninsula",
@@ -10182,6 +10245,7 @@
    },
    "properties": {
     "alt_name:sl": "Beja",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bāyah/Béja",
     "name:de": "Beja",
@@ -10270,6 +10334,7 @@
    },
    "properties": {
     "alt_name:sl": "Bela",
+    "marker-size": "small",
     "name": "Belaja/Ağidel ",
     "name:en": "Belaya River",
     "name:es": "Río Bélaya",
@@ -10459,6 +10524,7 @@
    },
    "properties": {
     "alt_name:sl": "Belgrad",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Biograd na Moru",
     "name:etymology:sl": "Hrvaško ime pomeni ′Belo mesto na morju′ in je sestavljeno iz izrazov bio v pomenu ′bel′, grad v pomenu ′mesto′ in more v pomenu ′morje′.",
@@ -10479,6 +10545,7 @@
    },
    "properties": {
     "alt_name:sl": "Belgrad",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Alba Iulia",
     "name:de": "Karlsburg",
@@ -10501,6 +10568,7 @@
    },
    "properties": {
     "alt_name:sl": "Belgrad",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Beograd",
     "name:de": "Belgrad",
@@ -10550,6 +10618,7 @@
    },
    "properties": {
     "alt_name:sl": "Beli Elster",
+    "marker-size": "small",
     "name": "Bílý Halštrov/Weiße Elster",
     "name:en": "White Elster",
     "name:es": "Río Elster Blanco",
@@ -10945,6 +11014,7 @@
    },
    "properties": {
     "alt_name:sl": "Belsko",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bielsko",
     "name:de": "Bielitz",
@@ -11057,6 +11127,7 @@
    },
    "properties": {
     "alt_name:sl": "Belun",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Belluno",
     "name:de": "Beilun",
@@ -11461,6 +11532,7 @@
    },
    "properties": {
     "alt_name:sl": "Berber",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Barbar",
     "name:en": "Berber",
@@ -11740,6 +11812,7 @@
    },
    "properties": {
     "alt_name:sl": "Berna",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bern",
     "name:es": "Berna",
@@ -12001,6 +12074,7 @@
    },
    "properties": {
     "alt_name:sl": "Bielsko jezero",
+    "marker-size": "small",
     "name": "Bielersee/Lac de Bienne",
     "name:en": "Lake Biel",
     "name:es": "Lago de Bienne",
@@ -12050,6 +12124,7 @@
    },
    "properties": {
     "alt_name:sl": "Biheč",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bihać",
     "name:etymology:sl": "Občnoimenski izraz bihać verjetno označuje kraljevsko posest, iz česar zlasti hrvaški zgodovinarji izpeljujejo velik pomen mesta v srednjeveški zgodovini.",
@@ -12564,6 +12639,7 @@
    },
    "properties": {
     "alt_name:sl": "Bližnji otoki",
+    "marker-size": "small",
     "name": "Near Islands/Sasignan tanangin",
     "name:es": "Islas Nesr",
     "name:etymology:sl": "Otokom so ime nadeli ruski raziskovalci, saj je bil to del Aleutov, ki je bil najbližji ruskemu celinskemu ozemlju.",
@@ -12757,6 +12833,7 @@
    },
    "properties": {
     "alt_name:sl": "Bolcan",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bolzano/Bozen",
     "name:de": "Bozen",
@@ -12805,6 +12882,7 @@
    },
    "properties": {
     "alt_name:sl": "Bolgarska Morava",
+    "marker-size": "small",
     "name": "Južna Morava",
     "name:de": "Südliche Morava",
     "name:en": "South Morava",
@@ -12919,6 +12997,7 @@
    },
    "properties": {
     "alt_name:sl": "Bolonja",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bologna",
     "name:es": "Bolonia",
@@ -12966,6 +13045,7 @@
    },
    "properties": {
     "alt_name:sl": "Bomba",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Būmbah",
     "name:de": "Bomba",
@@ -12986,6 +13066,7 @@
    },
    "properties": {
     "alt_name:sl": "Bombski zaliv",
+    "marker-size": "small",
     "name": "Khalīj al Būmbah",
     "name:de": "Bomba-Bucht",
     "name:en": "Gulf of Bomba",
@@ -13026,6 +13107,7 @@
    },
    "properties": {
     "alt_name:sl": "Bongojsko hribovje",
+    "marker-size": "small",
     "name": "Massif des Bongo/Bongo Massif",
     "name:de": "Bongo-Massiv/Bongo-Berge",
     "name:es": "Macizo del Bongo",
@@ -13143,6 +13225,7 @@
    },
    "properties": {
     "alt_name:sl": "Bordnov polotok",
+    "marker-size": "small",
     "name": "Borden Peninsula",
     "name:de": "Borden-Halbinsel",
     "name:es": "Península Borden",
@@ -13185,6 +13268,7 @@
     "alt_name:sl": "Bormijski prelaz",
     "error": "Error parsing \"46° 32′ 0″\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "name": "Passo dello Stelvio/Stilfser Joch",
     "name:en": "Stelvio Pass",
     "name:es": "Paso Stelvio",
@@ -13378,6 +13462,7 @@
    },
    "properties": {
     "alt_name:sl": "Bougainvillov preliv",
+    "marker-size": "small",
     "name": "Bougainville Strait",
     "name:es": "Estrecho de Bougainville",
     "name:etymology:sl": "Preliv je poimenovan po bližnjem Bougainvillovem otoku.",
@@ -13607,6 +13692,7 @@
    },
    "properties": {
     "alt_name:sl": "Božični otok",
+    "marker-size": "small",
     "name": "Kiritimati/Christmas Island",
     "name:de": "Kiritimati/Weihnachtsinsel",
     "name:etymology:sl": "Otoku je ime nadel James Cook, ki ga je odkril na božični večer 24. decembra 1777. Kiribatsko ime Kiritimati je fonetični zapis njihovega izgovora prve besede in začetka druge besede v imenu.",
@@ -13649,6 +13735,7 @@
    },
    "properties": {
     "alt_name:sl": "Braganza",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Bragança",
     "name:en": "Braganza",
@@ -13672,6 +13759,7 @@
    },
    "properties": {
     "alt_name:sl": "Brajlov",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Brăila",
     "name:etymology:sl": "Izvor in pomen imena naselja nista znana. V grških virih se omenja kot Proilabum ali Proilava, kar je lahko prilagoditev slovanskega imena Brailov.",
@@ -13735,6 +13823,7 @@
    },
    "properties": {
     "alt_name:sl": "Branibor",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Brandenburg",
     "name:es": "Ciudad de Brandeburgo",
@@ -13759,6 +13848,7 @@
    },
    "properties": {
     "alt_name:sl": "Branibor",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Neubrandenburg",
     "name:es": "Nuevo Brandeburgo",
@@ -13779,6 +13869,7 @@
    },
    "properties": {
     "alt_name:sl": "Bransfieldov preliv",
+    "marker-size": "small",
     "name": "Bransfield Strait",
     "name:de": "Bransfieldstraße",
     "name:en": "Bransfield Strait",
@@ -13801,6 +13892,7 @@
    },
    "properties": {
     "alt_name:sl": "Braševo",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Braşov",
     "name:de": "Kronstadt",
@@ -14503,6 +14595,7 @@
    },
    "properties": {
     "alt_name:sl": "Brodeurjev polotok",
+    "marker-size": "small",
     "name": "Brodeur Peninsula",
     "name:es": "Península Brodeur",
     "name:etymology:sl": "Ime so ob kartiranju severnega dela Baffinovega otoka leta 1911 vpeljali člani Bernierjeve znanstvene odprave in ga podelili v čast takratnega kanadskega ministra za ribolov in poznejšega guvernerja province Quebec Louisa Philippa Brodeurja (1862‒1924).",
@@ -14522,6 +14615,7 @@
    },
    "properties": {
     "alt_name:sl": "Brokopondsko zajezitveno jezero;Van Blommesteinovo zajezitveno jezero",
+    "marker-size": "small",
     "name": "Brokopondostuwmeer/Prof. dr. ir. W.J. van Blommesteinmeer",
     "name:de": "Blommesteinsee",
     "name:en": "Brokopondo Reservoir",
@@ -14660,6 +14754,7 @@
    },
    "properties": {
     "alt_name:sl": "Brunšvik",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Braunschweig/Brunswiek",
     "name:en": "Brunswick",
@@ -14957,6 +15052,7 @@
    },
    "properties": {
     "alt_name:sl": "Bukovec;Ljubek",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Lübeck",
     "name:es": "Lubeca",
@@ -15269,6 +15365,7 @@
    },
    "properties": {
     "alt_name:sl": "Bylotov otok",
+    "marker-size": "small",
     "name": "Bylot Island",
     "name:de": "Bylot-Insel",
     "name:es": "Isla Bylot",
@@ -15317,6 +15414,7 @@
    },
    "properties": {
     "alt_name:sl": "Byronov rt",
+    "marker-size": "small",
     "name": "Cape Byron",
     "name:etymology:sl": "Rtu je ime leta 1770 nadel britanski raziskovalec James Cook v čast britanskega raziskovalca Johna Byrona (1723‒1786), ki je v letih 1764‒1766 obplul svet z ladjo Dolphin (′Delfin′).",
     "name:fr": "Cap Byron",
@@ -15429,6 +15527,7 @@
    },
    "properties": {
     "alt_name:sl": "Caicoški preliv",
+    "marker-size": "small",
     "name": "Caicos Passage",
     "name:etymology:sl": "Preliv je poimenovan glede na njegovo lego med Bahamskimi otoki na severozahodu in otočju Caicos na jugovzhodu.",
     "name:hu": "Caicos-átjáró",
@@ -15587,6 +15686,7 @@
    },
    "properties": {
     "alt_name:sl": "Canterburyjski zaliv",
+    "marker-size": "small",
     "name": "Canterbury Bight",
     "name:de": "Canterbury-Bucht",
     "name:etymology:sl": "Zaliv je poimenovan po novozelandski pokrajini Canterbury.",
@@ -15632,6 +15732,7 @@
    },
    "properties": {
     "alt_name:sl": "Capbretonski kanjon",
+    "marker-size": "small",
     "name": "Fosse de Capbreton/Capbreton Canyon",
     "name:en": "Capbreton Canyon",
     "name:etymology:sl": "Kanjon je poimenovan po francoskem mestecu Capbreton na obali Biskajskega zaliva.",
@@ -15815,6 +15916,7 @@
    },
    "properties": {
     "alt_name:sl": "Carnegiejevo jezero",
+    "marker-size": "small",
     "name": "Lake Carnegie",
     "name:etymology:sl": "Jezero je verjetno poimenovano po avstralskem raziskovalcu Davidu Carnegieju (1871‒1900).",
     "name:fr": "Lac Carnegie",
@@ -15885,6 +15987,7 @@
    },
    "properties": {
     "alt_name:sl": "Caseyjev zaliv",
+    "marker-size": "small",
     "name": "Casey Bay",
     "name:de": "Caseybucht",
     "name:en": "Casey Bay",
@@ -15946,6 +16049,7 @@
    },
    "properties": {
     "alt_name:sl": "Caysalska plitvina",
+    "marker-size": "small",
     "name": "Cay Sal Bank",
     "name:en": "Cay Sal Bank",
     "name:etymology:sl": "Plitvina je poimenovana po koralnih otočkih Cay Sal severno od Kube.",
@@ -16558,6 +16662,7 @@
    },
    "properties": {
     "alt_name:sl": "Champlainov prekop",
+    "marker-size": "small",
     "name": "Champlain Canal",
     "name:de": "Champlain Kanal",
     "name:es": "Canal de Champlain",
@@ -16602,6 +16707,7 @@
    },
    "properties": {
     "alt_name:sl": "Charcotov otok",
+    "marker-size": "small",
     "name": "Charcot Island/Charcot land",
     "name:de": "Charcot-Insel",
     "name:en": "Charcot Island/Charcot Land",
@@ -16647,6 +16753,7 @@
    },
    "properties": {
     "alt_name:sl": "Charlesov rt",
+    "marker-size": "small",
     "name": "Cape Charles",
     "name:es": "Cabo Charles",
     "name:etymology:sl": "Rtu je ime leta 1608 nadel John Smith po takrat osemletnem princu Charlesu, bodočem angleškem kralju Karlu I. (1600‒1649).",
@@ -16758,6 +16865,7 @@
    },
    "properties": {
     "alt_name:sl": "Chesterfieldov zaliv;Chesterfieldski zaliv",
+    "marker-size": "small",
     "name": "Chesterfield Inlet",
     "name:etymology:sl": "Zaliv, ki ga je kot prvi Evropejec v letih 1761‒1762 odkril angleški kapitan William Christopher, je poimenovan po enem od chesterfieldskih grofov.",
     "name:fr": "Baie Chesterfield",
@@ -16776,6 +16884,7 @@
    },
    "properties": {
     "alt_name:sl": "Cheviotske gore",
+    "marker-size": "small",
     "name": "Cheviot Hills",
     "name:es": "Montes Cheviot",
     "name:etymology:sl": "Gričevje je poimenovano po tamkajšnji najvišji vzpetini The Cheviot (815 m), pomen njenega imena pa je nejasen, vendar lahko temelji na staroangleškem izrazu geat v pomenu ′vrata′, kar bi se lahko nanašalo na tamkajšnjo vpadljivo globel.",
@@ -17348,6 +17457,7 @@
    },
    "properties": {
     "alt_name:sl": "Cookov zaliv",
+    "marker-size": "small",
     "name": "Cook Inlet",
     "name:es": "Ensenada de Cook",
     "name:etymology:sl": "Zaliv je poimenovan ime po angleškem pomorščaku Jamesu Cooku (1728−1779). Ime zanj je leta 1794 vpeljal britanski kapitan George Vancouver, ki je leta 1778 plul v Cookovi službi.",
@@ -17435,6 +17545,7 @@
    },
    "properties": {
     "alt_name:sl": "Cosmoledsko otočje",
+    "marker-size": "small",
     "name": "Cosmoledo Group",
     "name:de": "Cosmoledo",
     "name:es": "Grupo de Cosmoledo",
@@ -17631,6 +17742,7 @@
    },
    "properties": {
     "alt_name:sl": "Cumberlandski polotok",
+    "marker-size": "small",
     "name": "Cumberland Peninsula",
     "name:de": "Cumberland-Halbinsel",
     "name:es": "Península Cumberland",
@@ -17654,6 +17766,7 @@
    },
    "properties": {
     "alt_name:sl": "Cumberlandski zaliv",
+    "marker-size": "small",
     "name": "Cumberland Sound",
     "name:etymology:sl": "Zaliv je verjetno poimenovan po Cumberlandskem polotoku na Baffinovem otoku.",
     "name:fr": "Baie Cumberland",
@@ -17673,6 +17786,7 @@
    },
    "properties": {
     "alt_name:sl": "Cumbrijske gore",
+    "marker-size": "small",
     "name": "Cumbrian Mountains",
     "name:etymology:sl": "Hribovje je poimenovano po angleški grofiji Cumbria oziroma Cumberland na severozahodu Anglije, ki je znova oživila rimsko ime za tamkajšnjo pokrajino, poimenovano po ljudstvu Cymry, katerega ime je pomenilo ′Tovariški kmetje′.",
     "name:hr": "Kumbrijsko gorje",
@@ -17743,6 +17857,7 @@
    },
    "properties": {
     "alt_name:sl": "Cuško jezero",
+    "marker-size": "small",
     "name": "Zugersee",
     "name:en": "Lake Zug",
     "name:es": "Lago Zug",
@@ -17923,6 +18038,7 @@
    },
    "properties": {
     "alt_name:sl": "Čang Maj",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Chiang Mai",
     "name:etymology:sl": "Leta 1292 ustanovljeno mesto ima ime v pomenu ′Novo mesto′, ki je sestavljeno iz severnotajske narečne besede chiang v pomenu ′mesto′ in besede mai v pomenu ′nov′. Ko je bilo središče kraljevine Chiang Mai, se je imenovalo Lan Na.",
@@ -18537,6 +18653,7 @@
    },
    "properties": {
     "alt_name:sl": "Čikago",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Chicago",
     "name:etymology:sl": "Ime algonkijskega izvora verjetno pomeni ′Območje česna′, kar se nanaša na divjo čebulo, ki raste na obrežju Michiganskega jezera. Najprej je označevalo istoimensko reko, potem pa se je z nje preneslo na naselbino z začetka 19. stoletja.",
@@ -18708,6 +18825,7 @@
    },
    "properties": {
     "alt_name:sl": "Čojbalsan",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Choybalsan",
     "name:de": "Tschoibalsan",
@@ -18893,6 +19011,7 @@
    },
    "properties": {
     "alt_name:sl": "Črni Elster",
+    "marker-size": "small",
     "name": "Schwarze Elster",
     "name:es": "Río Elster Negro",
     "name:etymology:sl": "Ime Elster nima nič skupnega s ptico srako, ampak je slovanskega izvora, saj izhaja iz izraza alstrawa v pomenu ′hiteča′.",
@@ -19208,6 +19327,7 @@
    },
    "properties": {
     "alt_name:sl": "Čulim",
+    "marker-size": "small",
     "name": "Čulym",
     "name:de": "Tschulym/Kulym",
     "name:en": "Chulym",
@@ -19466,6 +19586,7 @@
    "properties": {
     "alt_name:sl": "Damarija",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Damaraland",
     "name:etymology:sl": "Naravna pokrajina je poimenovana po kojsanskem ljudstvu Damara, pri čemer je imenu pokrajine dodana angleška pripona -land v pomenu ′dežela′. Ime ljudstva naj bi bila dvojinska oblika ženskega spola izraza Daman, s katerim so Angleži zaničujoče imenovali ljudstvo, lahko pa bi izšlo iz bušmaskega izraza dama v pomenu ′otrok′, morda tudi ′bogat′. Obstaja tudi teorija, da ime ljudstva izhaja iz malajskega izraza damar, ki označuje iglasto drevo s temno smolo v jugovzhodni Aziji, kar nakazuje, da so to drevo poznali Nizozemci in po njem poimenovali ljudstvo s približno enako barvo kože, živeče na območju Namibije.",
@@ -19538,6 +19659,7 @@
    },
    "properties": {
     "alt_name:sl": "Damodarska dolina",
+    "marker-size": "small",
     "name": "Damodar Valley",
     "name:es": "Valle del Damodar",
     "name:etymology:sl": "Dolina je poimenovana po reki Damodar.",
@@ -19602,6 +19724,7 @@
    },
    "properties": {
     "alt_name:sl": "Dampierjevo otočje",
+    "marker-size": "small",
     "name": "Dampier Archipelago",
     "name:de": "Dampier-Archipel",
     "name:es": "Archipiélago Dampier",
@@ -19875,6 +19998,7 @@
    },
    "properties": {
     "alt_name:sl": "Datujski zaliv",
+    "marker-size": "small",
     "name": "Teluk Datu",
     "name:etymology:sl": "Zaliv je poimenovan po rtu Datu (Tanjung Datu).",
     "name:hu": "Datu-öböl",
@@ -20345,6 +20469,7 @@
    },
    "properties": {
     "alt_name:sl": "Derna",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Darnah",
     "name:de": "Darnis",
@@ -20369,6 +20494,7 @@
    },
    "properties": {
     "alt_name:sl": "Devin",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Magdeburg",
     "name:es": "Magdeburgo",
@@ -20907,6 +21033,7 @@
    },
    "properties": {
     "alt_name:sl": "Dibblejev jezik ledenih gor",
+    "marker-size": "small",
     "name": "Dibble Iceberg Tongue",
     "name:en": "Dibble Iceberg Tongue",
     "name:etymology:sl": "Ledeniški jezik je poimenovan po Jonasu Dibbleju, ladijskem tesarju na ameriški raziskovalni ladji Peacock pod poveljstvom Charlesa Wilkesa. Dibble se je izkazal z neprekinjenim 24-urnim krpanjem ob trčenju v led poškodovane ladje.",
@@ -21017,6 +21144,7 @@
    },
    "properties": {
     "alt_name:sl": "Dinglski zaliv",
+    "marker-size": "small",
     "name": "Dingle Bay/Bá an Daingin",
     "name:de": "Dingle Bucht/Bucht von Dingle",
     "name:es": "Bahía de Dingle",
@@ -21126,6 +21254,7 @@
    },
    "properties": {
     "alt_name:sl": "Dneprodzeržinsk",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Dniprodzerzhyns′k",
     "name:de": "Dniprodserschynsk",
@@ -21612,6 +21741,7 @@
    },
    "properties": {
     "alt_name:sl": "dolina Tilemsi",
+    "marker-size": "small",
     "name": "Vallée du Tilemsi",
     "name:de": "Tilemsi-Tal",
     "name:en": "Tilemsi Valley",
@@ -21934,6 +22064,7 @@
    },
    "properties": {
     "alt_name:sl": "Dongola",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Dunqulā",
     "name:de": "Dunqula",
@@ -22137,6 +22268,7 @@
    },
    "properties": {
     "alt_name:sl": "Draždane;Draždani",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Dresden",
     "name:es": "Dresde",
@@ -22505,6 +22637,7 @@
    },
    "properties": {
     "alt_name:sl": "Duncanov preliv",
+    "marker-size": "small",
     "name": "Duncan Passage",
     "name:fr": "Passe Duncan",
     "name:hr": "Duncanov prolaz",
@@ -22550,6 +22683,7 @@
    },
    "properties": {
     "alt_name:sl": "Dvinsk",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Daugavpils",
     "name:de": "Dünaburg",
@@ -22637,6 +22771,7 @@
    },
    "properties": {
     "alt_name:sl": "Džalal Abad",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Žalalabat",
     "name:de": "Dschalalabat",
@@ -22733,6 +22868,7 @@
    },
    "properties": {
     "alt_name:sl": "Džask",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Jāsk",
     "name:en": "Jask",
@@ -22979,6 +23115,7 @@
    },
    "properties": {
     "alt_name:sl": "Džuba",
+    "marker-size": "small",
     "name": "Jubbaland",
     "name:de": "Jubaland",
     "name:en": "Jubaland",
@@ -23025,6 +23162,7 @@
    },
    "properties": {
     "alt_name:sl": "Džugdžur",
+    "marker-size": "small",
     "name": "hrebet Džugdžur",
     "name:de": "Dschugdschur",
     "name:en": "Dzhugdzhur Mountains",
@@ -23754,6 +23892,7 @@
    },
    "properties": {
     "alt_name:sl": "El Džuf",
+    "marker-size": "small",
     "name": "El Djouf",
     "name:hr": "El Džuf",
     "name:ru": "El′-Džuf",
@@ -23817,6 +23956,7 @@
    },
    "properties": {
     "alt_name:sl": "El Mansura",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "al-Manṣūra",
     "name:de": "Mansura/al-Mansura",
@@ -24042,6 +24182,7 @@
    },
    "properties": {
     "alt_name:sl": "Elijevo gorovje;Gora svetega Elije",
+    "marker-size": "small",
     "name": "Saint Elias Mountains",
     "name:de": "Eliaskette",
     "name:es": "Montañas de San Elías",
@@ -24521,6 +24662,7 @@
    },
    "properties": {
     "alt_name:sl": "Erdeljsko rudogorje",
+    "marker-size": "small",
     "name": "Munţii Metaliferi",
     "name:de": "Siebenbürgische Erzgebirge",
     "name:etymology:sl": "Reliefna oblika je poimenovana po obilnem rudnem bogastvu in legi v pokrajini Transilvanija, nemško Siebenbürgen (Sedmograška) in madžarsko Erdély (Erdelj).",
@@ -24589,6 +24731,7 @@
    },
    "properties": {
     "alt_name:sl": "erg Šeš",
+    "marker-size": "small",
     "name": "Erg Chech",
     "name:hu": "Chech-sivatag",
     "semantic-type": "naravna pokrajina",
@@ -24606,6 +24749,7 @@
    },
    "properties": {
     "alt_name:sl": "Eriejski prekop",
+    "marker-size": "small",
     "name": "Erie Canal",
     "name:de": "Eriekanal",
     "name:es": "Canal de Erie",
@@ -24756,6 +24900,7 @@
    },
    "properties": {
     "alt_name:sl": "Ermupolis",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Ermoúpoli",
     "name:es": "Ermúpoli",
@@ -25392,6 +25537,7 @@
    },
    "properties": {
     "alt_name:sl": "Fadejev zaliv",
+    "marker-size": "small",
     "name": "zaliv Faddeja",
     "name:de": "Faddey Bucht",
     "name:en": "Faddey Bay",
@@ -25480,6 +25626,7 @@
    },
    "properties": {
     "alt_name:sl": "Falconsko zajezitveno jezero ",
+    "marker-size": "small",
     "name": "Falcon International Reservoir/Falcon Lake",
     "name:etymology:sl": "Akumulacijsko jezero je poimenovano po kraju Falcon v pomenu ′Sokol′, kjer je zgrajena pregrada na mejni reki Rio Grande.",
     "name:hu": "Falconi-víztároló",
@@ -25498,6 +25645,7 @@
    },
    "properties": {
     "alt_name:sl": "Falironski zaliv",
+    "marker-size": "small",
     "name": "Ormos Falirou",
     "name:en": "Faliron Bay/Phaleron Bay",
     "name:etymology:sl": "Zaliv je poimenovan po kraju Faliron, zdaj predmestju Aten.",
@@ -25729,6 +25877,7 @@
    },
    "properties": {
     "alt_name:sl": "Farafra",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Qaşr al-Farāfirah",
     "name:de": "Farafra",
@@ -26098,6 +26247,7 @@
    },
    "properties": {
     "alt_name:sl": "Fero",
+    "marker-size": "small",
     "name": "El Hierro",
     "name:etymology:sl": "Najbolj verjetno originalno ime otoka je bilo Hero, kar je bil star izraz za cisterno, saj otok nima ne izvirov ne vodnjakov.",
     "name:fr": "Île du Méridien/Île de Fer/Île de Ferro",
@@ -26374,6 +26524,7 @@
    },
    "properties": {
     "alt_name:sl": "Filadelfija",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Philadelphia",
     "name:es": "Filadelfia",
@@ -26762,6 +26913,7 @@
    },
    "properties": {
     "alt_name:sl": "Fisherjev ledenik",
+    "marker-size": "small",
     "name": "Fisher Glacier",
     "name:en": "Fisher Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po vodilnem geologu avstralskega urada za mineralne vire Normanu Henryju Fisherju (1909−2007).",
@@ -26800,6 +26952,7 @@
    },
    "properties": {
     "alt_name:sl": "fjord Faxa",
+    "marker-size": "small",
     "name": "Faxaflói",
     "name:en": "Faxa Bay/Faxe Bay",
     "name:etymology:sl": "Ime izhaja iz izraza flói, ki v islandščini pomeni ′zaliv′.",
@@ -26819,6 +26972,7 @@
    },
    "properties": {
     "alt_name:sl": "Fjord kralja Oskarja",
+    "marker-size": "small",
     "name": "Kong Oscars Fjord",
     "name:en": "King Oscar Fjord",
     "name:etymology:sl": "Fjord na vzhodni obali Grenlandije je leta 1899 poimenoval švedski arktični raziskovalec  Alfred Gabriel Nathorst v čast tedanjega švedskega kralja Oskarja II. (1829‒1907).",
@@ -26838,6 +26992,7 @@
    },
    "properties": {
     "alt_name:sl": "Fjord neodvisnosti",
+    "marker-size": "small",
     "name": "Independence Fjord",
     "name:de": "Independence-Fjord",
     "name:etymology:sl": "Fjord je poimenovan po prazgodovinskih arheoloških najdbah majhnega orodja, ki segajo v obdobje, imenovano kultura Independence I., in malo mlajših najdbah iz 1. tisočletja pr. n. št. oziroma iz obdobja, imenovanega kultura Indipendence II., ki so bile najbolj pogoste prav na območju tega fjorda visoko na severu Grenlandije.",
@@ -26947,6 +27102,7 @@
    },
    "properties": {
     "alt_name:sl": "Flintov otok",
+    "marker-size": "small",
     "name": "Flint Island",
     "name:de": "Flint",
     "name:es": "Isla Flint",
@@ -27159,6 +27315,7 @@
    },
    "properties": {
     "alt_name:sl": "Foxejev polotok",
+    "marker-size": "small",
     "name": "Foxe Peninsula",
     "name:de": "Foxe-Halbinsel",
     "name:es": "Península de Foxe",
@@ -27346,6 +27503,7 @@
    },
    "properties": {
     "alt_name:sl": "Francoska Jura",
+    "marker-size": "small",
     "name": "Jura Française",
     "name:de": "Französischer Jura",
     "name:en": "French Jura",
@@ -27746,6 +27904,7 @@
    },
    "properties": {
     "alt_name:sl": "Freuchenova dežela",
+    "marker-size": "small",
     "name": "Freuchen Land",
     "name:en": "Freuchen Land",
     "name:etymology:sl": "Pokrajina je poimenovana po danskem polarnem raziskovalcu, pisatelju in popotniku Petru Freuchenu (1886‒1957), sodelavcu Knuda Rasmussena.",
@@ -27884,6 +28043,7 @@
    },
    "properties": {
     "alt_name:sl": "Frobisherjevo jezero",
+    "marker-size": "small",
     "name": "Frobisher Lake",
     "name:hr": "Frobisherovo jezero",
     "name:hu": "Frobisher-tó",
@@ -27903,6 +28063,7 @@
    },
    "properties": {
     "alt_name:sl": "Fromejevo jezero",
+    "marker-size": "small",
     "name": "Lake Frome",
     "name:es": "Lago Frome",
     "name:etymology:sl": "Jezero je poimenovano po britanskem generalu Edwardu Charlesu Fromeju (1802‒1890), ki je to območje kartiral leta 1843.",
@@ -27924,6 +28085,7 @@
    },
    "properties": {
     "alt_name:sl": "Frostov ledenik",
+    "marker-size": "small",
     "name": "Frost Glacier",
     "name:en": "Frost Glacier",
     "name:etymology:sl": "Ledeniku je ime nadel Ameriški odbor za antarktična zemljepisna imena (US-ACAN) v čast Johnu Frostu, poveljniku palube na ameriški ladji Porpoise, uporabljeni na ameriški raziskovalni odpravi v letih 1838‒1842 pod vodstvom Charlesa Wilkesa.",
@@ -28153,6 +28315,7 @@
    },
    "properties": {
     "alt_name:sl": "Gabonski zaliv",
+    "marker-size": "small",
     "name": "Estuaire de Gabon",
     "name:en": "Gabon Estuary",
     "name:etymology:sl": "Zaliv je poimenovan po reki Gabon, ki se izliva vanj v značilnem estuariju.",
@@ -28221,6 +28384,7 @@
    },
    "properties": {
     "alt_name:sl": "Gafsa",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Qafşa",
     "name:de": "Gafsa",
@@ -28246,6 +28410,7 @@
    },
    "properties": {
     "alt_name:sl": "Gairdnerjevo jezero",
+    "marker-size": "small",
     "name": "Lake Gairdner",
     "name:etymology:sl": "Ime jezera je leta 1857 uvedel tedanji guverner Južne Avstralije Richard MacDonnell v čast Gordonu Gairdnerju (1803−1877), glavnemu uradniku v avstralskem oddelku kolonialne pisarne.",
     "name:fr": "Lac Gairdner",
@@ -28950,6 +29115,7 @@
    },
    "properties": {
     "alt_name:sl": "Gat",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Ghāt",
     "name:de": "Ghat",
@@ -29142,6 +29308,7 @@
    },
    "properties": {
     "alt_name:sl": "Gedaref",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "al-Qaḍārif",
     "name:de": "Gedaref",
@@ -29231,6 +29398,7 @@
    "properties": {
     "alt_name:sl": "Geldersko",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Gelderland",
     "name:de": "Geldern",
@@ -29254,6 +29422,7 @@
    },
    "properties": {
     "alt_name:sl": "Geneina",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "al-Junaynah",
     "name:de": "Al-Dschunaina/El Geneina",
@@ -29278,6 +29447,7 @@
    "properties": {
     "alt_name:sl": "Genezaret",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Genazareth",
     "name:de": "Genezareth",
@@ -29328,6 +29498,7 @@
    },
    "properties": {
     "alt_name:sl": "Geografov zaliv",
+    "marker-size": "small",
     "name": "Geographe Bay",
     "name:etymology:sl": "Zalivu je maja 1801 nadel ime francoski raziskovalec Nicolas Baudin (1754−1803) po svoji ladji Géographe v pomenu ′Geograf′.",
     "name:fr": "Baie du Géographe",
@@ -29757,6 +29928,7 @@
    },
    "properties": {
     "alt_name:sl": "Gjandža;Gandža",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Gəncə",
     "name:en": "Ganja",
@@ -29869,6 +30041,7 @@
    },
    "properties": {
     "alt_name:sl": "Gliwiški prekop",
+    "marker-size": "small",
     "name": "Kanał Gliwicki",
     "name:de": "Gleiwitzer Kanal/Oberschlesischer Kanal",
     "name:en": "Gliwice Canal",
@@ -30043,6 +30216,7 @@
    },
    "properties": {
     "alt_name:sl": "globel Vitjaz",
+    "marker-size": "small",
     "name": "Vityaz Deep",
     "name:de": "Witjastief",
     "name:en": "Vityaz Deep",
@@ -30379,6 +30553,7 @@
    },
    "properties": {
     "alt_name:sl": "Gondar",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Gōnder",
     "name:de": "Gonder",
@@ -31416,6 +31591,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Alantika",
+    "marker-size": "small",
     "name": "Monts Alantika/Alantika Mountains",
     "name:de": "Alantika Gebirge",
     "name:es": "Montes Alantika",
@@ -31436,6 +31612,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Barisan",
+    "marker-size": "small",
     "name": "Pegunungan Bukit Barisan",
     "name:de": "Barisangebirge",
     "name:en": "Barisan Mountains",
@@ -31457,6 +31634,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Bitterroot",
+    "marker-size": "small",
     "name": "Bitterroot Range",
     "name:de": "Bitterrootkette",
     "name:es": "Cordillera Bitterroot",
@@ -31478,6 +31656,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Britannia;Britansko gorovje",
+    "marker-size": "small",
     "name": "Britannia Range",
     "name:en": "Britannia Range",
     "name:etymology:sl": "Gorovju so nadeli ime člani britanske antarktične odprave v letih 1901‒1904 pod vodstvom Roberta Falcona Scotta, ki so ga poimenovali po šolski ladji britanske kraljeve mornarice HMS Britannia, na kateri so pluli mnogi člani odprave.",
@@ -31497,6 +31676,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Chūgoku",
+    "marker-size": "small",
     "name": "Chūgoku-sanchi",
     "name:en": "Chūgoku Mountains/Chugoku Range",
     "name:etymology:sl": "Ime v pomenu ′Srednja dežela′ izhaja iz japonskih izrazov chū v pomenu ′srednji′ in koku v pomenu ′dežela′.",
@@ -31517,6 +31697,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Darling",
+    "marker-size": "small",
     "name": "Darling Range/Darling Scarp",
     "name:es": "Montes Darling",
     "name:etymology:sl": "Gorovje, poimenovano po poznejšem guvernerju Novega južnega Walesa, siru Ralphu Darlingu (1775‒1858), je bilo kot General Darling Range na zemljevidu prvič poimenovano leta 1827, iz česar je pozneje nastalo ime Darling Range in še pozneje Darling Scarp.",
@@ -31537,6 +31718,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Iran",
+    "marker-size": "small",
     "name": "Pegunungan Iran",
     "name:en": "Iran Mountains",
     "name:hr": "Iransko gorje",
@@ -31578,6 +31760,7 @@
     "alt_name:sl": "gorovje Kapuas Hulu",
     "error": "Error parsing \"113° 15′ 0″\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "name": "Pegunungan Kapuas Hulu",
     "name:en": "Upper Kapuas Mountains",
     "name:etymology:sl": "Gorovje je verjetno poimenovano po reki Kapuas Hulu, katere ime pomeni ′Zgornji Kapuas′.",
@@ -31597,6 +31780,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Kirthar",
+    "marker-size": "small",
     "name": "Kīrthar Range/Kirthar Mountains",
     "name:de": "Kirthargebirge",
     "name:en": "Kirthar Mountains",
@@ -31689,6 +31873,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Maoke",
+    "marker-size": "small",
     "name": "Pegunungan Maoke",
     "name:de": "Maokegebirge",
     "name:en": "Maoke Mountains",
@@ -31712,6 +31897,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Matopo",
+    "marker-size": "small",
     "name": "Matopo Hills",
     "name:de": "Matopo-Gebirge",
     "name:es": "Colinas de Matobo",
@@ -31733,6 +31919,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Mulanje",
+    "marker-size": "small",
     "name": "Mulanje Mountains",
     "name:de": "Mulanje-Massiv",
     "name:es": "Monte Mulanje",
@@ -31836,6 +32023,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Suntar-Hajata",
+    "marker-size": "small",
     "name": "Suntar-Hajata",
     "name:en": "Suntar-Khayata Range",
     "name:hu": "Szuntar-hajata-hegység",
@@ -31855,6 +32043,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Tannu",
+    "marker-size": "small",
     "name": "Tannu-Ola/Tandy-Uula",
     "name:de": "Tannu-ola-Gebirge",
     "name:en": "Tannu-Ola mountains",
@@ -31874,6 +32063,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Wasatch",
+    "marker-size": "small",
     "name": "Wasatch Range",
     "name:de": "Wasatchkette",
     "name:es": "Cordillera Wasatch/Montes Wasatch[",
@@ -31895,6 +32085,7 @@
    },
    "properties": {
     "alt_name:sl": "Gorringejev hrbet",
+    "marker-size": "small",
     "name": "Gorringe Ridge",
     "name:de": "Gorringe-Bank",
     "name:en": "Gorringe Ridge",
@@ -32137,6 +32328,7 @@
    },
    "properties": {
     "alt_name:sl": "Gozdno jezero",
+    "marker-size": "small",
     "name": "Lake of the Woods",
     "name:es": "Lago de los Bosques",
     "name:etymology:sl": "Jezero je verjetno poimenovano po izrazito gozdnati okolici.",
@@ -32690,6 +32882,7 @@
    },
    "properties": {
     "alt_name:sl": "Grizonsko",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Graubünden/Grigioni/Grissons/Grischun",
     "name:es": "Grisones",
@@ -32910,6 +33103,7 @@
    },
    "properties": {
     "alt_name:sl": "Gurijsko zajezitveno jezero",
+    "marker-size": "small",
     "name": "Embalse de Guri/Represa Raúl Leoni",
     "name:de": "Guri-Stausee",
     "name:en": "Guri Reservoir",
@@ -33878,6 +34072,7 @@
    },
    "properties": {
     "alt_name:sl": "Hallov polotok",
+    "marker-size": "small",
     "name": "Hall Peninsula",
     "name:etymology:sl": "Polotok je poimenovan po ameriškem polarnem raziskovalcu Charlesu Francisu Hallu (1821‒1871), ki je sem priplul v okviru odprave Polaris leta 1871 in ob prezimovanju tamkaj 8. novembra umrl. Pokopan je na obali polotoka.",
     "name:hr": "Hallov poluotok",
@@ -33916,6 +34111,7 @@
    },
    "properties": {
     "alt_name:sl": "Hallovo otočje",
+    "marker-size": "small",
     "name": "Hall Islands",
     "name:fr": "Îles Hall",
     "name:hr": "Hallovi otoci",
@@ -34053,6 +34249,7 @@
    },
    "properties": {
     "alt_name:sl": "Hamiltonov zaliv",
+    "marker-size": "small",
     "name": "Hamilton Inlet",
     "name:etymology:sl": "Zaliv je poimenovan po britanskem mornariškem oficirju in politiku, siru Charlesu Hamiltonu (1767‒1849), v letih 1818‒1824 guvernerju Nove Fundlandije.",
     "name:hr": "Hamiltonov zaljev",
@@ -34391,6 +34588,7 @@
    },
    "properties": {
     "alt_name:sl": "Harrisonov zaliv",
+    "marker-size": "small",
     "name": "Harrison Bay",
     "name:etymology:sl": "Zaliv je morda poimenovan po 23. predsedniku Združenih držav Amerike Benjaminu Harrisonu (1833‒1901), ki je bil na oblasti med letoma 1889 in 1893.",
     "name:hr": "Harrisonov zaljev",
@@ -34448,6 +34646,7 @@
    "properties": {
     "alt_name:sl": "Hasa",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "al-Aḥsāʾ/Al Ḩasā′",
     "name:de": "al-Hasa",
@@ -35149,6 +35348,7 @@
    "properties": {
     "alt_name:sl": "Hersonez",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Chersonesos/Kherson",
     "name:de": "Chersones",
@@ -35175,6 +35375,7 @@
    },
    "properties": {
     "alt_name:sl": "Hesija",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Hessen",
     "name:en": "Hesse",
@@ -35218,6 +35419,7 @@
    },
    "properties": {
     "alt_name:sl": "Hessensko hribovje",
+    "marker-size": "small",
     "name": "Hessisches Bergland",
     "name:en": "Hesse Highlands",
     "name:etymology:sl": "Hribovje je poimenovano po pokrajini Hessen.",
@@ -35479,6 +35681,7 @@
    },
    "properties": {
     "alt_name:sl": "Himedži",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Himeji",
     "name:etymology:sl": "Ime naselja je zloženka japonskih izrazov hime v pomenu ′mlada dama, princesa′ in ji v pomenu ′pot, razdalja′.",
@@ -35819,6 +36022,7 @@
    "properties": {
     "alt_name:sl": "Holstinsko",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Holstein",
     "name:etymology:sl": "Ime v pomenu ′Prebivalci gozda′ izhaja iz nemških besed Holz v pomenu ′gozd, les′ in glagola siedln v pomenu ′stanovati′, drugi del imena pa je pozneje prilagojena beseda Stein v pomenu ′kamen′.",
@@ -35950,6 +36154,7 @@
    },
    "properties": {
     "alt_name:sl": "Hopejev rt",
+    "marker-size": "small",
     "name": "Point Hope/Tikiġaq",
     "name:etymology:sl": "Zahodnjaško ime je rtu nadel britanski kapitan Frederick William Beechley, ki je 2. avgusta 1826 zapisal: ″Poimenoval sem ga Pointe Hope v čast sira Williama Johnstona Hopea.″ Hope (1766‒1831) je bil britanski mornariški častnik in politik. Eskimsko ime pomeni ′(prst) Kazalec′.",
     "semantic-type": "obalna reliefna oblika",
@@ -36483,6 +36688,7 @@
    },
    "properties": {
     "alt_name:sl": "hribovje Bilauktaung",
+    "marker-size": "small",
     "name": "Bilauktaung Range",
     "name:en": "Bilauktaung Range",
     "name:es": "Montañas Bilauktaung",
@@ -36504,6 +36710,7 @@
    },
    "properties": {
     "alt_name:sl": "hribovje Byrranga",
+    "marker-size": "small",
     "name": "gory Byrranga",
     "name:de": "Byrrangagebirge",
     "name:en": "Byrranga Mountains",
@@ -36547,6 +36754,7 @@
    },
    "properties": {
     "alt_name:sl": "hribovje Karatau",
+    "marker-size": "small",
     "name": "Ķaratau žotasy/hrebet Karatau",
     "name:de": "Qaratau",
     "name:en": "Karatau",
@@ -36570,6 +36778,7 @@
    },
    "properties": {
     "alt_name:sl": "hribovje Lebombo",
+    "marker-size": "small",
     "name": "Lebomboberge/Lebombo Mountains/Montes Libombos",
     "name:de": "Lebomboberge",
     "name:es": "Cordillera de Lebombo",
@@ -36591,6 +36800,7 @@
    },
    "properties": {
     "alt_name:sl": "hribovje Mandara",
+    "marker-size": "small",
     "name": "Mandara Mountains/Monts Mandara",
     "name:de": "Mandara-Gebirge",
     "name:es": "Macizo de Mandara",
@@ -36653,6 +36863,7 @@
    },
    "properties": {
     "alt_name:sl": "hribovje Ouarsenis",
+    "marker-size": "small",
     "name": "Ouarsnis/El Ouanchariss/Massif de l′Ouarsenis",
     "name:de": "Ouarsenis-Gebirge",
     "name:en": "Ouarsenis Massif",
@@ -36918,6 +37129,7 @@
    },
    "properties": {
     "alt_name:sl": "Huílska planota",
+    "marker-size": "small",
     "name": "Planalto da Huíla",
     "name:en": "Huila Plateau",
     "name:etymology:sl": "Planota je poimenovana po angolski provinci Huíla.",
@@ -36997,6 +37209,7 @@
    },
    "properties": {
     "alt_name:sl": "Hun",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Hūn",
     "name:en": "Houn",
@@ -37228,6 +37441,7 @@
    },
    "properties": {
     "alt_name:sl": "Ida",
+    "marker-size": "small",
     "name": "Kaz Dağı",
     "name:de": "Ida-Gebirge",
     "name:en": "Mount Ida",
@@ -37326,6 +37540,7 @@
    },
    "properties": {
     "alt_name:sl": "Ilemijski trikotnik;Elemijski trikotnik",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Elemi Triangle",
     "name:de": "Ilemi-Dreieck/Elemi-Dreieck",
@@ -37417,6 +37632,7 @@
    },
    "properties": {
     "alt_name:sl": "Inaguansko otočje",
+    "marker-size": "small",
     "name": "Inagua Islands/Inagua",
     "name:etymology:sl": "Otočje je poimenovano po glavnih otokih Velika Inagua (Great Inagua) in Mala Inagua (Little Inagua).",
     "name:hr": "Inaguanski otoci",
@@ -37813,6 +38029,7 @@
    },
    "properties": {
     "alt_name:sl": "Inomost;Inšpruk",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Innsbruck",
     "name:etymology:sl": "Ime naselja v pomenu ′Most (čez reko) Inn′ izhaja iz imena tamkajšnje rimske vojaške postaje iz 4. stoletja Oenipontum oziroma Oeni Pons, katerega pomen je povsem enak kot pomen njegovega sodobnega nemškega imena; Oeni je latinsko ime za reko Inn, izraz pons pa pomeni ′most′.",
@@ -37832,6 +38049,7 @@
    },
    "properties": {
     "alt_name:sl": "Insulindija;Otoška Indija;Malajski arhipelag",
+    "marker-size": "small",
     "name": "Insulindia/Malay Archipelago",
     "name:de": "Insulindien/Insulinde",
     "name:en": "Malay Archipelago",
@@ -38231,6 +38449,7 @@
    },
    "properties": {
     "alt_name:sl": "Isejsko jezero",
+    "marker-size": "small",
     "name": "Lago d′Iseo/Sebino",
     "name:de": "Iseosee",
     "name:en": "Lake Iseo",
@@ -38911,6 +39130,7 @@
    },
    "properties": {
     "alt_name:sl": "Jakin",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Ancona",
     "name:etymology:sl": "Mesto, ki so ga v 4. stoletju pr. n. št. ustanovili Grki iz Sirakuze, ima ime, ki se je razvilo iz grškega izraza ankōn v pomenu ′okljuk, komolec′, ta pa se nanaša na obliko obale, ki se tu ukrivi.",
@@ -39616,6 +39836,7 @@
    },
    "properties": {
     "alt_name:sl": "Jaunde",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Yaoundé",
     "name:etymology:sl": "Ime naselja je popačenka imena tamkajšnjega domačinskega ljudstva Evondo, nastala pod vplivom francoščine.",
@@ -40111,6 +40332,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Argentino",
+    "marker-size": "small",
     "name": "Lago Argentino",
     "name:en": "Argentino Lake",
     "name:etymology:sl": "Jezeru sta Ime Lago Argentino leta 1877 nadela prvopristopnika, Argentinca geograf Francisco Perito Moreno in topograf Carlos Moyano.",
@@ -40205,6 +40427,7 @@
    },
    "properties": {
     "alt_name:sl": "Jezero bogov",
+    "marker-size": "small",
     "name": "Gods Lake",
     "name:es": "Lago Gods",
     "name:etymology:sl": "Ime jezera je dobesedni prevod njegovega angleškega imena.",
@@ -40242,6 +40465,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Coipasa",
+    "marker-size": "small",
     "name": "Lago Coipasa",
     "name:en": "Coipasa Lake",
     "name:etymology:sl": "Jezero je verjetno poimenovano po bolivijskem kraju Coipasa, ki je na vulkanskem otočku sredi plitkega slanega jezera, lahko tudi ob njem.",
@@ -40261,6 +40485,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Debo",
+    "marker-size": "small",
     "name": "Lac Débo",
     "name:de": "Débo-See",
     "name:en": "Lake Débo",
@@ -40305,6 +40530,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Dubawnt",
+    "marker-size": "small",
     "name": "Dubawnt Lake",
     "name:de": "Dubawntsee",
     "name:es": "Lago Dubawnt",
@@ -40351,6 +40577,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Fitri",
+    "marker-size": "small",
     "name": "Lac Fitri",
     "name:de": "Fitri-See",
     "name:en": "Lake Fitri",
@@ -40372,6 +40599,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero General Carrera;jezero Buenos Aires",
+    "marker-size": "small",
     "name": "Lago General Carrera/Lago Buenos Aires",
     "name:en": "General Carreara Lake/Buenos Aires Lake",
     "name:etymology:sl": "Jezero je na čilenski strani poimenovano po čilskem borcu za neodvisnost, generalu Joseu Miguelu Carreri (1785‒1821), na argentinski pa po Buenos Airesu.",
@@ -40416,6 +40644,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Iliamna",
+    "marker-size": "small",
     "name": "Iliamna Lake/Lake Iliamna",
     "name:es": "Lago Iliamna",
     "name:etymology:sl": "Ruski razikovalci so to največje jezero na Aljaski poimenovali ozero Bolšoj Ilyamna, še prej pa Ozero Šelehovo. Iliamna naj bi se imenovala bajeslovna velika riba, ki naj bi grizla luknje v kajake domorodskih Indijancev.",
@@ -40527,6 +40756,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Madden",
+    "marker-size": "small",
     "name": "Lago Madden/Lago Alajuela",
     "name:en": "Madden Lake/Alajuela Lake",
     "name:fr": "Lac Madden/Lac Alajuela",
@@ -40571,6 +40801,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Mälaren",
+    "marker-size": "small",
     "name": "Mälaren",
     "name:de": "Mälarsee",
     "name:en": "Lake Mälaren",
@@ -40618,6 +40849,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Manyara",
+    "marker-size": "small",
     "name": "Lake Manyara",
     "name:de": "Manyara-See",
     "name:etymology:sl": "Ime jezera izhaja iz masajske besede emanyara v pomenu ′evforbija′ (Euphorbia tirucalli), s katero pa niso opisovali značilnosti jezera, ampak njegove obale.",
@@ -40665,6 +40897,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Mistassini",
+    "marker-size": "small",
     "name": "Lac Mistassini",
     "name:de": "Mistassinisee",
     "name:en": "Lake Mistassini",
@@ -40688,6 +40921,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Mjøsa",
+    "marker-size": "small",
     "name": "Mjøsa",
     "name:de": "Mjøsa-See",
     "name:etymology:sl": "Ime največjega norveškega jezera je zelo staro in bi lahko pomenilo ′Jasni, Blesteči′.",
@@ -40707,6 +40941,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Müritz",
+    "marker-size": "small",
     "name": "Müritz",
     "name:es": "Lago Müritz",
     "name:etymology:sl": "Ime jezera izhaja iz slovanskega izraza morcze v pomenu ′majhno morje′.",
@@ -40770,6 +41005,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Narač;jezero Naroč",
+    "marker-size": "small",
     "name": "Vozera Narač",
     "name:de": "Naratsch",
     "name:en": "Lake Narach/Lake Naroch",
@@ -40836,6 +41072,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Nueltin",
+    "marker-size": "small",
     "name": "Nueltin Lake",
     "name:etymology:sl": "Ime jezera Nu-thel-tin-tu-ch-eh v jeziku Indijancev Čipev pomeni ′Speče otoško jezero′.",
     "name:hu": "Nueltin-tó",
@@ -40879,6 +41116,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Oulu",
+    "marker-size": "small",
     "name": "Oulujärvi/Ule träsk",
     "name:de": "Oulusee",
     "name:etymology:sl": "Ime jezera se nanaša na reko Oulu, ki izteka iz njega in katere ime pomeni ′Voda, Reka′.",
@@ -41013,6 +41251,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Siljan",
+    "marker-size": "small",
     "name": "Siljan",
     "name:es": "Lago Siljan",
     "name:fr": "Lac Siljan",
@@ -41032,6 +41271,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Stor",
+    "marker-size": "small",
     "name": "Storsjön",
     "name:etymology:sl": "Ime jezera je zloženka švedskih izrazov stor v pomenu ′velik′ in sjön v pomenu ′jezero′, pomeni torej ′Veliko jezero′.",
     "semantic-type": "kopenski hidronim",
@@ -41049,6 +41289,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Tahoe",
+    "marker-size": "small",
     "name": "Lake Tahoe",
     "name:es": "Lago Tahoe",
     "name:etymology:sl": "Ime jezera izhaja iz jezika Indijancev Vašojev in pomeni preprosto ′Veliko jezero′.",
@@ -41117,6 +41358,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Taupo",
+    "marker-size": "small",
     "name": "Lake Taupo",
     "name:de": "Tauposee",
     "name:es": "Lago Taupo",
@@ -41232,6 +41474,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Tumba",
+    "marker-size": "small",
     "name": "Lac Tumba/Ntumba",
     "name:de": "Tumbasee",
     "name:en": "Lake Tumba",
@@ -41276,6 +41519,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Vänern",
+    "marker-size": "small",
     "name": "Vänern",
     "name:de": "Vänersee",
     "name:hr": "Venersko jezero",
@@ -41296,6 +41540,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Vättern",
+    "marker-size": "small",
     "name": "Vättern",
     "name:de": "Vättersee",
     "name:etymology:sl": "Ena od razlag govori, da naj bi ime jezera izhajalo iz švedskega izraza vatten v pomenu ′voda′, po drugi naj bi arhaični izraz väter pomenil ′gozd′ ali ′jezerski duh′.",
@@ -41318,6 +41563,7 @@
    },
    "properties": {
     "alt_name:sl": "jezero Winnipegosis",
+    "marker-size": "small",
     "name": "Lake Winnipegosis",
     "name:de": "Winnipegosissee",
     "name:es": "Lago Winnipegosis",
@@ -41436,6 +41682,7 @@
    },
    "properties": {
     "alt_name:sl": "Johorski preliv",
+    "marker-size": "small",
     "name": "Selat Johor",
     "name:de": "Straße von Johor",
     "name:en": "Straits of Johor",
@@ -41675,6 +41922,7 @@
    "properties": {
     "alt_name:sl": "Jorkšir",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Yorkshire",
     "name:etymology:sl": "Ime York se je razvilo iz staronorveškega poimenovanja Jórvik v pomenu ′Notranjost, Brez zaliva′, kar se je v 14. stoletju preobrazilo v York, izraz shire pa pomeni ′grofija′.",
@@ -43010,6 +43258,7 @@
    },
    "properties": {
     "alt_name:sl": "Južni Beveland",
+    "marker-size": "small",
     "name": "Zuid-Beveland",
     "name:etymology:sl": "Ime obalne reliefne oblike izhaja iz njene lege.",
     "name:fr": "Beveland-du-Sud",
@@ -43177,6 +43426,7 @@
    },
    "properties": {
     "alt_name:sl": "Južni prehod",
+    "marker-size": "small",
     "name": "South Pass",
     "name:etymology:sl": "Ime izhaja iz dejstva, da so pred njegovim odkritjem glavne poti prek Skalnega gorovja proti zahodu potekale severno od tod.",
     "name:hr": "Južni prolaz",
@@ -43281,6 +43531,7 @@
    },
    "properties": {
     "alt_name:sl": "Južni Saskatchewan",
+    "marker-size": "small",
     "name": "South Saskatchewan River",
     "name:etymology:sl": "Ime reke, po kateri je dobila ime kanadska provinca Saskatchewan, izhaja iz poimenovanja v jeziku Indijancev Krijev kis-is-ska-tches-wani-sipi, kar naj bi pomenilo ′Hitro tekoča reka′.",
     "name:fr": "Rivière Saskatchewan Sud",
@@ -43545,6 +43796,7 @@
    },
    "properties": {
     "alt_name:sl": "Južno indijansko jezero",
+    "marker-size": "small",
     "name": "Southern Indian Lake",
     "name:etymology:sl": "Jezero je verjetno poimenovano po ″južnih Indijancih″ oziroma Krijih, ki mu sami pravijo missi sakahigan, kar pomeni ′Veliko jezero′.",
     "name:hu": "Déli-Indián-tó",
@@ -44173,6 +44425,7 @@
    },
    "properties": {
     "alt_name:sl": "Kačja reka",
+    "marker-size": "small",
     "name": "Snake River",
     "name:es": "Río Snake",
     "name:etymology:sl": "Reka ni poimenovana po svojem ovinkastem toku, ampak po indijanskem, šošonskem ljudstvu Snake, ki je nekoč poseljevalo njene bregove na ozemlju zdajšnjega Idaha. Izvor imena ljudstva ni znan.",
@@ -44219,6 +44472,7 @@
    },
    "properties": {
     "alt_name:sl": "Kadiz",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Cádiz",
     "name:en": "Cadiz",
@@ -44243,6 +44497,7 @@
    "properties": {
     "alt_name:sl": "Kafa",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Kefa",
     "name:de": "Kaffa",
@@ -44318,6 +44573,7 @@
    },
    "properties": {
     "alt_name:sl": "Kaijski otoki",
+    "marker-size": "small",
     "name": "Kepulauan Kai",
     "name:de": "Kai-Inseln/Kei-Inseln",
     "name:en": "Kai Islands/Kei Islands",
@@ -45080,6 +45336,7 @@
    },
    "properties": {
     "alt_name:sl": "Kamenice",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Chemnitz/Kamjenica",
     "name:etymology:sl": "Mesto iz 12. stoletja je poimenovano po rečici Chemnitz, katere ime izhaja iz starosorbskega izraza kamen v pomenu ′kamen, skala′ in pomeni ′Kamnati potok′.",
@@ -45195,6 +45452,7 @@
    },
    "properties": {
     "alt_name:sl": "Kamišin",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Kamyšin",
     "name:de": "Kamyschin",
@@ -45925,6 +46183,7 @@
    },
    "properties": {
     "alt_name:sl": "Kapsagajsko zajezitveno jezero;Kapčagajsko zajezitvenjo jezero",
+    "marker-size": "small",
     "name": "Qapshaghay Bögeni",
     "name:de": "Kaptschagai-Stausee",
     "name:en": "Kapshagay Reservoir",
@@ -46085,6 +46344,7 @@
    },
    "properties": {
     "alt_name:sl": "Karaginski otok;Karaginski",
+    "marker-size": "small",
     "name": "ostrov Karaginskij",
     "name:de": "Karaginski",
     "name:en": "Karaginsky Island",
@@ -46160,6 +46420,7 @@
    },
    "properties": {
     "alt_name:sl": "Karakaysko zajezitveno jezero",
+    "marker-size": "small",
     "name": "Karakaya Barajı",
     "name:de": "Karakaya-Talsperre",
     "name:en": "Karakaya Dam",
@@ -46569,6 +46830,7 @@
    },
    "properties": {
     "alt_name:sl": "Karimatsko otočje",
+    "marker-size": "small",
     "name": "Kepulauan Karimata",
     "name:de": "Karimatainseln",
     "name:en": "Karimata Islands",
@@ -46727,6 +46989,7 @@
    },
    "properties": {
     "alt_name:sl": "Karnaphulijsko zajezitveno jezero",
+    "marker-size": "small",
     "name": "Karnaphuli Reservoir/Kaptai Lake",
     "name:de": "Karnaphuli-Stausee",
     "name:en": "0/Kaptai Lake",
@@ -47098,6 +47361,7 @@
     "alt_name:sl": "Karunsko jezero",
     "error": "Error parsing \"30° 39′ 55″\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "name": "Birkat Qārūn",
     "name:de": "Birket el-Kerun/Qārūn-See",
     "name:en": "Lake Qaroun/Qaroun Lake",
@@ -47230,6 +47494,7 @@
    },
    "properties": {
     "alt_name:sl": "Kastalija;Kastalijski izvir",
+    "marker-size": "small",
     "name": "Kastalía",
     "name:de": "Kastalische Quelle",
     "name:en": "Castalian Spring",
@@ -47617,6 +47882,7 @@
    },
    "properties": {
     "alt_name:sl": "Kaunaško zajezitveno jezero",
+    "marker-size": "small",
     "name": "Kauno marios",
     "name:de": "Kaunasser Meer",
     "name:en": "Kaunas Reservoir",
@@ -47639,6 +47905,7 @@
    },
    "properties": {
     "alt_name:sl": "Kavasaki",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Kawasaki",
     "name:de": "Kawasaki",
@@ -47740,6 +48007,7 @@
    },
    "properties": {
     "alt_name:sl": "Kazanlik",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Kazanlak",
     "name:de": "Kasanlak",
@@ -47808,6 +48076,7 @@
    },
    "properties": {
     "alt_name:sl": "Kazvin",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Qazvīn",
     "name:de": "Qazvin",
@@ -47879,6 +48148,7 @@
    },
    "properties": {
     "alt_name:sl": "Kellettov rt",
+    "marker-size": "small",
     "name": "Cape Kellett",
     "name:etymology:sl": "Rt na jugozahodu Banksovega otoka je poimenovan po britanskem viceadmiralu in polarnem raziskovalcu, siru Henryju Kellettu (1806‒1875)",
     "name:hr": "Kellettov rt",
@@ -47899,6 +48169,7 @@
    },
    "properties": {
     "alt_name:sl": "Kelmorajn",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Köln",
     "name:en": "Cologne",
@@ -48541,6 +48812,7 @@
    },
    "properties": {
     "alt_name:sl": "Kingov otok",
+    "marker-size": "small",
     "name": "King Island",
     "name:es": "Isla King",
     "name:etymology:sl": "Otok je poimenovan po kapitanu Philipu Gidleyju Kingu (1758‒1808), tretjem kraljevem guvernerju Novega južnega Walesa, h kateremu je takrat spadala tudi Tasmanija.",
@@ -48581,6 +48853,7 @@
    },
    "properties": {
     "alt_name:sl": "Kinsalski rt",
+    "marker-size": "small",
     "name": "Old Head of Kinsale/An Seancheann",
     "name:es": "Cabo de Old Head of Kinsale",
     "name:etymology:sl": "Rt je poimenovan po bližnjem mestecu Kinsale.",
@@ -48986,6 +49259,7 @@
     "alt_name:sl": "Kizil",
     "error": "Error parsing \"94° 27′ 0″ E\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Kyzyl",
     "name:de": "Kysyl",
@@ -49032,6 +49306,7 @@
    },
    "properties": {
     "alt_name:sl": "Kjodža",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Chioggia",
     "name:etymology:sl": "Ime naselja se je razvilo iz latinskega poimenovanja Fossa Clodia v pomenu ′Klodijev jarek′, kar se je nanašalo na tamkajšnji prekop, sodobno ime pa je izpeljano iz osebnega imena.",
@@ -49138,6 +49413,7 @@
    },
    "properties": {
     "alt_name:sl": "Ključevska Sopka",
+    "marker-size": "small",
     "name": "Ključevskaja Sopka/Ključevskoj",
     "name:de": "Kljutschewskaja Sopka/Kljutschewskoi Vulkan",
     "name:en": "Klyuchevskaya Sopka",
@@ -49228,6 +49504,7 @@
    },
    "properties": {
     "alt_name:sl": "Koburški polotok",
+    "marker-size": "small",
     "name": "Cobourg Peninsula",
     "name:es": "Península de Cobourg",
     "name:etymology:sl": "Polotok je poimenoval raziskovalec Philip Parker King po stricu britanske kraljice Viktorije, belgijskem princu Leopoldu I. (1790−1865) iz dinastije Saško-Koburško-Gotskih, ki je bil od leta 1831 prvi belgijski kralj.",
@@ -49341,6 +49618,7 @@
    },
    "properties": {
     "alt_name:sl": "Kokosov preliv",
+    "marker-size": "small",
     "name": "Coco Channel",
     "name:de": "Kokos-Kanal",
     "name:en": "Coco Channel",
@@ -49654,6 +49932,7 @@
     "alt_name:sl": "Kolorado",
     "error": "Error parsing \"32°\\u00a040′\\u00a047″ S\"; Error parsing \"101°\\u00a043′\\u00a051″ Z\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "name": "Colorado River",
     "name:es": "Río Colorado",
     "name:etymology:sl": "Ime 18. najdaljše reke Združenih držav Amerike izhaja iz španskega izraza v pomenu ′obarvan, pordečel′.",
@@ -49927,6 +50206,7 @@
    },
    "properties": {
     "alt_name:sl": "Komitejski zaliv",
+    "marker-size": "small",
     "name": "Committee Bay",
     "name:etymology:sl": "Zaliv je raziskovala posadka ladje Discovery v letih 1929‒1930 in ga poimenovala po sponzorjih raziskav, Komiteju Discoveryja.",
     "name:hu": "Committee-öböl",
@@ -50015,6 +50295,7 @@
    },
    "properties": {
     "alt_name:sl": "Kompasna gora",
+    "marker-size": "small",
     "name": "Compassberg/Kompasberg",
     "name:etymology:sl": "Goro je po kompasu leta 1778 poimenoval polkovnik Robert Jacob Gordon (1743−1795), ko je spremljal guvernerja Joachima van Pietterberga na pohodu proti vzhodni meji Kapske kolonije.",
     "semantic-type": "kopenska reliefna oblika",
@@ -50056,6 +50337,7 @@
    },
    "properties": {
     "alt_name:sl": "Komsomolsk ob Amurju",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Komsomol′sk-na-Amure",
     "name:de": "Komsomolsk am Amur",
@@ -50292,6 +50574,7 @@
    },
    "properties": {
     "alt_name:sl": "Kopalnik",
+    "marker-size": "small",
     "name": "Kopaonik/Mali i Kopaonikut ",
     "name:hr": "Kopaonik",
     "semantic-type": "kopenska reliefna oblika",
@@ -50360,6 +50643,7 @@
    },
    "properties": {
     "alt_name:sl": "Koralni greben",
+    "marker-size": "small",
     "name": "Barrier Reef",
     "name:en": "Belize Barrier Reef",
     "name:es": "Barrera del Arrecife de Belice",
@@ -50454,6 +50738,7 @@
     "alt_name:sl": "Korasan",
     "error": "Error parsing \"38° 1′ 0″\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Khorāsān",
     "name:de": "Chorasan",
@@ -50987,6 +51272,7 @@
    },
    "properties": {
     "alt_name:sl": "Koruzna otoka",
+    "marker-size": "small",
     "name": "Islas del Maíz/Corn Islands",
     "name:de": "Corn Islands",
     "name:en": "Corn Islands",
@@ -51055,6 +51341,7 @@
    },
    "properties": {
     "alt_name:sl": "kosa Arabatska Strelka",
+    "marker-size": "small",
     "name": "Kosa Arabats′ka strilka/Arabat beli",
     "name:de": "Arabat-Nehrung",
     "name:en": "Arabat Spit/Arabat Tongue",
@@ -51193,6 +51480,7 @@
    },
    "properties": {
     "alt_name:sl": "Kotelni",
+    "marker-size": "small",
     "name": "ostrov Kotel′nyj",
     "name:de": "Kotelny-Insel",
     "name:en": "Kottelny Island",
@@ -51217,6 +51505,7 @@
    },
    "properties": {
     "alt_name:sl": "Kotlina Eyrovega jezera",
+    "marker-size": "small",
     "name": "Lake Eyre Basin",
     "name:etymology:sl": "Kotlina je poimenovana po Eyrovem jezeru, ki je umeščeno v njej.",
     "name:fr": "Bassin du Lac Eyre",
@@ -51314,6 +51603,7 @@
    },
    "properties": {
     "alt_name:sl": "Kovno",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Kaunas",
     "name:de": "Kauen",
@@ -51355,6 +51645,7 @@
    },
    "properties": {
     "alt_name:sl": "Krajova",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Craiova",
     "name:de": "Krajowa",
@@ -51426,6 +51717,7 @@
    },
    "properties": {
     "alt_name:sl": "Kraljevec",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Kaliningrad",
     "name:de": "Kaliningrad/Königsberg",
@@ -51449,6 +51741,7 @@
    },
    "properties": {
     "alt_name:sl": "Kraljevi Gradec",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Hradec Králové",
     "name:de": "Königgrätz",
@@ -51470,6 +51763,7 @@
    },
    "properties": {
     "alt_name:sl": "Kraljevski prekop",
+    "marker-size": "small",
     "name": "Royal Canal/An Chanáil Ríoga",
     "name:etymology:sl": "Prekop je verjetno poimenovan po britanskih vladarjih.",
     "name:hr": "Kraljevski kanal",
@@ -51489,6 +51783,7 @@
    },
    "properties": {
     "alt_name:sl": "Kraljičina dežela",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Queensland",
     "name:etymology:sl": "Neuveljavljeno slovensko ime upravne enote je dobesedni prevod angleškega imena, ki je bilo podeljeno v čast britanski kraljici Viktoriji (1819‒1901), po kateri je poimenovana tudi avstralska država južno od tod.",
@@ -51533,6 +51828,7 @@
    },
    "properties": {
     "alt_name:sl": "Krasnovodski polotok",
+    "marker-size": "small",
     "name": "Krasnowodsk ¥arymadasy",
     "name:en": "Krasnovodsk Peninsula",
     "name:etymology:sl": "Polotok je poimenovan po mestu Krasnovodsk, ki se je leta 1993 po tedanjem turkmenskem predsedniku Saparmuratu Atajeviču Njazovu (1940−2006) preimenovalo v Turkmenbaši (Türkmenbaşy) v pomenu ′Oče vseh Turkmencev′.",
@@ -52000,6 +52296,7 @@
    },
    "properties": {
     "alt_name:sl": "Kronštat",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Kronštadt",
     "name:de": "Kronstadt",
@@ -52045,6 +52342,7 @@
    },
    "properties": {
     "alt_name:sl": "Krugerjev narodni park",
+    "marker-size": "small",
     "name": "Krüger National Park/Nasionale Krugerwildtuin",
     "name:de": "Krüger-Nationalpark",
     "name:en": "Kruger National Park",
@@ -52094,6 +52392,7 @@
    },
    "properties": {
     "alt_name:sl": "Ksanti",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Xánthi",
     "name:de": "Xanthi",
@@ -52335,6 +52634,7 @@
    },
    "properties": {
     "alt_name:sl": "Kulundinsko jezero",
+    "marker-size": "small",
     "name": "Kulundinskoe ozero",
     "name:de": "Kulundasee",
     "name:en": "Lake Kulundinskoye",
@@ -52357,6 +52657,7 @@
    },
    "properties": {
     "alt_name:sl": "Kum",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Qom",
     "name:de": "Ghom",
@@ -52515,6 +52816,7 @@
    },
    "properties": {
     "alt_name:sl": "Kunje jezero",
+    "marker-size": "small",
     "name": "Lac la Martre",
     "name:etymology:sl": "Jezero je poimenovano po kunah (Mustelidae), četudi slovi kot pomembno migracijsko jezero za ptice.",
     "name:hu": "La Martre-tó",
@@ -53241,6 +53543,7 @@
    },
    "properties": {
     "alt_name:sl": "Labodji otoki;Swanovi otoki",
+    "marker-size": "small",
     "name": "Islas Santanilla/Islas del Cisne ",
     "name:de": "Islas del Cisne",
     "name:en": "Swan Islands",
@@ -53328,6 +53631,7 @@
    },
    "properties": {
     "alt_name:sl": "Labski prekop",
+    "marker-size": "small",
     "name": "Elbe-Seitenkanal",
     "name:en": "Elbe Lateral Canal",
     "name:etymology:sl": "Prekop, ki povezuje Mittelandski prekop in Labo, se pri nas imenuje po reki Laba, njegovo polno originalno ime pa bi lahko prevedli kot ′Stranski prekop Labe′.",
@@ -53527,6 +53831,7 @@
    },
    "properties": {
     "alt_name:sl": "Lagunski otoki;otočje Tuvalu",
+    "marker-size": "small",
     "name": "Tuvalu Islands/Lagoon Islands",
     "name:de": "Tuvalu-Inseln",
     "name:es": "Islas Tuvalu",
@@ -53738,6 +54043,7 @@
    },
    "properties": {
     "alt_name:sl": "Lamonski zaliv",
+    "marker-size": "small",
     "name": "Lamon Bay",
     "name:hr": "Lamonski zaljev",
     "name:hu": "Lamon-öböl",
@@ -53778,6 +54084,7 @@
    },
    "properties": {
     "alt_name:sl": "Landov ledenik",
+    "marker-size": "small",
     "name": "Land Glacier",
     "name:en": "Land Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po ameriškem viceadmiralu Emoryju Scottu Landu (1879‒1971), načelniku ameriške pomorske komisije.",
@@ -53914,6 +54221,7 @@
    },
    "properties": {
     "alt_name:sl": "Larache",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "al-ʿArāʾisch",
     "name:de": "Larache",
@@ -53986,6 +54294,7 @@
    },
    "properties": {
     "alt_name:sl": "Larsenova ožina",
+    "marker-size": "small",
     "name": "Larsen Sound",
     "name:etymology:sl": "Morska ožina je poimenovana po na Norveškem rojenem kanadskem arktičnem raziskovalcu Henryju Asbjörnu Larsenu (1899‒1964), ki je v teh vodah dvakrat plul v štiridestih letih prejšnjega stoletja.",
     "name:hr": "Larsenov prolaz",
@@ -54501,6 +54810,7 @@
    },
    "properties": {
     "alt_name:sl": "Leonsko gorovje",
+    "marker-size": "small",
     "name": "Montañas de Léon",
     "name:etymology:sl": "Gorovje je poimenovano po provinci Leon.",
     "name:hu": "Leóni-hegység",
@@ -54541,6 +54851,7 @@
    },
    "properties": {
     "alt_name:sl": "Lepant",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Nafpaktos",
     "name:en": "Naupactus",
@@ -54633,6 +54944,7 @@
    "properties": {
     "alt_name:sl": "Letonija",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Latvija",
     "name:de": "Lettland",
@@ -54659,6 +54971,7 @@
    },
    "properties": {
     "alt_name:sl": "Levadia",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Livadeia",
     "name:de": "Livadia",
@@ -55283,6 +55596,7 @@
    },
    "properties": {
     "alt_name:sl": "Linc",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Linz",
     "name:etymology:sl": "Ime naselja v osnovi verjetno izhaja iz germanskega izraza lindo v pomenu ′lipa′. Ustanovili so ga Rimljani, ki so ga imenovali Lentia.",
@@ -55355,6 +55669,7 @@
    },
    "properties": {
     "alt_name:sl": "Lipensko zajezitveno jezero",
+    "marker-size": "small",
     "name": "Údolní nádrž Lipno/Lipenská přehrada",
     "name:de": "Stausee Lipno",
     "name:en": "Lipno Dam",
@@ -55412,6 +55727,7 @@
    },
    "properties": {
     "alt_name:sl": "Lipsko",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Leipzig",
     "name:en": "Leipsic",
@@ -55525,6 +55841,7 @@
    },
    "properties": {
     "alt_name:sl": "Litomerice",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Litomĕřice",
     "name:de": "Leitmeritz",
@@ -55573,6 +55890,7 @@
    },
    "properties": {
     "alt_name:sl": "Liverpoolska obala",
+    "marker-size": "small",
     "name": "Liverpool Kyst/Liverpool Land",
     "name:en": "Liverpool Coast/Liverpool Land",
     "name:etymology:sl": "Ime tega dela obale Grenlandije izhaja iz dejstva, da je Scoresby ob podrobnem kartiranju v dvajsetih letih 19. stoletja tamkajšnje topografske pojave poimenoval po znanih osebah iz Liverpoola.",
@@ -55592,6 +55910,7 @@
    },
    "properties": {
     "alt_name:sl": "Liverpoolski zaliv",
+    "marker-size": "small",
     "name": "Liverpool Bay",
     "name:hr": "Liverpoolski zaljev",
     "name:hu": "Liverpool-öböl",
@@ -55749,6 +56068,7 @@
    },
    "properties": {
     "alt_name:sl": "Ljubno",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Leoben",
     "name:etymology:sl": "Prva omemba imena naselja v obliki Liupina je v dokumentu iz leta 904, leta 1173 pa se omenja kot Forum Liuben.",
@@ -56038,6 +56358,7 @@
    },
    "properties": {
     "alt_name:sl": "Londonderryjev rt",
+    "marker-size": "small",
     "name": "Cape Londonderry",
     "name:etymology:sl": "Rt je poimenovan po irskem in britanskem državniku Robertu Stewartu, 2. markizu Londonderryjskem (1769‒1822).",
     "name:hr": "Rt Londonderry",
@@ -56357,6 +56678,7 @@
    },
    "properties": {
     "alt_name:sl": "Lübeški zaliv",
+    "marker-size": "small",
     "name": "Lübecker Bucht",
     "name:en": "Bay of Lübeck",
     "name:etymology:sl": "Zaliv je poimenovan po severnonemškem mestu Lübeck.",
@@ -56418,6 +56740,7 @@
    },
    "properties": {
     "alt_name:sl": "Lugansk",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Luhans′k",
     "name:de": "Luhansk",
@@ -56699,6 +57022,7 @@
    },
    "properties": {
     "alt_name:sl": "Luško višavje",
+    "marker-size": "small",
     "name": "Lužskaja vozvyšennost′",
     "name:hu": "Lugai-hátság",
     "semantic-type": "kopenska reliefna oblika",
@@ -56943,6 +57267,7 @@
    },
    "properties": {
     "alt_name:sl": "Mackayevo jezero",
+    "marker-size": "small",
     "name": "Lake Mackay",
     "name:etymology:sl": "Leta 1930 odkrito obdobno jezero je bilo leta 1933 poimenovano po vodji zračne ekspedicije, Donaldu Georgeu Mackayju (1870−1958).",
     "name:hu": "Mackay-tó",
@@ -57373,6 +57698,7 @@
    },
    "properties": {
     "alt_name:sl": "Mafijski preliv",
+    "marker-size": "small",
     "name": "Mafia Channel",
     "name:etymology:sl": "Preliv je poimenovan po otoku Mafia, ki ga razdvaja od afriške celine. Ime otoka izhaja iz arabskega izraza morfiyeh v pomenu ′skupina, otočje′ ali iz svahilijskega mahali pa afya v pomenu ′zdravo bivališče′.",
     "name:fr": "Canal de Mafia",
@@ -57680,6 +58006,7 @@
    },
    "properties": {
     "alt_name:sl": "Makao;Makao",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Macau/Àomén",
     "name:de": "Macao",
@@ -58224,6 +58551,7 @@
    },
    "properties": {
     "alt_name:sl": "Malaspinin ledenik",
+    "marker-size": "small",
     "name": "Malaspina Glacier",
     "name:de": "Malaspinagletscher",
     "name:es": "Glaciar Malaspina",
@@ -58343,6 +58671,7 @@
    },
    "properties": {
     "alt_name:sl": "Malekula",
+    "marker-size": "small",
     "name": "Île Malékoula",
     "name:de": "Malakula",
     "name:en": "Malakula Island/Malekula",
@@ -58393,6 +58722,7 @@
    },
    "properties": {
     "alt_name:sl": "Mali Andaman",
+    "marker-size": "small",
     "name": "Little Andaman/Gaubolambe",
     "name:es": "Isla Pequeño Andamán",
     "name:etymology:sl": "Mali Andaman se običajno pojmuje kot nasprotni pol Velikega Andamana.",
@@ -58488,6 +58818,7 @@
    },
    "properties": {
     "alt_name:sl": "Mali Jenisej",
+    "marker-size": "small",
     "name": "Malyj Enisej/Ka-Hem",
     "name:de": "Kleiner Jenissei",
     "name:en": "Little Yenisei/Lesser Yenisei",
@@ -58582,6 +58913,7 @@
    },
    "properties": {
     "alt_name:sl": "Mali Ljahovski",
+    "marker-size": "small",
     "name": "ostrov Malyj Ljahovski",
     "name:de": "Kleine Ljachow-Insel",
     "name:en": "Maly Lyakhovsky Island",
@@ -58625,6 +58957,7 @@
    },
    "properties": {
     "alt_name:sl": "Mali Nikobar",
+    "marker-size": "small",
     "name": "Choṭā Nikobār/Ong",
     "name:de": "Klein Nikobar",
     "name:en": "Little Nicobar",
@@ -58696,6 +59029,7 @@
    },
    "properties": {
     "alt_name:sl": "Mali Tajmir",
+    "marker-size": "small",
     "name": "ostrov Malyj Tajmyr",
     "name:de": "Taimyr-Insel",
     "name:en": "Little Taymyr Island",
@@ -58815,6 +59149,7 @@
    },
    "properties": {
     "alt_name:sl": "Malo Suženjsko jezero",
+    "marker-size": "small",
     "name": "Lesser Slave Lake",
     "name:de": "Kleine Sklavensee",
     "name:etymology:sl": "Ime jezera dejansko nima nič opraviti s suženjstvom, se pa navezuje na reko Slave, katere ime je indijanskega izvora, in ga povezuje z Velikim suženjskim jezerom, ki je bistvenjo večje.",
@@ -59061,6 +59396,7 @@
    },
    "properties": {
     "alt_name:sl": "Mangišlak",
+    "marker-size": "small",
     "name": "Mangistau Tubegi",
     "name:de": "Mangyschlak",
     "name:en": "Mangyshlak or Mangghyshlaq Peninsula",
@@ -59083,6 +59419,7 @@
    },
    "properties": {
     "alt_name:sl": "Manguenijska planota",
+    "marker-size": "small",
     "name": "Plateau du Mangueni",
     "name:en": "Plateau de Mangueni",
     "name:etymology:sl": "Planota je poimenovana po vadiju Mangueni.",
@@ -59103,6 +59440,7 @@
    },
    "properties": {
     "alt_name:sl": "Manič",
+    "marker-size": "small",
     "name": "Manyč",
     "name:de": "Manytsch",
     "name:en": "Manych River",
@@ -59264,6 +59602,7 @@
    },
    "properties": {
     "alt_name:sl": "Manzalsko jezero;jezero Mensaleh",
+    "marker-size": "small",
     "name": "Buhayrat al-Manzilah",
     "name:en": "Lake Manzala/Lake Manzaleh",
     "name:etymology:sl": "Jezero je poimenovano po provinci Manzala.",
@@ -59310,6 +59649,7 @@
    },
    "properties": {
     "alt_name:sl": "Marajski zaliv",
+    "marker-size": "small",
     "name": "Baía de Marajó",
     "name:de": "Bucht von Marajo",
     "name:en": "Marajo Bay",
@@ -59522,6 +59862,7 @@
    },
    "properties": {
     "alt_name:sl": "Marijine Kopeli",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Mariánské Láznĕ",
     "name:de": "Marienbad",
@@ -59808,6 +60149,7 @@
    },
    "properties": {
     "alt_name:sl": "Marsilja",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Marseille",
     "name:de": "Massilien",
@@ -60175,6 +60517,7 @@
    },
    "properties": {
     "alt_name:sl": "Mašonija",
+    "marker-size": "small",
     "name": "Mashonaland",
     "name:etymology:sl": "Angleško ime pokrajine pomeni ′Dežela Ndebelov′ in izhaja iz imena zulujskega ljudstva Ndebele.",
     "name:ru": "Mašonalend",
@@ -60193,6 +60536,7 @@
    },
    "properties": {
     "alt_name:sl": "Matabelija",
+    "marker-size": "small",
     "name": "Matabeleland",
     "name:es": "Matabelelandia",
     "name:etymology:sl": "Angleško ime pokrajine pomeni ′Dežela Šonov′ in izhaja iz imena bantujskega ljudstva Šoni.",
@@ -60250,6 +60594,7 @@
    },
    "properties": {
     "alt_name:sl": "Mauryjeva podmorska ožina",
+    "marker-size": "small",
     "name": "Maury Seachannel",
     "name:en": "Maury Seachannel",
     "name:etymology:sl": "Podmorska ožina je poimenovana po ameriškem pomorskem oficirju in oceanografu Matthewu Flindersu Mauryju (1806‒1873), ki velja za pionirja globinskih preučevanj morskih tokov in učinkov vetrov.",
@@ -60569,6 +60914,7 @@
    },
    "properties": {
     "alt_name:sl": "Meadovo zajezitveno jezero",
+    "marker-size": "small",
     "name": "Lake Mead",
     "name:es": "Lago Mead",
     "name:etymology:sl": "Zajezitveno jezero je poimenovano po Elwoodu Meadu (1858–1936), ki je bil v času načrtovanja in izgradnje jezu na reki Kolorado v letih 1924–1936 pooblaščenec ameriškega urada za komasacije.",
@@ -60643,6 +60989,7 @@
    "properties": {
     "alt_name:sl": "Mecklenburška;Mecklenburško",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Mecklenburg",
     "name:es": "Mecklemburgo",
@@ -61018,6 +61365,7 @@
    },
    "properties": {
     "alt_name:sl": "Mehiko",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Ciudad de México",
     "name:de": "Mexiko-Stadt",
@@ -61369,6 +61717,7 @@
    },
    "properties": {
     "alt_name:sl": "Melvillov otok",
+    "marker-size": "small",
     "name": "Melville Island/Yermalner Island ",
     "name:de": "Melville-Insel",
     "name:es": "Isla Melville",
@@ -61417,6 +61766,7 @@
    },
    "properties": {
     "alt_name:sl": "Melvillov polotok",
+    "marker-size": "small",
     "name": "Melville Peninsula",
     "name:de": "Melville-Halbinsel",
     "name:es": "Península de Melville",
@@ -61533,6 +61883,7 @@
    },
    "properties": {
     "alt_name:sl": "Menam",
+    "marker-size": "small",
     "name": "Chao Phraya",
     "name:es": "Río Chao Phraya/Me Nam",
     "name:etymology:sl": "Ime je sestavljeno iz tajskih izrazov chao v pomenu ′kralj, kraljevski, sveti′ in praya, kar je častitljivo za ′general, poveljnik′.",
@@ -61783,6 +62134,7 @@
    },
    "properties": {
     "alt_name:sl": "Mertzov ledenik",
+    "marker-size": "small",
     "name": "Mertz Glacier",
     "name:en": "Mertz Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po švicarskem raziskovalcu Xavierju Mertzu (1883‒1913), ki se je udeležil avstralazijske antarktične odprave pod vodstvom Douglasa Mawsona v letih 1911‒1914 in je na Antarktiki 7. januarja 1913 tudi umrl.",
@@ -61827,6 +62179,7 @@
    },
    "properties": {
     "alt_name:sl": "Mesečno jezero",
+    "marker-size": "small",
     "name": "Mondsee",
     "name:etymology:sl": "Ime pomeni ′Lunino jezero′.",
     "name:fr": "Lac de Mondsee",
@@ -62085,6 +62438,7 @@
    },
    "properties": {
     "alt_name:sl": "Mezen",
+    "marker-size": "small",
     "name": "Mezen′",
     "name:de": "Mezen",
     "name:en": "Mezen River",
@@ -62443,6 +62797,7 @@
    },
    "properties": {
     "alt_name:sl": "Milnejeva dežela",
+    "marker-size": "small",
     "name": "Milne Land/Ilimananngip Nunaa",
     "name:de": "Milneland",
     "name:en": "Milne Land",
@@ -62642,6 +62997,7 @@
    },
    "properties": {
     "alt_name:sl": "Mirni",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Mirnyj/Mirnej",
     "name:de": "Mirny",
@@ -62867,6 +63223,7 @@
    },
    "properties": {
     "alt_name:sl": "Miškovec;Miškolc",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Miskolc",
     "name:de": "Mischkolz",
@@ -63195,6 +63552,7 @@
    },
    "properties": {
     "alt_name:sl": "močvirje Lotagipi",
+    "marker-size": "small",
     "name": "Lotagipi Swamp",
     "name:en": "Lotagipi Swamp/Lotagipi Plain",
     "name:es": "Pantano Lotagipi",
@@ -63241,6 +63599,7 @@
    },
    "properties": {
     "alt_name:sl": "Modre gore",
+    "marker-size": "small",
     "name": "Blue Ridge Mountains",
     "name:es": "Montañas Blue",
     "name:etymology:sl": "Gorovje je poimenovano po modrikasti meglici, ki se nad vzpetinami dviga v jasnem vremenu, modrikasto barvo pa mu dajejo tudi evkaliptovi gozdovi, s katerimi je poraščeno.",
@@ -63335,6 +63694,7 @@
    },
    "properties": {
     "alt_name:sl": "Mogador",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "as-Sawirah/Essaouira",
     "name:de": "Essaouira/Mogador",
@@ -63387,6 +63747,7 @@
    },
    "properties": {
     "alt_name:sl": "Moguč",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Mainz",
     "name:es": "Maguncia",
@@ -63697,6 +64058,7 @@
    },
    "properties": {
     "alt_name:sl": "Monakovo;Mnihov",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "München",
     "name:en": "Munich",
@@ -63767,6 +64129,7 @@
    },
    "properties": {
     "alt_name:sl": "Mongerjevo jezero",
+    "marker-size": "small",
     "name": "Lake Monger",
     "name:etymology:sl": "Jezero je poimenovano po enem od prvih lastnikov in tamkajšnjem zemljiškem posestniku J. H. Mongerju.",
     "note:sl": "Gre za manjše jezero znotraj strnjeno pozidanega območja Pertha.",
@@ -63938,6 +64301,7 @@
    },
    "properties": {
     "alt_name:sl": "Moorovo jezero",
+    "marker-size": "small",
     "name": "Lake Moore",
     "name:hr": "Jezero Moore",
     "name:hu": "Moore-tó",
@@ -64136,6 +64500,7 @@
    },
    "properties": {
     "alt_name:sl": "Mortlockovo otočje",
+    "marker-size": "small",
     "name": "Mortlock Islands",
     "name:etymology:sl": "Otočje je poimenovano po kapitanu Jamesu Mortlocku, ki ga je odkril novembra 1795.",
     "name:fr": "Îles Mortlock",
@@ -64333,6 +64698,7 @@
    },
    "properties": {
     "alt_name:sl": "Mostič",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Brückl",
     "name:etymology:sl": "Naselje je poimenovano po mostu čez koroško reko Krka.",
@@ -64425,6 +64791,7 @@
    },
    "properties": {
     "alt_name:sl": "Mourdijska depresija",
+    "marker-size": "small",
     "name": "Dépression du Mourdi",
     "name:en": "Mourdi Depression",
     "name:etymology:sl": "Depresija je poimenovana po čadski pokrajini Mourdi (tudi Murdi), ki je del planote Ennedi.",
@@ -64444,6 +64811,7 @@
    },
    "properties": {
     "alt_name:sl": "Moza",
+    "marker-size": "small",
     "name": "Meuse/Maas",
     "name:de": "Maas",
     "name:en": "Meuse",
@@ -64630,6 +64998,7 @@
    },
    "properties": {
     "alt_name:sl": "Mrtvo gorovje",
+    "marker-size": "small",
     "name": "Totes Gebirge",
     "name:etymology:sl": "Originalno ime se nanaša na pomanjkanje rastlinstva na apnenčastem površju.",
     "name:fr": "Massif mort",
@@ -64764,6 +65133,7 @@
    },
    "properties": {
     "alt_name:sl": "Mulockov ledenik",
+    "marker-size": "small",
     "name": "Mulock Glacier",
     "name:en": "Mulock Glacier",
     "name:etymology:sl": "Poimenovanje ledenika je navezano na Mulockov zaliv (Mulock Inlet), v katerega se izteka, ta pa je dobil ime po britanskem pomorskem častniku in raziskovalcu Antarktike Georgeu Francisu Arthurju Mulocku (1882‒1963).",
@@ -64835,6 +65205,7 @@
    },
    "properties": {
     "alt_name:sl": "Münsterska kotlina",
+    "marker-size": "small",
     "name": "Münster Becken",
     "name:en": "Münster Basin",
     "name:etymology:sl": "Kotlina je poimenovana po mestu Münster, katerega ime se je razvilo iz srednjeveškega poimenovanja Monasterium  v pomenu ′Samostan′, kar se nanaša na tamkajšnji samostan svetega Liutgerja, ki ga je leta 804 ustanovil prvi münstrski škof.",
@@ -65136,6 +65507,7 @@
    "properties": {
     "alt_name:sl": "Nad Gozdom",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "name": "Oberwald",
     "name:etymology:sl": "Ime zgodovinske pokrajine odraža njeno lego na višji nadmorski višini v primerjavi s sosednjim Unterwaldom.",
     "semantic-type": "zgodovinska pokrajina",
@@ -65331,6 +65703,7 @@
    },
    "properties": {
     "alt_name:sl": "Nama",
+    "marker-size": "small",
     "name": "Namaqualand",
     "name:etymology:sl": "Pokrajinsko ime v pomenu ′Dežela Namov′ je nastalo na podlagi imena avtohtonega ljudstva Nama.",
     "name:hr": "Namaland",
@@ -65490,6 +65863,7 @@
    },
    "properties": {
     "alt_name:sl": "Nansenova dežela",
+    "marker-size": "small",
     "name": "Nansen Land",
     "name:etymology:sl": "Pokrajina je poimenovana po norveškem polarnem raziskovalcu, znanstveniku, diplomatu in humanistu Fridtjofu Wedelu Jarlsbergu Nansenu (1861–1930).",
     "name:hr": "Nansenova zemlja",
@@ -65529,6 +65903,7 @@
    },
    "properties": {
     "alt_name:sl": "Nantung",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Nántōng",
     "name:etymology:sl": "Ime naselja dobesedno pomeni ′Južna prometnica′, kar izhaja iz kitajskih izrazov nán v pomenu ′jug′ in tōng v pomenu ′vstopiti, komunicirati′, nanaša pa se na njegovo lego v ustju Modre reke.",
@@ -65619,6 +65994,7 @@
    },
    "properties": {
     "alt_name:sl": "Naresova dežela",
+    "marker-size": "small",
     "name": "Nares Land",
     "name:de": "Naresland",
     "name:es": "Tierra de Nare/Isla de Nares",
@@ -65639,6 +66015,7 @@
    },
    "properties": {
     "alt_name:sl": "Narjan Mar",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Nar′jan-Mar/Nyar′yana mar",
     "name:de": "Narjan-Mar",
@@ -66528,6 +66905,7 @@
    },
    "properties": {
     "alt_name:sl": "Nicoyski polotok",
+    "marker-size": "small",
     "name": "Península de Nicoya",
     "name:de": "Nicoya-Halbinsel",
     "name:en": "Nicoya Peninsula",
@@ -66998,6 +67376,7 @@
    },
    "properties": {
     "alt_name:sl": "Nimrodin ledenik",
+    "marker-size": "small",
     "name": "Nimrod Glacier",
     "name:en": "Nimrod Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po ladji britanske antarktične odprave v letih 1907‒1909 pod vodstvom Ernesta Shackletona, imenovani Nimrod.",
@@ -67045,6 +67424,7 @@
    },
    "properties": {
     "alt_name:sl": "Ninnisov ledenik",
+    "marker-size": "small",
     "name": "Ninnis Glacier",
     "name:de": "Ninnis-Gletscher",
     "name:en": "Ninnis Glacier",
@@ -67447,6 +67827,7 @@
    },
    "properties": {
     "alt_name:sl": "Nordkin",
+    "marker-size": "small",
     "name": "Kinnarodden/Nordkyn",
     "name:de": "Nordkinn",
     "name:en": "Cape Nordkinn",
@@ -67562,6 +67943,7 @@
    },
    "properties": {
     "alt_name:sl": "Normandijsko gričevje",
+    "marker-size": "small",
     "name": "0",
     "name:etymology:sl": "Gričevje, ki je del Armorikanskega masiva, je poimenovano glede na njegovo lego v Normandiji in vključuje skupini vzpetin Suisse Normande ter Alpes Mancelles.",
     "name:hr": "Normandijska brda",
@@ -68346,6 +68728,7 @@
    },
    "properties": {
     "alt_name:sl": "Novi Jork",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "New York",
     "name:es": "Nueva York",
@@ -68392,6 +68775,7 @@
    },
    "properties": {
     "alt_name:sl": "Novi Orleans",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "New Orleans",
     "name:es": "Nueva Orleans",
@@ -68518,6 +68902,7 @@
    },
    "properties": {
     "alt_name:sl": "Novočerkask",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Novočerkassk",
     "name:de": "Nowotscherkassk",
@@ -68587,6 +68972,7 @@
    },
    "properties": {
     "alt_name:sl": "Novogeorgijski otoki",
+    "marker-size": "small",
     "name": "New Georgia Islands",
     "name:de": "New-Georgia-Archipels",
     "name:es": "Islas Nueva Georgia",
@@ -68845,6 +69231,7 @@
    },
    "properties": {
     "alt_name:sl": "Nyeboejeva dežela",
+    "marker-size": "small",
     "name": "Nyeboe Land",
     "name:etymology:sl": "Ozemlje na severu Grenlandije je verjetno poimenovano po danskem inženirju Mariusu Ibu Nyeboeju (1867‒1946), pomembnem za razvoj rudnika bakra v kraju Josva.",
     "name:hu": "Nyeboe-föld",
@@ -68864,6 +69251,7 @@
    },
    "properties": {
     "alt_name:sl": "Oahejsko zajezitveno jezero",
+    "marker-size": "small",
     "name": "Lake Oahe",
     "name:es": "Lago Oahe",
     "name:etymology:sl": "Akumulacijsko jezero je poimenovano po indijanskem misionu Oahe, vzpostavljenem med plemenom Lakota Siuks leta 1874.",
@@ -69111,6 +69499,7 @@
    },
    "properties": {
     "alt_name:sl": "oaza Selima",
+    "marker-size": "small",
     "name": "Wāḥāt Salīmah",
     "name:en": "Selima Oasis",
     "name:hr": "Oaza Salima",
@@ -70008,6 +70397,7 @@
    },
    "properties": {
     "alt_name:sl": "Oituški prelaz",
+    "marker-size": "small",
     "name": "Pasul Oituz",
     "name:etymology:sl": "Prelaz je poimenovan po kraju ali reki Ojtuz.",
     "name:hr": "Prijevoj Oituz",
@@ -70049,6 +70439,7 @@
    },
    "properties": {
     "alt_name:sl": "Okajama",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Okayama",
     "name:de": "Okayama",
@@ -70462,6 +70853,7 @@
    },
    "properties": {
     "alt_name:sl": "Oljokminsk",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Olëkminsk",
     "name:de": "Oljokminsk",
@@ -70510,6 +70902,7 @@
    },
    "properties": {
     "alt_name:sl": "Olomuc",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Olomouc",
     "name:de": "Olmütz",
@@ -70550,6 +70943,7 @@
    },
    "properties": {
     "alt_name:sl": "Om",
+    "marker-size": "small",
     "name": "Om′",
     "name:de": "Om",
     "name:en": "Om River",
@@ -70973,6 +71367,7 @@
    },
    "properties": {
     "alt_name:sl": "Oristanski zaliv",
+    "marker-size": "small",
     "name": "Golfo di Oristano",
     "name:en": "Gulf of Oristano",
     "name:es": "Goffo de Oristano",
@@ -71086,6 +71481,7 @@
    },
    "properties": {
     "alt_name:sl": "Ortegalski rt",
+    "marker-size": "small",
     "name": "Cabo Ortegal",
     "name:de": "Kap Ortegal",
     "name:en": "Cape Ortegal",
@@ -71106,6 +71502,7 @@
    },
    "properties": {
     "alt_name:sl": "Ortsko jezero",
+    "marker-size": "small",
     "name": "Lago d′Orta/Lago Cusio",
     "name:de": "Ortasee",
     "name:en": "Lake Orta",
@@ -71239,6 +71636,7 @@
    },
    "properties": {
     "alt_name:sl": "Osek",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Osijek",
     "name:de": "Esseg/Essegg",
@@ -71620,6 +72018,7 @@
    },
    "properties": {
     "alt_name:sl": "Osumijski preliv",
+    "marker-size": "small",
     "name": "Ōsumi-kaikyō",
     "name:en": "Osumi Strait",
     "name:etymology:sl": "Preliv je poimenovan po polotoku Osumi na jugu velikega južnojaponskega otoka Kjušu.",
@@ -71662,6 +72061,7 @@
    },
    "properties": {
     "alt_name:sl": "Ošvienčim",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Oświęcim",
     "name:de": "Auschwitz",
@@ -71682,6 +72082,7 @@
    },
    "properties": {
     "alt_name:sl": "otočje Anambas",
+    "marker-size": "small",
     "name": "Kepulauan Anambas",
     "name:de": "Anambas-Inseln",
     "name:en": "Anambas archipelago/Anambas Islands",
@@ -71704,6 +72105,7 @@
    },
    "properties": {
     "alt_name:sl": "otočje Berlengas",
+    "marker-size": "small",
     "name": "Arquipélago das Berlengas ",
     "name:de": "Berlengas",
     "name:en": "Berlengas",
@@ -71892,6 +72294,7 @@
    },
    "properties": {
     "alt_name:sl": "otočje Horn",
+    "marker-size": "small",
     "name": "Îles Horn/Îles (de) Futuna",
     "name:de": "Horn-Inseln/Hoorn-Inseln/Futuna-Inseln",
     "name:en": "Hoorn Islands/Futuna Islands",
@@ -72196,6 +72599,7 @@
    },
    "properties": {
     "alt_name:sl": "Otok Amunda Ringnesa",
+    "marker-size": "small",
     "name": "Amund Ringnes Island",
     "name:es": "Isla Amund Ringnes",
     "name:etymology:sl": "Otoku je ime podelil Otto Sverdrup po pivovarju Amundu Ringnesu (1840‒1907) iz Osla, enem od sponzorjev njegove odprave, med katero je otok prvič ugledal leta 1900.",
@@ -72216,6 +72620,7 @@
    },
    "properties": {
     "alt_name:sl": "otok Anticosti",
+    "marker-size": "small",
     "name": "Île d′Anticosti",
     "name:de": "Anticosti",
     "name:en": "Anticosti Island",
@@ -72240,6 +72645,7 @@
    },
    "properties": {
     "alt_name:sl": "otok Ascension",
+    "marker-size": "small",
     "name": "Ascension Island",
     "name:es": "Isla Ascensión",
     "name:etymology:sl": "Otok, ki je v britanski posesti od leta 1815, je leta 1501 odkril španski pomorščak v portugalski službi João da Nova (ok. 1460−1509) in ga poimenoval Conception Island po brezmadežnem spočetju Device Marije, leta 1508 pa so ga ″znova odkrili″ na praznik Marijinega vnebovzetja in ga poimenovali Ilha de Ascenção, kar je temelj vseh jezikovnih različic imena.",
@@ -72285,6 +72691,7 @@
    },
    "properties": {
     "alt_name:sl": "otok Belle",
+    "marker-size": "small",
     "name": "Belle-île/Gerveur",
     "name:etymology:sl": "V srednjem veku se je za otok uveljavila grecizirana oblika imena Kalos Nésos oziroma latinizirana različica Calonessus v pomenu ′Lepi otok′, kar je pomensko enako kot francosko ime, ki je prevladalo od konca 18. stoletja. Njegovo bretonsko ime pomeni ′Veliko mesto′.",
     "name:hu": "Belle-sziget",
@@ -72392,6 +72799,7 @@
    },
    "properties": {
     "alt_name:sl": "otok Holy",
+    "marker-size": "small",
     "name": "Holy Island/Lindisfarne",
     "name:de": "Lindisfarne/Holy islands",
     "name:es": "Lindisdfarne",
@@ -72627,6 +73035,7 @@
    },
    "properties": {
     "alt_name:sl": "otok Pemba",
+    "marker-size": "small",
     "name": "Pemba Island",
     "name:de": "Pemba",
     "name:es": "Isla de Pemba",
@@ -72772,6 +73181,7 @@
    },
    "properties": {
     "alt_name:sl": "otok Sherbro",
+    "marker-size": "small",
     "name": "Sherbro Island",
     "name:de": "Sherbro-Insel/Bonthe-Insel",
     "name:es": "Isla Sherbro",
@@ -72817,6 +73227,7 @@
    },
    "properties": {
     "alt_name:sl": "Otok svete Marije",
+    "marker-size": "small",
     "name": "Nosy Boraha/Île Sainte Marie",
     "name:de": "Sainte Marie",
     "name:etymology:sl": "Ime otoka po sveti Mariji je povezano z zgodbami o piratih.",
@@ -72877,6 +73288,7 @@
    },
    "properties": {
     "alt_name:sl": "Otok svetega Antijoha",
+    "marker-size": "small",
     "name": "Isola di Sant′Antioco",
     "name:etymology:sl": "Otok je poimenovan po svetniku svetem Antiohu, ki je prišel iz Mavretanije in v prvem stoletju širil krščansko vero.",
     "name:hr": "Otok svetog Antioha",
@@ -73201,6 +73613,7 @@
    },
    "properties": {
     "alt_name:sl": "otoki Glorieuses;Otoki slave",
+    "marker-size": "small",
     "name": "Îles Glorieuses/Archipel des Glorieuses",
     "name:en": "Glorieuses/Glorioso Islands",
     "name:es": "Islas Gloriosas/Glorioso",
@@ -73246,6 +73659,7 @@
    },
    "properties": {
     "alt_name:sl": "Otoki kralja Jurija",
+    "marker-size": "small",
     "name": "Îles du Roi Georges",
     "name:en": "King George Islands",
     "name:es": "Islas del Rei Jorge",
@@ -73591,6 +74005,7 @@
    },
    "properties": {
     "alt_name:sl": "otoki Tokara",
+    "marker-size": "small",
     "name": "Tokara-rettō",
     "name:en": "Tokara Islands",
     "name:fr": "Îles Tokara",
@@ -73704,6 +74119,7 @@
    },
    "properties": {
     "alt_name:sl": "otoki Wessel",
+    "marker-size": "small",
     "name": "Wessel Islands",
     "name:de": "Wessel-Inseln",
     "name:etymology:sl": "Otoki so poimenovani po ladji Wessel, s katero jih je leta 1636 odkril nizozemski pomorščak Pieter Piertszoon.",
@@ -73840,6 +74256,7 @@
    },
    "properties": {
     "alt_name:sl": "Otwayev rt",
+    "marker-size": "small",
     "name": "Cape Otway",
     "name:etymology:sl": "Rtu je ime leta 1800 nadel britanski raziskovalec James Grant po svojem prijatelju, častniku kraljeve mornarice Williamu Albanyju Otwayu (1755‒1815).",
     "name:fr": "Cap Otway",
@@ -73932,6 +74349,7 @@
    "properties": {
     "alt_name:sl": "Ovambija",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "name": "Ovamboland",
     "name:etymology:sl": "Pokrajina je poimenovana po avtohtonem bantujskem ljudstvu Ovambo, ki se členi na več etnično sorodnih skupin.",
     "semantic-type": "zgodovinska pokrajina",
@@ -74243,6 +74661,7 @@
    },
    "properties": {
     "alt_name:sl": "Pagaijski otoki",
+    "marker-size": "small",
     "name": "Kepulauan Pagai",
     "name:de": "Pagai-Inseln",
     "name:en": "Pagai islands",
@@ -74582,6 +75001,7 @@
    },
    "properties": {
     "alt_name:sl": "Palmaški zaliv",
+    "marker-size": "small",
     "name": "Golfo di Palmas",
     "name:hr": "Zaljev Palmas",
     "note:sl": "Zaliv je ob skrajnem jugozahodnem koncu Sardinije.",
@@ -75013,6 +75433,7 @@
    },
    "properties": {
     "alt_name:sl": "Pangalanski prekop",
+    "marker-size": "small",
     "name": "Lakandranon′ Ampangalana",
     "name:de": "Canal des Pangalanes",
     "name:en": "Pangalana Canal",
@@ -75447,6 +75868,7 @@
    },
    "properties": {
     "alt_name:sl": "Pasov",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Passau",
     "name:etymology:sl": "Ime naselja se je razvilo iz latinskega imena Batavia, pri čemer je bilo ime Batavis zabeleženo leta 511, ime Pazauge leta 786 in ime Pazzau leta 1329.",
@@ -75527,6 +75949,7 @@
    },
    "properties": {
     "alt_name:sl": "Patomsko višavje",
+    "marker-size": "small",
     "name": "Patomskoe nagor′e",
     "name:en": "Patom Plateau",
     "name:etymology:sl": "Višavje je poimenovano po rekah Mali in Veliki Patom.",
@@ -75788,6 +76211,7 @@
    },
    "properties": {
     "alt_name:sl": "Pegasusov zaliv",
+    "marker-size": "small",
     "name": "Pegasus Bay",
     "name:etymology:sl": "Zaliv je poimenovan po jadrnici Pegasus, ki je leta 1809 plula vzdolž novozelandskega Južnega otoka, pri čemer mu je ime nadel prvi častnik William W. Stewart (1776−1851).",
     "name:hu": "Pegasus-öböl",
@@ -75956,6 +76380,7 @@
    },
    "properties": {
     "alt_name:sl": "Pembski preliv",
+    "marker-size": "small",
     "name": "Pemba Channel",
     "name:en": "Pemba Channel",
     "name:etymology:sl": "Preliv je poimenovan po otoku Pemba, katerega ime je bantujskega izvora, a nejasnega pomena.",
@@ -76051,6 +76476,7 @@
    },
    "properties": {
     "alt_name:sl": "Penmarški rt",
+    "marker-size": "small",
     "name": "Pointe de Penmarc′h",
     "name:en": "Point Penmarc′h",
     "name:es": "Punta de Penmarch",
@@ -76130,6 +76556,7 @@
    },
    "properties": {
     "alt_name:sl": "Pentlandski preliv",
+    "marker-size": "small",
     "name": "Pentland Firth/An Caol Arcach",
     "name:etymology:sl": "Ime je verjetno popačenka staronorveškega imena Petlandsfjörð v pomenu ′Pictlandski fjord′, pri čemer naj bi bilo Pictland v pomenu ′Dežela Piktov′ vikinško ime za severni del Škotske.",
     "name:hr": "Pentlandski prolaz",
@@ -76148,6 +76575,7 @@
    },
    "properties": {
     "alt_name:sl": "Penžinski zaliv",
+    "marker-size": "small",
     "name": "Penžinskaja guba",
     "name:de": "Penschinabusen",
     "name:en": "Penzhina Bay",
@@ -76554,6 +76982,7 @@
    },
    "properties": {
     "alt_name:sl": "Peščeni rt",
+    "marker-size": "small",
     "name": "Sandy Cape",
     "name:etymology:sl": "Ime rtu je po tamkajšnjih naravnih značilnostih nadel James Cook leta 1770.",
     "name:fr": "Cap Sandy",
@@ -76595,6 +77024,7 @@
    },
    "properties": {
     "alt_name:sl": "Petermannov vrh",
+    "marker-size": "small",
     "name": "Petermann Bjerg",
     "name:en": "Petermann Peak",
     "name:etymology:sl": "Vrh je poimenovan po nemškem kartografu Augustu Heinrichu Petermannu (1822−1878), ki je aktivno sodeloval tudi v raziskavah Arktike.",
@@ -76616,6 +77046,7 @@
    },
    "properties": {
     "alt_name:sl": "Petermannovo gorovje",
+    "marker-size": "small",
     "name": "Petermann Ranges",
     "name:etymology:sl": "Gorovje je poimenovano po nemškem kartografu Augustu Heinrichu Petermannu (1822−1878), ki je sodeloval tudi v raziskavah Avstralije.",
     "name:hr": "Petermannovo gorje",
@@ -76686,6 +77117,7 @@
    },
    "properties": {
     "alt_name:sl": "Petrovi otoki",
+    "marker-size": "small",
     "name": "ostrova Petra",
     "name:en": "Saint Peter Islands/Saint Petra Islands/Petra Islands",
     "name:es": "Islas de San Pedro y San Pablo/Islas de San Pedro",
@@ -76730,6 +77162,7 @@
    },
    "properties": {
     "alt_name:sl": "Philippijev ledenik",
+    "marker-size": "small",
     "name": "Philippi Glacier",
     "name:en": "Philippi Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po Emilu Philippiju (1871−1910), geologu nemške antarktične odprave v letih 1901‒1903 pod vodstvom Ericha von Drygalskega.",
@@ -77223,6 +77656,7 @@
    },
    "properties": {
     "alt_name:sl": "Placentijski zaliv",
+    "marker-size": "small",
     "name": "Placentia Bay",
     "name:es": "Bahía de Placentia",
     "name:etymology:sl": "Zaliv je poimenovan po mestu Placentia na njegovi obali, katerega ime verjetno izhaja iz baskovskega izraza plazenta v pomenu ′prijetnost, prijaznost′, ta pa iz latinskega istopomenskega izraza placentia.",
@@ -77263,6 +77697,7 @@
    },
    "properties": {
     "alt_name:sl": "planota Djado",
+    "marker-size": "small",
     "name": "Plateau du Djado",
     "name:de": "Djado",
     "name:en": "Djado Plateau",
@@ -77387,6 +77822,7 @@
    },
    "properties": {
     "alt_name:sl": "planota Tademaït",
+    "marker-size": "small",
     "name": "Plateau du Tademaït",
     "name:hr": "Ravnjak Tademait",
     "name:hu": "Tademaït-fennsík",
@@ -77472,6 +77908,7 @@
    },
    "properties": {
     "alt_name:sl": "Plausko jezero",
+    "marker-size": "small",
     "name": "Plauer See",
     "name:etymology:sl": "Jezero je poimenovano po mestu Plau na jezerskem obrežju.",
     "name:hr": "Plauer jezero",
@@ -77492,6 +77929,7 @@
    },
    "properties": {
     "alt_name:sl": "Plevlje",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Pljevlja",
     "name:etymology:sl": "Ime Plevlja se je pojavilo v 15. stoletju v dubrovniških virih in izhaja iz plev na tamkajšnjih samostanskih zemljiščih.",
@@ -77659,6 +78097,7 @@
    },
    "properties": {
     "alt_name:sl": "plitvina Diane",
+    "marker-size": "small",
     "name": "Diane Bank",
     "name:en": "Diane Bank",
     "name:fr": "Banc Diane",
@@ -77729,6 +78168,7 @@
    },
    "properties": {
     "alt_name:sl": "plitvina George Bligh",
+    "marker-size": "small",
     "name": "George Bligh Bank",
     "name:en": "George Bligh Bank/Georg Bligh Knoll",
     "name:etymology:sl": "Plitvina je poimenovana po britanski raziskovalni ladji George Bligh, katere posadka jo je raziskovala v petdesetih letih prejšnjega stoletja.",
@@ -77957,6 +78397,7 @@
     "alt_name:sl": "plitvina Serrana",
     "error": "Error parsing \"15° 49′ 59′ S\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "name": "Banco Serranilla",
     "name:de": "Serranilla-Bank",
     "name:en": "Serranilla Bank",
@@ -78053,6 +78494,7 @@
    },
    "properties": {
     "alt_name:sl": "plitvine Mernoo",
+    "marker-size": "small",
     "name": "Mernoo Bank",
     "name:en": "Mernoo Bank/Mernoo Tableknoll",
     "name:etymology:sl": "Plitvina je poimenovana po novozelandski ladji Mernoo.",
@@ -78245,6 +78687,7 @@
    "properties": {
     "alt_name:sl": "Pod Gozdom",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "name": "Unterwalden",
     "name:etymology:sl": "Ime zgodovinske pokrajine odraža njeno lego na nižji nadmorski višini v primerjavi s sosednjim Unterwaldom.",
     "name:fr": "Unterwald",
@@ -78597,6 +79040,7 @@
    },
    "properties": {
     "alt_name:sl": "Poletna obala",
+    "marker-size": "small",
     "name": "Letnij bereg",
     "name:en": "Letne Coast/Letni Coast",
     "semantic-type": "obalna reliefna oblika",
@@ -78755,6 +79199,7 @@
    },
    "properties": {
     "alt_name:sl": "polotok Doberai",
+    "marker-size": "small",
     "name": "Semenanjung Kepala Burung/Semenanjung Doberai/Vogelkop",
     "name:de": "Vogelkopf/Doberai-Halbinsel",
     "name:en": "Bird′s Head/Doberai Peninsula",
@@ -78891,6 +79336,7 @@
    },
    "properties": {
     "alt_name:sl": "polotok Noto",
+    "marker-size": "small",
     "name": "Noto-hantō",
     "name:de": "Noto-Halbinsel",
     "name:en": "Noto Peninsula",
@@ -80272,6 +80718,7 @@
    },
    "properties": {
     "alt_name:sl": "prelaz Donner",
+    "marker-size": "small",
     "name": "Donner Pass",
     "name:etymology:sl": "Prelaz je poimenovan po skupini ameriških pionirjev, imenovani Donner, ta pa je dobila ime po eni od družin, ki so organizirano potovale proti zahodnemu delu Zruženih držav z namenom, da ga kolonizirajo.",
     "name:hr": "Prijevoj Donner",
@@ -80361,6 +80808,7 @@
    },
    "properties": {
     "alt_name:sl": "preliv Belle Isle",
+    "marker-size": "small",
     "name": "Strait of Belle Isle",
     "name:de": "Belle-Isle-Straße",
     "name:es": "Estrecho de Belle Isle",
@@ -80449,6 +80897,7 @@
    },
    "properties": {
     "alt_name:sl": "preliv Hecate",
+    "marker-size": "small",
     "name": "Hecate Strait/K̲andaliig̲wii",
     "name:es": "Estrecho de Hécate",
     "name:etymology:sl": "Prelivu je ime po svoji ladji Hecate leta 1861 ali 1862 nadel britanski kapitan George Henry Richards (1820−1896).",
@@ -80470,6 +80919,7 @@
    },
    "properties": {
     "alt_name:sl": "preliv Indispensable",
+    "marker-size": "small",
     "name": "Indispensable Strait",
     "name:es": "Estrecho Indispensable",
     "name:etymology:sl": "Preliv je poimenovan po angleški ladji Indispensable z začetka 19. stoletja.",
@@ -80640,6 +81090,7 @@
    },
    "properties": {
     "alt_name:sl": "Preliv svetega Jurija",
+    "marker-size": "small",
     "name": "Saint George′s Channel",
     "name:etymology:sl": "Ime preliva izhaja iz legende, po kateri naj bi zavetnik Anglije Sveti Jurij potoval v rimsko provinco Britanija iz Vzhodnorimskega cesarstva in se svojemu cilju približeval prek po njem poimenovanega preliva.",
     "name:hr": "Prolaz svetog Georga",
@@ -81156,6 +81607,7 @@
    },
    "properties": {
     "alt_name:sl": "Priangarsko višavje",
+    "marker-size": "small",
     "name": "Priangarskoe plato",
     "name:en": "Priangarskoye Plato",
     "name:etymology:sl": "Višavje je poimenovano glede na njegovo lego v porečju reke Angara.",
@@ -81199,6 +81651,7 @@
    },
    "properties": {
     "alt_name:sl": "Pribaltsko nižavje",
+    "marker-size": "small",
     "name": "Baltic Lowlands",
     "name:en": "Baltic Lowlands",
     "name:etymology:sl": "Nižavje je poimenovano glede na njegovo lego vzdolž Baltskega morja.",
@@ -81704,6 +82157,7 @@
    },
    "properties": {
     "alt_name:sl": "Prudhoejeva dežela",
+    "marker-size": "small",
     "name": "Prudhoe Land",
     "name:etymology:sl": "Pokrajina je poimenovana po enem izmed angleških baronov Pruedhojskih.",
     "semantic-type": "naravna pokrajina",
@@ -81747,6 +82201,7 @@
    },
    "properties": {
     "alt_name:sl": "Prvi Kurilski preliv",
+    "marker-size": "small",
     "name": "Pervyj Kuril′skij proliv",
     "name:de": "Kurilenstraße/Erste Kurilenstraße",
     "name:en": "First Kuril Strait",
@@ -82544,6 +82999,7 @@
    },
    "properties": {
     "alt_name:sl": "Reedyjev ledenik",
+    "marker-size": "small",
     "name": "Reedy Glacier",
     "name:en": "Reedy Glacier",
     "name:etymology:sl": "Ledeniku je ime po admiralu Jamesu Robertu Reedyju (1910−1999), poveljniku ameriških podpornih enot na Antarktiki v letih 1962‒1965, nadel Ameriški odbor za antarktična zemljepisna imena (US-ACAN).",
@@ -82670,6 +83126,7 @@
    },
    "properties": {
     "alt_name:sl": "Rennickov ledenik",
+    "marker-size": "small",
     "name": "Rennick Glacier",
     "name:en": "Rennick Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po Rennickovem zalivu, kjer doseže morje, zaliv pa so udeleženci britanske antarktične odprave poimenovali po poročniku Henryju Edwardu de Parnyju Rennicku (1881−1914), oficirju na ladji Tera Nova.",
@@ -83290,6 +83747,7 @@
    },
    "properties": {
     "alt_name:sl": "Ribinsk",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Rybinsk",
     "name:es": "Rýbinsk",
@@ -83336,6 +83794,7 @@
    },
    "properties": {
     "alt_name:sl": "Ribiški preliv",
+    "marker-size": "small",
     "name": "Pescadores Channel/P′eng-hu Kang-tao",
     "name:etymology:sl": "Preliv je poimenovan po Otokih Ribičev, ki jih ločuje od Tajvana na vzhodu.",
     "name:hr": "Ribički prolaz",
@@ -84349,6 +84808,7 @@
    },
    "properties": {
     "alt_name:sl": "Roscoejev ledenik",
+    "marker-size": "small",
     "name": "Roscoe Glacier",
     "name:en": "Roscoe Glacier",
     "name:etymology:sl": "Ledeniku je ime nadel Ameriški odbor za antarktična imena (US-ACAN) in ga poimenoval po geografu Johnu Hobbieju Roscoeju (1919−1959), avtorju Antarktične bibliografije (Washington, 1951) in znanstvenemu svetovalcu direktorja ameriških antarktičnih programov.",
@@ -84470,6 +84930,7 @@
    },
    "properties": {
     "alt_name:sl": "Rovno",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Rivne",
     "name:de": "Riwne/Röwne",
@@ -84602,6 +85063,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Arid",
+    "marker-size": "small",
     "name": "Cape Arid",
     "name:es": "Cabo Árido",
     "name:fr": "Cap Arride",
@@ -84643,6 +85105,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Ashizuri",
+    "marker-size": "small",
     "name": "Ashizuri-misaki",
     "name:en": "Cape Ashizuri",
     "name:hu": "Azhizuri-fok",
@@ -84779,6 +85242,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Carbonara",
+    "marker-size": "small",
     "name": "Capo Carbonara",
     "name:de": "Kap Carbonara",
     "name:en": "Cape Carbonara",
@@ -84839,6 +85303,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Circeo",
+    "marker-size": "small",
     "name": "Capo Circeo",
     "name:de": "Kap Circeo",
     "name:en": "Cape Circeo",
@@ -84881,6 +85346,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Columbia",
+    "marker-size": "small",
     "name": "Cape Columbia",
     "name:de": "Kap Columbia",
     "name:es": "Cabo Columbia",
@@ -84963,6 +85429,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Creus",
+    "marker-size": "small",
     "name": "Cabo de Creus/Cap de Creus",
     "name:de": "Cap de Creus",
     "name:en": "Cap de Creus",
@@ -84986,6 +85453,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Cruz",
+    "marker-size": "small",
     "name": "Cabo Cruz",
     "name:en": "Cape Cruz",
     "name:etymology:sl": "Ime v prevodu pomeni ′rt Križ′.",
@@ -85005,6 +85473,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Datu",
+    "marker-size": "small",
     "name": "Tanjung Datu",
     "name:en": "Cape Datu",
     "name:hu": "Datu-fok",
@@ -85090,6 +85559,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Duncansby",
+    "marker-size": "small",
     "name": "Duncansby Head/Rubha Duncansby",
     "name:hu": "Duncansby-fok",
     "note:sl": "Rt je najbolj severovzhodna točka škotskega kopnega.",
@@ -85108,6 +85578,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Dungenes",
+    "marker-size": "small",
     "name": "Cabo Dungenes/Punta Dungenes",
     "name:etymology:sl": "Rt je poimenovan po angleški zemeljski kosi Dungeness, ki je dala ime tudi podobnim pojavom v Severni Ameriki in Avstraliji.",
     "semantic-type": "obalna reliefna oblika",
@@ -85125,6 +85596,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Dungeness",
+    "marker-size": "small",
     "name": "Dungeness",
     "name:etymology:sl": "Ime rta izhaja iz staronorveškega izraza nes v pomenu ′zemeljska kosa′, pri čemer je prvi del imena verjetno povezan z bližnjim močvirjem Denge.",
     "name:hu": "Dungeness-fok",
@@ -85143,6 +85615,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Dyer",
+    "marker-size": "small",
     "name": "Cape Dyer",
     "name:hu": "Dyer-fok",
     "semantic-type": "obalna reliefna oblika",
@@ -85160,6 +85633,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Emine",
+    "marker-size": "small",
     "name": "Nos Emine",
     "name:de": "Kap Emine",
     "name:en": "Cape Emine",
@@ -85182,6 +85656,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Erimo",
+    "marker-size": "small",
     "name": "Erimo-misaki",
     "name:en": "Erimo Cape",
     "name:etymology:sl": "Ime rta izhaja iz ajnujskega izraza enrum v preprostem pomenu ′rt′.",
@@ -85222,6 +85697,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Escarpada",
+    "marker-size": "small",
     "name": "Escarpada Point",
     "name:etymology:sl": "Španski izraz escarpada pomeni ′skalnat′.",
     "name:hu": "Escarpada-fok",
@@ -85241,6 +85717,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Espichel",
+    "marker-size": "small",
     "name": "Cabo Espichel",
     "name:hu": "Espichel-fok",
     "semantic-type": "obalna reliefna oblika",
@@ -85258,6 +85735,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Farewell",
+    "marker-size": "small",
     "name": "Cape Farewell",
     "name:etymology:sl": "Rtu je ime nadel britanski pomorščak James Cook (1728−1779), saj je bil ta rt zadnji kotiček kopnega, ki so ga on in njegova posadka uzrli na svojem povratku v domovino.",
     "name:it": "Capo Farewell",
@@ -85326,6 +85804,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Flamborough",
+    "marker-size": "small",
     "name": "Flamborough Head",
     "name:es": "Cabo Flamborough",
     "name:hu": "Flamborough-fok",
@@ -85363,6 +85842,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Flying Fish",
+    "marker-size": "small",
     "name": "Cape Flying Fish",
     "name:en": "Cape Flying Fish",
     "name:etymology:sl": "Ime po ladji ameriške antarktične odprave Flying Fish pod vodstvom poročnika Williama M. Walkerja je bilo uvedeno leta 1940.",
@@ -85381,6 +85861,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Formentor",
+    "marker-size": "small",
     "name": "Cabo de Formentor/Cap de Formentor",
     "name:de": "Cap Formentor",
     "name:hu": "Formentor-fok",
@@ -85475,6 +85956,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Gjuhëzës",
+    "marker-size": "small",
     "name": "Kep i Gjuhëzës",
     "name:de": "Kap Glossa",
     "name:en": "Cape of Gjuhëz/Cape Glossa",
@@ -85495,6 +85977,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Gracias a Dios",
+    "marker-size": "small",
     "name": "Cabo Gracias a Dios",
     "name:en": "Cape Gracias a Dios",
     "name:etymology:sl": "Špansko ime rta v pomenu ′Hvala bogu′ oziroma ′Bogu hvala′ naj bi uvedel Krištof Kolumb na svojem zadnjem potovanju leta 1502, potem ko se je po hudi nevihti vreme nenadoma umirilo, ko ga je objadral.",
@@ -85515,6 +85998,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Grim",
+    "marker-size": "small",
     "name": "Cape Grim",
     "name:hu": "Grim-fok",
     "name:it": "Capo Grim",
@@ -85535,6 +86019,7 @@
     "alt_name:sl": "rt Gris Nez",
     "error": "Error parsing \"50° 52′ 13″\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "name": "Cap Gris-Nez",
     "name:etymology:sl": "Ime pomeni dobesedno ′rt Sivi nos′.",
     "name:hu": "Gris-Nez-fok",
@@ -85620,6 +86105,7 @@
    },
    "properties": {
     "alt_name:sl": "Rt Henrijete Marije",
+    "marker-size": "small",
     "name": "Cape Henrietta Maria",
     "name:etymology:sl": "Rt je poimenovan po soprogi kralja Anglije, Škotske in Irske Karla I., Francozinji Henrijeti Mariji (1609‒1669), teti francoskega absolutističnega vladarja Ludvika IV.",
     "name:hu": "Henrietta Maria-fok",
@@ -85663,6 +86149,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Horn",
+    "marker-size": "small",
     "name": "Hornbjarg",
     "name:en": "Cape Horn",
     "name:etymology:sl": "Ime severnoislandskega rta pomeni ′Rogata gora′, kar seveda odraža njegovo obliko.",
@@ -85745,6 +86232,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Kaliakra",
+    "marker-size": "small",
     "name": "Nos Kaliakra",
     "name:de": "Kap Kaliakra",
     "name:en": "Kaliakra",
@@ -85769,6 +86257,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Kamui",
+    "marker-size": "small",
     "name": "Kamui-misaki",
     "name:en": "Cape Kamui",
     "semantic-type": "obalna reliefna oblika",
@@ -85824,6 +86313,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Kerempe",
+    "marker-size": "small",
     "name": "Kerempe Burun/Kerempe Burnu",
     "name:en": "Cape Kerempe",
     "name:etymology:sl": "Turško ime rta se je razvilo iz njegovega latinskega imena Carambis.",
@@ -85924,6 +86414,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Lisburne",
+    "marker-size": "small",
     "name": "Cape Lisburne",
     "name:etymology:sl": "Rtu je ime leta 1778 nadel britanski pomorščak James Cook (1728−1779) in ob tem zapisal: ″Na južnem koncu je rt, ki se imenuje Cape Lisburne.″",
     "name:hu": "Lisburne-Fok",
@@ -85942,6 +86433,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Lithinos",
+    "marker-size": "small",
     "name": "Ákra Lítinos/Ákra Lithinon",
     "name:en": "Cape Lithinon/Lithino",
     "name:hu": "Líthino-fok",
@@ -85961,6 +86453,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Lizard",
+    "marker-size": "small",
     "name": "Lizard Point",
     "name:etymology:sl": "Rt je najjužnejša točka polotoka Lizard, katerega ime izhaja iz kornijskega imena v pomenu ′Igrišče na višini′ in je zloženka izrazov lys v pomenu ′igrišče′ in ardh v pomenu ′višina′.",
     "name:fr": "Cap Lizard",
@@ -86003,6 +86496,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Maisi",
+    "marker-size": "small",
     "name": "Punta de Maisí/Cabo Maisí",
     "name:en": "Cape Maisí/Cape Maysí",
     "name:hu": "Maisí-fok",
@@ -86021,6 +86515,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Maléas",
+    "marker-size": "small",
     "name": "Ákra Maléas",
     "name:de": "Kap Malea",
     "name:en": "Cape Maleas",
@@ -86061,6 +86556,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Mangkalihat",
+    "marker-size": "small",
     "name": "Tanjung Mangkalihat",
     "name:en": "Cape Mangkalihat",
     "name:hu": "Mangkaliat-fok",
@@ -86192,6 +86688,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Naturaliste",
+    "marker-size": "small",
     "name": "Cape Naturaliste",
     "name:etymology:sl": "Rtu je francoski raziskovalec južnih morij Nicolas Baudin (1754−1803) nadel ime po ladji Naturaliste, eni od dveh ladij njegove odprave, ki sta pristanišče Le Havre zapustili 19. oktobra 1800.",
     "name:fr": "Cap Naturaliste/Cap du Naturaliste",
@@ -86231,6 +86728,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Negrais",
+    "marker-size": "small",
     "name": "Mawtin Zun",
     "name:en": "Cape Negrais",
     "name:etymology:sl": "Ime rta je verjetno portugalska popačenka arabske ali malajske imenske zloženke ngoât v pomenu ′zrel oreh′ in ñi-nàu v pomenu ′polzrel oreh′.",
@@ -86294,6 +86792,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Orange",
+    "marker-size": "small",
     "name": "Cabo Orange",
     "name:en": "Cape Orange",
     "name:fr": "Cap Orange",
@@ -86313,6 +86812,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Pagoda",
+    "marker-size": "small",
     "name": "Phaya Taung",
     "name:en": "Pagoda Point",
     "note:sl": "Rt Negrais je najbolj južna točka istoimenskega otočka pred burmansko obalo, najbolj južna točka kopnega pa je rt Pagoda.",
@@ -86390,6 +86890,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Passero",
+    "marker-size": "small",
     "name": "Capo Passero",
     "name:hu": "Passero-fok",
     "note:sl": "Leta 1718 je bila v njegovi bližini pomorska bitka med britansko in špansko mornarico.",
@@ -86427,6 +86928,7 @@
    },
    "properties": {
     "alt_name:sl": "Rt princa Alfreda",
+    "marker-size": "small",
     "name": "Cape Prince Alfred",
     "name:etymology:sl": "Rt je poimenovan po britanskem princu Alfredu (1844‒1900).",
     "name:hr": "Rt princa Alfreda",
@@ -86464,6 +86966,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Ray",
+    "marker-size": "small",
     "name": "Cape Ray",
     "semantic-type": "obalna reliefna oblika",
     "source:alt_name:sl": "GIAM"
@@ -86480,6 +86983,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Raz",
+    "marker-size": "small",
     "name": "Pointe du Raz/Beg ar Raz",
     "name:es": "Punta de Raz",
     "name:etymology:sl": "Rt je poimenovan po nevarnih plimskih vodah z močnimi tokovi med kopnim in otočkom Sein, v francoščini imenovanih Raz de Sein, ki jih lahko velike ladje premagajo le ob mirnem morju.",
@@ -86500,6 +87004,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Rhir",
+    "marker-size": "small",
     "name": "Cap Rhir",
     "name:en": "Cape Rhir",
     "name:es": "Cabo Rhir",
@@ -86540,6 +87045,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Rodoni",
+    "marker-size": "small",
     "name": "Kep i Rodonit",
     "name:en": "Cape of Rodon/Cape of Skanderbeg",
     "name:hu": "Rodonit-fok",
@@ -86560,6 +87066,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Romanzof",
+    "marker-size": "small",
     "name": "Cape Romanzof",
     "semantic-type": "obalna reliefna oblika",
     "source:alt_name:sl": "GIAM"
@@ -86576,6 +87083,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Roxo",
+    "marker-size": "small",
     "name": "Cap Roxo",
     "name:en": "Cape Roxo",
     "name:es": "Cabo Roxo",
@@ -86637,6 +87145,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Salinas",
+    "marker-size": "small",
     "name": "Cabo de Salinas/Cap de les Salines",
     "name:en": "Cape Salinas",
     "name:etymology:sl": "Rt je poimenovan po občini Les Salines, tudi Ses Salines v pomenih ′Soline′ oziroma ′Šest solin′.",
@@ -86656,6 +87165,7 @@
    },
    "properties": {
     "alt_name:sl": "rt San Diego",
+    "marker-size": "small",
     "name": "Cabo San Diego",
     "name:etymology:sl": "Rt je poimenovan po svetniku svetem Jakobu.",
     "name:hu": "San Diego-fok",
@@ -86695,6 +87205,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Sata",
+    "marker-size": "small",
     "name": "Sata-misaki",
     "name:en": "Cape Sata",
     "name:hu": "Sata-fok",
@@ -86713,6 +87224,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Selatan",
+    "marker-size": "small",
     "name": "Tanjung Selatan",
     "name:en": "South Cape/Cape Selatan",
     "name:etymology:sl": "Ime dobesedno pomeni ′Južni rt′, kar je vidno tudi v njegovem angleškem imenu.",
@@ -86733,6 +87245,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Shiono",
+    "marker-size": "small",
     "name": "Shiono-misaki",
     "name:en": "Cape Shiono",
     "name:hu": "Shio-fok",
@@ -86751,6 +87264,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Sideros",
+    "marker-size": "small",
     "name": "Ákra Síderos",
     "name:en": "Cape Sidero/Cape Sideron",
     "name:etymology:sl": "Ime dobesedno pomeni ′Železni rt′.",
@@ -86770,6 +87284,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Soya",
+    "marker-size": "small",
     "name": "Sōya-misaki",
     "name:de": "Kap Sōya",
     "name:en": "Cape Sōya",
@@ -86837,6 +87352,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Spatha",
+    "marker-size": "small",
     "name": "Ákra Spátha",
     "name:de": "Kap Spatha",
     "name:en": "Cape Spatha",
@@ -86856,6 +87372,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Spurn",
+    "marker-size": "small",
     "name": "Spurn Head/Spurn Point",
     "name:es": "Cabo Spurn/Punta Spurn",
     "name:etymology:sl": "Ime rta se je razvilo iz srednjeangleškega glagola spurnen, ta pa iz staroangleškega spurnan v pomenu ′udariti proti, brcniti, zavrniti′.",
@@ -86876,6 +87393,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Sumburgh",
+    "marker-size": "small",
     "name": "Sumburgh Head",
     "name:etymology:sl": "Ime rta se je razvilo iz staronorveškega poimenovanja Dunrøstar høfdi v pomenu ′Rt k nevihtnemu hrupu′, kar se je nanašalo na skrivnostne zvoke morskega toka južno od tod, imenovanega Sumburgh Roost.",
     "name:hu": "Sumburgh-fok",
@@ -86979,6 +87497,7 @@
    },
    "properties": {
     "alt_name:sl": "Rt svetega Antona",
+    "marker-size": "small",
     "name": "Cabo San Antonio",
     "name:en": "Cape San Antonio",
     "name:etymology:sl": "Rt je poimenovan po krščanskem svetniku svetem Antonu (ni jasno ali Puščavniku ali Padovanskem).",
@@ -87020,6 +87539,7 @@
    },
    "properties": {
     "alt_name:sl": "Rt svetega Mateja",
+    "marker-size": "small",
     "name": "Pointe Saint-Mathieu/Lok Mazé ",
     "name:es": "Punta de Saint-Mathieu",
     "name:etymology:sl": "Rt je poimenovan po svetem Mateju (tudi evangelistu Mateju), enem od dvanajstih Jezusovih apostolov.",
@@ -87081,6 +87601,7 @@
    },
    "properties": {
     "alt_name:sl": "Rt svetega Vida",
+    "marker-size": "small",
     "name": "Capo San Vito",
     "name:etymology:sl": "Rt je poimenovan po svetniku svetem Vidu, zaščitniku lekarnarjev, gostilničarjev, vinogradnikov, igralcev, mladine, domačih živali.",
     "name:hr": "Rt svetog Vita",
@@ -87122,6 +87643,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Svjatoj Nos",
+    "marker-size": "small",
     "name": "mys Svjatoj Nos",
     "name:en": "Cape Svyatoy Nos/Svyatoi Cape",
     "name:etymology:sl": "Ime pomeni ′Sveti rt′ in je v obliki rt Svjatoj Nos do neke mere pleonazem.",
@@ -87143,6 +87665,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Terpenija",
+    "marker-size": "small",
     "name": "mys Terpenija",
     "name:en": "Cape Terpeniya/Cape Patience",
     "name:etymology:sl": "Ime rta pomeni ′Zaliv potrpljenja′, kar se odraža tudi v njegovem prevedenem angleškem imenu.",
@@ -87186,6 +87709,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Tinaca",
+    "marker-size": "small",
     "name": "Tinaca Point",
     "name:hu": "Tinaca-fok",
     "name:it": "Punta Tinaca",
@@ -87269,6 +87793,7 @@
    },
    "properties": {
     "alt_name:sl": "Rt treh vilic",
+    "marker-size": "small",
     "name": "Ras Tleta Madari/Cabo de Tres Forcas ",
     "name:en": "Cape Tres Forcas/Cape Three Forks",
     "name:etymology:sl": "Ime rta, ki si ga Maroko deli s špansko eksklavo Mellila, v vseh jezikih pomeni ′Rt treh vilic′.",
@@ -87314,6 +87839,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Wrath",
+    "marker-size": "small",
     "name": "Cape Wrath/Am Parbh",
     "name:es": "Cabo Wrath",
     "name:etymology:sl": "Ime izhaja iz staronorveškega izraza hvarh v pomenu ′obračališče′, saj so Vikingi na tem območju pogosto obrnili plovila in se začeli vračati proti domu.",
@@ -87456,6 +87982,7 @@
    },
    "properties": {
     "alt_name:sl": "Rujana",
+    "marker-size": "small",
     "name": "Rügen",
     "name:en": "Rügen",
     "name:es": "Rügen",
@@ -87630,6 +88157,7 @@
    },
    "properties": {
     "alt_name:sl": "Ruski otok",
+    "marker-size": "small",
     "name": "ostrov Russkij",
     "name:de": "Russische Insel",
     "name:en": "Russky Island",
@@ -87848,6 +88376,7 @@
    },
    "properties": {
     "alt_name:sl": "Saginavski zaliv",
+    "marker-size": "small",
     "name": "Saginaw Bay",
     "name:de": "Saginaw-Bucht",
     "name:etymology:sl": "Domačinsko ime O-sag-enon oziroma Sag-in-awe v jeziku Indijancev Ojibvejev pomeni ′Vtekati, Pritekati′, kar se lahko nanaša na pritok, reko Saginaw River.",
@@ -87887,6 +88416,7 @@
    },
    "properties": {
     "alt_name:sl": "Sagonski zaliv",
+    "marker-size": "small",
     "name": "Golfe de Sagone",
     "name:de": "Bucht von Sagone/Golf von Sagone",
     "name:en": "Sagone Bay",
@@ -88052,6 +88582,7 @@
    },
    "properties": {
     "alt_name:sl": "Sahulska plitvina",
+    "marker-size": "small",
     "name": "Sahul Banks",
     "name:en": "Sahul Banks",
     "name:etymology:sl": "Plitvina je poimenovana glede na njeno lego na območju praceline Sahul.",
@@ -88180,6 +88711,7 @@
    },
    "properties": {
     "alt_name:sl": "Sakakawejino zajezitveno jezero;zajezitveno jezero Sakakawea",
+    "marker-size": "small",
     "name": "Lake Sakakawea",
     "name:es": "Lago Sakakawea",
     "name:etymology:sl": "Umetno jezero je poimenovano po šošonski ženski z imenom Sakakawea (tudi Sacagawea ali Sacajawea; ok. 1788–1812), ki je kot vodnica spremljala odpravo Lewisa in Clarka pri raziskovanju zahodnega dela Združenih držav Amerike.",
@@ -88229,6 +88761,7 @@
    },
    "properties": {
     "alt_name:sl": "Sala",
+    "marker-size": "small",
     "name": "Saale",
     "name:es": "Río Saale",
     "name:etymology:sl": "Ime reke, ki je prvič omenjena v 2. stoletju pr. n. št. v grščini kot Salas potamos, izhaja iz indoevropske korenske prvine sal v pomenu ′potok, vodotok′.",
@@ -88784,6 +89317,7 @@
    },
    "properties": {
     "alt_name:sl": "Samotni otok",
+    "marker-size": "small",
     "name": "ostrov Uedinenija",
     "name:de": "Einsamkeit Insel",
     "name:en": "Uedineniya Island/Uyedineniya Island/Ujeninenije Island",
@@ -88860,6 +89394,7 @@
    },
    "properties": {
     "alt_name:sl": "Sandomierska kotlina",
+    "marker-size": "small",
     "name": "Kotlina Sandomierska",
     "name:en": "Sandomierz Basin",
     "name:etymology:sl": "Kotlina je poimenovana po mestu Sandomierz, katerega ime izhaja iz slovanskega osebnega imena Sudomir.",
@@ -89204,6 +89739,7 @@
    },
    "properties": {
     "alt_name:sl": "Sarentinske Alpe",
+    "marker-size": "small",
     "name": "Alpi Sarentine",
     "name:de": "Sarntaler Alpen",
     "name:en": "Sarntal Alps",
@@ -89253,6 +89789,7 @@
     "alt_name:sl": "Sarjazinsko zajezitveno jezero",
     "error": "No dms value to parse: \"???\"; No dms value to parse: \"???\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "name": "Sarjazinskoe vodohraniliše",
     "name:en": "Saryjazin Reservoir",
     "name:hr": "Sarjazinsko jezero",
@@ -89299,6 +89836,7 @@
    },
    "properties": {
     "alt_name:sl": "Saroški zaliv",
+    "marker-size": "small",
     "name": "Saros Körfezi",
     "name:en": "Saros Bay/Gulf of Saros",
     "name:etymology:sl": "Zaliv je poimenovan po Saroških otočkih (Saros Adalar) globoko v njegovi notranjosti.",
@@ -89561,6 +90099,7 @@
    },
    "properties": {
     "alt_name:sl": "Scoresbyjev zaliv",
+    "marker-size": "small",
     "name": "Scoresby Sund/Kangertittivaq",
     "name:en": "Scoresby Sound",
     "name:etymology:sl": "Zaliv je poimenovan po angleškem raziskovalcu Williamu Scoresbyju (1789−1857), ki je leta 1822 zelo podrobno skartiral celotno območja fjorda.",
@@ -89580,6 +90119,7 @@
    },
    "properties": {
     "alt_name:sl": "Scottov ledenik",
+    "marker-size": "small",
     "name": "Scott Glacier",
     "name:en": "Scott Glacier",
     "name:etymology:sl": "Ledenik, ki so ga decembra 1929 odkrili udeleženci Byrdove antarktične odprave, je Ameriški odbor za antarktična zemljepisna imena (US-ACAN) poimenoval po angleškem antarktičnem raziskovalcu Robertu Falconu Scottu (1868‒1912), ki pa na svoji poti proti Južnemu tečaju in na povratku tega ledenika ni videl.",
@@ -89600,6 +90140,7 @@
    },
    "properties": {
     "alt_name:sl": "Scottov ledenik",
+    "marker-size": "small",
     "name": "Scott Glacier",
     "name:en": "Scott Glacier",
     "name:etymology:sl": "Ledenik so odkrili udeleženci avstralske antarktične odprave pod vodstvom Douglasa Mawsona, organizirane v letih 1911‒1912, in ga poimenovali po angleškem antarktičnem raziskovalcu Robertu Falconu Scottu (1868‒1912), ki je na povratku z Južnega tečaja proti izhodišču skupaj s tovariši umrl.",
@@ -89739,6 +90280,7 @@
    },
    "properties": {
     "alt_name:sl": "Segedin",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Szeged",
     "name:de": "Szegedin/Segedin",
@@ -90103,6 +90645,7 @@
    },
    "properties": {
     "alt_name:sl": "Senjavinovo otočje",
+    "marker-size": "small",
     "name": "Senyavin Islands",
     "name:de": "Senjawin-Inseln",
     "name:etymology:sl": "Otočje je leta 1828 odkril ruski pomorščak Fjodor Petrovič Litke in ga poimenoval po ruskem admiralu Dmitriju Nikolajeviču Senjavinu (1763‒1831).",
@@ -90187,6 +90730,7 @@
    },
    "properties": {
     "alt_name:sl": "Seres",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Sérrai",
     "name:de": "Serres",
@@ -90908,6 +91452,7 @@
    },
    "properties": {
     "alt_name:sl": "Severni Beveland",
+    "marker-size": "small",
     "name": "Noord-Beveland",
     "name:etymology:sl": "Ime polotoka izhaja iz njegove lege.",
     "name:hr": "Sjeverni Beveland",
@@ -90954,6 +91499,7 @@
    },
    "properties": {
     "alt_name:sl": "Severni Evbojski zaliv;Evbejski zaliv",
+    "marker-size": "small",
     "name": "Vórios Evvoïkos kólpos",
     "name:en": "North Euboean Gulf",
     "name:etymology:sl": "Zaliv je poimenovan ime glede na njegovo lego ob otoku Evboja.",
@@ -91203,6 +91749,7 @@
    },
    "properties": {
     "alt_name:sl": "Severni Saskatchewan",
+    "marker-size": "small",
     "name": "North Saskatchewan River",
     "name:es": "Río Saskatchewan Norte",
     "name:etymology:sl": "Ime reke izhaja iz njenega poimenovanja v jeziku Indijancev Krijev kis-is-ska-tches-wani-sipi, kar naj bi pomenilo ′Hitro tekoča reka′.",
@@ -91226,6 +91773,7 @@
    },
    "properties": {
     "alt_name:sl": "Severni Sentinel",
+    "marker-size": "small",
     "name": "North Sentinel Island",
     "name:fr": "Île de North Sentinel",
     "name:hr": "Sjeverni Sentinel",
@@ -91629,6 +92177,7 @@
    },
    "properties": {
     "alt_name:sl": "Severnobajkalsko višavje",
+    "marker-size": "small",
     "name": "Severo-Bajkal′skoe nagor′e",
     "name:en": "Severo-Baykal′skoye Nagor′ye",
     "name:etymology:sl": "Višavje je poimenovano glede na njegovo lego severno od Bajkalskega jezera.",
@@ -91669,6 +92218,7 @@
    },
    "properties": {
     "alt_name:sl": "Severnoholandski prekop",
+    "marker-size": "small",
     "name": "Noordhollandsch Kanaal",
     "name:etymology:sl": "Prekop je poimenovan glede na njegovo lego v severnem delu pokrajine Holandija.",
     "name:fr": "Canal de la Hollande-Septentrionale",
@@ -91858,6 +92408,7 @@
    },
    "properties": {
     "alt_name:sl": "Severovzhodni rt",
+    "marker-size": "small",
     "name": "Nordostrundingen",
     "name:etymology:sl": "Originalno ime je popačenka pravilne danske imenske oblike Nordøstrundingen v pomenu ′Severovzhodni rt′.",
     "name:hr": "Sjeveroistočni rt",
@@ -92153,6 +92704,7 @@
    },
    "properties": {
     "alt_name:sl": "Shackletonov ledenik",
+    "marker-size": "small",
     "name": "Shackleton Glacier",
     "name:en": "Shackleton Glacier",
     "name:etymology:sl": "Ime v zgodnjih štiridesetih letih prejšnjega stoletja odkritemu ledeniku je nadel Ameriški odbor za antarktična zemljepisna imena (US-ACAN) v čast britanskemu artkičnemu raziskovalcu, siru Ernestu Henryju Shackletonu (1874‒1922).",
@@ -92239,6 +92791,7 @@
    },
    "properties": {
     "alt_name:sl": "Shepherdovi otoki",
+    "marker-size": "small",
     "name": "Shepherd Islands/Shetland/Îles Shepherd",
     "name:de": "Shepherd-Inseln",
     "name:es": "Islas Shepherd",
@@ -92358,6 +92911,7 @@
    },
    "properties": {
     "alt_name:sl": "Sibinj",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Sibiu",
     "name:de": "Hermannstadt",
@@ -92816,6 +93370,7 @@
    },
    "properties": {
     "alt_name:sl": "Siktivkar",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Syktyvkar",
     "name:de": "Syktywkar",
@@ -92888,6 +93443,7 @@
    },
    "properties": {
     "alt_name:sl": "Simijski zaliv",
+    "marker-size": "small",
     "name": "Kólpos Sýmis/Sömbeki Körfezi",
     "name:en": "Gulf of Symi",
     "name:etymology:sl": "Zaliv je poimenovan po otoku Simi, ki ga Turki imenujejo Sömbeki.",
@@ -92931,6 +93487,7 @@
    },
    "properties": {
     "alt_name:sl": "Simpsonov polotok",
+    "marker-size": "small",
     "name": "Simpson Peninsula",
     "name:etymology:sl": "Polotok je poimenovan po guvernerju Hudson Bay Company, siru Georgeu Simpsonu (1787‒1860).",
     "name:hr": "Simpsonov poluotok",
@@ -92949,6 +93506,7 @@
    },
    "properties": {
     "alt_name:sl": "Simpsonov preliv",
+    "marker-size": "small",
     "name": "Simpson Strait",
     "name:etymology:sl": "Preliv je poimenovan po Thomasu Simpsonu (1792−1860), ki je leta 1839 v iskanju severnega obrobja severnoameriške celine skupaj s Petrom Warrnom Deasejem prispel na to območje, ki ga je že pet let prej dosegel George Back, a preliva med celino in Otokom kralja Viljema ni poimenoval.",
     "name:hr": "Simpsonov prolaz",
@@ -93231,6 +93789,7 @@
    },
    "properties": {
     "alt_name:sl": "Sirakuze",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Siracusa",
     "name:de": "Syrakus",
@@ -93735,6 +94294,7 @@
    },
    "properties": {
     "alt_name:sl": "Skiros",
+    "marker-size": "small",
     "name": "Skyros",
     "name:es": "Esciro/Esciros",
     "name:fr": "ni/Scyros",
@@ -93851,6 +94411,7 @@
    },
    "properties": {
     "alt_name:sl": "Slano gorovje;Slano hribovje",
+    "marker-size": "small",
     "name": "Salt Range",
     "name:de": "Salzgebirge",
     "name:etymology:sl": "Gorovje je poimenovano po izdatnih zalogah kamene soli, ki jih pridobivajo v tamkajšnjih rudnikih.",
@@ -93871,6 +94432,7 @@
    },
    "properties": {
     "alt_name:sl": "Slapovi svetega Antona",
+    "marker-size": "small",
     "name": "Cachoeira de Santo Antônio",
     "name:en": "Santo Antonio waterfall",
     "name:etymology:sl": "Slapovi so poimenovani po predmestju zahodnobrazilskega mesta Porto Velho São António, to pa po svetniku svetem Antonu.",
@@ -93913,6 +94475,7 @@
    },
    "properties": {
     "alt_name:sl": "Slessorjev ledenik",
+    "marker-size": "small",
     "name": "Slessor Glacier",
     "name:en": "Slessor Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po maršalu britanskega kraljevega letalstva, siru Johnu Cotesworthu Slessorju (1897‒1979), predsedniku odbora transantarktične odprave v letu 1956.",
@@ -94088,6 +94651,7 @@
    },
    "properties": {
     "alt_name:sl": "Smithov preliv",
+    "marker-size": "small",
     "name": "Smith Sound",
     "name:de": "Smithsund",
     "name:es": "Estrecho de Smith",
@@ -94199,6 +94763,7 @@
    },
    "properties": {
     "alt_name:sl": "Sobotica",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Subotica",
     "name:etymology:sl": "Ime naselja izhaja iz slovanske besede subota v pomenu ′sobota′, kar se nanaša na redne tedenske sejme v tem dnevu.",
@@ -94219,6 +94784,7 @@
    },
    "properties": {
     "alt_name:sl": "Sobradinško zajezitveno jezero;Lago de Sobradinho",
+    "marker-size": "small",
     "name": "Lago de Sobradinho",
     "name:de": "Sobradinho-Stausee",
     "name:en": "Sobradinho Reservoir",
@@ -94310,6 +94876,7 @@
    },
    "properties": {
     "alt_name:sl": "Solnograd",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Salzburg",
     "name:es": "Salzburgo",
@@ -94592,6 +95159,7 @@
    },
    "properties": {
     "alt_name:sl": "Sonsorolski otoki",
+    "marker-size": "small",
     "name": "Sonsorol Islands",
     "name:etymology:sl": "Otočje je poimenovano po otoku Sonsorol.",
     "name:hr": "Sonsorolski otoci",
@@ -94711,6 +95279,7 @@
    },
    "properties": {
     "alt_name:sl": "Spencerjev rt",
+    "marker-size": "small",
     "name": "Cape Spencer",
     "name:etymology:sl": "Rtu je ime nadel Matthew Flinders po britanskem politiku Georgeu Johnu Spencerju, 2. grofu Spencerskem (1758‒1834).",
     "name:hr": "Spencerov rt",
@@ -94868,6 +95437,7 @@
    },
    "properties": {
     "alt_name:sl": "Spodnja Frankovska",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Unterfranken",
     "name:en": "Lower Franconia",
@@ -94938,6 +95508,7 @@
     "alt_name:sl": "Spodnja Normandija",
     "error": "Error parsing \"0° 27′ 60″ Z\"",
     "marker-color": "#ff0000",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Basse-Normandie",
     "name:en": "Lower Normandy",
@@ -95037,6 +95608,7 @@
    },
    "properties": {
     "alt_name:sl": "Spodnjesaško nižavje",
+    "marker-size": "small",
     "name": "Tiefland von Niedersachsen ",
     "name:etymology:sl": "Nižavje je poimenovano glede na njegovo lego v Spodnji Saški.",
     "name:hr": "Donjosaska nizina",
@@ -95154,6 +95726,7 @@
    },
    "properties": {
     "alt_name:sl": "Sredina;Švicarska planota",
+    "marker-size": "small",
     "name": "(Schweizer) Mitteland/Plateau suisse ",
     "name:en": "Swiss Plateau/Central Plateau",
     "name:es": "Meseta Suisa",
@@ -95352,6 +95925,7 @@
    },
    "properties": {
     "alt_name:sl": "Srednjeafriški prag",
+    "marker-size": "small",
     "name": "Zentralafrikanische Schwelle ",
     "name:etymology:sl": "Tektonski prag je poimenovan glede na njegovo lego na območju Srednje Afrike.",
     "name:hr": "Srednjoafrički prag",
@@ -95905,6 +96479,7 @@
    },
    "properties": {
     "alt_name:sl": "Stari Oskol",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Staryj Oskol",
     "name:de": "Stary Oskol",
@@ -96119,6 +96694,7 @@
    },
    "properties": {
     "alt_name:sl": "Stolni Belgrad",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Székesfehérvár",
     "name:es": "ni/Alba Regia",
@@ -96185,6 +96761,7 @@
    },
    "properties": {
     "alt_name:sl": "Strmi rt",
+    "marker-size": "small",
     "name": "Steep Point",
     "name:etymology:sl": "Ime je samoopisno in označuje značilne lastnosti najbolj zahodne točke avstralske celine.",
     "name:fr": "Pointe Escarpée",
@@ -96296,6 +96873,7 @@
    },
    "properties": {
     "alt_name:sl": "Sturtova ravnina",
+    "marker-size": "small",
     "name": "Sturt Plain",
     "name:etymology:sl": "Ravnini je ime po samem sebi nadel angleški raziskovalec Avstralije Charles Napier Sturt (1795‒1869), ki je leta 1844 želel prek nje doseči geometrično središče Avstralije.",
     "name:hr": "Sturtova ravnica",
@@ -96314,6 +96892,7 @@
    },
    "properties": {
     "alt_name:sl": "Suakin",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Sawākin",
     "name:de": "Sawain/Suakin",
@@ -96703,6 +97282,7 @@
    },
    "properties": {
     "alt_name:sl": "Sulzbergerjev zaliv",
+    "marker-size": "small",
     "name": "Sulzberger Bay",
     "name:en": "Sulzberger Bay",
     "name:etymology:sl": "Zaliv je poimenovan po založniku New Yort Timesa Arthurju Haysu Sulzbergerju (1891‒1968), podporniku Byrdovih odprav v letih 1928‒1930 in 1933‒1935.",
@@ -96891,6 +97471,7 @@
    },
    "properties": {
     "alt_name:sl": "Surabaja",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Surabaya",
     "name:etymology:sl": "Ime naselja je zloženka malajskih besed sura v pomenu ′junak′ in baya v pomenu ′nevarnost′, kar se nanaša na odpor tamkajšnjih prebivalcev raznim zunanjim zavojevalcem, ne le v boju za osamosvojitev v letih 1945‒1949.",
@@ -96964,6 +97545,7 @@
    },
    "properties": {
     "alt_name:sl": "Suzujski rt",
+    "marker-size": "small",
     "name": "Suzu-misaki",
     "name:en": "Cape Suzu",
     "name:etymology:sl": "Rt je najverjetneje poimenovan po bližnjem mestu Suzu, katerega ime v japonščini pomeni ′Zvonček, Zvonec′.",
@@ -96984,6 +97566,7 @@
    },
    "properties": {
     "alt_name:sl": "Suženjska reka",
+    "marker-size": "small",
     "name": "Slave River",
     "name:de": "Sklavenfluss",
     "name:es": "Río de los Esclavos/Río Esclavo",
@@ -97273,6 +97856,7 @@
    },
    "properties": {
     "alt_name:sl": "Sveti Frančišek",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "San Francisco",
     "name:etymology:sl": "Naselje je poimenovano po svetem Frančišku Asiškem (1181 ali 1182‒1226) oziroma tamkajšnjem istoimenskem zalivu, poimenovanem leta 1595.",
@@ -97292,6 +97876,7 @@
    },
    "properties": {
     "alt_name:sl": "Sveti Gal",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Sankt Gallen",
     "name:en": "St. Gallen/St. Gall",
@@ -97315,6 +97900,7 @@
    },
    "properties": {
     "alt_name:sl": "Sveti Jožef",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "San José",
     "name:etymology:sl": "Leta 1736 ustanovljeno mesto se je najprej imenovalo Villa Nueva, po naše ′Novo mesto′, pozneje pa so ga poimenovali po svetniku svetem Jožefu, vendar razlog za spremembo imena ni znan.",
@@ -97355,6 +97941,7 @@
    },
    "properties": {
     "alt_name:sl": "Sveti Krištof",
+    "marker-size": "small",
     "name": "Makira/San Cristobal",
     "name:etymology:sl": "Otok, ki ga je Krištof Kolumb obiskal leta 1493, je poimenoval po svojem osebnem zavetniku svetem Krištofu.",
     "name:fr": "Makira",
@@ -97448,6 +98035,7 @@
    },
    "properties": {
     "alt_name:sl": "Sveti Pavel;Sao Paulo",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "São Paulo",
     "name:etymology:sl": "Ime naselja izhaja iz dejstva, da sta mesto dva portugalska duhovnika ustanovila 25. januarja 1554, na dan spreobrnitve zavetnika svetega Pavla.",
@@ -98132,6 +98720,7 @@
    },
    "properties": {
     "alt_name:sl": "Šelagskijski rt",
+    "marker-size": "small",
     "name": "mys Šelagskij",
     "name:en": "Cape Shelagski/Mys Shelagskiy",
     "name:etymology:sl": "Rt je najverjetneje poimenovan po kraju Šelagskij ali pa po polotoku Šelagskij, katerega skrajna točka je.",
@@ -98222,6 +98811,7 @@
    },
    "properties": {
     "alt_name:sl": "Šenjang;Mukden",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Shěnyáng/Mukden",
     "name:de": "Schenjang",
@@ -98717,6 +99307,7 @@
    },
    "properties": {
     "alt_name:sl": "Šmidtov rt",
+    "marker-size": "small",
     "name": "mys Šmidta",
     "name:de": "Mys Schmidta",
     "name:en": "Mys Shmidta",
@@ -99117,6 +99708,7 @@
    "properties": {
     "alt_name:sl": "Šrividžaja",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Srividjaya",
     "name:en": "ni/Sriwijaya",
@@ -99188,6 +99780,7 @@
    },
    "properties": {
     "alt_name:sl": "Šumaginovi otoki",
+    "marker-size": "small",
     "name": "Shumagin Islands",
     "name:es": "Islas Shumagin",
     "name:etymology:sl": "Otočje je poimenovano po Nikiti Šumaginu, enem od mornarjev na arktični odpravi Vitusa Beringa v letu 1741, ki je umrl za skorbutom in je pokopan na otoku Nagai.",
@@ -99332,6 +99925,7 @@
    },
    "properties": {
     "alt_name:sl": "Švicarska Jura",
+    "marker-size": "small",
     "name": "Schweizer Jura/Suisse Jura",
     "name:en": "Swiss Jura",
     "name:es": "Jura Alemán",
@@ -99354,6 +99948,7 @@
    },
    "properties": {
     "alt_name:sl": "Tabarski otoki",
+    "marker-size": "small",
     "name": "Tabar Group/Tabar Islands",
     "name:de": "Tabar-Inseln",
     "name:etymology:sl": "Otočje je najverjetneje poimenovano po njegovem največjem otoku Tabar (aka Big Tabar).",
@@ -100043,6 +100638,7 @@
    },
    "properties": {
     "alt_name:sl": "Tananarive",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Antananarivo/Tananarive",
     "name:en": "ni/Tana",
@@ -100267,6 +100863,7 @@
    },
    "properties": {
     "alt_name:sl": "Tarbelski jez",
+    "marker-size": "small",
     "name": "Tarbela Dam",
     "name:de": "Tarbela-Talsperre",
     "name:es": "Presa de Tarbela",
@@ -100461,6 +101058,7 @@
    },
    "properties": {
     "alt_name:sl": "Tasmanov ledenik",
+    "marker-size": "small",
     "name": "Tasman Glacier",
     "name:de": "Tasman-Gletscher",
     "name:es": "Glaciar Tasman",
@@ -100745,6 +101343,7 @@
    },
    "properties": {
     "alt_name:sl": "Tazovski polotok",
+    "marker-size": "small",
     "name": "Tazovskij poluostrov",
     "name:en": "Taz Peninsula",
     "name:etymology:sl": "Polotok je poimenovan po zahodnosibirski reki Taz, morda tudi Tazovskem zalivu.",
@@ -100764,6 +101363,7 @@
    },
    "properties": {
     "alt_name:sl": "Tazovski zaliv",
+    "marker-size": "small",
     "name": "Tazovskaja guba",
     "name:en": "Gulf of Taz",
     "name:etymology:sl": "Zaliv je poimenovan po zahodnosibirski reki Taz, ki se izliva vanj.",
@@ -101494,6 +102094,7 @@
    },
    "properties": {
     "alt_name:sl": "Thunsko jezero",
+    "marker-size": "small",
     "name": "Thuner See",
     "name:en": "Lake Thun",
     "name:es": "Lago de Thun",
@@ -101543,6 +102144,7 @@
    },
    "properties": {
     "alt_name:sl": "Thwaitesov ledenik",
+    "marker-size": "small",
     "name": "Thwaites Glacier/Thwaites Iceberg Tongue",
     "name:en": "Thwaites Glacier/Thwaites Iceberg Tongue",
     "name:etymology:sl": "Ledeniku je ime v čast ameriškemu ledeniškemu geologu in geomorfologu Fredriku Turvilleu Thwaitesu (1883−1961) nadel Ameriški odbor za antarktična zemljepisna imena (US-ACAN).",
@@ -101562,6 +102164,7 @@
    },
    "properties": {
     "alt_name:sl": "Thyerjev ledenik",
+    "marker-size": "small",
     "name": "Thyer Glacier",
     "name:en": "Thyer Glacier",
     "name:etymology:sl": "Ime ledenika je v čast vodilnega geofizika Avstralskega urada za mineralne vire Roberta Francisa Thyerja (1908−1992) uvedel Avstralski odbor za antarktična imena in odlikovanja (ANCA).",
@@ -102221,6 +102824,7 @@
    },
    "properties": {
     "alt_name:sl": "Tisočletni otok",
+    "marker-size": "small",
     "name": "Millennium Island/Caroline Island",
     "name:de": "Caroline-Atoll/Millenniumsinsel",
     "name:es": "Isla Caroline/Atolón Coroline/Isla del Milenio",
@@ -102362,6 +102966,7 @@
    },
    "properties": {
     "alt_name:sl": "Toktogulsko zajezitveno jezero",
+    "marker-size": "small",
     "name": "Toktogul suu saktagychy",
     "name:de": "Toktogul-Talsperre",
     "name:en": "Toktogul Reservoir",
@@ -102445,6 +103050,7 @@
    },
    "properties": {
     "alt_name:sl": "Tongatapujski otoki",
+    "marker-size": "small",
     "name": "Tongatapu Group",
     "name:etymology:sl": "Otočje je poimenovano po glavnem tongovskem otoku Tongatapu (njegovo ime pomeni ′Sveti jug′), na katerem je tudi glavno mesto Nuku′alofa.",
     "name:hu": "Tongatapu-szigetek",
@@ -102741,6 +103347,7 @@
    },
    "properties": {
     "alt_name:sl": "Tottnov ledenik",
+    "marker-size": "small",
     "name": "Totten Glacier",
     "name:en": "Totten Glacier",
     "name:etymology:sl": "Ledeniku je ime po mornariškem kadetu Georgeu M. Tottnu, ki je na ameriški raziskovalni odpravi v letih 1838‒1842 pomagal Charlesu Wilkesu pri urejanju podatkov, ki so jih je zbrali udeleženci odprave, nadel Ameriški odbor za antarktična zemljepisna imena (US-ACAN).",
@@ -103136,6 +103743,7 @@
    },
    "properties": {
     "alt_name:sl": "Travensko jezero",
+    "marker-size": "small",
     "name": "Traunsee",
     "name:etymology:sl": "Jezero je poimenovano po reki Travna, ki je glavni jezerski pritok in tudi njegov iztok.",
     "name:hr": "Traunsko jezero",
@@ -103240,6 +103848,7 @@
    },
    "properties": {
     "alt_name:sl": "Trevir",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Trier",
     "name:es": "Tréveris",
@@ -103282,6 +103891,7 @@
    },
    "properties": {
     "alt_name:sl": "Trident",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Trento/Trient",
     "name:en": "Trento",
@@ -103668,6 +104278,7 @@
    },
    "properties": {
     "alt_name:sl": "Tsingtao",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Qīngdǎo",
     "name:de": "Qingdao/Tsingtao",
@@ -103756,6 +104367,7 @@
    },
    "properties": {
     "alt_name:sl": "Tuckerjev ledenik",
+    "marker-size": "small",
     "name": "Tucker Glacier",
     "name:en": "Tucker Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po Tuckerjevem zalivu (Tucker Inlet), kamor se steka led z ledenika, zaliv pa je leta 1841 poimenoval James Ross po lastniku ladje Erebus Charlesu Thorndikeu Tuckerju.",
@@ -103776,6 +104388,7 @@
    },
    "properties": {
     "alt_name:sl": "Tucuruijsko zajezitveno jezero",
+    "marker-size": "small",
     "name": "Represa de Tucuruí",
     "name:de": "Tucuruí-Stausee",
     "name:en": "Tucuruí Reservoir",
@@ -104330,6 +104943,7 @@
    },
    "properties": {
     "alt_name:sl": "Turkmenski zaliv",
+    "marker-size": "small",
     "name": "Türkmen Aylagy",
     "name:en": "Turkmen Bay",
     "name:etymology:sl": "Zaliv je poimenovan po ljudstvu Turkmeni, katerega ime pomeni ′Podobni Turkom′.",
@@ -104574,6 +105188,7 @@
    },
    "properties": {
     "alt_name:sl": "Ufimski ravnik",
+    "marker-size": "small",
     "name": "Ufimskoe plato",
     "name:en": "Ufa Plateau",
     "name:etymology:sl": "Ravnik je poimenovan po ruski reki oziroma reki Ufa, katere ime lahko izhaja iz indoevropske korenske prvine ap v pomenu ′voda, reka′.",
@@ -105489,6 +106104,7 @@
    },
    "properties": {
     "alt_name:sl": "Valonski zaliv",
+    "marker-size": "small",
     "name": "Gjiri i Vlorës",
     "name:etymology:sl": "Zaliv je poimenovan po albanskem mestu Vlorë, ki se v italijanščini imenuje Valona.",
     "name:hr": "Valonski zaljev",
@@ -105655,6 +106271,7 @@
    },
    "properties": {
     "alt_name:sl": "Vasjuganska ravnina",
+    "marker-size": "small",
     "name": "Vasjuganskaja ravnina/Vasjugan′e",
     "name:de": "Wassjuganje",
     "name:en": "Vasyugan Plain/Vasyuganskaya Ravnina",
@@ -105730,6 +106347,7 @@
    },
    "properties": {
     "alt_name:sl": "Velika",
+    "marker-size": "small",
     "name": "Velikaja",
     "name:de": "Welikaja",
     "name:en": "Velikaya River",
@@ -105987,6 +106605,7 @@
    },
    "properties": {
     "alt_name:sl": "Velika Medvedja reka",
+    "marker-size": "small",
     "name": "Great Bear River",
     "name:de": "Große Bärenfluss",
     "name:etymology:sl": "Ime reke je povezano z Velikim medvedjim jezerom, saj je njegov glavni odtok.",
@@ -106438,6 +107057,7 @@
    },
    "properties": {
     "alt_name:sl": "Veliki Jenisej",
+    "marker-size": "small",
     "name": "Bol′šoj Enisej/Bi-Hem",
     "name:de": "Große Jenissei",
     "name:en": "Great Yenisei/Greater Yenisei",
@@ -106566,6 +107186,7 @@
    },
    "properties": {
     "alt_name:sl": "Veliki Ljahovski",
+    "marker-size": "small",
     "name": "ostrov Bol′šoj Ljahovskij",
     "name:de": "Große Ljachow-Insel",
     "name:en": "Bolshoy Lyakhovsky Island/Great Lyakhovsky Island",
@@ -106589,6 +107210,7 @@
    },
    "properties": {
     "alt_name:sl": "Veliki Nikobar",
+    "marker-size": "small",
     "name": "Baṛā Nikobār/Tokieong Long",
     "name:de": "Groß Nikobar",
     "name:en": "Great Nicobar",
@@ -106772,6 +107394,7 @@
    },
    "properties": {
     "alt_name:sl": "Veliki Ustjug",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Velikij Ustjug",
     "name:de": "Weliki Ustjug",
@@ -106818,6 +107441,7 @@
    },
    "properties": {
     "alt_name:sl": "Veliki Varadin",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Oradea",
     "name:de": "Großwardein",
@@ -107296,6 +107920,7 @@
    },
    "properties": {
     "alt_name:sl": "Vepsovsko višavje",
+    "marker-size": "small",
     "name": "Vepsovskaja vozvyšennost′",
     "name:en": "Vepsovskaya Vozvyshennost′/Vepdovsky Hill",
     "name:hr": "Vepsovska uzvisina",
@@ -107339,6 +107964,7 @@
    },
    "properties": {
     "alt_name:sl": "Veselijsko zajezitveno jezero",
+    "marker-size": "small",
     "name": "Veselovskoe vodohraniliše",
     "name:en": "Veselovskoye Vodokhranilishche",
     "name:etymology:sl": "Akumulacijsko jezero je poimenovano po kraju Veselovsk v bližini Rostova ob Donu.",
@@ -107468,6 +108094,7 @@
    },
    "properties": {
     "alt_name:sl": "Vičegda",
+    "marker-size": "small",
     "name": "Vyčegda/Ežva",
     "name:de": "Wytschegda",
     "name:en": "Vychegda",
@@ -107510,6 +108137,7 @@
    },
    "properties": {
     "alt_name:sl": "Vidzemsko višavje;Livonijsko višavje",
+    "marker-size": "small",
     "name": "Vidzemes Centrālā Augstiene",
     "name:en": "Vidzeme Upland",
     "name:etymology:sl": "Višavje je poimenovano po latvijski pokrajini Vidzeme.",
@@ -107556,6 +108184,7 @@
    },
    "properties": {
     "alt_name:sl": "Vierwaldstadtsko jezero;Luzernsko jezero",
+    "marker-size": "small",
     "name": "Vierwaldstätter See",
     "name:en": "Lake Lucerne",
     "name:es": "Lago de los Cuatro Cantones/Lago de Lucerna",
@@ -107891,6 +108520,7 @@
    },
    "properties": {
     "alt_name:sl": "Vilmin ledenik",
+    "marker-size": "small",
     "name": "Wilma Glacier",
     "name:en": "Wilma Glacier",
     "name:etymology:sl": "Ledenik je poimenovan po ženi vodje avstralske raziskovalne odprave Roberta E. Doversa, katere udeleženci so ga opazovali novembra 1954.",
@@ -108301,6 +108931,7 @@
    },
    "properties": {
     "alt_name:sl": "višavje Karabil",
+    "marker-size": "small",
     "name": "Garabil Belentligi",
     "name:en": "Garabil Plateau",
     "name:hr": "Garabilsko gorje",
@@ -109075,6 +109706,7 @@
    },
    "properties": {
     "alt_name:sl": "Vzhodna Flandrija",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Oost-Vlaanderen/Flandre-Orientale",
     "name:de": "Ostflandern",
@@ -110214,6 +110846,7 @@
    },
    "properties": {
     "alt_name:sl": "Warmingova dežela",
+    "marker-size": "small",
     "name": "Warming Land",
     "name:etymology:sl": "Grenlandska pokrajina je poimenovana po danskem botaniku in ekologu Eugeniusu Warmingu (1841–1924).",
     "name:hr": "Warmingova zemlja",
@@ -110255,6 +110888,7 @@
    },
    "properties": {
     "alt_name:sl": "Washingtonova dežela",
+    "marker-size": "small",
     "name": "Washington Land",
     "name:etymology:sl": "Grenlandska pokrajina je verjetno poimenovana po Georgeu Washingtonu (1732–1799), prvem predsedniku Združenih držav Amerike.",
     "name:hr": "Washingtonova zemlja",
@@ -110400,6 +111034,7 @@
    },
    "properties": {
     "alt_name:sl": "Wellesleyjevo otočje",
+    "marker-size": "small",
     "name": "Wellesley Islands",
     "name:de": "Wellesley-Inseln",
     "name:etymology:sl": "Otočje je leta 1802 podrobneje raziskoval angleški pomorščak Matthew Flinders in ga poimenoval v čast Richardu Colleyju Wellesleyju (1760‒1842), markizu Wellesleyjskem.",
@@ -110444,6 +111079,7 @@
    },
    "properties": {
     "alt_name:sl": "Wesselski rt",
+    "marker-size": "small",
     "name": "Cape Wessel",
     "name:etymology:sl": "Ime rta izhaja iz dejstva, da gre za najbolj severno točko Wesselovih otokov (Wessel Islands), poimenovanih po ladji Wessel, s katero je otoško skupino leta 1636 odkril nizozemski pomorščak Pieter Piertszoon.",
     "name:hu": "Wessel-fok",
@@ -110657,6 +111293,7 @@
    },
    "properties": {
     "alt_name:sl": "Williamsonov ledenik",
+    "marker-size": "small",
     "name": "Williamson Glacier",
     "name:en": "Williamson Glacier",
     "name:etymology:sl": "Ledeniku je Ameriški odbor za antarktična zemljepisna imena (US-ACAN) nadel ime po Johnu G. Williamsonu, članu posadke ameriške ladje Vincennes, s katero so pluli člani ameriške raziskovalne odprave v letih 1838–1842.",
@@ -110694,6 +111331,7 @@
    },
    "properties": {
     "alt_name:sl": "Wilsonov rt",
+    "marker-size": "small",
     "name": "Wilsons Promontory",
     "name:es": "Promontorio Wilsons",
     "name:etymology:sl": "Poimenovanje rta v čast Flindersovega londonskega prijatelja, trgovca Thomasa Wilsona sta priporočila tako Matthew Flinders kot George Bass, ki ga je kot prvi Evropejec uzrl leta 1798.",
@@ -110716,6 +111354,7 @@
    },
    "properties": {
     "alt_name:sl": "Windhuk",
+    "marker-size": "small",
     "marker-symbol": "city",
     "name": "Windhoek",
     "name:de": "Windhuk",
@@ -110761,6 +111400,7 @@
    },
    "properties": {
     "alt_name:sl": "Wollastonovo jezero;jezero Wollaston",
+    "marker-size": "small",
     "name": "Wollaston Lake",
     "name:etymology:sl": "Jezeru je ime leta 1821 nadel raziskovalec John Franklin v čast angleškega kemika in fizika Williama Hydea Wollastona (1766‒1828).",
     "name:fr": "Lac Wollaston",
@@ -110805,6 +111445,7 @@
    },
    "properties": {
     "alt_name:sl": "Würmsko jezero",
+    "marker-size": "small",
     "name": "Starnberger See",
     "name:en": "Lake Starnberg",
     "name:es": "Lago Starnberg/Lago el río Würm",
@@ -111279,6 +111920,7 @@
    },
    "properties": {
     "alt_name:sl": "Zahodna Flandrija",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "West-Vlaanderen",
     "name:de": "Westflandern",
@@ -112267,6 +112909,7 @@
    },
    "properties": {
     "alt_name:sl": "zajezitveno jezero Amistad",
+    "marker-size": "small",
     "name": "Amistad Reservoir/Presa de la Amistad",
     "name:en": "0/Lake Amistad",
     "name:etymology:sl": "Izraz amistad je španska beseda za prijateljstvo, torej bi umetno jezero lahko poimenovali ″Zajezitveno jezero prijateljstva″, kar se nanaša na njegovo lego na mejni reki Rio Grande, ki razdvaja Združene države Amerike in Mehiko.",
@@ -112308,6 +112951,7 @@
    },
    "properties": {
     "alt_name:sl": "zajezitveno jezero Fort Peck",
+    "marker-size": "small",
     "name": "Fort Peck Lake",
     "name:es": "Lago Fort Peck",
     "name:etymology:sl": "Akumulacijsko jezero je poimenovano po mestu Fort Peck v Montani.",
@@ -112328,6 +112972,7 @@
    },
    "properties": {
     "alt_name:sl": "zajezitveno jezero Francis Case",
+    "marker-size": "small",
     "name": "Lake Francis Case",
     "name:etymology:sl": "Akumulacijsko jezero je poimenovano po nekdanjem ameriškem senatorju iz Južne Dakote Francisu Higbeeju Caseu (1896–1962).",
     "name:hu": "Francis Case-tó",
@@ -112347,6 +112992,7 @@
    },
    "properties": {
     "alt_name:sl": "zajezitveno jezero Gouin",
+    "marker-size": "small",
     "name": "Réservoir Góuin",
     "name:de": "Gouin-Stausee",
     "name:en": "Gouin Reservoir",
@@ -112432,6 +113078,7 @@
    },
    "properties": {
     "alt_name:sl": "zajezitveno jezero Trinity",
+    "marker-size": "small",
     "name": "Trinity Lake/Clair Engle Lake",
     "name:etymology:sl": "Akumulacijsko jezero je poimenovano po zajezeni severnokalifornijski reki Trinity v pomenu ′Sveta Trojica′. Ime Claire Engle je bilo podeljeno v čast kalifornijskega demokratskega kongresnika in senatorja Združenih držav Amerike Clairea Englea (1911–1964).",
     "name:hu": "Claire Engle-tó",
@@ -112575,6 +113222,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Bone",
+    "marker-size": "small",
     "name": "Teluk Bone",
     "name:en": "Golf van Bone",
     "name:etymology:sl": "Zaliv je poimenovan po celebeškem mestu Bone na njegovi obali.",
@@ -112594,6 +113242,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Conception",
+    "marker-size": "small",
     "name": "Conception Bay",
     "name:etymology:sl": "Ime zaliva izhaja iz njegovega portugalskega poimenovanja Baía da Conceição ali Baía de Comceica, ki je dobilo ime po praznovanju Marijinega brezmadežnega spočetja in se je na zemljevidu pojavilo že v prvem desetletju 16. stoletja.",
     "name:fr": "Baie de la Conception",
@@ -112654,6 +113303,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Guacanayabo",
+    "marker-size": "small",
     "name": "Golfo de Guacanayabo",
     "name:de": "Golf von Guacanayabo",
     "name:en": "Gulf of Guacanayabo",
@@ -112743,6 +113393,7 @@
    "properties": {
     "alt_name:sl": "Zaliv kitov",
     "marker-color": "#D2B48C",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Walvisbaai/Walvis Bay",
     "name:de": "Walfischbucht",
@@ -112790,6 +113441,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaliv kraljice Maud",
+    "marker-size": "small",
     "name": "Queen Maud Gulf",
     "name:es": "Golfo de la Reina Maud",
     "name:etymology:sl": "Zalivu je ime nadel norveški polarni raziskovalec Roard Amundsen v čast norveški kraljici Maud (1869–1938).",
@@ -112812,6 +113464,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Mont Saint Michel",
+    "marker-size": "small",
     "name": "Baie du Mont-Saint Michel",
     "name:etymology:sl": "Zaliv je poimenovan po znamenitem otočku s samostanom Mont Saint-Michel (′Gora svetega Mihaela′) v bližini njegovega brega.",
     "name:hr": "Zaljev Mont-Saint Michel",
@@ -112830,6 +113483,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Moro",
+    "marker-size": "small",
     "name": "Moro Gulf",
     "name:de": "Golf von Moro",
     "name:etymology:sl": "Zaliv je verjetno poimenovan po otočku Moro v Basilanskem prelivu.",
@@ -112849,6 +113503,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaliv morskih psov",
+    "marker-size": "small",
     "name": "Shark Bay",
     "name:es": "Bahía Shark",
     "name:etymology:sl": "Zalivu je ime po številnih morskih psih nadel angleški pomorščak William Dampier (1651−1715) leta 1699.",
@@ -112894,6 +113549,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Porpoise",
+    "marker-size": "small",
     "name": "Porpoise Bay",
     "name:en": "Porpoise Bay",
     "name:etymology:sl": "Zaliv je poimenovan po ameriški ladji Porpoise.",
@@ -112914,6 +113570,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaliv princa Alberta",
+    "marker-size": "small",
     "name": "Prince Albert Sound",
     "name:etymology:sl": "Zaliv je poimenovan po princu Albertu (1819‒1861), možu britanske kraljice Viktorije.",
     "name:hr": "Zaljev princa Alberta",
@@ -112932,6 +113589,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaliv princese Šarlote",
+    "marker-size": "small",
     "name": "Princess Charlotte Bay",
     "name:etymology:sl": "Zaliv je poimenovan po britanski kraljici Šarloti (1744‒1818), ženi kralja Jurija III.",
     "name:fr": "Baie de la Princesse Charlotte",
@@ -112953,6 +113611,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaliv svete Evfemije",
+    "marker-size": "small",
     "name": "Golfo di Sant′Eufemia",
     "name:es": "Golfo de Santa Eufemia",
     "name:etymology:sl": "Zaliv je poimenovan po svetnici, mučenici sveti Evfemiji (289–303).",
@@ -113037,6 +113696,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaliv svetega Marka",
+    "marker-size": "small",
     "name": "Baía de São Marcos",
     "name:es": "Bahía de São Marcos",
     "name:etymology:sl": "Zaliv je poimenovan po evangelistu svetem Marku (umrl leta 68 v Aleksandriji).",
@@ -113076,6 +113736,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaliv svetega Vincencija",
+    "marker-size": "small",
     "name": "Gulf of Saint Vincent",
     "name:es": "Golfo Saint Vicent",
     "name:etymology:sl": "Zalivu je ime 30. marca 1802 po svetniku svetem Vincenciju nadel angleški pomorščak Matthew Flinders (1774−1814).",
@@ -113098,6 +113759,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Trinidad",
+    "marker-size": "small",
     "name": "Golfo Trinidad",
     "name:etymology:sl": "Ime zaliva ob zahodni obali Čila pomeni ′Zaliv Svete Trojice′.",
     "name:hu": "Trinidad-öböl",
@@ -113116,6 +113778,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaliv trpljenja",
+    "marker-size": "small",
     "name": "Golfo de Penas",
     "name:de": "Golf von Penas",
     "name:en": "Gulf of Penas",
@@ -113137,6 +113800,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Valinco",
+    "marker-size": "small",
     "name": "Golfe de Valinco",
     "name:etymology:sl": "Zaliv je verjetno poimenovan po kanjonu Valinco na jugozahodu Korzike.",
     "name:hu": "Valinco-öböl",
@@ -113179,6 +113843,7 @@
    },
    "properties": {
     "alt_name:sl": "zaliv Wash",
+    "marker-size": "small",
     "name": "The Wash",
     "name:etymology:sl": "Plitev zaliv je bil prvotno imenovan The Washes, kar se nanaša na peščine, ki jih je občasno, zlasti ob močni oseki, razkrilo in ″spiralo″ morje.",
     "semantic-type": "morski hidronim",
@@ -113264,6 +113929,7 @@
    },
    "properties": {
     "alt_name:sl": "Zamrznjeni preliv",
+    "marker-size": "small",
     "name": "Frozen Strait",
     "name:es": "Estrecho Frozen",
     "name:etymology:sl": "Ime preliva, ki ga je kot prvi leta 1742 dosegel angleški kapitan Christopher Middleton (konec 16. stoletja−1770), je očitno samoopisno.",
@@ -113417,6 +114083,7 @@
    },
    "properties": {
     "alt_name:sl": "Zaunguški Karakum",
+    "marker-size": "small",
     "name": "Üngüz Angyrsyndaky Garakum",
     "name:en": "Trans-Unguz Karakum",
     "name:etymology:sl": "Pokrajinsko ime izhaja iz dejstva, da gre za del Karakuma onstran reke Unguz.",
@@ -113437,6 +114104,7 @@
    },
    "properties": {
     "alt_name:sl": "Zavetrni otoki",
+    "marker-size": "small",
     "name": "Ilhas de Sotavento",
     "name:en": "Sotavento Islands",
     "name:es": "Islas de Sotavento",
@@ -113944,6 +114612,7 @@
    },
    "properties": {
     "alt_name:sl": "Zgornja Frankovska",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Oberfranken",
     "name:en": "Upper Franconia",
@@ -114013,6 +114682,7 @@
    },
    "properties": {
     "alt_name:sl": "Zgornja Normandija",
+    "marker-size": "small",
     "marker-symbol": "circle-stroked",
     "name": "Haute-Normandie",
     "name:en": "Upper Normandy",
@@ -114062,6 +114732,7 @@
    },
    "properties": {
     "alt_name:sl": "Zgornja Tunguska;Gornja Tunguska",
+    "marker-size": "small",
     "name": "Angara/Verhnjaja Tunguska",
     "name:de": "Obere Tunguska",
     "name:en": "Upper Tunguska",
@@ -114112,6 +114783,7 @@
    },
    "properties": {
     "alt_name:sl": "Zgornjerenski jarek",
+    "marker-size": "small",
     "name": "Oberrheinische Graben",
     "name:en": "Upper Rhine Graben/Rhine Rift Valley",
     "name:etymology:sl": "Tektonski jarek je poimenovan glede na njegovo lego ob zgornjem toku reke Ren.",
@@ -114134,6 +114806,7 @@
    },
    "properties": {
     "alt_name:sl": "Zgornjerensko nižavje",
+    "marker-size": "small",
     "name": "Oberrheinische Tiefebene",
     "name:en": "The Upper Rhine Plain",
     "name:etymology:sl": "Nižavje je poimenovano glede na njegovo lego ob zgornjem toku reke Ren.",
@@ -114246,6 +114919,7 @@
    },
    "properties": {
     "alt_name:sl": "Zimska obala",
+    "marker-size": "small",
     "name": "Zimnij bereg",
     "name:en": "Winter Coast",
     "name:etymology:sl": "Del severnoruske obale med ustjem Severne Dvine in rtom Voronov je poimenovan po stalnih zimskih naselbinah Pomorjancev.",

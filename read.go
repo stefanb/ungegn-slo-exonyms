@@ -89,6 +89,7 @@ func main() {
 					} else {
 						ex.NameSlAlt = ex.NameSl
 					}
+					f.SetProperty("marker-size", "small")
 				default:
 					errMsg = errMsg + "; Unknown recommendedUse " + strconv.Quote(ex.RecommendedUse)
 				}
