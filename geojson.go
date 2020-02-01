@@ -91,6 +91,9 @@ func getGeoJSON(xlSheet *xlsx.Sheet) *geojson.FeatureCollection {
 
 		setOptionalProperty(f, "name:etymology:sl", ex.Etymology)
 		setOptionalProperty(f, "note:sl", ex.Note)
+		setOptionalProperty(f, "wikidata", ex.Wikidata)
+		setWikidataLink(f, "wikidataLink", ex.Wikidata)
+		setWikidataOverpassLink(f, "wikidataLinkToOSM", ex.Wikidata)
 
 		if errMsg != "" {
 			errMsg = strings.TrimPrefix(errMsg, "; ")
