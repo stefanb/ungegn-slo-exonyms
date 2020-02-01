@@ -115,8 +115,8 @@ func main() {
 			setOptionalProperty(f, "name:hr", ex.NameHr)
 			setOptionalProperty(f, "name:hu", ex.NameHu)
 
-			setOptionalProperty(f, "name:etymology", ex.Etymology)
-			setOptionalProperty(f, "note", ex.Note)
+			setOptionalProperty(f, "name:etymology:sl", ex.Etymology)
+			setOptionalProperty(f, "note:sl", ex.Note)
 
 			if errMsg != "" {
 				errMsg = strings.TrimPrefix(errMsg, "; ")
