@@ -131,6 +131,9 @@ func saveCSV(obj [][]string, csvFilename string) {
 	}
 
 	stat, err := csvfile.Stat()
+	if err != nil {
+		log.Fatalf("Failed to stat CSV file: %s", err)
+	}
 	log.Printf("Saved %d Bytes to %s.", stat.Size(), csvFilename)
 
 }
