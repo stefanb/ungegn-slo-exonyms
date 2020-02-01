@@ -52,7 +52,7 @@ func ParseDMS(dms string) (float64, error) {
 	deg := (float64(d) + float64(m)/60 + float64(s)/60/60)
 
 	if d > dmax {
-		return 0, fmt.Errorf("%d deegrees to large for direction %s.", d, strconv.Quote(matches[4]))
+		return 0, fmt.Errorf("%d deegrees to large for direction %s", d, strconv.Quote(matches[4]))
 	}
 	return float64(q) * math.Round(deg*10000) / 10000, nil
 }
