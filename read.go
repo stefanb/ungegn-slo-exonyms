@@ -70,7 +70,7 @@ func main() {
 			switch ex.Status {
 			case "standardiziran", "standardized":
 				switch strings.ToUpper(ex.RecommendedUse) {
-				case "A", "B":
+				case "A", "B", "C":
 					nameSlTag = "name:sl"
 					f.SetProperty(nameSlTag, ex.NameSl)
 				default:

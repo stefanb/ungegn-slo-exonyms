@@ -64401,8 +64401,6 @@
     ]
    },
    "properties": {
-    "error": "Invalid recommendedUse \"C\" of standardized exonym",
-    "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Moçambique",
     "name:de": "Mosambik",
@@ -64414,8 +64412,9 @@
     "name:hu": "Mozambik",
     "name:it": "Mozambico",
     "name:ru": "Mozambik",
+    "name:sl": "Mozambik",
     "semantic-type": "naselje",
-    "source:": "GIAM"
+    "source:name:sl": "GIAM"
    }
   },
   {
@@ -107701,12 +107700,11 @@
     ]
    },
    "properties": {
-    "error": "Invalid recommendedUse \"C\" of standardized exonym",
-    "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Villesse/Vilès",
+    "name:sl": "Vileš",
     "semantic-type": "naselje",
-    "source:": "GIAM"
+    "source:name:sl": "GIAM"
    }
   },
   {
