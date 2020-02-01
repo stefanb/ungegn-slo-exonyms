@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"strconv"
 
 	//	"fmt"
 	"io/ioutil"
@@ -64,8 +65,38 @@ func main() {
 			//}
 			f := geojson.NewPointFeature([]float64{ex.Lon, ex.Lat})
 			f.SetProperty("name", ex.NameOrig)
-			f.SetProperty("name:sl", ex.NameSl)
-			f.SetProperty("source:name:sl", "GIAM")
+			var nameSlTag string
+
+			switch ex.Status {
+			case "standardiziran", "standardized":
+				switch strings.ToUpper(ex.RecommendedUse) {
+				case "A", "B":
+					nameSlTag = "name:sl"
+					f.SetProperty(nameSlTag, ex.NameSl)
+				default:
+					errMsg = errMsg + "; Invalid recommendedUse " + strconv.Quote(ex.RecommendedUse) + " of standardized exonym"
+				}
+
+			case "nestandardiziran", "non-standardized":
+				switch strings.ToUpper(ex.RecommendedUse) {
+				case "A", "B":
+					nameSlTag = "name:sl"
+					f.SetProperty(nameSlTag, ex.NameSl)
+				case "C", "D", "E":
+					nameSlTag = "alt_name:sl"
+					if hasValue(ex.NameSlAlt) {
+						ex.NameSlAlt = ex.NameSl + ";" + ex.NameSlAlt
+					} else {
+						ex.NameSlAlt = ex.NameSl
+					}
+				default:
+					errMsg = errMsg + "; Unknown recommendedUse " + strconv.Quote(ex.RecommendedUse)
+				}
+			default:
+				errMsg = errMsg + "; Unknown status " + strconv.Quote(ex.Status)
+			}
+
+			f.SetProperty("source:"+nameSlTag, "GIAM")
 
 			setFeatureType(f, ex.FeatureType)
 
