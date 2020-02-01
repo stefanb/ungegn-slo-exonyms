@@ -1,7 +1,11 @@
 package main
 
 import (
+	"encoding/csv"
 	"encoding/json"
+	"fmt"
+	"os"
+	"strconv"
 
 	//	"fmt"
 	"io/ioutil"
@@ -22,7 +26,19 @@ func main() {
 		log.Fatal(err)
 	}
 
-	exonyms := make([]Exonym, 0)
+	wholeExcelFile, err := xlFile.ToSlice()
+	if err != nil {
+		log.Fatal(err)
+	}
+	saveJSON(wholeExcelFile, "eksonimi-giam.json")
+	for i, sheet := range wholeExcelFile {
+		if len(sheet) > 0 {
+			// sheet has some content
+			saveCSV(wholeExcelFile[i], fmt.Sprintf("eksonimi-giam-%d.csv", i))
+		}
+
+	}
+
 	featureCollection := geojson.NewFeatureCollection()
 	for _, sheet := range xlFile.Sheets {
 		for i, row := range sheet.Rows {
@@ -49,8 +65,39 @@ func main() {
 			//}
 			f := geojson.NewPointFeature([]float64{ex.Lon, ex.Lat})
 			f.SetProperty("name", ex.NameOrig)
-			f.SetProperty("name:sl", ex.NameSl)
-			f.SetProperty("source:name:sl", "GIAM")
+			var nameSlTag string
+
+			switch ex.Status {
+			case "standardiziran", "standardized":
+				switch strings.ToUpper(ex.RecommendedUse) {
+				case "A", "B", "C":
+					nameSlTag = "name:sl"
+					f.SetProperty(nameSlTag, ex.NameSl)
+				default:
+					errMsg = errMsg + "; Invalid recommendedUse " + strconv.Quote(ex.RecommendedUse) + " of standardized exonym"
+				}
+
+			case "nestandardiziran", "non-standardized":
+				switch strings.ToUpper(ex.RecommendedUse) {
+				case "A", "B", "C":
+					nameSlTag = "name:sl"
+					f.SetProperty(nameSlTag, ex.NameSl)
+				case "D", "E":
+					nameSlTag = "alt_name:sl"
+					if hasValue(ex.NameSlAlt) {
+						ex.NameSlAlt = ex.NameSl + ";" + ex.NameSlAlt
+					} else {
+						ex.NameSlAlt = ex.NameSl
+					}
+					f.SetProperty("marker-size", "small")
+				default:
+					errMsg = errMsg + "; Unknown recommendedUse " + strconv.Quote(ex.RecommendedUse)
+				}
+			default:
+				errMsg = errMsg + "; Unknown status " + strconv.Quote(ex.Status)
+			}
+
+			f.SetProperty("source:"+nameSlTag, "GIAM")
 
 			setFeatureType(f, ex.FeatureType)
 
@@ -69,8 +116,8 @@ func main() {
 			setOptionalProperty(f, "name:hr", ex.NameHr)
 			setOptionalProperty(f, "name:hu", ex.NameHu)
 
-			setOptionalProperty(f, "name:etymology", ex.Etymology)
-			setOptionalProperty(f, "note", ex.Note)
+			setOptionalProperty(f, "name:etymology:sl", ex.Etymology)
+			setOptionalProperty(f, "note:sl", ex.Note)
 			setOptionalProperty(f, "wikidata", ex.Wikidata)
 			setWikidataLink(f, "wikidataLink", ex.Wikidata)
 			setWikidataOverpassLink(f, "wikidataLinkToOSM", ex.Wikidata)
@@ -82,14 +129,12 @@ func main() {
 				f.SetProperty("marker-color", "#ff0000")
 			}
 			featureCollection.AddFeature(f)
-			exonyms = append(exonyms, *ex)
 		}
 	}
 
 	log.Printf("Read %d features.", len(featureCollection.Features))
 
 	saveJSON(featureCollection, "eksonimi.geojson")
-	saveJSON(exonyms, "eksonimi-giam.json")
 }
 
 func saveJSON(obj interface{}, jsonFilename string) {
@@ -104,6 +149,28 @@ func saveJSON(obj interface{}, jsonFilename string) {
 	}
 
 	log.Printf("Saved %d Bytes to %s.", len(rawJSON), jsonFilename)
+}
+
+func saveCSV(obj [][]string, csvFilename string) {
+	csvfile, err := os.Create(csvFilename)
+	if err != nil {
+		log.Fatalf("failed creating file: %s", err)
+	}
+	defer csvfile.Close()
+	csvwriter := csv.NewWriter(csvfile)
+	defer csvwriter.Flush()
+
+	err = csvwriter.WriteAll(obj)
+	if err != nil {
+		log.Fatalf("failed writing CSV file: %s", err)
+	}
+
+	stat, err := csvfile.Stat()
+	if err != nil {
+		log.Fatalf("Failed to stat CSV file: %s", err)
+	}
+	log.Printf("Saved %d Bytes to %s.", stat.Size(), csvFilename)
+
 }
 
 func setFeatureType(f *geojson.Feature, featureType string) {

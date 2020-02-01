@@ -1,15 +1,17 @@
 package main
 
 type Exonym struct {
-	ID          int     `xlsx:"0"`
-	NameSl      string  `xlsx:"1"`
-	NameOrig    string  `xlsx:"4"`
-	LangOrig    string  `xlsx:"5"`
-	FeatureType string  `xlsx:"8"`
-	LatDMS      string  `xlsx:"9"`
-	Lat         float64 `xlsx:"-" json:"-"`
-	LonDMS      string  `xlsx:"10"`
-	Lon         float64 `xlsx:"-" json:"-"`
+	ID             int     `xlsx:"0"`
+	NameSl         string  `xlsx:"1"`
+	NameOrig       string  `xlsx:"4"`
+	LangOrig       string  `xlsx:"5"`
+	FeatureType    string  `xlsx:"8"`
+	LatDMS         string  `xlsx:"9"`
+	Lat            float64 `xlsx:"-" json:"-"`
+	LonDMS         string  `xlsx:"10"`
+	Lon            float64 `xlsx:"-" json:"-"`
+	Status         string  `xlsx:"12"`
+	RecommendedUse string  `xlsx:"13"`
 	//BoolVal bool `xlsx:"4"`
 	NameSlAlt string `xlsx:"14"`
 	NameEn    string `xlsx:"25"`
