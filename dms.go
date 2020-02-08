@@ -19,6 +19,8 @@ func ParseDMS(dms string) (float64, error) {
 		return 0, errors.New("No dms value to parse: " + strconv.Quote(dms))
 	}
 
+	dms = strings.ReplaceAll(dms, "\u00a0", " ")
+
 	matches := dmsRegex.FindStringSubmatch(dms)
 	if len(matches) != 5 {
 		return 0, fmt.Errorf("Error parsing %s", strconv.Quote(dms))

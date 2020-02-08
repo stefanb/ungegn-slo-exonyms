@@ -49942,14 +49942,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
-     0
+     -101.7308,
+     32.6797
     ]
    },
    "properties": {
     "alt_name:sl": "Kolorado",
-    "error": "Error parsing \"32°\\u00a040′\\u00a047″ S\"; Error parsing \"101°\\u00a043′\\u00a051″ Z\"",
-    "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Colorado River",
     "name:es": "Río Colorado",
