@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestParseDMS(t *testing.T) {
@@ -46,7 +47,12 @@ func TestParseDMS(t *testing.T) {
 		assert.NoError(t, err)
 		assert.Equal(t, -55.25, d)
 	}
-
+	{
+		// non-breaking spaces
+		d, err := ParseDMS("101°\u00a043′\u00a051″ Z")
+		assert.NoError(t, err)
+		assert.Equal(t, -101.7308, d)
+	}
 }
 
 func TestParseDMSErrors(t *testing.T) {
