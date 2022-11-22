@@ -7,106 +7,54 @@ import (
 )
 
 func TestParseDMS(t *testing.T) {
-	{
-		d, err := ParseDMS("25\u00b0 8\u2032 6\u2033 S")
-		assert.NoError(t, err)
-		assert.Equal(t, 25.135, d)
+	type test struct {
+		input string
+		want  float64
 	}
-	{
-		d, err := ParseDMS("125° 8′ 6″ Z")
-		assert.NoError(t, err)
-		assert.Equal(t, -125.135, d)
+
+	tests := []test{
+		{"25\u00b0 8\u2032 6\u2033 S", 25.135},
+		{"125° 8′ 6″ Z", -125.135},
+		{"90° 0′ 0″ J", -90.0},
+		{"125°8′			6″    Z", -125.135},
+		{"25\u00b08\u20326\u2033S", 25.135},
+		{"25\u00b0    8\u2032  	6\u2033 S", 25.135},
+		{"55\u00b0 30\u2032 0\u2033 V", 55.5},
+		{"55\u00b0 15\u2032 0\u2033Z", -55.25},
+		{"101°\u00a043′\u00a051″ Z", -101.7308},
 	}
-	{
-		d, err := ParseDMS("90° 0′ 0″ J")
+
+	for _, tc := range tests {
+		d, err := ParseDMS(tc.input)
 		assert.NoError(t, err)
-		assert.Equal(t, -90.0, d)
-	}
-	{
-		d, err := ParseDMS("125°8′			6″    Z")
-		assert.NoError(t, err)
-		assert.Equal(t, -125.135, d)
-	}
-	{
-		d, err := ParseDMS("25\u00b08\u20326\u2033S")
-		assert.NoError(t, err)
-		assert.Equal(t, 25.135, d)
-	}
-	{
-		d, err := ParseDMS("25\u00b0    8\u2032  	6\u2033 S")
-		assert.NoError(t, err)
-		assert.Equal(t, 25.135, d)
-	}
-	{
-		d, err := ParseDMS("55\u00b0 30\u2032 0\u2033 V")
-		assert.NoError(t, err)
-		assert.Equal(t, 55.5, d)
-	}
-	{
-		d, err := ParseDMS("55\u00b0 15\u2032 0\u2033Z")
-		assert.NoError(t, err)
-		assert.Equal(t, -55.25, d)
-	}
-	{
-		// non-breaking spaces
-		d, err := ParseDMS("101°\u00a043′\u00a051″ Z")
-		assert.NoError(t, err)
-		assert.Equal(t, -101.7308, d)
+		assert.Equal(t, tc.want, d)
 	}
 }
 
 func TestParseDMSErrors(t *testing.T) {
-	{
-		d, err := ParseDMS("")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("0 0 0 Z")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("55\u00b0 15 \u2032 0\u2033Z")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("125° 8′ 6″")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("125° 8′ 6″ J")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("55\u00b0   \u2032 0\u2033Z")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("5d 0m 11s S")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("A\u00b0 S")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("55\u00b0 J")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
-	}
-	{
-		d, err := ParseDMS("3° 66′ 0″ Z")
-		assert.Error(t, err)
-		assert.Equal(t, 0.0, d)
+
+	type test struct {
+		input string
 	}
 
+	tests := []test{
+		{""},
+		{"0 0 0 Z"},
+		{"55\u00b0 15 \u2032 0\u2033Z"},
+		{"125° 8′ 6″"},
+		{"125° 8′ 6″ J"},
+		{"55\u00b0   \u2032 0\u2033Z"},
+		{"5d 0m 11s S"},
+		{"A\u00b0 S"},
+		{"55\u00b0 J"},
+		{"3° 66′ 0″ Z"},
+	}
+
+	for _, tc := range tests {
+		d, err := ParseDMS(tc.input)
+		assert.Error(t, err)
+		assert.Equal(t, 0.0, d)
+	}
 }
 
 func BenchmarkParseDMS(b *testing.B) {
