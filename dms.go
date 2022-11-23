@@ -15,14 +15,14 @@ var dmsRegex = regexp.MustCompile(`^\s*([0-1]?[0-9]?[0-9])°\s*([0-5]?[0-9])′\
 // ParseDMS takes the input DMS notation string (eg "125° 8′ 6″ Z") and converts it to decimal degrees
 func ParseDMS(dms string) (float64, error) {
 	if !hasValue(dms) {
-		return 0, fmt.Errorf("No dms value to parse: %q", dms)
+		return 0, fmt.Errorf("no dms value to parse: %q", dms)
 	}
 
 	dms = strings.ReplaceAll(dms, "\u00a0", " ")
 
 	matches := dmsRegex.FindStringSubmatch(dms)
 	if len(matches) != 5 {
-		return 0, fmt.Errorf("Error parsing %q", dms)
+		return 0, fmt.Errorf("error parsing %q", dms)
 	}
 
 	q := 0
@@ -42,7 +42,7 @@ func ParseDMS(dms string) (float64, error) {
 		q = 1
 		dmax = 180
 	default:
-		return 0, fmt.Errorf("Invalid direction %q", matches[4])
+		return 0, fmt.Errorf("invalid direction %q", matches[4])
 	}
 
 	// errors disallowed by regex :)

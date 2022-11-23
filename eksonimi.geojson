@@ -5411,7 +5411,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"35° 32′ 14″\"",
+    "error": "error parsing \"35° 32′ 14″\"",
     "marker-color": "#ff0000",
     "name": "Arabats′ka zatoka",
     "name:de": "Arabat Bucht",
@@ -13266,7 +13266,7 @@
    },
    "properties": {
     "alt_name:sl": "Bormijski prelaz",
-    "error": "Error parsing \"46° 32′ 0″\"",
+    "error": "error parsing \"46° 32′ 0″\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Passo dello Stelvio/Stilfser Joch",
@@ -29136,7 +29136,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"77° 30′ 0′ V\"",
+    "error": "error parsing \"77° 30′ 0′ V\"",
     "marker-color": "#ff0000",
     "name": "Ghats",
     "name:de": "Ghats",
@@ -30600,7 +30600,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
+    "error": "no dms value to parse: \"–\"; no dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Gondaranya/Gondwana/Gondwâna",
     "name:de": "Gondwana",
@@ -31758,7 +31758,7 @@
    },
    "properties": {
     "alt_name:sl": "gorovje Kapuas Hulu",
-    "error": "Error parsing \"113° 15′ 0″\"",
+    "error": "error parsing \"113° 15′ 0″\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Pegunungan Kapuas Hulu",
@@ -32687,7 +32687,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"30° 16′ 7″ SW\"",
+    "error": "error parsing \"30° 16′ 7″ SW\"",
     "marker-color": "#ff0000",
     "name": "Al Buḩayrāt al-Murrah",
     "name:de": "Bitterseen",
@@ -33792,7 +33792,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"32° 50′ ″ S\"",
+    "error": "error parsing \"32° 50′ ″ S\"",
     "marker-color": "#ff0000",
     "name": "Mifratz Haifa",
     "name:de": "Bucht von Haifa",
@@ -34463,7 +34463,7 @@
    },
    "properties": {
     "alt_name:sl": "Hanzeatska zveza",
-    "error": "Error parsing \"54° 0′ 0″\"",
+    "error": "error parsing \"54° 0′ 0″\"",
     "marker-color": "#ff0000",
     "marker-symbol": "circle-stroked",
     "name": "Hansa/Hanse",
@@ -43677,7 +43677,7 @@
    },
    "properties": {
     "alt_name:sl": "Južno Trajanovo obzidje;Spodnji Trajanov zid",
-    "error": "Error parsing \"28° 26′ 39 V\"",
+    "error": "error parsing \"28° 26′ 39 V\"",
     "marker-color": "#ff0000",
     "name": "Zidul de Sus",
     "name:de": "Untere Trajanwall",
@@ -43753,7 +43753,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"20° 0′ 0″\"",
+    "error": "error parsing \"20° 0′ 0″\"",
     "marker-color": "#ff0000",
     "name": "Southern Cook Islands/Lower Cook islands",
     "name:es": "Islas Cook Meridionales",
@@ -45969,7 +45969,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"30° 6′ 0′ V\"",
+    "error": "error parsing \"30° 6′ 0′ V\"",
     "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Kanopos/Kanobos",
@@ -46854,7 +46854,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"38° 0′ 4″\"",
+    "error": "error parsing \"38° 0′ 4″\"",
     "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Kargamiš/Qarqamisch/Karkamiş",
@@ -47359,7 +47359,7 @@
    },
    "properties": {
     "alt_name:sl": "Karunsko jezero",
-    "error": "Error parsing \"30° 39′ 55″\"",
+    "error": "error parsing \"30° 39′ 55″\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Birkat Qārūn",
@@ -49257,7 +49257,7 @@
    },
    "properties": {
     "alt_name:sl": "Kizil",
-    "error": "Error parsing \"94° 27′ 0″ E\"",
+    "error": "error parsing \"94° 27′ 0″ E\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "marker-symbol": "city",
@@ -50734,7 +50734,7 @@
    },
    "properties": {
     "alt_name:sl": "Korasan",
-    "error": "Error parsing \"38° 1′ 0″\"",
+    "error": "error parsing \"38° 1′ 0″\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "marker-symbol": "circle-stroked",
@@ -54468,7 +54468,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
+    "error": "no dms value to parse: \"–\"; no dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Laurasia/Laurasie",
     "name:de": "Laurasia",
@@ -54495,7 +54495,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
+    "error": "no dms value to parse: \"–\"; no dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Laurentia",
     "name:de": "Laurentia",
@@ -67058,7 +67058,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"3° 75′ 0″ Z\"",
+    "error": "error parsing \"3° 75′ 0″ Z\"",
     "marker-color": "#ff0000",
     "name": "Bassin du Niger",
     "name:de": "Niger-Becken",
@@ -68794,7 +68794,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
+    "error": "no dms value to parse: \"–\"; no dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "New World/Neue Welt/Nouveau Monde",
     "name:de": "Neue Welt",
@@ -70532,7 +70532,7 @@
    },
    "properties": {
     "alt_name:sl": "Zahodni svet;Zahod",
-    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
+    "error": "no dms value to parse: \"–\"; no dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Occident",
     "name:de": "Westliche Welt/Westen",
@@ -78393,7 +78393,7 @@
    },
    "properties": {
     "alt_name:sl": "plitvina Serrana",
-    "error": "Error parsing \"15° 49′ 59′ S\"",
+    "error": "error parsing \"15° 49′ 59′ S\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Banco Serranilla",
@@ -78662,7 +78662,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"11° 40′ 0″ E  J\"",
+    "error": "error parsing \"11° 40′ 0″ E  J\"",
     "marker-color": "#ff0000",
     "name": "Pocklington Trough",
     "name:en": "Pocklington Trough",
@@ -78891,7 +78891,7 @@
    },
    "properties": {
     "alt_name:sl": "Črna Afrika",
-    "error": "Error parsing \"5° 0′ 0′ J\"; Error parsing \"22° 0′ 0′ V\"",
+    "error": "error parsing \"5° 0′ 0′ J\"; error parsing \"22° 0′ 0′ V\"",
     "marker-color": "#ff0000",
     "name": "Sub-Saharan Africa/Afrique subsaharienne",
     "name:de": "Subsahara-Afrika/Subsaharisches Afrika/Afrika südlich der Sahara/Schwarzafrika",
@@ -84669,7 +84669,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"41° 0′ 0″ E  S\"",
+    "error": "error parsing \"41° 0′ 0″ E  S\"",
     "marker-color": "#ff0000",
     "name": "Rhône Fan",
     "name:en": "Rhone Fan/Rhone Cone",
@@ -86015,7 +86015,7 @@
    },
    "properties": {
     "alt_name:sl": "rt Gris Nez",
-    "error": "Error parsing \"50° 52′ 13″\"",
+    "error": "error parsing \"50° 52′ 13″\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Cap Gris-Nez",
@@ -88556,7 +88556,7 @@
    },
    "properties": {
     "alt_name:sl": "Sahulski šelf",
-    "error": "Error parsing \"12° 29′ 60″ J\"; Error parsing \"124° 59′ 60″ V\"",
+    "error": "error parsing \"12° 29′ 60″ J\"; error parsing \"124° 59′ 60″ V\"",
     "marker-color": "#ff0000",
     "name": "Sahul Shelf",
     "name:en": "Sahul Shelf",
@@ -89785,7 +89785,7 @@
    },
    "properties": {
     "alt_name:sl": "Sarjazinsko zajezitveno jezero",
-    "error": "No dms value to parse: \"???\"; No dms value to parse: \"???\"",
+    "error": "no dms value to parse: \"???\"; no dms value to parse: \"???\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Sarjazinskoe vodohraniliše",
@@ -92628,7 +92628,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"5° 58' 34'' Z\"",
+    "error": "error parsing \"5° 58' 34'' Z\"",
     "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Sevilla",
@@ -95504,7 +95504,7 @@
    },
    "properties": {
     "alt_name:sl": "Spodnja Normandija",
-    "error": "Error parsing \"0° 27′ 60″ Z\"",
+    "error": "error parsing \"0° 27′ 60″ Z\"",
     "marker-color": "#ff0000",
     "marker-size": "small",
     "marker-symbol": "circle-stroked",
@@ -96644,7 +96644,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
+    "error": "no dms value to parse: \"–\"; no dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Stýx",
     "name:de": "Styx",
@@ -97586,7 +97586,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"20° 0′ 0″\"",
+    "error": "error parsing \"20° 0′ 0″\"",
     "marker-color": "#ff0000",
     "marker-symbol": "circle-stroked",
     "name": "Svalbard og Jan Mayen",
@@ -98288,7 +98288,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"47° 0′ ′″ S\"",
+    "error": "error parsing \"47° 0′ ′″ S\"",
     "marker-color": "#ff0000",
     "marker-symbol": "circle-stroked",
     "name": "Comté de Bourgogne\n/Franche-Comté",
@@ -100956,7 +100956,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
+    "error": "no dms value to parse: \"–\"; no dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Tártaros",
     "name:de": "Tartaros",
@@ -101953,7 +101953,7 @@
    },
    "properties": {
     "alt_name:sl": "Ticinske Alpe",
-    "error": "Error parsing \"46° 24′ 42″ N\"; Error parsing \"8° 28′ 9″ E\"",
+    "error": "error parsing \"46° 24′ 42″ N\"; error parsing \"8° 28′ 9″ E\"",
     "marker-color": "#ff0000",
     "name": "Alpi Ticinesi/Alpi Lepontine Sud-occidentali",
     "name:de": "Tessiner Alpen",
@@ -101977,7 +101977,7 @@
     ]
    },
    "properties": {
-    "error": "No dms value to parse: \"–\"; No dms value to parse: \"–\"",
+    "error": "no dms value to parse: \"–\"; no dms value to parse: \"–\"",
     "marker-color": "#ff0000",
     "name": "Thetis",
     "name:de": "Tethys/Tethysmeer",
@@ -102054,7 +102054,7 @@
     ]
    },
    "properties": {
-    "error": "Error parsing \"39° 57′ 26′ S\"",
+    "error": "error parsing \"39° 57′ 26′ S\"",
     "marker-color": "#ff0000",
     "name": "Teuthrania",
     "name:sl": "Tevtranija",
