@@ -17,7 +17,8 @@ import (
 
 func main() {
 	// http://ungegn.zrc-sazu.si/Portals/7/VELIKA%20PREGLEDNICA_slo.xlsx
-	excelFileName := "VELIKA PREGLEDNICA_slo.xlsx"
+	// excelFileName := "VELIKA PREGLEDNICA_slo.xlsx"
+	excelFileName := "VELIKA PREGLEDNICA_NADALJNJA OBDELAVA.xlsx"
 	xlFile, err := xlsx.OpenFile(excelFileName)
 	if err != nil {
 		log.Fatal(err)

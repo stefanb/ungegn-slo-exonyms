@@ -565,7 +565,7 @@
    },
    "properties": {
     "name": "Adamaoua/Adamawa",
-    "name:etymology:sl": "Upravna enota je poimenovana po ustanovitelju fulanskega emirata Moddibu Adamu, umrlem leta 1848.",
+    "name:etymology:sl": "Reliefna oblika je poimenovana po ustanovitelju fulanskega emirata Moddibu Adamu, umrlem leta 1848.",
     "name:hr": "Adamavsko visočje",
     "name:ru": "Adamava",
     "name:sl": "Adamava",
@@ -588,7 +588,7 @@
     "marker-symbol": "circle-stroked",
     "name": "Province de l′Adamaoua",
     "name:en": "Adamawa Region",
-    "name:etymology:sl": "Reliefna oblika je poimenovana po ustanovitelju fulanskega emirata Moddibu Adamu, umrlem leta 1848.",
+    "name:etymology:sl": "Upravna enota je poimenovana po ustanovitelju fulanskega emirata Moddibu Adamu, umrlem leta 1848.",
     "name:hr": "Adamava",
     "name:it": "Provincia di Adamaoua",
     "name:ru": "Adamava",
@@ -4756,7 +4756,7 @@
    },
    "properties": {
     "alt_name:sl": "Južno ledeno morje;Južni ocean",
-    "name": "Antarctic Ocean/Southern Ocean/Océan Antartique",
+    "name": "Southern Ocean/Antarctic Ocean/Océan Austral/Océan Antartique",
     "name:de": "Antarktischer Ozean/Südlicher Ozean",
     "name:en": "Antarctic Ocean/Southern Ocean",
     "name:es": "Océano Antártico",
@@ -5406,13 +5406,11 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
+     35.5372,
      45.3772
     ]
    },
    "properties": {
-    "error": "error parsing \"35° 32′ 14″\"",
-    "marker-color": "#ff0000",
     "name": "Arabats′ka zatoka",
     "name:de": "Arabat Bucht",
     "name:en": "Bay of Arabat",
@@ -6184,7 +6182,7 @@
    },
    "properties": {
     "alt_name:sl": "Severno ledeno morje",
-    "name": "Arctic Ocean/Océan Arctique",
+    "name": "Southern Ocean/Arctic Ocean/Océan Arctique",
     "name:de": "Arktischer Ozean",
     "name:en": "Arctic Ocean",
     "name:es": "Océano Ártico",
@@ -10310,24 +10308,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     13.38,
-     46.8275
-    ]
-   },
-   "properties": {
-    "name": "Möll",
-    "name:etymology:sl": "Ime izhaja iz značilne barve rečne vode.",
-    "name:hr": "Bjelaja",
-    "name:sl": "Bela",
-    "semantic-type": "kopenski hidronim",
-    "source:name:sl": "GIAM"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      53.5472,
      55.9114
     ]
@@ -10340,8 +10320,26 @@
     "name:es": "Río Bélaya",
     "name:etymology:sl": "Slovensko ime se nanaša na belkasto barvo ledeniške reke, ki priteka iz osrčja Visokih Tur.",
     "name:fr": "Belaïa",
+    "name:hr": "Bjelaja",
     "semantic-type": "kopenski hidronim",
     "source:alt_name:sl": "GIAM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.38,
+     46.8275
+    ]
+   },
+   "properties": {
+    "name": "Möll",
+    "name:etymology:sl": "Ime izhaja iz značilne barve rečne vode.",
+    "name:sl": "Bela",
+    "semantic-type": "kopenski hidronim",
+    "source:name:sl": "GIAM"
    }
   },
   {
@@ -10641,7 +10639,7 @@
     ]
    },
    "properties": {
-    "name": "Bílé Karpaty/Biele Karpaty",
+    "name": "Bilé Karpaty/Biele Karpaty",
     "name:de": "Weiße Karpaten",
     "name:en": "White Carpathians",
     "name:es": "Cárpatos Blancos",
@@ -10752,7 +10750,6 @@
     "name": "Raʾs al-Abyaḍ",
     "name:de": "Cap Blanc",
     "name:en": "Cap Blanc",
-    "name:etymology:sl": "Rt je poimenovan po puščavski okolici, kar je pomembno za razumevanje imena južneje ležečega in bolj znanega Zelenega rta, ki se tako imenuje po poraščeni okolici.",
     "name:hr": "Bijeli rt",
     "name:hu": "Blanc-fok",
     "name:it": "Capo Bianco",
@@ -10774,6 +10771,7 @@
    "properties": {
     "name": "Raʾs Nawāḏībū",
     "name:es": "Cabo Blanco",
+    "name:etymology:sl": "Rt je poimenovan po puščavski okolici, kar je pomembno za razumevanje imena južneje ležečega in bolj znanega Zelenega rta, ki se tako imenuje po poraščeni okolici.",
     "name:fr": "Cap Blanc",
     "name:hr": "Bijeli rt",
     "name:hu": "Nouadhibou-fok",
@@ -10901,7 +10899,6 @@
     "name:de": "Weißer See",
     "name:en": "Lake Beloye",
     "name:es": "Lago Béloye",
-    "name:etymology:sl": "Jezero je poimenovano po značilni barvi jezerske vode, ki jo ima zaradi krednih jezerskih odkladnin na bregovih, nastalih v okolju apneniških okoliških gora.",
     "name:fr": "Lac Beloïe",
     "name:hr": "Bijelo jezero",
     "name:hu": "Fehér-to",
@@ -10922,6 +10919,7 @@
    },
    "properties": {
     "name": "Weißensee",
+    "name:etymology:sl": "Jezero je poimenovano po značilni barvi jezerske vode, ki jo ima zaradi krednih jezerskih odkladnin na bregovih, nastalih v okolju apneniških okoliških gora.",
     "name:hr": "Bijelo jezero",
     "name:sl": "Belo jezero",
     "semantic-type": "kopenski hidronim",
@@ -13261,13 +13259,11 @@
     "type": "Point",
     "coordinates": [
      10.45,
-     0
+     46.5333
     ]
    },
    "properties": {
     "alt_name:sl": "Bormijski prelaz",
-    "error": "error parsing \"46° 32′ 0″\"",
-    "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Passo dello Stelvio/Stilfser Joch",
     "name:en": "Stelvio Pass",
@@ -14211,15 +14207,16 @@
     ]
    },
    "properties": {
+    "error": "Unknown recommendedUse \"G\"",
+    "marker-color": "#ff0000",
     "name": "Brijuni",
     "name:fr": "Archipel des Brijuni",
     "name:hr": "Brijunski otoci/Brijuni",
     "name:hu": "Brioni-szigetek",
     "name:it": "Isole Brioni",
     "name:ru": "Briuny",
-    "name:sl": "Brioni",
     "semantic-type": "otoška reliefna oblika",
-    "source:name:sl": "GIAM"
+    "source:": "GIAM"
    }
   },
   {
@@ -14235,14 +14232,13 @@
     "name": "Bristol Channel/Môr Hafren",
     "name:de": "Bristolkanal",
     "name:es": "Canal de Bristol",
-    "name:etymology:sl": "Ime zalivu je leta 1778 nadel britanski pomorščak James Cook in ga poimenoval po britanskem admiralu in politiku Augustusu Herveyju (1724‒1779), 3. grofu Bristolskem.",
+    "name:etymology:sl": "Angleško poimenovanje se navezuje na mesto Bristol nedaleč od njegovega ustja, pri čemer ime tega izhaja iz staroangleškega ′zbirališče ob mostu′, ki bi se kot zloženka zapisal Bridgestow. Valižansko ime pomeni ′Severnsko morje′ In je poimenovano po reki Severn, valižansko Hafren, ki se izliva vanj.",
     "name:fr": "Canal de Bristol",
     "name:hr": "Bristolski kanal",
     "name:hu": "Bristoli-csatorna",
     "name:it": "Canale di Bristol",
     "name:ru": "Bristol′skij zaliv",
     "name:sl": "Bristolski zaliv",
-    "note:sl": "Zaradi poimenovanja po osebnem imenu bi bilo ustreznejše svojilnopridevniško poimenovanje Bristolov zaliv.",
     "semantic-type": "morski hidronim",
     "source:name:sl": "GIAM"
    }
@@ -14259,13 +14255,14 @@
    "properties": {
     "name": "Bristol Bay",
     "name:es": "Bahía de Bristol",
-    "name:etymology:sl": "Angleško poimenovanje se navezuje na mesto Bristol nedaleč od njegovega ustja, pri čemer ime tega izhaja iz staroangleškega ′zbirališče ob mostu′, ki bi se kot zloženka zapisal Bridgestow. Valižansko ime pomeni ′Severnsko morje′ In je poimenovano po reki Severn, valižansko Hafren, ki se izliva vanj.",
+    "name:etymology:sl": "Ime zalivu je leta 1778 nadel britanski pomorščak James Cook in ga poimenoval po britanskem admiralu in politiku Augustusu Herveyju (1724‒1779), 3. grofu Bristolskem.",
     "name:fr": "Baie de Bristol",
     "name:hr": "Bristolski zaljev",
     "name:hu": "Bristol-öböl",
     "name:it": "Baia di Bristol",
     "name:ru": "Bristol′skij zaliv",
     "name:sl": "Bristolski zaliv",
+    "note:sl": "Zaradi poimenovanja po osebnem imenu bi bilo ustreznejše svojilnopridevniško poimenovanje Bristolov zaliv.",
     "semantic-type": "morski hidronim",
     "source:name:sl": "GIAM"
    }
@@ -15239,9 +15236,9 @@
     ]
    },
    "properties": {
-    "name": "Porte de Bourgogne",
+    "name": "Trouée de Belfort",
     "name:de": "Burgundische Pforte",
-    "name:en": "Burgundy Gate",
+    "name:en": "Belfort Gap",
     "name:etymology:sl": "Ime prelaza v kraju Belfort med Juro in Vogezi opozarja, da je bil tu branik pred vstopom v Burgundijo.",
     "name:hr": "Burgundska vrata",
     "name:sl": "Burgundska vrata",
@@ -16426,7 +16423,7 @@
     "marker-symbol": "city",
     "name": "Caesarea/Qesaria",
     "name:es": "Cesarea",
-    "name:etymology:sl": "Ime naselja v čast rimskega cesarja Gaja Julija Cezarja Oktavijana Avgusta (63pr. n. št.−14) je vpeljal Herod Veliki.",
+    "name:etymology:sl": "Ime naselja v čast rimskega cesarja Gaja Julija Cezarja Oktavijana Avgusta (63 pr. n. št.‒14) je vpeljal Herod Veliki.",
     "name:hr": "Cezareja",
     "name:ru": "Kesarija",
     "name:sl": "Cezareja",
@@ -16449,7 +16446,7 @@
     "marker-symbol": "city",
     "name": "Caesarea/Iol/Sharshal/Cherchell",
     "name:es": "Caesarea Mauretaniae",
-    "name:etymology:sl": "Ime naselja v čast rimskega cesarja Gaja Julija Cezarja Oktavijana Avgusta (63 pr. n. št.‒14) je vpeljal Herod Veliki.",
+    "name:etymology:sl": "Ime naselja v čast rimskega cesarja Gaja Julija Cezarja Oktavijana Avgusta (63pr. n. št.−14) je vpeljal Herod Veliki.",
     "name:fr": "Césarée de Maurétanie",
     "name:hr": "Cezareja Mauretanska",
     "name:it": "Caesaria",
@@ -17927,7 +17924,7 @@
     "name:de": "Tschad",
     "name:en": "Chad",
     "name:es": "Chad",
-    "name:etymology:sl": "Država je dobila ime po jezeru in ne obratno, kot bi lahko napačno sklepali iz v slovenščini zelo uveljavljenega imena Čadsko jezero.",
+    "name:etymology:sl": "Država je dobila ime po jezeru in ne obratno, kot bi lahko napačno sklepali iz v slovenšini zelo uveljavljenega imena Čadsko jezero.",
     "name:hr": "Čad",
     "name:hu": "Csád",
     "name:it": "Ciad",
@@ -17949,13 +17946,13 @@
    },
    "properties": {
     "name": "Bassin du Tchad/Chad Basin",
-    "name:de": "Tschadsee",
-    "name:es": "Lago Chad",
+    "name:de": "Tschad-Becken",
+    "name:en": "Chad Basin",
+    "name:es": "Cuenca Chad",
     "name:etymology:sl": "Kotlina je poimenovana po Čadskem jezeru, katerega ime v jeziku domačinov pomeni ′Veliko vodno prostranstvo′ oziroma preprosto ′Jezero′.",
     "name:hr": "Čadska zavala",
-    "name:hu": "Csád-tó",
-    "name:it": "Lago Ciad",
-    "name:ru": "Ozero Čad",
+    "name:hu": "Csád-medence",
+    "name:it": "Bacino del lago Ciad",
     "name:sl": "Čadska kotlina",
     "note:sl": "Čeprav bi bila glede na etimologijo ustreznejša imenska oblika jezero Čad, njene uvedbe zaradi tradicionalne zakoreninjenosti imena Čadsko jezero ne podpiramo.",
     "semantic-type": "kopenska reliefna oblika",
@@ -17973,13 +17970,13 @@
    },
    "properties": {
     "name": "Lac Tchad/Lake Chad/Bahr as Salam",
-    "name:de": "Tschad-Becken",
-    "name:en": "Chad Basin",
-    "name:es": "Cuenca Chad",
-    "name:etymology:sl": "Ime jezera izhaja iz zemljepisnega imena Čad, kar že samo po sebi pomeni 'Jezero' oziroma ′Veliko vodno prostranstvo′. Gre torej za pleonazem, a je tovrstno imensko neustreznost zaradi dodobra uveljavljenega imena nesmiselno odpraviti.",
+    "name:de": "Tschadsee",
+    "name:es": "Lago Chad",
+    "name:etymology:sl": "Ime jezera izhaja iz zemljepisnega imena Čad, kar že samo po sebi pomeni 'Jezero' oziroma ′Veliko vodno prostranstvo′ . Gre torej za pleonazem, a je tovrstno imensko neustreznost zaradi dodobra uveljavljenega imena nesmiselno odpraviti.",
     "name:hr": "Čadsko jezero",
-    "name:hu": "Csád-medence",
-    "name:it": "Bacino del lago Ciad",
+    "name:hu": "Csád-tó",
+    "name:it": "Lago Ciad",
+    "name:ru": "Ozero Čad",
     "name:sl": "Čadsko jezero",
     "semantic-type": "kopenski hidronim",
     "source:name:sl": "GIAM"
@@ -23093,7 +23090,6 @@
     "name:de": "Juba",
     "name:en": "Juba",
     "name:es": "Juba/Yuba",
-    "name:etymology:sl": "Pokrajina je poimenovana po reki Džuba, ki teče prek nje.",
     "name:fr": "Djouba/Juba",
     "name:hr": "Džuba",
     "name:hu": "Dzsuba",
@@ -23141,6 +23137,7 @@
     "name": "Webi Jubba",
     "name:de": "Juba",
     "name:en": "Jubba River",
+    "name:etymology:sl": "Pokrajina je poimenovana po reki Džuba, ki teče prek nje.",
     "name:fr": "Jubba",
     "name:hr": "Džuba",
     "name:hu": "Jubba",
@@ -24985,6 +24982,32 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     31.5089,
+     -26.6053
+    ]
+   },
+   "properties": {
+    "marker-color": "#D400D4",
+    "marker-size": "large",
+    "marker-symbol": "embassy",
+    "name": "Umbuso weSwatini/eSwatini/Eswatini",
+    "name:de": "Swasiland",
+    "name:es": "Suazilandia",
+    "name:etymology:sl": "Ime države izhaja iz imena, s katerim Zulujci imenujejo avtohtono ljudstvo Svazijce, katerega lastno ime Swati izhaja iz imena kralja Mswatija, ki je vladal med letoma 1836 in 1868, v štiridesetih letih 19. stoletja pa je Svazi združil v enotno politično skupnost.",
+    "name:hr": "Esvatini",
+    "name:hu": "Szváziföld",
+    "name:it": "Swaziland",
+    "name:ru": "Svazilend",
+    "name:sl": "Esvatini",
+    "semantic-type": "država",
+    "source:name:sl": "GIAM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -6.1214,
      39.2064
     ]
@@ -24999,34 +25022,6 @@
     "name:ru": "Estremadura",
     "name:sl": "Estremadura",
     "semantic-type": "upravna enota",
-    "source:name:sl": "GIAM"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     31.5089,
-     -26.6053
-    ]
-   },
-   "properties": {
-    "marker-color": "#D400D4",
-    "marker-size": "large",
-    "marker-symbol": "embassy",
-    "name": "eSwatini/Eswatini",
-    "name:de": "Swasiland",
-    "name:es": "Suazilandia",
-    "name:etymology:sl": "Ime države izhaja iz imena, s katerim Zulujci imenujejo avtohtono ljudstvo Svazijce, katerega lastno ime Swati izhaja iz imena kralja Mswatija, ki je vladal med letoma 1836 in 1868, v štiridesetih letih 19. stoletja pa je Svazi združil v enotno politično skupnost.",
-    "name:fr": "l’Eswatini",
-    "name:hr": "Esvatini",
-    "name:hu": "Szváziföld",
-    "name:it": "Swaziland",
-    "name:ru": "Svazilend",
-    "name:sl": "Esvatini",
-    "note:sl": "leta 2018 je kraljevina spremenila ime, čemur je sledila večina svetovnih držav",
-    "semantic-type": "država",
     "source:name:sl": "GIAM"
    }
   },
@@ -25712,7 +25707,7 @@
    "properties": {
     "name": "Falkland Escarpment",
     "name:en": "Falkland Escarpment",
-    "name:etymology:sl": "Podmorska reliefna oblika je poimenovana po Falklandih.",
+    "name:etymology:sl": "Podnmorska reliefna oblika je poimenovana po Falklandih.",
     "name:sl": "Falklandska stopnja",
     "semantic-type": "podmorska reliefna oblika",
     "source:name:sl": "GIAM"
@@ -27951,7 +27946,7 @@
     "marker-symbol": "circle-stroked",
     "name": "Friesland/Fryslân",
     "name:es": "Frisia",
-    "name:etymology:sl": "Pokrajina je poimenovana po prvotnih prebivalcih Frizijcih.",
+    "name:etymology:sl": "Nizozemska upravna enota je poimenovana po prvotnih prebivalcih Frizijcih.",
     "name:fr": "Frise",
     "name:hr": "Frizija",
     "name:hu": "Frízföld",
@@ -27974,7 +27969,7 @@
    "properties": {
     "name": "Friesland",
     "name:es": "Frisia",
-    "name:etymology:sl": "Nizozemska upravna enota je poimenovana po prvotnih prebivalcih Frizijcih.",
+    "name:etymology:sl": "Pokrajina je poimenovana po prvotnih prebivalcih Frizijcih.",
     "name:fr": "Frise",
     "name:hr": "Frizija",
     "name:hu": "Frízföld",
@@ -28546,7 +28541,7 @@
     "name:de": "Galizien",
     "name:en": "Galicia",
     "name:es": "Galitzia",
-    "name:etymology:sl": "Zgodovinska pokrajina je poimenovana po ukrajinskem mestu Halych, rusko Galič, katerega ime bi lahko izhajalo iz litavskega izraza galas v pomenu ′konec, vrh′ in bi se lahko nanašalo na tamkajšnje gorato površje. Nekateri se nagibajo v prid razlagi, ki temelji na navezanosti imena na Galce.",
+    "name:etymology:sl": "Ime lahko izhaja iz keltskega korena cala v pomenu ′vodotok′, kar bi se lahko nanašalo na domačine, živeče v bližini morja. Nekateri se nagibajo v prid razlagi, ki temelji na navezanosti imena na Galce.",
     "name:fr": "Galicie",
     "name:hr": "Galicija",
     "name:hu": "Galícia/Halics/Gácsország",
@@ -28570,7 +28565,7 @@
     "marker-symbol": "circle-stroked",
     "name": "Galicia/Galiza",
     "name:de": "Galicien",
-    "name:etymology:sl": "Ime lahko izhaja iz keltskega korena cala v pomenu ′vodotok′, kar bi se lahko nanašalo na domačine, živeče v bližini morja. Nekateri se nagibajo v prid razlagi, ki temelji na navezanosti imena na Galce.",
+    "name:etymology:sl": "Zgodovinska pokrajina je poimenovana po ukrajinskem mestu Halych, rusko Galič, katerega ime bi lahko izhajalo iz litavskega izraza galas v pomenu ′konec, vrh′ in bi se lahko nanašalo na tamkajšnje gorato površje. Nekateri se nagibajo v prid razlagi, ki temelji na navezanosti imena na Galce.",
     "name:fr": "Galice",
     "name:hr": "Galicija",
     "name:it": "Galizia",
@@ -30582,7 +30577,7 @@
     "name": "Gondwana",
     "name:de": "Gondwana",
     "name:en": "Gondwana",
-    "name:etymology:sl": "Pracelina je poimenovana po indijski pokrajini Gondvana.",
+    "name:etymology:sl": "Ime pokrajine je zloženka imena dinastije Gond, ki je tu vladala od 12. do 18. stoletja, in hindijske besede van v pomenu ′gozd′.",
     "name:fr": "Gondwâna",
     "name:hr": "Gondvana",
     "name:sl": "Gondvana",
@@ -30606,7 +30601,7 @@
     "name:de": "Gondwana",
     "name:en": "Gondwana/Gondwanaland",
     "name:es": "Gondwana",
-    "name:etymology:sl": "Ime pokrajine je zloženka imena dinastije Gond, ki je tu vladala od 12. do 18. stoletja, in hindijske besede van v pomenu ′gozd′.",
+    "name:etymology:sl": "Pracelina je poimenovana po indijski pokrajini Gondvana.",
     "name:fr": "Gondwana",
     "name:hr": "Gondvana",
     "name:hu": "Gondwana/Gondvana/Gondvána vagy/Gondvánaföld",
@@ -31752,14 +31747,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
+     113.25,
      1.4167
     ]
    },
    "properties": {
     "alt_name:sl": "gorovje Kapuas Hulu",
-    "error": "error parsing \"113° 15′ 0″\"",
-    "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Pegunungan Kapuas Hulu",
     "name:en": "Upper Kapuas Mountains",
@@ -32622,7 +32615,7 @@
     "name:de": "Griechenland",
     "name:en": "Greece",
     "name:es": "Grecia",
-    "name:etymology:sl": "Država je poimenovana po prvotnih prebivalcih Grkih, katerih ime najbrž izhaja iz indoevropskega korena gra v pomenu ′častitljiv, velespoštovan′. Najprej se je ime uporabljalo le za del pokrajine Epir. Grško ime tradicionalno izhaja iz imena Hellen, mitološkega sina Devkaliona, medtem ko je njegovo dejansko ozadje neznano.",
+    "name:etymology:sl": "Država je poimenovana po prvotnih prebivalcih Grkih, katerih ime najbrž izhaja iz indoevropskega korena gra v pomenu ′častitljiv, velespoštovan′. Najprej se je ime uporabljalo le za del pokrajine Epir.  Grško ime tradicionalno izhaja iz imena Hellen, mitološkega sina Devkaliona, medtem ko je njegovo dejansko ozadje neznano.",
     "name:fr": "Grèce",
     "name:hr": "Grčka",
     "name:hu": "Görögország",
@@ -32683,12 +32676,10 @@
     "type": "Point",
     "coordinates": [
      32.4472,
-     0
+     30.2686
     ]
    },
    "properties": {
-    "error": "error parsing \"30° 16′ 7″ SW\"",
-    "marker-color": "#ff0000",
     "name": "Al Buḩayrāt al-Murrah",
     "name:de": "Bitterseen",
     "name:en": "Bitter Lakes",
@@ -33416,7 +33407,7 @@
     "name:de": "Guinea",
     "name:en": "Guinea",
     "name:es": "Guinea",
-    "name:etymology:sl": "Ime območja med Senegalom in južnim Gabonom izhaja iz tuareškega izraza aginaw v pomeni ′črni ljudje′.",
+    "name:etymology:sl": "Država je poimenovana po pokrajini Gvineja.",
     "name:hr": "Gvineja",
     "name:hu": "Guinea",
     "name:it": "Guinea",
@@ -33439,7 +33430,7 @@
     "name": "Guinea/Guinée",
     "name:de": "Guinea",
     "name:es": "Guinea",
-    "name:etymology:sl": "Država je poimenovana po pokrajini Gvineja.",
+    "name:etymology:sl": "Ime območja med Senegalom in južnim Gabonom izhaja iz tuareškega izraza aginaw v pomeni ′črni ljudje′.",
     "name:hr": "Gvineja",
     "name:hu": "Guinea",
     "name:it": "Guinea",
@@ -33788,12 +33779,10 @@
     "type": "Point",
     "coordinates": [
      35.025,
-     0
+     32.8333
     ]
    },
    "properties": {
-    "error": "error parsing \"32° 50′ ″ S\"",
-    "marker-color": "#ff0000",
     "name": "Mifratz Haifa",
     "name:de": "Bucht von Haifa",
     "name:en": "Haifa Bay",
@@ -33902,12 +33891,11 @@
     "name:de": "Hyderabad",
     "name:en": "Hyderabad",
     "name:es": "Hyderabad",
-    "name:etymology:sl": "Naselje je poimenovano po sinu sultana Muhamada Kulija Kurba Šaha Haidarju v pomenu ′lev′ z iranskim dodatkom ābād v pomenu ′mesto′.",
+    "name:etymology:sl": "Mesto je leta 1768 ustanovil sindski vladar Gulam Šah Kalora in ga poimenoval po Mohamedovem zetu Aliju, ustanovitelju islama, ki je sam sebe imenoval Haidar v pomenu ′Lev′.",
     "name:hr": "Haidarabad",
     "name:hu": "Hyderabad",
     "name:ru": "Hajdarabad",
     "name:sl": "Hajderabad",
-    "note:sl": "Prvotno se je mesto imenovalo Bhagyanagar, kar je pomenilo ′Mesto dobre sreče′.",
     "semantic-type": "naselje",
     "source:name:sl": "GIAM"
    }
@@ -33927,12 +33915,13 @@
     "name:de": "Hyderabad/Haidarabad",
     "name:en": "Hyderabad",
     "name:es": "Hyderabad",
-    "name:etymology:sl": "Mesto je leta 1768 ustanovil sindski vladar Gulam Šah Kalora in ga poimenoval po Mohamedovem zetu Aliju, ustanovitelju islama, ki je sam sebe imenoval Haidar v pomenu ′Lev′.",
+    "name:etymology:sl": "Naselje je poimenovano po sinu sultana Muhamada Kulija Kurba Šaha Haidarju v pomenu ′lev′ z iranskim dodatkom ābād v pomenu ′mesto′.",
     "name:hr": "Haidarabad",
     "name:hu": "Hyderabad",
     "name:it": "Hyderabad",
     "name:ru": "Hajdarabad",
     "name:sl": "Hajderabad",
+    "note:sl": "Prvotno se je mesto imenovalo Bhagyanagar, kar je pomenilo ′Mesto dobre sreče′.",
     "semantic-type": "naselje",
     "source:name:sl": "GIAM"
    }
@@ -34458,13 +34447,12 @@
     "type": "Point",
     "coordinates": [
      15,
-     0
+     54
     ]
    },
    "properties": {
     "alt_name:sl": "Hanzeatska zveza",
-    "error": "error parsing \"54° 0′ 0″\"",
-    "marker-color": "#ff0000",
+    "marker-color": "#D2B48C",
     "marker-symbol": "circle-stroked",
     "name": "Hansa/Hanse",
     "name:en": "Hanseatic League",
@@ -34733,12 +34721,11 @@
     "marker-symbol": "circle-stroked",
     "name": "Hawaii/Hawai‘i",
     "name:es": "Hawái",
-    "name:etymology:sl": "Ime je popačenka originalno polinezijskega poimenovanja Owhyii v pomenu ′Prostor bogov′, kar se nanaša na ognjenika Mauna Kea in Mauna Loa na največjem otoku Hawaii. Ko je kapitan James Cook leta 1778 odkril Havajske otoke (čeprav so jih poznali že španski morjeplovci v 16. stoletju), jih je v čast Johna Montaga, četrtega grofa Sandwicha (1718‒1792), takratnega načelnika britanske admiralitete, poimenoval Sandwichevi otoki (Sandwich Islands). To ime se je enakovredno uporabljalo do konca 19. stoletja.",
+    "name:etymology:sl": "Ime ameriške zvezne države je popačenka originalno polinezijskega izraza Owhyii v pomenu ′Prostor bogov′, kar se nanaša na ognjenika Mauna Kea in Mauna Loa na največjem otoku Hawaii.",
     "name:fr": "Hawaï",
     "name:hr": "Havaji",
     "name:ru": "Gavaji",
     "name:sl": "Havaji",
-    "note:sl": "V verigo Havajskih otokov spada tudi Midway z okoliškimi otoki.",
     "semantic-type": "upravna enota",
     "source:name:sl": "GIAM"
    }
@@ -34757,13 +34744,14 @@
     "name": "Hawaiian Islands/Mokupuni o Hawai‘i",
     "name:de": "Hawaii-Inseln",
     "name:es": "Archipiélago de Hawái",
-    "name:etymology:sl": "Ime ameriške zvezne države je popačenka originalno polinezijskega izraza Owhyii v pomenu ′Prostor bogov′, kar se nanaša na ognjenika Mauna Kea in Mauna Loa na največjem otoku Hawaii.",
+    "name:etymology:sl": "Ime je popačenka originalno polinezijskega poimenovanja Owhyii v pomenu ′Prostor bogov′, kar se nanaša na ognjenika Mauna Kea in Mauna Loa na največjem otoku Hawaii. Ko je kapitan James Cook leta 1778 odkril Havajske otoke (čeprav so jih poznali že španski morjeplovci v 16. stoletju), jih je v čast Johna Montaga, četrtega grofa Sandwicha (1718‒1792), takratnega načelnika britanske admiralitete, poimenoval Sandwichevi otoki (Sandwich Islands). To ime se je enakovredno uporabljalo do konca 19. stoletja.",
     "name:fr": "Archipel d′Hawaï",
     "name:hr": "Havaji/Havajsko otočje",
     "name:hu": "Hawaii-szigetek",
     "name:it": "Isole Hawaii",
     "name:ru": "Gavajskie ostrova",
     "name:sl": "Havaji",
+    "note:sl": "V verigo Havajskih otokov spada tudi Midway z okoliškimi otoki.",
     "semantic-type": "otoška reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -42314,10 +42302,11 @@
     "name": "Yucatán/Estado Libre y Soberano de Yucatán",
     "name:de": "ni/Yukatan",
     "name:en": "Yucatán/Free and Sovereign State of Yucatán",
-    "name:etymology:sl": "Ime naj bi izhajalo iz lokalnega izraza v pomenu ′pokol′, kar izhaja iz glagola yuka v pomenu ′ubiti′ in besede yetá v pomenu ′mnogo′, nanašalo pa naj bi se na iztrebljanje Majev. Znana je tudi zgodbica, da so španski zavojevalci ljudi spraševali po imenu pokrajine, ti pa so jim odgovarjali yucatan, kar naj bi pomenilo ′ne razumem′.",
+    "name:etymology:sl": "Ime mehiške zvezne države izhaja iz njene lege na polotoku Jukatan.",
     "name:hr": "Jukatan",
     "name:ru": "Jukatan/Svobodnyj i Suverennyj Štat Jukatan",
     "name:sl": "Jukatan",
+    "note:sl": "Uradno polno ime pomeni dobesedno ′Svobodna in suverena jukatanska država′.",
     "semantic-type": "upravna enota",
     "source:name:sl": "GIAM"
    }
@@ -42335,14 +42324,13 @@
     "name": "Península de Yucatán",
     "name:de": "ni/Yukatan",
     "name:en": "Yucatán Peninsula",
-    "name:etymology:sl": "Ime mehiške zvezne države izhaja iz njene lege na polotoku Jukatan.",
+    "name:etymology:sl": "Ime naj bi izhajalo iz lokalnega izraza v pomenu ′pokol′, kar izhaja iz glagola yuka v pomenu ′ubiti′ in besede yetá v pomenu ′mnogo′, nanašalo pa naj bi se na iztrebljanje Majev. Znana je tudi zgodbica, da so španski zavojevalci ljudi spraševali po imenu pokrajine, ti pa so jim odgovarjali yucatan, kar naj bi pomenilo ′ne razumem′.",
     "name:fr": "Péninsule du Yucatán",
     "name:hr": "Jukatan",
     "name:hu": "Yucatán-félsziget",
     "name:it": "Penisola dello Yucatán",
     "name:ru": "Jukatan",
     "name:sl": "Jukatan",
-    "note:sl": "Uradno polno ime pomeni dobesedno ′Svobodna in suverena jukatanska država′.",
     "semantic-type": "obalna reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -42810,7 +42798,7 @@
     "marker-symbol": "circle-stroked",
     "name": "South Dakota",
     "name:es": "Dakota del Sur",
-    "name:etymology:sl": "Ameriška zvezna država je poimenovana po upravni enoti Dakota Territory, ki je ime dobila po indijanskem ljudstvu Dakota oziroma Lakota v pomenu ′Prijatelji′, ki je sestavljalo zvezo s Siuksi.",
+    "name:etymology:sl": "Ameriška zvezna država je poimenovana po upravni enoti Dakota Territory, ki je ime dobila po indijanskem ljudstvu Dakota oziroma Lakota v pomenu ′Prijatelji′, ki je sestavljalo zvezo s Siuxi.",
     "name:fr": "Dakota du Sud",
     "name:hr": "Južna Dakota",
     "name:hu": "Dél-Dakota",
@@ -43671,14 +43659,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
+     28.4442,
      44.1925
     ]
    },
    "properties": {
     "alt_name:sl": "Južno Trajanovo obzidje;Spodnji Trajanov zid",
-    "error": "error parsing \"28° 26′ 39 V\"",
-    "marker-color": "#ff0000",
     "name": "Zidul de Sus",
     "name:de": "Untere Trajanwall",
     "name:en": "Lower Trajan′s Wall",
@@ -43749,12 +43735,10 @@
     "type": "Point",
     "coordinates": [
      -159,
-     0
+     -20
     ]
    },
    "properties": {
-    "error": "error parsing \"20° 0′ 0″\"",
-    "marker-color": "#ff0000",
     "name": "Southern Cook Islands/Lower Cook islands",
     "name:es": "Islas Cook Meridionales",
     "name:etymology:sl": "Otočje je poimenovano glede na njegovo lego znotraj celotne otoške skupine.",
@@ -44316,7 +44300,7 @@
    "properties": {
     "marker-symbol": "circle-stroked",
     "name": "Cabinda",
-    "name:etymology:sl": "Naselje je poimenovano po avtohtonem ljudstvu Kabinda.",
+    "name:etymology:sl": "Angolska eksklava je poimenovana po avtohtonem ljudstvu Kabinda.",
     "name:hr": "Kabinda",
     "name:ru": "Kabinda",
     "name:sl": "Kabinda",
@@ -44336,7 +44320,7 @@
    "properties": {
     "marker-symbol": "city",
     "name": "Cabinda",
-    "name:etymology:sl": "Angolska eksklava je poimenovana po avtohtonem ljudstvu Kabinda.",
+    "name:etymology:sl": "Naselje je poimenovano po avtohtonem ljudstvu Kabinda.",
     "name:hr": "Kabinda",
     "name:ru": "Kabinda",
     "name:sl": "Kabinda",
@@ -45352,26 +45336,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     9.6214,
-     4.0039
-    ]
-   },
-   "properties": {
-    "name": "Wouri/Wouri River/Vouri",
-    "name:es": "Río Wouri",
-    "name:etymology:sl": "Ime reke se je razvilo iz domačinskega poimenovanja v jeziku duala Evodi. Nekdanje ime Rio dos Camarões v pomenu ′Račja reka′ so reki nadeli portugalski raziskovalci zato, ker so v njej našli obilico rakov.",
-    "name:hr": "Kamerun",
-    "name:sl": "Kamerun",
-    "note:sl": "Ime Kamerun je pravzaprav zgodovinsko.",
-    "semantic-type": "kopenski hidronim",
-    "source:name:sl": "GIAM"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      12.1897,
      4.6522
     ]
@@ -45383,12 +45347,32 @@
     "name": "Cameroun/Cameroon",
     "name:de": "Kamerun",
     "name:es": "Camerún",
-    "name:etymology:sl": "Država je poimenovana po estuariju, zdaj imenovanem Wouri River, ki se je prvotno imenoval Rio dos Camarões v pomenu ′Račja reka′, in so mu portugalski raziskovalci takšno ime nadeli zato, ker so v njem našli obilico rakov.",
+    "name:etymology:sl": "Ime reke se je razvilo iz domačinskega poimenovanja v jeziku duala Evodi. Nekdanje ime Rio dos Camarões v pomenu ′Račja reka′ so reki nadeli portugalski raziskovalci zato, ker so v njej našli obilico rakov.",
+    "name:hr": "Kamerun",
     "name:hu": "Kamerun",
     "name:it": "Camerun",
     "name:ru": "Kamerun",
     "name:sl": "Kamerun",
+    "note:sl": "Ime Kamerun je pravzaprav zgodovinsko.",
     "semantic-type": "država/zgodovinska upravna enota",
+    "source:name:sl": "GIAM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.6214,
+     4.0039
+    ]
+   },
+   "properties": {
+    "name": "Wouri/Wouri River/Vouri",
+    "name:es": "Río Wouri",
+    "name:etymology:sl": "Država je poimenovana po estuariju, zdaj imenovanem Wouri River, ki se je prvotno imenoval Rio dos Camarões v pomenu ′Račja reka′, in so mu portugalski raziskovalci takšno ime nadeli zato, ker so v njem našli obilico rakov.",
+    "name:sl": "Kamerun",
+    "semantic-type": "kopenski hidronim",
     "source:name:sl": "GIAM"
    }
   },
@@ -45712,7 +45696,7 @@
    },
    "properties": {
     "name": "Canada′s Inland Sea",
-    "name:en": "Canada′s inland sea",
+    "name:en": "Canada′s Inland Sea",
     "name:etymology:sl": "Morje je poimenovano glede na njegovo lego znotraj kanadskega ozemlja.",
     "name:hr": "Kanadsko unutarašnje more",
     "name:sl": "Kanadsko notranje morje",
@@ -46849,13 +46833,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
+     38.0011,
      36.8339
     ]
    },
    "properties": {
-    "error": "error parsing \"38° 0′ 4″\"",
-    "marker-color": "#ff0000",
+    "marker-color": "#D2B48C",
     "marker-symbol": "city",
     "name": "Kargamiš/Qarqamisch/Karkamiş",
     "name:de": "Karkemiš",
@@ -47353,14 +47336,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
+     30.6653,
      29.4747
     ]
    },
    "properties": {
     "alt_name:sl": "Karunsko jezero",
-    "error": "error parsing \"30° 39′ 55″\"",
-    "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Birkat Qārūn",
     "name:de": "Birket el-Kerun/Qārūn-See",
@@ -47789,6 +47770,7 @@
     "marker-symbol": "embassy",
     "name": "Qaṭar",
     "name:de": "Katar",
+    "name:en": "Qatar",
     "name:es": "Catar",
     "name:etymology:sl": "Ime države oziroma zgodovinske upravne enote izhaja iz arabskega izraza ḳaţrān v pomenu ′katran, smola′, kar se nanaša na bogata nahajališča nafte in zemeljskega plina v njej.",
     "name:fr": "Katar",
@@ -49251,14 +49233,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
+     94.45,
      51.7
     ]
    },
    "properties": {
     "alt_name:sl": "Kizil",
-    "error": "error parsing \"94° 27′ 0″ E\"",
-    "marker-color": "#ff0000",
     "marker-size": "small",
     "marker-symbol": "city",
     "name": "Kyzyl",
@@ -50501,7 +50481,7 @@
     "name": "Constanța",
     "name:de": "Konstanza",
     "name:es": "Constanza",
-    "name:etymology:sl": "Naselje je poimenovano po rimskem cesarju Konstantinu I. Velikem (z latinskim imenom Flavius Valerius Aurelius Constantinus Augustus; 272−337), ki ga je obnovil leta 311 in ga poimenoval po sebi.",
+    "name:etymology:sl": "Mesto je poimenovano po tamkajšnji rimski trdnjavi iz 4. stoletja, ta pa je dobila ime po rimskem cesarju Konstantinu Kloru (250‒306), po mnenju nekaterih pa po njegovem sinu Konstantinu I. Velikem (272‒337).",
     "name:fr": "Constanza",
     "name:hr": "Konstanca",
     "name:hu": "Konstanca",
@@ -50525,7 +50505,7 @@
     "marker-symbol": "city",
     "name": "Konstanz",
     "name:es": "Constanza",
-    "name:etymology:sl": "Mesto je poimenovano po tamkajšnji rimski trdnjavi iz 4. stoletja, ta pa je dobila ime po rimskem cesarju Konstantinu Kloru (250‒306), po mnenju nekaterih pa po njegovem sinu Konstantinu I. Velikem (272‒337).",
+    "name:etymology:sl": "Naselje je poimenovano po rimskem cesarju Konstantinu I. Velikem (z latinskim imenom Flavius Valerius Aurelius Constantinus Augustus; 272−337), ki ga je obnovil leta 311 in ga poimenoval po sebi.",
     "name:fr": "Constance",
     "name:it": "Constanza",
     "name:ru": "Konstanca",
@@ -52104,7 +52084,7 @@
     ]
    },
    "properties": {
-    "name": "Kr̥ṣṇā nadī/Kr̥ṣṇā nadi/Krishna",
+    "name": "Kṛṣṇa/Krishna",
     "name:en": "Krishna River",
     "name:es": "Krishna",
     "name:etymology:sl": "Reka je najverjetneje poimenovana po hindujskem božanstvu Krišni (njegovo ime dobesedno pomeni ′črn, temen′), reinkarnaciji Višnuja.",
@@ -52130,7 +52110,7 @@
    "properties": {
     "name": "Mouths of the Krishna",
     "name:en": "Mouths of the Krishna",
-    "name:etymology:sl": "Rečno ustje je opisno geografsko poimenovano po reki Krišni.",
+    "name:etymology:sl": "Rečno ustje je opisn,o geografsko poimenovano po reki Krišni.",
     "name:hr": "Ušće Krišne",
     "name:sl": "Krišnino ustje",
     "semantic-type": "morski hidronim",
@@ -53282,7 +53262,7 @@
     "name:de": "Kuwait-Stadt",
     "name:en": "Kuwait City",
     "name:es": "Ciudad de Kuwait",
-    "name:etymology:sl": "Država je poimenovana po svojem glavnem mestu.",
+    "name:etymology:sl": "Arabsko ime je pomanjševalnica izraza kūt, besede, ki v narečju prebivalstva južnega Iraka in vzhodnih delov Arabskega polotoka označuje trdnjavi podobno stavbo, ki jo obdajajo manjše hiše, te pa obkroža voda.",
     "name:fr": "Koweït",
     "name:hr": "Kuvajt",
     "name:hu": "Kuvaitváros",
@@ -53309,7 +53289,7 @@
     "name:de": "Kuwait",
     "name:en": "Kuwait",
     "name:es": "Kuwait",
-    "name:etymology:sl": "Arabsko ime je pomanjševalnica izraza kūt, besede, ki v narečju prebivalstva južnega Iraka in vzhodnih delov Arabskega polotoka označuje trdnjavi podobno stavbo, ki jo obdajajo manjše hiše, te pa obkroža voda.",
+    "name:etymology:sl": "Država je poimenovana po svojem glavnem mestu.",
     "name:fr": "Koweït",
     "name:hr": "Kuvajt",
     "name:hu": "Kuvait",
@@ -56859,7 +56839,7 @@
     "name:etymology:sl": "Ta del Apeninov je poimenovan glede na njegovo lego v pokrajini Lukanija.",
     "name:hr": "Lukanijski Apenini",
     "name:hu": "Lukániai-Appenninek",
-    "name:sl": "Lukanski Apenin",
+    "name:sl": "Lukanijski Apenin",
     "semantic-type": "kopenska reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -57286,7 +57266,7 @@
    "properties": {
     "name": "Mackenzie Bay",
     "name:de": "Mackenzie-Bucht",
-    "name:etymology:sl": "Zaliv se je sprva imenoval MacKenzie Sea (′Mackenziejevo morje′), pozneje pa so ga preimenovali v zaliv, poimenovan po kapitanu ladje Discovery v letih 1930‒1931, Kennethu N. MacKenzieju.",
+    "name:etymology:sl": "Zaliv je poimenovan po Mackenziejevi reki, ki se izliva vanj.",
     "name:hu": "Mackenzie-öböl",
     "name:it": "Baia di Mackenzie",
     "name:ru": "Zaliv Makenzi/zaliv Makkenzi",
@@ -57307,7 +57287,7 @@
    "properties": {
     "name": "Mackenzie Bay",
     "name:en": "MacKenzie Bay",
-    "name:etymology:sl": "Zaliv je poimenovan po Mackenziejevi reki, ki se izliva vanj.",
+    "name:etymology:sl": "Zaliv se je sprva imenoval MacKenzie Sea (′Mackenziejevo morje′), pozneje pa so ga preimenovali v zaliv, poimenovan po kapitanu ladje Discovery v letih 1930‒1931, Kennethu N. MacKenzieju.",
     "name:hu": "Mackenzie-öböl",
     "name:sl": "Mackenziejev zaliv",
     "semantic-type": "morski hidronim",
@@ -57368,7 +57348,7 @@
    },
    "properties": {
     "name": "Mackenzie Mountains",
-    "name:etymology:sl": "Wikipedija navaja, da je gorovje poimenovano po drugem kanadskem ministrskem predsedniku Alexandru Mackenzieju (1822‒1892). Po Roomu je poimenovano po škotskem raziskovalcu Alexandru Mackenzieju (1764‒1820), ki je tamkaj popotoval leta 1789, z namenom doseči Tihi ocean.",
+    "name:etymology:sl": "Wikipedija navaja, da je gorovje poimenovano po drugem kanadskem ministrskem predsedniku Alexandru Mackenzieju (1822‒1892). Po Roomu je ime po škotskem raziskovalcu Alexandru Mackenzieju (1764‒1820), ki je tamkaj popotoval leta 1789 z namenom doseči Tihi ocean.",
     "name:fr": "Montagnes Mackenzie",
     "name:hu": "Mackenzie-hegység",
     "name:it": "Monti Mackenzie",
@@ -57675,7 +57655,7 @@
     "name:de": "Ungarn",
     "name:en": "Hungary",
     "name:es": "Hungría",
-    "name:etymology:sl": "Država je poimenovana po ljudstvu Madžari, katerega poimenovanje verjetno pomeni preprosto ′Ljudje′, madžarsko ime Magyarország pa pomeni ′Država Madžarov′. Angleško ime Hungary je prek latinskega imena Hungaria navezano na ljudstvo Huni iz 5. stoletja, rusko (Vengrija), poljsko (Węgry) in še nekatera slovanska poimenovanja pa se navezuje na Ogre, ki so sopomenka za Madžare.",
+    "name:etymology:sl": "Država je poimenovana po ljudstvu Madžari, katerega poimenovanje verjetno pomeni preprosto ′Ljudje′, madžarsko ime Magyarország pa pomeni ′Država Madžarov′. Angleško ime Hungary je prek latinskega imena Hungaria navezano na ljudstvo Huni iz 5. stoletja, rusko (Vengrija), poljsko (Węgry) in še nekatera slovanska poimenovanja pa na Ogre, ki so sopomenka za Madžare.",
     "name:fr": "Hongrie",
     "name:hr": "Mađarska",
     "name:it": "Ungheria",
@@ -58746,7 +58726,7 @@
     "name:de": "Kleine Antillen",
     "name:en": "Lesser Antilles",
     "name:es": "Pequeñas Antillas/Antillas Menores",
-    "name:etymology:sl": "Ime izhaja iz dejstva, da so tamkajšnji otoki v primerjavi z Velikimi Antili manjši.",
+    "name:etymology:sl": "Ime izhaja iz dejstva, da so njihovi otoki v primerjavi z Velikimi Antili manjši.",
     "name:fr": "Petites Antilles",
     "name:hr": "Mali Antili",
     "name:hu": "Kis-Antillák",
@@ -59791,7 +59771,7 @@
    "properties": {
     "name": "Mariana Ridge",
     "name:en": "Mariana Ridge",
-    "name:etymology:sl": "Podmorski hrbet je poimenovan glede na njegovo lego na območju Marijanskega otočja, katerega otoki ″rastejo″ iz njega in so del majhne Marijanske litosferske plošče.",
+    "name:etymology:sl": "Podmorski hrbet je poimenovan glede na njegovo lego na območju Marijanskega otočja, katerega otoki ″rastejo″ iz njega in so del majhne Marianske litosferske plošče.",
     "name:hr": "Marijanski hrbat",
     "name:sl": "Marijanski hrbet",
     "semantic-type": "podmorska reliefna oblika",
@@ -59838,7 +59818,7 @@
     "name": "Mariana Islands",
     "name:de": "Marianen",
     "name:es": "Islas Marianas/Las Mariana/Islas de los Ladrones",
-    "name:etymology:sl": "Ime v tej obliki (Islas Marianas) so otočju nadeli jezuiti leta 1668, ko je bilo otočje poimenovano v čast kraljice Marijane avstrijske (1634‒1696), vdove po španskem kralju Filipu IV. Prvotno portugalsko ime je bilo Ilhas dos Lodrões v pomenu ′Otoki tatov′, ki ga je otočju nadel Ferdinand Magellan na podlagi neprijetne osebne izkušnje iz leta 1521; od tod ime Lodroni.",
+    "name:etymology:sl": "Ime v tej obliki (Islas Marianas) so otočju nadeli jezuiti leta 1668, ko je bilo otočje poimenovano v čast kraljice Marijane avstrijske (1634‒1696), vdove po španskem kralju Filipu IV. Prvotno portugalsko ime je bilo Ilhas dos Lodrões v pomenu ′Otoki tatov′, ki ga je otočju nadel Ferdinand Magellan na podlagi neprijetne osebne izkušnje iz leta 1521, od tod ime Lodroni.",
     "name:fr": "Îles Mariannes/Mariannes",
     "name:hr": "Marijani/Marijansko otočje",
     "name:hu": "Mariana-szigetek",
@@ -60615,7 +60595,7 @@
     "marker-symbol": "embassy",
     "name": "Mūrītānyā",
     "name:de": "Mauretanien",
-    "name:en": "Mauritanija",
+    "name:en": "Mauritania",
     "name:es": "Mauritania",
     "name:etymology:sl": "Država je poimenovana po zgodovinski pokrajini Mavretanija (Mauritania), ta pa po njenih prebivalcih Mavrih, ki so dobili ime bodisi na podlagi grškega izraza mauros v pomenu ′temen′, kar se nanaša na njihovo polt, bodisi na podlagi kartažanskega izraza mahurim oziroma mauharin v pomenu ′zahoden′, to pa se nanaša na njihovo lego znotraj takrat znanega sveta na afriški celini.",
     "name:fr": "Mauritanie",
@@ -61559,7 +61539,6 @@
    "properties": {
     "name": "Cù′a Sông Cù′u Long",
     "name:en": "Mouth of the Mekong River",
-    "name:etymology:sl": "Ustje je poimenovano po reki Mekong.",
     "name:hr": "Ušće Mekonga",
     "name:sl": "Mekongovo ustje",
     "semantic-type": "morski hidronim",
@@ -62415,7 +62394,7 @@
     "name:de": "Metochien",
     "name:en": "Metohija",
     "name:es": "Metojia",
-    "name:etymology:sl": "Srbsko ime Metohija izhaja iz grške besede metókhia v pomenu ′samostanska posest′, kar se nanaša na številne vasi in obsežna zemljišča, ki so bila v lasti srbske pravoslavne cerkve in Atosa. Albansko ime pomeni ′Planota (Leka) Dukadjinija′, slavnega albanskega viteza, bolj znanega kot Skenderbeg.",
+    "name:etymology:sl": "Srbsko ime Metohija izhaja iz grške besede metókhia v pomenu ′samostanska posest′, kar se nanaša na številne vasi in obsežna zemljišča, ki so bila v lasti srbske pravoslavne cerkve in Atosa. Albansko ime pomeni ′Planota (Leka) Dukadjinija′, slavnega albanskega viteza, znanega tudi kot Skenderbeg.",
     "name:fr": "Métochie",
     "name:hr": "Metohija",
     "name:it": "Metochia",
@@ -62510,7 +62489,7 @@
     "name:de": "Mesopotamien",
     "name:en": "Mesopotamia",
     "name:es": "Mesopotamia",
-    "name:etymology:sl": "Ime pokrajine grškega izvora v pomenu ′Med rekama′ je zloženka izrazov mesos v pomenu ′sredi, srednji′ in potamos v pomenu ′reka′, kar se nanaša na lokacijo med rekama Parana in Urugvaj.",
+    "name:etymology:sl": "Ime pokrajine grškega izvora v pomenu ′Med rekama′ je zloženka izrazov mesos v pomenu ′sredi, srednji′ in potamos v pomenu ′reka′, kar se nanaša na lokacijo med rekama Evfrat in Tigris.",
     "name:fr": "Mésopotamie",
     "name:hr": "Mezopotamija",
     "name:hu": "Mezopotámia",
@@ -62535,7 +62514,7 @@
     "name": "La Mesopotamia/Región Mesopotámica/Litoral argentino",
     "name:de": "Mesopotamien",
     "name:en": "Mesopotamia",
-    "name:etymology:sl": "Ime pokrajine grškega izvora v pomenu ′Med rekama′ je zloženka izrazov mesos v pomenu ′sredi, srednji′ in potamos v pomenu ′reka′, kar se nanaša na lokacijo med rekama Evfrat in Tigris.",
+    "name:etymology:sl": "Ime pokrajine grškega izvora v pomenu ′Med rekama′ je zloženka izrazov mesos v pomenu ′sredi, srednji′ in potamos v pomenu ′reka′, kar se nanaša na lokacijo med rekama Parana in Urugvaj.",
     "name:fr": "Mésopotamie argentine",
     "name:hr": "Mezopotamija/Argentinsko međurječje",
     "name:hu": "Mesopotamia",
@@ -62734,7 +62713,7 @@
     "name:de": "Milet",
     "name:en": "Miletus",
     "name:es": "Mileto",
-    "name:etymology:sl": "Ime zgodovinskega naselja verjetno izhaja iz hetitskega imena Milliwanda.",
+    "name:etymology:sl": "Ime zgodovinskega naselja verjetno izhaja iz hetotskega imena Milliwanda.",
     "name:fr": "Milet",
     "name:hr": "Milet",
     "name:hu": "Milétosz",
@@ -62885,7 +62864,7 @@
     "name": "Mingəçevir su anbarı",
     "name:de": "Mingəçevir-Stausee",
     "name:en": "Mingechevir reservoir",
-    "name:etymology:sl": "Akumulacijsko jezero je poimenovano po azerbajdžanskem mestu Mingəçevir, rusko Mingečaur, kjer je zgrajen jez na reki Kuri.",
+    "name:etymology:sl": "Akumulacijsko jezero je poimenovano po azerbajdžanskem mestu Mingəçevir, rusko Mingečaur, kjer je zgrajen jez na reki Kura.",
     "name:fr": "Réservoir de Mingəçevir",
     "name:hr": "Mingechevir jezero",
     "name:hu": "Mingäçeviri-víztároló",
@@ -62933,7 +62912,7 @@
    "properties": {
     "name": "Minskae ŭzvyšša",
     "name:en": "Minsk Upland",
-    "name:etymology:sl": "Višavje je poimenovano po beloruskem glavnem mestu Minsku, ki je dobilo ime po imenu reke Men, zdajšnjem Svislaču.",
+    "name:etymology:sl": "Višavje je poimenovano po beloruskem glavnem mestu Minsk, ki je dobilo ime po rečnem imenu Men, zdajšnjem Svislaču.",
     "name:hr": "Minska uzvisina",
     "name:it": "Alture di Minsk",
     "name:ru": "Minskaja vozvyšennost′",
@@ -63024,7 +63003,7 @@
     "name:de": "Myrtoische Meer",
     "name:en": "Myrtoan Sea/Mirtoan Sea",
     "name:es": "Mar de Mirtos/Mar de Mirtilos/Mar Mirtoico/Mar Myrteno",
-    "name:etymology:sl": "Morje naj bi bilo poimenovano po grškem mitološkem junaku Mirtulu, ki naj bi ga vanj vrgel pobesneli Pelops. Po drugi razlagi naj bi bilo njegovo ime povezano z devico Mirto, po tretji pa naj bi bilo poimenovano po majhnem otočku Myrtosu.",
+    "name:etymology:sl": "Morje naj bi bilo poimenovano po grškem mitološkem junaku Mirtulu, ki naj bi ga vanj vrgel pobesneli Pelops. Po drugi razlagi naj bi bilo njegovo ime povezano z devico Mirto, po tretji pa naj bi bilo poimenovano po majhnem otočku Myrtos.",
     "name:hr": "Mirtojsko more",
     "name:ru": "Mirtojskoe more",
     "name:sl": "Mirtulovo morje",
@@ -63045,7 +63024,7 @@
     "marker-symbol": "circle-stroked",
     "name": "Mississippi",
     "name:es": "Misisipi",
-    "name:etymology:sl": "Ime reke izhaja iz izraza Indijancev Ojibvejev misi-ziibi v pomenu ′velika reka′.",
+    "name:etymology:sl": "Ameriška zvezna država je poimenovana po reki Misisipi.",
     "name:fr": "État du Mississippi",
     "name:ru": "Missisipi",
     "name:sl": "Misisipi",
@@ -63065,7 +63044,7 @@
    "properties": {
     "name": "Mississippi River",
     "name:es": "Río Misisipi/Misisipí",
-    "name:etymology:sl": "Ameriška zvezna država je poimenovana po reki Misisipi.",
+    "name:etymology:sl": "Ime reke izhaja iz izraza Indijancev Ojibvejev misi-ziibi v pomenu ′velika reka′.",
     "name:fr": "Mississippi",
     "name:hu": "Mississippi",
     "name:it": "Mississippi",
@@ -63180,10 +63159,9 @@
    "properties": {
     "marker-symbol": "circle-stroked",
     "name": "Missouri",
-    "name:etymology:sl": "Ime reke izhaja iz izraza v jeziku Indijancev Ilinojev weemihsoorita v pomenu ′nekdo, ki ima lesen čoln′, kar se nanaša na indijanske kanuje deblake.",
+    "name:etymology:sl": "Ameriška zvezna država je poimenovana po reki Misuri.",
     "name:ru": "Missuri",
     "name:sl": "Misuri",
-    "note:sl": "Prejšnje ime reke je bilo Pekitanoul.",
     "semantic-type": "upravna enota",
     "source:name:sl": "GIAM"
    }
@@ -63200,12 +63178,13 @@
    "properties": {
     "name": "Missouri River",
     "name:es": "Río Missouri",
-    "name:etymology:sl": "Ameriška zvezna država je poimenovana po reki Misuri.",
+    "name:etymology:sl": "Ime reke izhaja iz izraza v jeziku Indijancev Ilinojev weemihsoorita v pomenu ′nekdo, ki ima lesen čoln′, kar se nanaša na indijanske kanuje deblake.",
     "name:fr": "Missouri",
     "name:hu": "Missouri",
     "name:it": "Missouri",
     "name:ru": "Missuri",
     "name:sl": "Misuri",
+    "note:sl": "Prejšnje ime reke je bilo Pekitanoul.",
     "semantic-type": "kopenski hidronim",
     "source:name:sl": "GIAM"
    }
@@ -63600,10 +63579,10 @@
     "marker-size": "small",
     "name": "Blue Ridge Mountains",
     "name:es": "Montañas Blue",
-    "name:etymology:sl": "Gorovje je poimenovano po modrikasti meglici, ki se nad vzpetinami dviga v jasnem vremenu, modrikasto barvo pa mu dajejo tudi evkaliptovi gozdovi, s katerimi je poraščeno.",
     "name:fr": "Montagnes bleues",
     "name:hr": "Modro gorje",
     "name:ru": "Blu-Mauntins",
+    "note:sl": "Gorovje se razprostira na severovzhodu zvezne države Oregon in jugovzhodu zvezne države Washington.",
     "semantic-type": "kopenska reliefna oblika",
     "source:alt_name:sl": "GIAM"
    }
@@ -63620,12 +63599,12 @@
    "properties": {
     "name": "Blue Mountains",
     "name:es": "Montañas Azules",
+    "name:etymology:sl": "Gorovje je poimenovano po modrikasti meglici, ki se nad vzpetinami dviga v jasnem vremenu, modrikasto barvo pa mu dajejo tudi evkaliptovi gozdovi, s katerimi je poraščeno.",
     "name:fr": "Montagnes bleues",
     "name:hr": "Modro gorje",
     "name:hu": "Blue-hegység",
     "name:ru": "Golubye gory",
     "name:sl": "Modre gore",
-    "note:sl": "Gorovje se razprostira na severovzhodu zvezne države Oregon in jugovzhodu zvezne države Washington.",
     "semantic-type": "kopenska reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -63724,7 +63703,7 @@
     "name:de": "Mahiljou/Mogilew",
     "name:en": "Mogilev",
     "name:es": "Maguilov",
-    "name:etymology:sl": "Ime naselja verjetno izhaja iz ruskega izraza mogila v pomenu ′gomila, grob′, kar naj bi se nanašalo na starodavno grobišče, na katerem je zraslo naselje. Možno je tudi, da ime izhaja iz osebnega imena.",
+    "name:etymology:sl": "Ime naselja verjetno izhaja iz ruskega izraza mogila v pomenu ′gomila, grob′, kar naj bi se nanašalo na starodavno grobišče, na katerem je zraslo naselje. Obstoji tudi možnost, da ime izhaja iz osebnega imena.",
     "name:fr": "Moguilev",
     "name:hr": "Mogilev",
     "name:hu": "Mogiljov/Mahiljov",
@@ -63892,7 +63871,7 @@
     "marker-symbol": "circle-stroked",
     "name": "Moldova",
     "name:de": "Moldau",
-    "name:en": "Moldavija",
+    "name:en": "Moldova",
     "name:es": "Moldavia",
     "name:etymology:sl": "Pokrajina je poimenovana po reki Moldova.",
     "name:fr": "Moldavie",
@@ -64239,7 +64218,7 @@
    "properties": {
     "marker-symbol": "circle-stroked",
     "name": "Montserrat",
-    "name:etymology:sl": "Otoku je ime ob odkritju leta 1493 nadel Krištof Kolumb, ki ga je poimenoval po španskem samostanu Santa Maria de Montserrat v bližini Barcelone. Samostan je poimenovan po gori, na kateri stoji, njeno ime pa je zloženka katalonskih besed mont v pomenu ′gora′ in serrat v pomenu ′nazobčan′, kar se nanaša na njeno listu žage podobno površje, ostro prirezane vrhove pa ima tudi površje Monserata.",
+    "name:etymology:sl": "Otoku je ime ob odkritju leta 1493 nadel Krištof Kolumb, ki ga je poimenoval po španskem samostanu Santa Maria de Montserrat v bližini Barcelone. Samostan je imenovan po gori, na kateri stoji, njeno ime pa je zloženka katalonskih besed mont v pomenu ′gora′ in serrat v pomenu ′nazobčan′, kar se nanaša na njeno listu žage podobno površje, ostro prirezane vrhove pa ima tudi površje Monserata.",
     "name:sl": "Monserat",
     "semantic-type": "otoška reliefna oblika/upravna enota",
     "source:name:sl": "GIAM"
@@ -64414,7 +64393,7 @@
     "alt_name:sl": "Nordenskjöldovo morje",
     "name": "more Laptevyh",
     "name:de": "Laptewsee",
-    "name:en": "Laotev Sea",
+    "name:en": "Laptev Sea",
     "name:es": "Mar de Láptev",
     "name:etymology:sl": "Morje je od leta 1913 poimenovano po ruskih raziskovalcih, bratrancih Dmitriju Jakovljeviču Laptevu (1701‒1771) in Haritonu Prokofjeviču Laptevu (?‒1767), ki sta vodila arktično odpravo v letih 1739‒1742. Prej se je morje imenovalo po finskem polarnem raziskovalcu švedskega rodu, baronu (Nilsu) Adolfu Eriku Nordenskiöldu (1832‒1901), ki je na ladji Vega v letih 1878 in 1879 prvi preplul celotno morje.",
     "name:fr": "Mer de Laptev/Mer des Laptev",
@@ -64767,7 +64746,7 @@
     "name:de": "Mount Everest/Sagarmatha/Chomolungma",
     "name:en": "Mount Everest/Mount Chomolungma",
     "name:es": "Monte Everest",
-    "name:etymology:sl": "Ime Mount Everest so gori nadeli leta 1965 v čast britanskemu geodetskemu predstojniku v Indiji, siru Georgeu Everestu (1790‒1866). Podomačeno tibetansko ime Čomolungma pomeni ′Mati boginja sveta′ in je zloženka besed chomo v pomenu ′boginja′, lang v pomenu ′svet′ (dobesedno slon, ki simbolizira svet) in končnice nma v pomenu ′mati′. Kitajsko ime Shengmu Feng pomeni dobesedno ′Sveta mati′, podomačeno nepalsko Sagarmata pa ′Nebeško čelo′.",
+    "name:etymology:sl": "Ime Mount Everest so gori nadeli leta 1965 v čast britanskemu geodetskemu predstojniku v Indiji, siru Georgeu Everestu (1790‒1866). Podomačeno tibetansko ime Čomolungma pomeni ′Mati boginja sveta′ in je zloženka iz besed chomo v pomenu ′boginja′, lang v pomenu ′svet′ (dobesedno slon, ki simbolizira svet) in končnice nma v pomenu ′mati′. Kitajsko ime Shengmu Feng pomeni dobesedno ′Sveta mati′, podomačeno nepalsko Sagarmata pa ′Nebeško čelo′.",
     "name:fr": "Everest",
     "name:hr": "Mount Everest",
     "name:hu": "Mount Everest/Csomolungma/Qomolangma/Sagarmatha",
@@ -64838,7 +64817,7 @@
     "name:de": "Mosambik",
     "name:en": "Mozambique",
     "name:es": "Mozambique",
-    "name:etymology:sl": "Wikipedija navaja, da ima država ime po otoku Mozambik, poimenovanem po arabskem trgovcu Musi Al Biqueju oziroma Mussi Ben Mbikiju, ki se je na njem naselil. Po Roomu je ime portugalska popačenka arabskega imena mūsā malik v pomenu ′Kralj Musa′, kar izhaja iz imena Musa in izraza malik v pomenu ′kralj′ in se nanaša na tamkajšnjega plemenskega poglavarja.",
+    "name:etymology:sl": "Wikipedija navaja, da ima naselje ime po otoku Mozambik, poimenovanem po arabskem trgovcu Musi Al Biqueju oziroma Mussi Ben Mbikiju, ki se je na njem naselil. Po Roomu je ime portugalska popačenka arabskega imena mūsā malik v pomenu ′Kralj Musa′, kar izhaja iz imena Musa in izraza malik v pomenu ′kralj′ in se nanaša na tamkajšnjega plemenskega poglavarja.",
     "name:fr": "Mozambique",
     "name:hr": "Mozambik",
     "name:hu": "Mozambik",
@@ -64866,7 +64845,7 @@
     "name:de": "Mosambik",
     "name:en": "Mozambique",
     "name:es": "Mozambique",
-    "name:etymology:sl": "Wikipedija navaja, da ima naselje ime po otoku Mozambik, poimenovanem po arabskem trgovcu Musi Al Biqueju oziroma Mussi Ben Mbikiju, ki se je na njem naselil. Po Roomu je ime portugalska popačenka arabskega imena mūsā malik v pomenu ′Kralj Musa′, kar izhaja iz imena Musa in izraza malik v pomenu ′kralj′ in se nanaša na tamkajšnjega plemenskega poglavarja.",
+    "name:etymology:sl": "Wikipedija navaja, da ima država ime po otoku Mozambik, poimenovanem po arabskem trgovcu Musi Al Biqueju oziroma Mussi Ben Mbikiju, ki se je na njem naselil. Po Roomu je ime portugalska popačenka arabskega imena mūsā malik v pomenu ′Kralj Musa′, kar izhaja iz imena Musa in izraza malik v pomenu ′kralj′ in se nanaša na tamkajšnjega plemenskega poglavarja.",
     "name:fr": "Mozambique",
     "name:hr": "Mozambik",
     "name:hu": "Mozambik",
@@ -65181,7 +65160,7 @@
     "name:de": "Mumbai",
     "name:en": "Mumbai",
     "name:es": "Bombay",
-    "name:etymology:sl": "Ime Mumbai je okrajšava imena boginje Mumbadevi, ki jo tu častijo hinduisti. Ime Bombay po populistični razlagi izhaja iz portugalskega izraza bom baía v pomenu ′dober zaliv′, česar pa ne podpira okoliščina, da je beseda bom moškega, beseda baía pa ženskega spola.",
+    "name:etymology:sl": "Ime Mumbai je okrajšava imena boginje Mumbadevi, ki jo tu častijo hinduisti. Ime Bombay po populistični razlagi izhaja iz portugalskega izraza bom baía v pomenu ′dober zaliv′, česar pa ne podpira okoliščina, da je beseda bom moškega, beseda baía pa žensklega spola.",
     "name:fr": "Mumbai/Bombay",
     "name:hr": "Mumbaj",
     "name:hu": "Mumbai",
@@ -68236,7 +68215,7 @@
     "name": "New England",
     "name:de": "Neuengland",
     "name:es": "Nueva Inglaterra",
-    "name:etymology:sl": "Pokrajinsko ime po svoji domovini je uvedel angleški kapitan, sir John Smith (1580−1631), in se je nanašalo na posest, saj je bila prva tamkajšnja evropejska naselbina Plymouth vzpostavljena šele 6 let pozneje. Smith se še ni zavedal simbolnega pomena imena, ki se je pojavilo pozneje.",
+    "name:etymology:sl": "Pokrajinsko ime po svoji domovini je uvedel angleški kapitan, sir John Smith (1580−1631), in se je nanašalo na posest, saj je bila prva tamkajšnja evropejska naselbina Plymouth vzpostavljena šele 6 let pozneje. Smith se še ni zavedal simbolnega pomena imena, ki se je pojavil pozneje.",
     "name:fr": "Nouvelle-Angleterre",
     "name:hr": "Nova Engleska",
     "name:hu": "Új-Anglia",
@@ -70730,7 +70709,7 @@
     "name:de": "Olymp",
     "name:en": "Mount Olympus",
     "name:es": "Monte Olimpo",
-    "name:etymology:sl": "Ime vzpetine naj bi bilo izpeljano iz indoevropske korenske besede ulu v pomenu ′obrniti′, kar naj bi se nanašalo na njeno zaobljeno površje.",
+    "name:etymology:sl": "Ime gore, doma bogov v grški mitologiji, naj bi bilo izpeljano iz indoevropske korenske besede ulu v pomenu ′obrniti′, kar naj bi se nanašalo na njeno zaobljeno površje.",
     "name:fr": "Mont Olympe",
     "name:hr": "Olimp",
     "name:hu": "Olimposz/Olümposz",
@@ -70754,7 +70733,7 @@
     "name": "Olympos/Olympos Tepesi",
     "name:de": "Olympos/Mount Olympos",
     "name:es": "Monte Olimpo",
-    "name:etymology:sl": "Ime gore, doma bogov v grški mitologiji, naj bi bilo izpeljano iz indoevropske korenske besede ulu v pomenu ′obrniti′, kar naj bi se nanašalo na njeno zaobljeno površje.",
+    "name:etymology:sl": "Ime vzpetine naj bi bilo izpeljano iz indoevropske korenske besede ulu v pomenu ′obrniti′, kar naj bi se nanašalo na njeno zaobljeno površje.",
     "name:fr": "Mont Olympe",
     "name:hr": "Olimp",
     "name:hu": "Olimbosz",
@@ -70971,7 +70950,7 @@
     "name:de": "Oman",
     "name:en": "Oman",
     "name:es": "Omán",
-    "name:etymology:sl": "Država, katere ime je v obliki Omana že v 1. stoletju zabeležil rimski zgodovinar Plinij, naj bi bila poimenovana po njenem ustanovitelju Omanu ben Ibrahimu al-Halidu (v nekaterih virih Omanu ben Kahtanu).",
+    "name:etymology:sl": "Država, katere ime je v obliki Omana že v 1. stoletju zabeležil rimski zgodovinar Plinij, naj bi bila poimenovana po njenem ustanovitelju  Omanu ben Ibrahimu al-Halidu (v nekaterih virih Omanu ben Kahtanu).",
     "name:fr": "Oman",
     "name:hr": "Oman",
     "name:hu": "Omán",
@@ -71807,30 +71786,10 @@
     "name": "Central Range/New Guinea Highlands/Central Cordillerra",
     "name:de": "Maokegebirge",
     "name:en": "Central Range/New Guinea Highlands/Central Cordillera",
-    "name:etymology:sl": "Gorovje je poimenovano po dejstvu, da razdvaja severni del otoka Honšu na dva približno enako velika dela.",
+    "name:etymology:sl": "Gorovje je poimenovano glede na njegovo lego v osredju otoka.",
     "name:fr": "Chaîne Centrale/Cordillère Centrale",
     "name:hr": "Središnje gorje",
     "name:it": "Catena Centrale",
-    "name:sl": "Osrednje gorovje",
-    "semantic-type": "kopenska reliefna oblika",
-    "source:name:sl": "GIAM"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     140.75,
-     39
-    ]
-   },
-   "properties": {
-    "name": "Ōu-Sammyaku",
-    "name:en": "Ōu Mountains",
-    "name:etymology:sl": "Gorovje je poimenovano glede na njegovo lego v osredju otoka.",
-    "name:hr": "Središnje gorje",
-    "name:hu": "Ōu-hegység",
     "name:sl": "Osrednje gorovje",
     "semantic-type": "kopenska reliefna oblika",
     "source:name:sl": "GIAM"
@@ -71850,9 +71809,29 @@
     "name:de": "Sredinny-Höhenrücken",
     "name:en": "Central Range/Sredinny Range",
     "name:etymology:sl": "Ime gorovja izhaja iz dejstva, da poteka po središču polotoka in je obenem tudi njegova najbolj mogočna gorska skupina.",
-    "name:hr": "Ou gorje",
+    "name:hr": "Središnje gorje",
     "name:hu": "Szregyinnij-hegység",
     "name:it": "Catena Centrale",
+    "name:sl": "Osrednje gorovje",
+    "semantic-type": "kopenska reliefna oblika",
+    "source:name:sl": "GIAM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.75,
+     39
+    ]
+   },
+   "properties": {
+    "name": "Ōu-Sammyaku",
+    "name:en": "Ōu Mountains",
+    "name:etymology:sl": "Gorovje je poimenovano po dejstvu, da razdvaja severni del otoka Honšu na dva približno enako velika dela.",
+    "name:hr": "Ou gorje",
+    "name:hu": "Ōu-hegység",
     "name:sl": "Osrednje gorovje",
     "semantic-type": "kopenska reliefna oblika",
     "source:name:sl": "GIAM"
@@ -72894,7 +72873,7 @@
     "name": "Lord Howe Island",
     "name:de": "Lord-Howe-Insel",
     "name:es": "Isla de Lord Howe",
-    "name:etymology:sl": "Otok, ki ga je leta 1788 odkril Henry Lidgbird Ball z ladjo Supply, je poimenovan po admiralu Richardu Howu, 1. grofu Hovškem (1726‒1799).",
+    "name:etymology:sl": "Otok, ki ga je leta 1788 odkril Henry Lidgbird Ball z ladjo Supply, je poimenovan po admiralu Richardu Howu, 1. grofu Howškem (1726‒1799).",
     "name:fr": "Île Lord Howe",
     "name:hr": "Otok lorda Howa",
     "name:hu": "Lord Howe-sziget",
@@ -72915,7 +72894,6 @@
     ]
    },
    "properties": {
-    "marker-symbol": "circle-stroked",
     "name": "Isle of Man/Ellan Vannin",
     "name:de": "Insel Man",
     "name:es": "Isla de Man",
@@ -72924,8 +72902,8 @@
     "name:hu": "Man",
     "name:it": "Isola di Man",
     "name:ru": "Ostrov Men",
-    "name:sl": "Otok Man",
-    "semantic-type": "upravna enota",
+    "name:sl": "otok Man",
+    "semantic-type": "otoška reliefna oblika",
     "source:name:sl": "GIAM"
    }
   },
@@ -72939,6 +72917,7 @@
     ]
    },
    "properties": {
+    "marker-symbol": "circle-stroked",
     "name": "Isle of Man/Ellan Vannin",
     "name:de": "Insel Man",
     "name:es": "Isla de Man",
@@ -72947,8 +72926,8 @@
     "name:hu": "Man",
     "name:it": "Isola di Man",
     "name:ru": "Ostrov Men",
-    "name:sl": "otok Man",
-    "semantic-type": "otoška reliefna oblika",
+    "name:sl": "Otok Man",
+    "semantic-type": "upravna enota",
     "source:name:sl": "GIAM"
    }
   },
@@ -73636,7 +73615,7 @@
     "name": "Archipiélago Juan Fernández",
     "name:de": "Juan-Fernández-Inseln/Juan-Fernández-Archipel",
     "name:en": "Juan Fernández Islands",
-    "name:etymology:sl": "Otoke je novembra 1574 po naključju odkril španski pomorščak Juan Fernández (ok. 1536−1604), ko je iz Peruja plul v Valparaiso in skrenil iz začrtane smeri. Poimenoval jih je Más Afuera (leta 1966 so ta otok preimenovali v Alejandro Selkirk), Más a Tierra in Islote de Santa Clara.",
+    "name:etymology:sl": "Otoke je novembra 1574 po naključju odkril španski pomorščak Juan Fernández (ok. 1536−1604), ko je iz Peruja plul v Valparaiso in skrenil iz začrtane smeri . Poimenoval jih je Más Afuera (leta 1966 so ta otok preimenovali v Alejandro Selkirk), Más a Tierra in Islote de Santa Clara.",
     "name:fr": "Archipel Juan Fernández",
     "name:hu": "Juan Fernández-szigetek",
     "name:it": "Isole Juan Fernandez",
@@ -74804,7 +74783,7 @@
     "marker-symbol": "embassy",
     "name": "Belau/Palau",
     "name:es": "Palaos",
-    "name:etymology:sl": "Ime države je popačenka imena nekdaj glavnega otoka Panloq oziroma Peleliu, katerega poimenovanje ni jasno.",
+    "name:etymology:sl": "Ime države je popačenka imena glavnega otoka Panloq oziroma Peleliu, katerega poimenovanje ni jasno.",
     "name:fr": "Palaos",
     "name:hr": "Palau",
     "name:sl": "Palav",
@@ -74926,7 +74905,7 @@
     "name:de": "Palästinensischen Autonomiegebiete",
     "name:en": "Palestinian territories",
     "name:es": "Territorios Palestinos",
-    "name:etymology:sl": "Ime pokrajine v pomenu ′Dežela Filistejcev′ izhaja iz imena nesemitskega ljudstva Filistejci, katerega pripadniki so jo poseljevali v času nastanka Biblije. Ime ljudstva je hebrejskega izvora in verjetno izhaja iz korenske besede palosh v pomenu ′vpasti′. V asirskih zapisih se imenuje Palastu ali Pilistu, v biblični hebrejščini pa se ji je reklo Palesheth.",
+    "name:etymology:sl": "Država je poimenovana po zgodovinski pokrajini Palestina.",
     "name:fr": "Territoires palestiniens",
     "name:hr": "Palestina",
     "name:hu": "Palesztina/Palesztin Nemzeti Hatóság",
@@ -74953,7 +74932,7 @@
     "name:de": "Palästina",
     "name:en": "Palestine",
     "name:es": "Palestina",
-    "name:etymology:sl": "Država je poimenovana po zgodovinski pokrajini Palestina.",
+    "name:etymology:sl": "Ime pokrajine v pomenu ′Dežela Filistejcev′ izhaja iz imena nesemitskega ljudstva Filistejci, katerega pripadniki so jo poseljevali v času nastanka Biblije. Ime ljudstva je hebrejskega izvora in verjetno izhaja iz korenske besede palosh v pomenu ′vpasti′. V asirskih zapisih se imenuje Palastu ali Pilistu, v biblični hebrejščini pa se ji je reklo Palesheth.",
     "name:fr": "Palestine",
     "name:hr": "Palestina",
     "name:hu": "Palesztina",
@@ -75121,7 +75100,7 @@
     "name:de": "Pamir",
     "name:en": "Pamir Mountains/pamirs",
     "name:es": "Cordillera del Pamir/Nudo del Pamir",
-    "name:etymology:sl": "Reka je poimenovana po pogorju Pamir.",
+    "name:etymology:sl": "Ime v splošnem pomenu ′Dolina na vznožju gore′ lahko izhaja iz sanskrtskega upa-meru v pomenu ′blizu (gore) Meru′, iranskega pāye mihr v pomenu ′stopalo Mitre′ (v prenesenem pomenu na vznožju božanstva Sonca), iranskega pā morğ v pomenu ′ptičje stopalo′ ali prav tako iranskega pāye marg v pomenu ′stopalo smrti′.",
     "name:fr": "Pamir",
     "name:hr": "Pamir",
     "name:hu": "Pamír",
@@ -75145,7 +75124,7 @@
     "name": "Dar″yoi Pomir/Daryā-ye Pāmīr",
     "name:de": "Pamir",
     "name:en": "Pamir River",
-    "name:etymology:sl": "Ime v splošnem pomenu ′Dolina na vznožju gore′ lahko izhaja iz sanskrtskega upa-meru v pomenu ′blizu (gore) Meru′, iranskega pāye mihr v pomenu ′stopalo Mitre′ (v prenesenem pomenu na vznožju božanstva Sonca), iranskega pā morğ v pomenu ′ptičje stopalo′ ali prav tako iranskega pāye marg v pomenu ′stopalo smrti′.",
+    "name:etymology:sl": "Reka je poimenovana po pogorju Pamir.",
     "name:fr": "Pamir",
     "name:hr": "Pamir",
     "name:ru": "Pamir",
@@ -75385,7 +75364,7 @@
     "name": "Panjāb/Punjab",
     "name:de": "Punjab",
     "name:es": "Panyab/Punyab",
-    "name:etymology:sl": "Pokrajinsko ime izhaja iz iranskega izraza panjāb v pomenu ′pet rek′, kar je zloženka iz panj v pomenu ′pet′ in āb v pomenu ′voda′ in se nanaša na tamkajšnje velike reke Ind, Jhelum, Chenab, Ravi, Beas in Satledž (originalno Sutlej).",
+    "name:etymology:sl": "Ime pakistanske upravne enote izhaja iz iranskega izraza panjāb v pomenu ′pet rek′, kar je zloženka iz panj v pomenu ′pet′ in āb v pomenu ′voda′ in se nanaša na tamkajšnje velike reke Ind, Jhelum, Chenab, Ravi, Beas in Satledž (originalno Sutlej).",
     "name:fr": "Penjab/Pendjab",
     "name:hr": "Pandžab",
     "name:hu": "Punjab",
@@ -75409,7 +75388,7 @@
     "name": "Punjab/Panjāb",
     "name:de": "Punjab",
     "name:es": "Panyab/Punyab",
-    "name:etymology:sl": "Ime pakistanske upravne enote izhaja iz iranskega izraza panjāb v pomenu ′pet rek′, kar je zloženka iz panj v pomenu ′pet′ in āb v pomenu ′voda′ in se nanaša na tamkajšnje velike reke Ind, Jhelum, Chenab, Ravi, Beas in Satledž (originalno Sutlej).",
+    "name:etymology:sl": "Pokrajinsko ime izhaja iz iranskega izraza panjāb v pomenu ′pet rek′, kar je zloženka iz panj v pomenu ′pet′ in āb v pomenu ′voda′ in se nanaša na tamkajšnje velike reke Ind, Jhelum, Chenab, Ravi, Beas in Satledž (originalno Sutlej).",
     "name:fr": "Penjab",
     "name:hr": "Pandžab",
     "name:hu": "Pandzsáb",
@@ -75600,7 +75579,7 @@
     "marker-size": "large",
     "marker-symbol": "embassy",
     "name": "Paraguay/Paraguái ",
-    "name:etymology:sl": "Ime reke je gvaranijska zloženka iz besed para v pomenu ′voda, reka′ in quay v pomenu ′rojen′, kar je bilo tudi ime indijanskega poglavarja, ki je sklenil sporazum s prvimi španskimi raziskovalci.",
+    "name:etymology:sl": "Država je poimenovana po reki Paragvaj, ki teče skoznjo in se izliva v Parano.",
     "name:hr": "Paragvaj",
     "name:ru": "Paragvaj",
     "name:sl": "Paragvaj",
@@ -75621,7 +75600,7 @@
     "name": "Río Paraguay/Rio Paraguai/Ysyry Paraguái ",
     "name:de": "Río Paraguay",
     "name:en": "Paraguay River",
-    "name:etymology:sl": "Država je poimenovana po reki Paragvaj, ki teče skoznjo in se izliva v Parano.",
+    "name:etymology:sl": "Ime reke je gvaranijska zloženka iz besed para v pomenu ′voda, reka′ in quay v pomenu ′rojen′, kar je bilo tudi ime indijanskega poglavarja, ki je sklenil sporazum s prvimi španskimi raziskovalci.",
     "name:fr": "Río Paraguay",
     "name:hr": "Paragvaj",
     "name:hu": "Paraguay",
@@ -75689,7 +75668,7 @@
     "name:de": "Pariser Becken",
     "name:en": "Paris Basin",
     "name:es": "Cuenca de París/Cuenca parisina",
-    "name:etymology:sl": "Kotlina je poimenovana po glavnem mestu Francije Parizu.",
+    "name:etymology:sl": "Kotlina je poimenovana po glavnem mestu Francije Pariz.",
     "name:hr": "Pariška zavala",
     "name:hu": "Párizsi-medence",
     "name:it": "Bacino parigono",
@@ -79155,7 +79134,7 @@
     "name": "Boothia Peninsula",
     "name:de": "Boothia-Halbinsel",
     "name:es": "Península de Boothia",
-    "name:etymology:sl": "Polotok je leta 1829 odkril škotski polarni raziskovalec, sir James Ross in ga po angleškemu proizvajalcu žganih pijač, siru Felixu Boothu (1775‒1850), ki je finančno podprl njegovo odpravo, poimenoval Boothia Felix (′Srečna Boothia′). V imenu, ki se je zgledovalo po imenu Arabia Felix, je pozneje izraz srečen (felix) zamenjal izraz polotok.",
+    "name:etymology:sl": "Polotok je leta 1829 odkril škotski polarni raziskovalec, sir James Ross in ga po angleškemu proizvajalcu žganih pijač, siru Felixu Boothu (1775‒1850), ki je finančno podprl njegovo odpravo, poimenoval Boothia Felix (′Srečna Bootjia′). V imenu, ki se je zgledovalo po imenu Arabia Felix, je pozneje izraz srečen (felix) zamenjal izraz polotok.",
     "name:fr": "péninsule Boothia/Boothia",
     "name:hu": "Boothia-félsziget",
     "name:it": "Penisola di Boothia",
@@ -79577,7 +79556,7 @@
    "properties": {
     "name": "Pojezierze Pomorskie",
     "name:de": "Pommersche Seenplatte",
-    "name:etymology:sl": "Naravna pokrajina je poimenovana po številnih večjih in manjših jezerih v Pomorjanski, ki zavzemajo znaten del tamkajšnjega površja.",
+    "name:etymology:sl": "Naravna pokrajina je poimenovana po številnih večjih in manjših jezerih v Pomorjanski, ki zavzemajo znaten del površja.",
     "name:hr": "Pomeransko jezersko područje",
     "name:hu": "Pomorzei-tóhátság",
     "name:it": "Terra dei laghi della Pomerania",
@@ -79879,7 +79858,7 @@
     "name:de": "Port Said",
     "name:en": "Port Said",
     "name:es": "Puerto Saíd",
-    "name:etymology:sl": "Mesto, ustanovljeno ob začetku gradnje Sueškega prekopa leta 1829, je poimenovano po paši Saidu (1822‒1863), podkralju Egipta, ki je francoskemu diplomatu in inženirju Ferdinandu de Lessepsu podelil koncesijo za izgradnjo prekopa.",
+    "name:etymology:sl": "Mesto, ustanovljeno ob začetku gradnje Sueškega prekopa leta 1829, je poimenovano po paši Sa′idu (1822‒1863), podkralju Egipta, ki je francoskemu diplomatu in inženirju Ferdinandu de Lessepsu podelil koncesijo za izgradnjo prekopa.",
     "name:fr": "Port-Saïd",
     "name:hr": "Port Said",
     "name:hu": "Port Szaíd",
@@ -81066,13 +81045,14 @@
     "name": "Saint George′s Channel/Sianel San Siôr/ Muir Bhreatan",
     "name:de": "St. Georgskanal",
     "name:es": "Canal de San Jorge",
-    "name:etymology:sl": "Preliv je poimenovan po analogiji z istoimenskim prelivom med otokoma Velika Britanija in Irska, na tem območju pa med otokoma Nova Britanija in Nova Irska.",
+    "name:etymology:sl": "Ime preliva izhaja iz legende, po kateri naj bi zavetnik Anglije Sveti Jurij potoval v rimsko provinco Britanija iz Vzhodnorimskega cesarstva in se svojemu cilju približeval prek po njem poimenovanega preliva.",
     "name:fr": "Canal Saint-Georges",
     "name:hr": "Prolaz svetog Georga",
     "name:hu": "Szt. György-csatorna",
     "name:it": "Canale di San Giorgio",
     "name:ru": "Proliv Svjatogo Georga",
     "name:sl": "Preliv svetega Jurija",
+    "note:sl": "Na zemljevidih se je ime pojavilo konec 16. stoletja.",
     "semantic-type": "morski hidronim",
     "source:name:sl": "GIAM"
    }
@@ -81090,9 +81070,8 @@
     "alt_name:sl": "Preliv svetega Jurija",
     "marker-size": "small",
     "name": "Saint George′s Channel",
-    "name:etymology:sl": "Ime preliva izhaja iz legende, po kateri naj bi zavetnik Anglije Sveti Jurij potoval v rimsko provinco Britanija iz Vzhodnorimskega cesarstva in se svojemu cilju približeval prek po njem poimenovanega preliva.",
+    "name:etymology:sl": "Preliv je poimenovan po analogiji z istoimenskim prelivom med otokoma Velika Britanija in Irska, na tem območju pa med otokoma Nova Britanija in Nova Irska.",
     "name:hr": "Prolaz svetog Georga",
-    "note:sl": "Na zemljevidih se je ime pojavilo konec 16. stoletja.",
     "semantic-type": "morski hidronim",
     "source:alt_name:sl": "GIAM"
    }
@@ -81188,7 +81167,7 @@
    "properties": {
     "name": "Bode Verde Fracture Zone",
     "name:en": "Bode Verde Fracture Zone",
-    "name:etymology:sl": "Ime preloma pomeni ′Zelena koza′, kar je simbol Brazilske hidrografske službe, katere predstavniki so ga odkrili.",
+    "name:etymology:sl": "Ime preloma pomeni ′Zelena koza′, simboal Brazilske hidrografske službe, katere predstavniki so ga odkrili.",
     "name:sl": "prelom Bode Verde",
     "semantic-type": "podmorska reliefna oblika",
     "source:name:sl": "GIAM"
@@ -81974,12 +81953,11 @@
     "name": "Ilhas de Barlavento",
     "name:en": "Barlavento Islands",
     "name:es": "Islas de Barlovento",
-    "name:etymology:sl": "Otoki so poimenovani glede na njihovo lego na območju severovzhodnih pasatnih vetrov, kar je imelo vpliv zlasti v času odkrivanja Novega sveta, saj so vetrovi usmerjali jadrnice v ta del Antilov.",
+    "name:etymology:sl": "Ime izhaja iz dejstva, da so ti Zelenortski otoki na območju pasatnih vetrov.",
     "name:fr": "Îles de Barlavento",
     "name:hr": "Otoci privjetrine",
     "name:hu": "Barlavento-szigetek",
     "name:sl": "Privetrni otoki",
-    "note:sl": "Obseg izrazov privetrn in zavetrn se v angleščini razlikuje od njunega obsega v francoščini in večini drugih jezikov. Medtem ko so v angleščini privetrni južni otoki Malih Antilov ter Aruba, Bonaire, Curaçao, Aves in Margarita, so v francoščini in drugod privetrni vsi otoki Malih Antilov, zavetrni pa Aruba, Bonaire, Curaçao, Aves in Margarita.",
     "semantic-type": "otoška reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -81998,13 +81976,14 @@
     "name:de": "Inseln über dem Winde",
     "name:en": "Windward Islands",
     "name:es": "Islas de Barlovento",
-    "name:etymology:sl": "Ime izhaja iz dejstva, da so ti Zelenortski otoki na območju pasatnih vetrov.",
+    "name:etymology:sl": "Otoki so poimenovani glede na njihovo lego na območju severovzhodnih pasatnih vetrov, kar je imelo vpliv zlasti v času odkrivanja Novega sveta, saj so vetrovi usmerjali jadrnice v ta del Antilov.",
     "name:fr": "Îles du Vent",
     "name:hr": "Otoci privjetrine",
     "name:hu": "Szél felőli szigetek",
     "name:it": "Isole Sopravento",
     "name:ru": "Navetrennye Antilskie ostrova",
     "name:sl": "Privetrni otoki",
+    "note:sl": "Obseg izrazov privetrn in zavetrn se v angleščini razlikuje od njunega obsega v francoščini in večini drugih jezikov. Medtem ko so v angleščini privetrni južni otoki Malih Antilov ter Aruba, Bonaire, Curaçao, Aves in Margarita, so v francoščini in drugod privetrni vsi otoki Malih Antilov, zavetrni pa Aruba, Bonaire, Curaçao, Aves in Margarita.",
     "semantic-type": "otoška reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -82203,7 +82182,7 @@
     "name": "Pervyj Kuril′skij proliv",
     "name:de": "Kurilenstraße/Erste Kurilenstraße",
     "name:en": "First Kuril Strait",
-    "name:etymology:sl": "Ime preliva izhaja iz dejstva, da je gledano s Kamčatke, to prvi preliv, ki od celine razdvaja Kurilske otoke, potem pa se med posameznimi otoki vse do Japonske zvrsti še precej drugih prelivov.",
+    "name:etymology:sl": "Ime preliva izhaja iz dejstva, da je gledano s Kamčatke, to prvi preliv, kiod celine razdvaja Kurilske otoke, potem pa se med posameznimi otoki vse do Japonske zvrsti še precej drugih prelivov.",
     "name:hr": "Kurilski prolaz",
     "semantic-type": "morski hidronim",
     "source:alt_name:sl": "GIAM"
@@ -84977,7 +84956,7 @@
     "name:de": "Kap Adare",
     "name:en": "Cape Adare",
     "name:es": "Cabo Adare",
-    "name:etymology:sl": "Rtu je ime leta 1841 nadel kapitan James Ross in ga poimenoval po svojem prijatelju, vikontu Adarskem, kakršen je bil plemiški naziv Edwina Richarda Wyndham-Quina (1812‒1871), pri čemer naziv izhaja iz imena Adare, irskega kraja v grofiji Limerick.",
+    "name:etymology:sl": "Rtu je ime leta 1841 nadel kapitan James Ross in ga poimenoval po svojem prijatelju, vikontu Adarskem, kakršen je bil plemiški naziv Edwina Richarda Wyndham-Quina (1812‒1871), pri čemer naziv izhaja iz imena irskega kraja v grofiji Limerick Adare.",
     "name:fr": "Cap Adare",
     "name:hu": "Adare-fok",
     "name:it": "Capo Adare",
@@ -85195,7 +85174,7 @@
    "properties": {
     "name": "Mũi Cà Mau",
     "name:en": "Cape of Ca Mau/Cape Ca Mau",
-    "name:etymology:sl": "Rt je poimenovan bodisi po mestu Cà Mau bodisi po istoimenski provinci, zato bi bila primerna tudi pridevniška imenska oblika Camauški rt.",
+    "name:etymology:sl": "Rt je poimenovan bodisi po mestu Cà Mau bodisi po istoimenski provinci, zato bi bila primerna tudi pridevniška imenska oblika.",
     "name:fr": "Cap Camau/Pointe de Ca Mau",
     "name:hr": "Rt Ca Mau",
     "name:hu": "Ca Mau-fok",
@@ -85843,7 +85822,7 @@
     "marker-size": "small",
     "name": "Cape Flying Fish",
     "name:en": "Cape Flying Fish",
-    "name:etymology:sl": "Ime po ladji ameriške antarktične odprave Flying Fish pod vodstvom poročnika Williama M. Walkerja je bilo uvedeno leta 1940.",
+    "name:etymology:sl": "Ime po ladji ameriške antarktične odprave pod vodstvom poročnika Williama M. Walkerja Flying Fish je bilo uvedeno leta 1940.",
     "semantic-type": "obalna reliefna oblika",
     "source:alt_name:sl": "GIAM"
    }
@@ -85878,7 +85857,7 @@
    },
    "properties": {
     "name": "Cape Fria/Kaap Fria",
-    "name:etymology:sl": "Ime pomeni ′Mrzli rt′, kar se verjetno nanaša na tamkajšnje hladno morje, ki je posledica hladnega Benguelskega toka.",
+    "name:etymology:sl": "Ime pomeni ′Mrzli rt′, kar se verjetno nanaša na tamkajšnje hladno morje, ki je posledica hladnega Bengulskega toka.",
     "name:hu": "Fria-fok",
     "name:it": "Capo Fria",
     "name:sl": "rt Fria",
@@ -85897,7 +85876,7 @@
    },
    "properties": {
     "name": "Cabo Frio",
-    "name:etymology:sl": "Ime pomeni ′Mrzli rt′, kar se verjetno nanaša na tamkajšnje hladno morje, ki je posledica hladnega Benguelskega toka.",
+    "name:etymology:sl": "Ime pomeni ′Mrzli rt′, kar se verjetno nanaša na tamkajšnje hladno morje, ki je posledica hladnega Bengulskega toka.",
     "name:hu": "Frio-fok",
     "name:it": "Capo Frio",
     "name:ru": "Kabu-Friu",
@@ -86010,13 +85989,11 @@
     "type": "Point",
     "coordinates": [
      1.5828,
-     0
+     50.8703
     ]
    },
    "properties": {
     "alt_name:sl": "rt Gris Nez",
-    "error": "error parsing \"50° 52′ 13″\"",
-    "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Cap Gris-Nez",
     "name:etymology:sl": "Ime pomeni dobesedno ′rt Sivi nos′.",
@@ -86168,7 +86145,7 @@
    },
    "properties": {
     "name": "Cape Howe",
-    "name:etymology:sl": "Rtu je ime nadel britanski pomorščak James Cook, ko je leta 1770 plul mimo in ga poimenoval v čast Richarda Howeja, 1. grofa Hovškega (1726‒1799), takratnega zakladnika kraljeve mornarice.",
+    "name:etymology:sl": "Rtu je ime nadel britanski pomorščak James Cook, ko je leta 1770 plul mimo in ga poimenoval v čast Richarda Howeja, 1. grofa Howškega (1726‒1799), takratnega zakladnika kraljeve mornarice.",
     "name:fr": "Cap Howe",
     "name:hu": "Howe-fok",
     "name:it": "Capo Howe",
@@ -86830,7 +86807,7 @@
    "properties": {
     "name": "Cape Palmas",
     "name:es": "Cabo Palmas",
-    "name:etymology:sl": "Rtu je ime po obilju palm že leta 1458 nadel portugalski pomorščak Diogo Gomes (ok. 1420−ok. 1500), na zemljevid pa je bilo prvič vpisano leta 1502.",
+    "name:etymology:sl": "Rtu je ime po obilju palm že leta 1458 nadel portugalski pomorščak Diogo Gomes (ok. 1420−ok. 1500), na zemljevidu pa je prvič vpisano leta 1502.",
     "name:fr": "Cap des Palmas",
     "name:hu": "Pálma-fok",
     "name:it": "Capo Palmas",
@@ -87101,12 +87078,12 @@
    },
    "properties": {
     "name": "Cape Sable",
-    "name:etymology:sl": "Ime rta izhaja iz francoskega poimenovanja Sable v pomenu ′Pesek, Peščen′. Prvi ga je v francoščini leta 1620 poimenoval akadijski guverner Charles de la Tour (1593−1663).",
+    "name:etymology:sl": "Ime rta izhaja iz francoskega poimenovanja Sable v pomenu ′Pesek, Peščen′.",
     "name:fr": "Cap Sable",
     "name:hu": "Sable-fok",
     "name:it": "Capo Sable",
     "name:sl": "rt Sable",
-    "note:sl": "Njegovo indijansko mikmaško ime je bilo Kespoogwitk v pomenu ′Konec sveta′. Najprej so ga odkrili Portugalci in ga poimenovali Beusablom, kar pomeni ′Peščeni zaliv′.",
+    "note:sl": "Rt Sable je najjužnejša točka Združenih držav Amerike.",
     "semantic-type": "obalna reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -87122,12 +87099,12 @@
    },
    "properties": {
     "name": "Cape Sable",
-    "name:etymology:sl": "Ime rta izhaja iz francoskega poimenovanja Sable v pomenu ′Pesek, Peščen′.",
+    "name:etymology:sl": "Ime rta izhaja iz francoskega poimenovanja Sable v pomenu ′Pesek, Peščen′. Prvi ga je v francoščini leta 1620 poimenoval akadijski guverner Charles de la Tour (1593−1663).",
     "name:fr": "Cap de Sable",
     "name:hu": "Sable-fok",
     "name:it": "Capo Sable",
     "name:sl": "rt Sable",
-    "note:sl": "Rt Sable je najjužnejša točka Združenih držav Amerike.",
+    "note:sl": "Njegovo indijansko mikmaško ime je bilo Kespoogwitk v pomenu ′Konec sveta′. Najprej so ga odkrili Portugalci in ga poimenovali Beusablom, kar pomeni ′Peščeni zaliv′.",
     "semantic-type": "obalna reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -88795,33 +88772,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     33.9033,
-     35.1864
-    ]
-   },
-   "properties": {
-    "marker-color": "#D2B48C",
-    "marker-symbol": "city",
-    "name": "Salamís",
-    "name:de": "Salamis",
-    "name:en": "Salamis",
-    "name:es": "Salamina",
-    "name:etymology:sl": "Ime ciprskega zgodovinskega naselja izhaja iz feničanskega izraza salam v pomenu ′mir′.",
-    "name:fr": "Salamine",
-    "name:hr": "Salamina",
-    "name:it": "Salamina",
-    "name:ru": "Salamin",
-    "name:sl": "Salamina",
-    "note:sl": "V rimskem času se je kraj po rimskem cesarju Konstantinu II. (317−340) imenoval Constantia.",
-    "semantic-type": "zgodovinsko naselje",
-    "source:name:sl": "GIAM"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      23.4983,
      37.9653
     ]
@@ -88841,6 +88791,33 @@
     "name:sl": "Salamina",
     "note:sl": "Leta 480 pr. n. št. je bila v bližini Salamine pomorska bitka med grškim ladjevjem pod vodstvom Temistokla in perzijskim ladjevjem.",
     "semantic-type": "otoška reliefna oblika/naselje",
+    "source:name:sl": "GIAM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.9033,
+     35.1864
+    ]
+   },
+   "properties": {
+    "marker-color": "#D2B48C",
+    "marker-symbol": "city",
+    "name": "Salamís",
+    "name:de": "Salamis",
+    "name:en": "Salamis",
+    "name:es": "Salamina",
+    "name:etymology:sl": "Ime ciprskega zgodovinskega naselja izhaja iz feničanskega izraza salam v pomenu ′mir′.",
+    "name:fr": "Salamine",
+    "name:hr": "Salamina",
+    "name:it": "Salamina",
+    "name:ru": "Salamin",
+    "name:sl": "Salamina",
+    "note:sl": "V rimskem času se je kraj po rimskem cesarju Konstantinu II. (317−340) imenoval Constantia.",
+    "semantic-type": "zgodovinsko naselje",
     "source:name:sl": "GIAM"
    }
   },
@@ -89157,14 +89134,13 @@
     "name": "Shomron",
     "name:de": "Samarien",
     "name:en": "Samaria",
-    "name:etymology:sl": "Naravna pokrajina je poimenovana po starodavnem naselju Samarija, zadnji prestolnici Izraelskega kraljestva, katerega ime izhaja iz osebnega imena oziroma imena klana Semer, zemljiškega posestnika, od katerega je kralj Omri kupil zemljišče, na katerem je zgradil mesto.",
+    "name:etymology:sl": "Ime zgodovinskega naselja izhaja iz osebnega imena oziroma imena klana Semer, zemljiškega posestnika, od katerega je kralj Omri kupil zemljišče, na katerem je zgradil mesto.",
     "name:fr": "Samarie",
     "name:hr": "Samarija",
     "name:hu": "Szamária",
     "name:it": "Samaria/Shomron",
     "name:ru": "Samarija",
     "name:sl": "Samarija",
-    "note:sl": "Iz imena te pokrajine sta izpeljaan izraza samaritan in samaritanstvo.",
     "semantic-type": "zgodovinsko naselje",
     "source:name:sl": "GIAM"
    }
@@ -89182,13 +89158,14 @@
     "name": "Shomron/Sāmariyyūn",
     "name:de": "Samarien",
     "name:en": "Samaria",
-    "name:etymology:sl": "Ime zgodovinskega naselja izhaja iz osebnega imena oziroma imena klana Semer, zemljiškega posestnika, od katerega je kralj Omri kupil zemljišče, na katerem je zgradil mesto.",
+    "name:etymology:sl": "Naravna pokrajina je poimenovana po starodavnem naselju Samarija, zadnji prestolnici Izraelskega kraljestva, katerega ime izhaja iz osebnega imena oziroma imena klana Semer, zemljiškega posestnika, od katerega je kralj Omri kupil zemljišče, na katerem je zgradil mesto.",
     "name:fr": "Samarie",
     "name:hr": "Samarija",
     "name:hu": "Szamária",
     "name:it": "Samaria/Shomron",
     "name:ru": "Samarija",
     "name:sl": "Samarija",
+    "note:sl": "Iz imena te pokrajine sta izpeljaan izraza samaritan in samaritanstvo.",
     "semantic-type": "naravna pokrajina",
     "source:name:sl": "GIAM"
    }
@@ -89268,7 +89245,7 @@
     "name": "Samoa Islands/Samoan Islands",
     "name:de": "Samoainseln",
     "name:es": "Archipiélago de Samoa/Islas Navegadores (zastarelo)",
-    "name:etymology:sl": "Ime otočja izhaja iz imena Samoa, ki je nastalo bodisi iz osebnega imena lokalnega plemenskega vodje bodisi iz domačinskega izraza v pomenu ′prostor moe′, kar se nanaša na ptico moa, ki naj bi bila pred izumrtjem otoški totem.",
+    "name:etymology:sl": "Ime otočja izhaja iz imena Samoa, ki je nastalo bodisi iz osebnega imena lokalnega plemenskega vodje bodisi iz domačinskega izraza v pomenu ′prostor moe′, kar se nanaša na moo, izumrlega velikega ptiča, ki naj bi bil otoški totem.",
     "name:fr": "Îles Samoa/Îles samoanes",
     "name:hu": "Samoa-szigetek",
     "name:it": "Isole Samoa/Isole Samoane/Isole del Navigatori (zastarelo)",
@@ -89533,7 +89510,7 @@
    "properties": {
     "name": "Santos Plateau",
     "name:en": "Santos Plateau/Plato Sao Paulo",
-    "name:etymology:sl": "Podmorska planota je poimenovana po brazilskem pristaniškem mestu Santos, njeno alternatisno angleško ime pa po največjem mestu Brazilije São Paulo.",
+    "name:etymology:sl": "Podmorska planota jepoimenovana po brazilskem pristaniškem mestu Santos, njeno alternatisno angleško ime pa po največjem mestu Brazilije São Paulo.",
     "name:sl": "Santoška planota",
     "semantic-type": "podmorska reliefna oblika",
     "source:name:sl": "GIAM"
@@ -89699,7 +89676,7 @@
     "name:de": "Sardinische Meer",
     "name:en": "Sea of Sardinia",
     "name:es": "Mar de Cerdeña",
-    "name:etymology:sl": "Morje je poimenovano po otoku Sardiniji.",
+    "name:etymology:sl": "Morje je poimenovano po otoku Sardinija.",
     "name:fr": "Mer de Sardaigne",
     "name:hr": "Sardinijsko more",
     "name:sl": "Sardinsko morje",
@@ -89719,7 +89696,7 @@
    "properties": {
     "name": "Sardinia-Corsica Trough",
     "name:en": "Sardinia-Corsica Trough",
-    "name:etymology:sl": "Podmorska globel je poimenovana glede na njeno lego v bližini sredozemskih otokov Sardinije in Korzike.",
+    "name:etymology:sl": "Podmorska globel je poimenovana glede na njeno lego v bližini sredozemskih otokov Sardinija in Korzika.",
     "name:hr": "Sardinsko-korzikanski jarak",
     "name:sl": "Sardinsko-Korziška globel",
     "semantic-type": "podmorska reliefna oblika",
@@ -89779,14 +89756,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
-     0
+     62.6372,
+     36.4044
     ]
    },
    "properties": {
     "alt_name:sl": "Sarjazinsko zajezitveno jezero",
-    "error": "no dms value to parse: \"???\"; no dms value to parse: \"???\"",
-    "marker-color": "#ff0000",
     "marker-size": "small",
     "name": "Sarjazinskoe vodohraniliše",
     "name:en": "Saryjazin Reservoir",
@@ -90120,7 +90095,7 @@
     "marker-size": "small",
     "name": "Scott Glacier",
     "name:en": "Scott Glacier",
-    "name:etymology:sl": "Ledenik, ki so ga decembra 1929 odkrili udeleženci Byrdove antarktične odprave, je Ameriški odbor za antarktična zemljepisna imena (US-ACAN) poimenoval po angleškem antarktičnem raziskovalcu Robertu Falconu Scottu (1868‒1912), ki pa na svoji poti proti Južnemu tečaju in na povratku tega ledenika ni videl.",
+    "name:etymology:sl": "Ledenik so odkrili udeleženci avstralske antarktične odprave pod vodstvom Douglasa Mawsona, organizirane v letih 1911‒1912, in ga poimenovali po angleškem antarktičnem raziskovalcu Robertu Falconu Scottu (1868‒1912), ki je na povratku z Južnega tečaja proti izhodišču skupaj s tovariši umrl.",
     "name:hr": "Scottov ledenjak",
     "name:hu": "Scott-gleccser",
     "semantic-type": "kopenski hidronim",
@@ -90141,7 +90116,7 @@
     "marker-size": "small",
     "name": "Scott Glacier",
     "name:en": "Scott Glacier",
-    "name:etymology:sl": "Ledenik so odkrili udeleženci avstralske antarktične odprave pod vodstvom Douglasa Mawsona, organizirane v letih 1911‒1912, in ga poimenovali po angleškem antarktičnem raziskovalcu Robertu Falconu Scottu (1868‒1912), ki je na povratku z Južnega tečaja proti izhodišču skupaj s tovariši umrl.",
+    "name:etymology:sl": "Ledenik, ki so ga decembra 1929 odkrili udeleženci Byrdove antarktične odprave, je Ameriški odbor za antarktična zemljepisna imena (US-ACAN) poimenoval po angleškem antarktičnem raziskovalcu Robertu Falconu Scottu (1868‒1912), ki pa na svoji poti proti Južnemu tečaju in na povratku tega ledenika ni videl.",
     "name:fr": "Glacier Scott",
     "name:hr": "Scottov ledenjak",
     "name:hu": "Scott-gleccser",
@@ -90305,13 +90280,14 @@
     "name:de": "Seychellen Inseln",
     "name:en": "Seychelles Islands/Seychelles Archipelago",
     "name:es": "Islas Seychelles",
-    "name:etymology:sl": "Otoke so odkrili Portugalci leta 1502 in jih poimenovali v pomenu ′Sedem sester′, leta 1742 pa jih je francoski pomorski oficir Lazar Picault raziskal v imenu guvernerja Mavricija Bertranda Françoisa Mahéja, grofa Bourdonnaiškega, in jih po njem preimenoval v La Bourdonnais. Leta 1756 je Francija otoke tudi formalno zasedla in jih poimenovala po francoskem finančnem ministru Jeanu Moreauju de Séchellesu (1690‒1761), kar so črkovno preobrazili Angleži, ki so jih prevzeli leta 1794.",
+    "name:etymology:sl": "Otočje je poimenovano po francoskem finančnem ministru Jeanu Moreauju de Séchellesu (1690‒1761).",
     "name:fr": "Seychelles",
     "name:hr": "Sejšeli",
     "name:hu": "Seychelle-szigetek",
     "name:it": "Seychelles",
     "name:ru": "Sejšel′skie ostrova",
     "name:sl": "Sejšeli",
+    "note:sl": "Svojilnopridevniška oblika Séchellovi otoki ne pride v poštev zaradi tradicije.",
     "semantic-type": "otoška reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -90331,13 +90307,12 @@
     "marker-symbol": "embassy",
     "name": "Seychelles/Sesel",
     "name:de": "Seychellen",
-    "name:etymology:sl": "Otočje je poimenovano po francoskem finančnem ministru Jeanu Moreauju de Séchellesu (1690‒1761).",
+    "name:etymology:sl": "Otoke so odkrili Portugalci leta 1502 in jih poimenovali ′Sedem sester′, leta 1742 pa jih je francoski pomorski oficir Lazar Picault raziskal v imenu guvernerja Mavricija Bertranda Françoisa Mahéja, grofa Bourdonnaiškega, in jih po njem preimenoval v La Bourdonnais. Leta 1756 je Francija otoke tudi formalno zasedla in jih poimenovala po francoskem finančnem ministru Jeanu Moreauju de Séchellesu (1690‒1761), kar so črkovno preobrazili Angleži, ki so jih prevzeli leta 1794.",
     "name:hr": "Sejšeli",
     "name:hu": "Seychelle-szigetek",
     "name:it": "ni/Seicelle",
     "name:ru": "Sejšel′skie Ostrova",
     "name:sl": "Sejšeli",
-    "note:sl": "Svojilnopridevniška oblika Séchellovi otoki ne pride v poštev zaradi tradicije.",
     "semantic-type": "država",
     "source:name:sl": "GIAM"
    }
@@ -90666,7 +90641,7 @@
    "properties": {
     "name": "Seine Plain",
     "name:en": "Seine Plain/Seine Abyssal Plain",
-    "name:etymology:sl": "Ime podmorske gore, odkrite že konec 19. stoletja, izhaja iz njene lege v bližini Senske plitvine, verjetno poimenovane po britanski ladji za polaganje podmorskih kablov Seine.",
+    "name:etymology:sl": "Ime podmorske gore, odkrite že konec 19. stoletja, izhaja iz njene lege v bližini Senske plitvine, poimenovane verjetno po britanski ladji za polaganje podmorskih kablov Seine.",
     "name:hr": "Ravnica Seine",
     "name:hu": "Seine-fenékhegy",
     "name:sl": "Senski ravnik",
@@ -90686,7 +90661,7 @@
    "properties": {
     "name": "Baie de la Seine",
     "name:es": "Bahía del Sena",
-    "name:etymology:sl": "Zaliv je poimenovan po reki Seni, ki se izliva vanj.",
+    "name:etymology:sl": "Zaliv je poimenovan po reki Sena, ki se izliva vanj.",
     "name:hr": "Zaljev Seine",
     "name:hu": "Szajna-öböl",
     "name:sl": "Senski zaliv",
@@ -90996,7 +90971,7 @@
     "marker-symbol": "circle-stroked",
     "name": "North Dakota",
     "name:es": "Dakota del Norte",
-    "name:etymology:sl": "Ameriška zvezna država je poimenovana po upravni enoti Dakota Territory, ki je dobila ime po indijanski besedi dakota oziroma lakota v pomenu ′prijatelji′, kar je bilo ime ljudstva, ki je sestavljalo zvezo s Siuksi.",
+    "name:etymology:sl": "Ameriška zvezna država je poimenovana po upravni enoti Dakota Territory, ki je dobila ime po indijanski besedi dakota oziroma lakota v pomenu ′prijatelji′, kar je bilo ime ljudstva, ki je sestavljalo zvezo s Siuxi.",
     "name:fr": "Dakota du Nord",
     "name:hr": "Sjeverna Dakota",
     "name:hu": "Észak-Dakota",
@@ -91573,7 +91548,7 @@
     "name:de": "Al-Chartum Bahri",
     "name:en": "Khartoum North",
     "name:es": "Jartum Norte",
-    "name:etymology:sl": "Naselje je poimenovano glede na njegovo lego severno od sudanskega glavnega mesta Kartuma, na desnem bregu Nila, tik ob sotočju Belega in Modrega Nila.",
+    "name:etymology:sl": "Naselje je poimenovano glede na njegovo lego severno od sudanskega glavnega mesta Kartum, na desnem bregu Nila, tik ob sotočju Belega in Modrega Nila.",
     "name:fr": "Bahri/Khartoum Nord",
     "name:hr": "Sjeverni Kartum",
     "name:it": "Khartum Nord",
@@ -92628,7 +92603,7 @@
     ]
    },
    "properties": {
-    "error": "error parsing \"5° 58' 34'' Z\"",
+    "error": "error parsing \"5° 58' 34″ Z\"",
     "marker-color": "#ff0000",
     "marker-symbol": "city",
     "name": "Sevilla",
@@ -92935,7 +92910,7 @@
     "name:de": "Sibirien",
     "name:en": "Siberia",
     "name:es": "Siberia",
-    "name:etymology:sl": "Izvor pokrajinskega imena je sporen in je o njem več razlag, navedenih od najbolj do najmanj verjetne. Po prvi izhaja iz imena tatarskega ljudstva Sibir, po drugi iz mongolskega izraza shiver v pomenu ′močvirje′, po tretji iz imena legendarne jezerske pošasti Siber, ki naj bi se pojavljala iz globin Bajkalskega jezera, po četrti pa iz ruskega izraza sever v enakem pomenu kot v slovenščini.",
+    "name:etymology:sl": "Izvor pokrajinskega imena je sporen in je o njem več razlag, navedenih od nabolj do najmanj verjetne. Po prvi izhaja iz imena tatarskega ljudstva Sibir, po drugi iz mongolskega izraza shiver v pomenu ′močvirje′, po tretji iz imena legendarne jezerske pošasti Siber, ki naj bi se pojavljala iz globin Bajkalskega jezera, po četrti pa iz ruskega izraza sever v enakem pomenu kot v slovenščini.",
     "name:fr": "Sibérie",
     "name:hr": "Sibir",
     "name:hu": "Szibéria",
@@ -93677,7 +93652,7 @@
     "name:de": "Xinjiang/Sinkiang",
     "name:en": "Xinjiang/Sinkiang",
     "name:es": "Xinjiang",
-    "name:etymology:sl": "Kitajsko pokrajinsko ime v pomenu ′Nova meja′ je zloženka izrazov xīn v pomenu ′nov′ in jiāng v pomenu ′meja′.",
+    "name:etymology:sl": "Kitajsko pokrajinsko ime v pomenu ′Nova meja′ je zloženka iz izrazov xīn v pomenu ′nov′ in jiāng v pomenu ′meja′.",
     "name:fr": "Xinjiang",
     "name:hr": "Sinkiang",
     "name:hu": "Hszincsiang–Ujgur/Xinjiang",
@@ -93702,7 +93677,7 @@
     "name:de": "Xinjiang/Sinkiang",
     "name:en": "Xinjiang/Sinkiang",
     "name:es": "Xinjiang",
-    "name:etymology:sl": "Kitajsko pokrajinsko ime v pomenu ′Nova meja′ je zloženka iz izrazov xīn v pomenu ′nov′ in jiāng v pomenu ′meja′.",
+    "name:etymology:sl": "Kitajsko pokrajinsko ime v pomenu ′Nova meja′ je zloženka izrazov xīn v pomenu ′nov′ in jiāng v pomenu ′meja′.",
     "name:fr": "Xinjiang",
     "name:hr": "Sinkiang",
     "name:hu": "Hszincsiang–Ujgur/Xinjiang",
@@ -93904,6 +93879,32 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     17.9919,
+     31.4889
+    ]
+   },
+   "properties": {
+    "name": "Khalīj Surt",
+    "name:de": "Golf von Sidra",
+    "name:en": "Gulf of Sidra/Gulf of Sirte",
+    "name:es": "Golfo de Sidra/Golfo de Sirte",
+    "name:etymology:sl": "Zaliv je poimenovan tako po mestu Sirta kot po mestu Sidra.",
+    "name:fr": "Golfe de Syrte",
+    "name:hr": "Velika Sirta",
+    "name:hu": "Sidra-öböl",
+    "name:it": "Golfo della Sirte/Golfo di Sidra",
+    "name:ru": "Sidra",
+    "name:sl": "Sirta",
+    "note:sl": "Zaliv Sirta je blizupomenka imenu Velika Sirta, ki je lahko le del tega zaliva (sestavlja ga še Mala Sirta ali Gabeški zaliv), lahko pa je njun obseg identičen in ima v tem primeru ožji pomen.",
+    "semantic-type": "morski hidronim",
+    "source:name:sl": "GIAM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      16.5831,
      31.2047
     ]
@@ -93916,36 +93917,10 @@
     "name:es": "Sirte/ni",
     "name:etymology:sl": "Ime naselja izhaja iz njegovega antičnega grškega imena Syrtis.",
     "name:fr": "Syrte",
-    "name:hr": "Velika Sirta",
+    "name:hr": "Sirta",
     "name:it": "Sirte",
     "name:sl": "Sirta",
     "semantic-type": "naselje",
-    "source:name:sl": "GIAM"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     17.9919,
-     31.4889
-    ]
-   },
-   "properties": {
-    "name": "Khalīj Surt",
-    "name:de": "Golf von Sidra",
-    "name:en": "Gulf of Sidra/Gulf of Sirte",
-    "name:es": "Golfo de Sidra/Golfo de Sirte",
-    "name:etymology:sl": "Zaliv je poimenovan tako po mestu Sirta kot po mestu Sidra.",
-    "name:fr": "Golfe de Syrte",
-    "name:hr": "Sirta",
-    "name:hu": "Sidra-öböl",
-    "name:it": "Golfo della Sirte/Golfo di Sidra",
-    "name:ru": "Sidra",
-    "name:sl": "Sirta",
-    "note:sl": "Zaliv Sirta je blizupomenka imenu Velika Sirta, ki je lahko le del tega zaliva (sestavlja ga še Mala Sirta ali Gabeški zaliv), lahko pa je njun obseg identičen in ima v tem primeru ožji pomen.",
-    "semantic-type": "morski hidronim",
     "source:name:sl": "GIAM"
    }
   },
@@ -94523,6 +94498,7 @@
     "alt_name:sl": "Obala slonove kosti (samo za obalno reliefno obliko)",
     "name": "Côte d′Ivoire",
     "name:de": "Elfenbeinküste",
+    "name:en": "Ivory Coast",
     "name:es": "Costa de Marfil",
     "name:etymology:sl": "Ta del gvinejske obale je poimenovana po tamkajšnji živahni trgovini s slonovino, ki se je začela že v 16. stoletju.",
     "name:hr": "Obala bjelokosti",
@@ -94766,7 +94742,7 @@
     "name": "Subotica",
     "name:etymology:sl": "Ime naselja izhaja iz slovanske besede subota v pomenu ′sobota′, kar se nanaša na redne tedenske sejme v tem dnevu.",
     "name:hu": "Szabadka",
-    "note:sl": "V Avstro-Ogrski se je mesto po cesarici Mariji Tereziji (1717‒1780) imenovalo Maria-Theresiopel.",
+    "note:sl": "V Avtro-Ogrski se je mesto po cesarici Mariji Tereziji (1717‒1780) imenovalo Maria-Theresiopel.",
     "semantic-type": "naselje",
     "source:alt_name:sl": "GIAM"
    }
@@ -95629,7 +95605,7 @@
     "name:de": "Sporaden",
     "name:en": "Sporades",
     "name:es": "Islas Espóradas/Archipiélago de las Espóradas",
-    "name:etymology:sl": "Ime dokaj razpršenih, nepovezanih otokov izhaja iz grškega izraza sporas oziroma sporados v pomenu ′raztresen′.",
+    "name:etymology:sl": "Ime dokaj razpršenih, nepovezanih otokov izhaja iz grškega izraza sporas oziroma sporados v pomenu ′raztrsesen′.",
     "name:fr": "Îles Sporades",
     "name:hr": "Sporadi",
     "name:hu": "Szporádok",
@@ -96935,6 +96911,30 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     18.0867,
+     10.8081
+    ]
+   },
+   "properties": {
+    "name": "Bilād as-Sūdān",
+    "name:de": "Großlandschaft Sudan",
+    "name:en": "Sudan",
+    "name:etymology:sl": "Ime sušni pokrajini južno od Sahareso nadeli arabski trgovci na območju zdajšnje Nubije in jo poimenovali Bilâd as-Sūdān v pomenu ′Dežela temnopoltih′, kar je sestavljenka besed balad v pomenu ′dežela′, predloga al in sūdān, množinske oblike besede aswad v pomenu ′črnec′.",
+    "name:fr": "Nigritie/Pays des Noirs/Soudan",
+    "name:hr": "Sudan",
+    "name:hu": "Szudán",
+    "name:it": "Sudan",
+    "name:ru": "Sudan",
+    "name:sl": "Sudan",
+    "semantic-type": "naravna pokrajina",
+    "source:name:sl": "GIAM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      29.2311,
      14.3289
     ]
@@ -96947,7 +96947,7 @@
     "name:de": "Sudan",
     "name:en": "Sudan",
     "name:es": "Sudán",
-    "name:etymology:sl": "Ime sušni pokrajini južno od Sahareso nadeli arabski trgovci na območju zdajšnje Nubije in jo poimenovali Bilâd as-Sūdān v pomenu ′Dežela temnopoltih′, kar je sestavljenka besed balad v pomenu ′dežela′, predloga al in sūdān, množinske oblike besede aswad v pomenu ′črnec′.",
+    "name:etymology:sl": "Ime sušni pokrajini južno od Sahare, ki ga je prevzela država v njenem vzhodnem delu, so nadeli arabski trgovci na območju zdajšnje Nubije in jo poimenovali Bilâd as-Sūdān v pomenu ′Dežela temnopoltih′, kar je sestavljenka besed balad v pomenu ′dežela′, predloga al in sūdān, množinske oblike besede aswad v pomenu ′črnec′.",
     "name:fr": "Soudan",
     "name:hr": "Sudan",
     "name:hu": "Szudán",
@@ -96955,30 +96955,6 @@
     "name:ru": "Sudan",
     "name:sl": "Sudan",
     "semantic-type": "država",
-    "source:name:sl": "GIAM"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     18.0867,
-     10.8081
-    ]
-   },
-   "properties": {
-    "name": "Bilād as-Sūdān",
-    "name:de": "Großlandschaft Sudan",
-    "name:en": "Sudan",
-    "name:etymology:sl": "Ime sušni pokrajini južno od Sahare, ki ga je prevzela država v njenem vzhodnem delu, so nadeli arabski trgovci na območju zdajšnje Nubije in jo poimenovali Bilâd as-Sūdān v pomenu ′Dežela temnopoltih′, kar je sestavljenka besed balad v pomenu ′dežela′, predloga al in sūdān, množinske oblike besede aswad v pomenu ′črnec′.",
-    "name:fr": "Nigritie/Pays des Noirs/Soudan",
-    "name:hr": "Sudan",
-    "name:hu": "Szudán",
-    "name:it": "Sudan",
-    "name:ru": "Sudan",
-    "name:sl": "Sudan",
-    "semantic-type": "naravna pokrajina",
     "source:name:sl": "GIAM"
    }
   },
@@ -97016,7 +96992,7 @@
     ]
    },
    "properties": {
-    "name": "Qanāt al-Sūwais",
+    "name": "Qanāt al-Suways\n",
     "name:de": "Sueskanal/Suezkanal",
     "name:en": "Suez Canal",
     "name:es": "Canal de Suez",
@@ -97581,13 +97557,11 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
+     20,
      78
     ]
    },
    "properties": {
-    "error": "error parsing \"20° 0′ 0″\"",
-    "marker-color": "#ff0000",
     "marker-symbol": "circle-stroked",
     "name": "Svalbard og Jan Mayen",
     "name:de": "Svalbard und Jan Mayen Inseln",
@@ -98284,12 +98258,11 @@
     "type": "Point",
     "coordinates": [
      6,
-     0
+     47
     ]
    },
    "properties": {
-    "error": "error parsing \"47° 0′ ′″ S\"",
-    "marker-color": "#ff0000",
+    "marker-color": "#D2B48C",
     "marker-symbol": "circle-stroked",
     "name": "Comté de Bourgogne\n/Franche-Comté",
     "name:de": "Freigrafschaft Burgund",
@@ -99234,7 +99207,7 @@
     "name:de": "Schlesien",
     "name:en": "Silesia",
     "name:es": "Silesia",
-    "name:etymology:sl": "Naravna pokrajina je poimenovana bodisi po tamkajšnji reki Słęza, pritoku Odre, bodisi po gorovju Slęz, poimenovanem po vandalskem ljudstvu Silingi, katerega versko središče je bilo.",
+    "name:etymology:sl": "Naravna pokrajina je poimenovana bodisi po tamkajšnji reki Słęza, pritoku Odre, bodisi po gorovju Slęz, poimenovanem po vandalskem ljudstvu Silingi, katerega versko središče je bilo to gorovje.",
     "name:fr": "Silésie",
     "name:hr": "Šleska",
     "name:hu": "Szilézia",
@@ -99260,7 +99233,7 @@
     "name:de": "Schlesien",
     "name:en": "Silesia",
     "name:es": "Silesia",
-    "name:etymology:sl": "Zgodovinska pokrajina je poimenovana bodisi po tamkajšnji reki Słęza, pritoku Odre, bodisi po gorovju Slęz, poimenovanem po vandalskem ljudstvu Silingi, katerega versko središče je bilo.",
+    "name:etymology:sl": "Zgodovinska pokrajina je poimenovana bodisi po tamkajšnji reki Słęza, pritoku Odre, bodisi po gorovju Slęz, poimenovanem po vandalskem ljudstvu Silingi, katerega versko središče je bilo to gorovje.",
     "name:fr": "Silésie",
     "name:hr": "Šleska",
     "name:hu": "Szilézia",
@@ -100398,11 +100371,14 @@
     "marker-size": "large",
     "marker-symbol": "embassy",
     "name": "Táiwān",
+    "name:de": "Taiwan",
+    "name:en": "Taiwan",
     "name:es": "Taiwán",
     "name:etymology:sl": "Ime države v pomenu ′Terasasti zaliv′ je zloženka iz kitajskih besed tái v pomenu ′terasa′ in wan v pomenu ′zaliv′, kar se nanaša na izoblikovanost površja otoka, ki se v nekakšnih stopnjah (planote in hribovja) spušča proti obali.",
     "name:fr": "Taïwan",
     "name:hr": "Tajvan",
     "name:hu": "Tajvan",
+    "name:it": "Taiwan",
     "name:ru": "Tajvan′",
     "name:sl": "Tajvan",
     "semantic-type": "država",
@@ -101414,7 +101390,7 @@
     "name:de": "Theben",
     "name:en": "Thebes",
     "name:es": "Tebas",
-    "name:etymology:sl": "Ime zgodovinskega naselja je grška oblika semitskega izraza ta-ope v pomenu ′prestolnica, glavno mesto′, kar označuje njegov status verskega in upravnega središča antičnega Egipta.",
+    "name:etymology:sl": "Grško ime naselja ae verjetno nanaša na staroegipčansko istoimensko mesto.",
     "name:fr": "Thèbes",
     "name:hr": "Teba",
     "name:it": "Tebe",
@@ -101440,7 +101416,7 @@
     "name:de": "Theben",
     "name:en": "Thebes",
     "name:es": "Tebas",
-    "name:etymology:sl": "Grško ime naselja se verjetno nanaša na staroegipčansko istoimensko mesto.",
+    "name:etymology:sl": "Ime zgodovinskega naselja je grška oblika semitskega izraza ta-ope v pomenu ′prestolnica, glavno mesto′, kar označuje njegov status verskega in upravnega središča antičnega Egipta.",
     "name:fr": "Thèbes",
     "name:hr": "Teba",
     "name:hu": "Théba",
@@ -101882,7 +101858,7 @@
     "name:de": "Thessalien",
     "name:en": "Thessaly",
     "name:es": "Tesalia",
-    "name:etymology:sl": "Pokrajinsko ime je ilirskega izvora, a nejasnega pomena.",
+    "name:etymology:sl": "Ime grške pokrajine je ilirskega izvora, a nejasnega pomena.",
     "name:fr": "Thessalie",
     "name:hr": "Tesalija",
     "name:hu": "Thesszália",
@@ -101907,7 +101883,7 @@
     "name:de": "Thessalien",
     "name:en": "Thessaly",
     "name:es": "Tesalia",
-    "name:etymology:sl": "Ime grške pokrajine je ilirskega izvora, a nejasnega pomena.",
+    "name:etymology:sl": "Pokrajinsko ime je ilirskega izvora, a nejasnega pomena.",
     "name:fr": "Thessalie",
     "name:hr": "Tesalija",
     "name:hu": "Thesszália",
@@ -101947,14 +101923,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0,
-     0
+     8.4692,
+     46.4117
     ]
    },
    "properties": {
     "alt_name:sl": "Ticinske Alpe",
-    "error": "error parsing \"46° 24′ 42″ N\"; error parsing \"8° 28′ 9″ E\"",
-    "marker-color": "#ff0000",
     "name": "Alpi Ticinesi/Alpi Lepontine Sud-occidentali",
     "name:de": "Tessiner Alpen",
     "name:es": "Alpes Ticineses",
@@ -101963,7 +101937,7 @@
     "name:hr": "Ticinske Alpe",
     "name:ru": "Tičinskie Al′py",
     "name:sl": "Tešinske Alpe",
-    "semantic-type": "land relief form",
+    "semantic-type": "kopenska reliefna oblika",
     "source:name:sl": "GIAM"
    }
   },
@@ -102638,7 +102612,7 @@
    },
    "properties": {
     "name": "Tirrenian Basin",
-    "name:en": "Tirrenian Basin",
+    "name:en": "Tyrrhenian Basin",
     "name:etymology:sl": "Podmorska kotlina je poimenovana glede na njeno lego v Tirenskem morju.",
     "name:hr": "Tirenska zavala",
     "name:hu": "Tirrén-medence",
@@ -103453,7 +103427,7 @@
     "name:de": "Thrakien/Thrazien",
     "name:en": "Trace",
     "name:es": "Tracia",
-    "name:etymology:sl": "Pokrajina je poimenovana po avtohtonem ljudstvu Tračani, katerega ime lahko izhaja iz semitske besede raqiwa v pomenu ′nebesni svod, nebo′.",
+    "name:etymology:sl": "Nekdanja grška provinca je poimenovana po avtohtonem ljudstvu Tračani, katerega ime lahko izhaja iz semitske besede raqiwa v pomenu ′nebesni svod, nebo′.",
     "name:fr": "Thrace",
     "name:hr": "Tracija",
     "name:hu": "Trákia",
@@ -103479,7 +103453,7 @@
     "name:de": "Thrakien/Thrazien",
     "name:en": "Trace",
     "name:es": "Tracia",
-    "name:etymology:sl": "Nekdanja grška provinca je poimenovana po avtohtonem ljudstvu Tračani, katerega ime lahko izhaja iz semitske besede raqiwa v pomenu ′nebesni svod, nebo′.",
+    "name:etymology:sl": "Pokrajina je poimenovana po avtohtonem ljudstvu Tračani, katerega ime lahko izhaja iz semitske besede raqiwa v pomenu ′nebesni svod, nebo′.",
     "name:fr": "Thrace",
     "name:hr": "Tracija",
     "name:hu": "Trákia",
@@ -105416,6 +105390,29 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     51.5328,
+     46.8311
+    ]
+   },
+   "properties": {
+    "name": "Ural/Zhajyq",
+    "name:en": "Ural River",
+    "name:es": "Río Ural",
+    "name:etymology:sl": "Reka je poimenovana po pogorju Ural.",
+    "name:fr": "Oural",
+    "name:hr": "Ural",
+    "name:hu": "Urál",
+    "name:sl": "Ural",
+    "note:sl": "Pred letom 1775 se je reka Ural imenovala Jaik.",
+    "semantic-type": "kopenski hidronim",
+    "source:name:sl": "GIAM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      59.1564,
      60.2867
     ]
@@ -105432,29 +105429,6 @@
     "name:it": "Monti Urali",
     "name:sl": "Ural",
     "semantic-type": "kopenska reliefna oblika",
-    "source:name:sl": "GIAM"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     51.5328,
-     46.8311
-    ]
-   },
-   "properties": {
-    "name": "Ural/Zhajyq",
-    "name:en": "Ural River",
-    "name:es": "Río Ural",
-    "name:etymology:sl": "Reka je poimenovana po pogorju Ural.",
-    "name:fr": "Oural",
-    "name:hr": "Ural",
-    "name:hu": "Urál",
-    "name:sl": "Ural",
-    "note:sl": "Pred letom 1775 se je reka Ural imenovala Jaik.",
-    "semantic-type": "kopenski hidronim",
     "source:name:sl": "GIAM"
    }
   },
@@ -106297,7 +106271,7 @@
     "marker-symbol": "embassy",
     "name": "Città del Vaticano/Status Civitatis Vaticanae",
     "name:de": "Vatikanstadt/Vatikanstaat",
-    "name:en": "Vatican",
+    "name:en": "Vatican City",
     "name:es": "Vaticano",
     "name:etymology:sl": "Država je poimenovana po griču, na katerem se razprostira, pri čemer latinsko ime griča Mons Vaticinia pomeni ′Grič prerokovanja′, kar je izpeljano iz izraza vates v pomenu ′prerok′.",
     "name:fr": "Vatican",
@@ -107257,7 +107231,7 @@
     "name:de": "Kaiserkanal/Großer Kanal",
     "name:en": "Grand Canal/Beijing-Hangzhou Grand Canal",
     "name:es": "Gran Canal de China/Gran Canal Beijing-Hangzhou",
-    "name:etymology:sl": "Ime prekopa izhaja iz dejstva, da gre za enega najpomembnejših irskih prekopov.",
+    "name:etymology:sl": "Ime je prevod kitajskega imena, sestavljenega iz besed dà v pomenu ′velik′ in yùnhé v pomenu ′prekop, kanal′.",
     "name:fr": "Grand canal/Grand canal Pékin-Hangzhou",
     "name:hr": "Veliki kanal",
     "name:hu": "Nagy-csatorna",
@@ -107280,7 +107254,7 @@
    "properties": {
     "name": "Grand Canal/An Chanáil Mhór",
     "name:es": "Canal Grand",
-    "name:etymology:sl": "Ime je prevod kitajskega imena, sestavljenega iz besed dà v pomenu ′velik′ in yùnhé v pomenu ′prekop, kanal′.",
+    "name:etymology:sl": "Ime prekopa izhaja iz dejstva, da gre za enega najpomembnejših irskih prekopov.",
     "name:hr": "Veliki kanal",
     "name:hu": "Grand-csatorna",
     "name:sl": "Veliki prekop",
@@ -110366,7 +110340,7 @@
     "marker-symbol": "embassy",
     "name": "Timor-Leste/Timor Lorosa′e",
     "name:de": "Osttimor",
-    "name:en": "East Timor",
+    "name:en": "Timor-Leste/East Timor",
     "name:es": "Timor Oriental",
     "name:etymology:sl": "Originalno ime države tako v portugalskem kot tetumskem jeziku pomeni ′Vzhod vzhod′, kar je sestavljeno iz indonezijske besede timor v pomenu ′vzhod′ in portugalske besede este, prav tako v pomenu ′vzhod′, medtem ko tetumski izraz laros′a dobesedno pomeni ′vzhajajoče Sonce′.",
     "name:fr": "Timor oriental/Timor-Oriental",
@@ -112697,7 +112671,7 @@
     "name": "West European Basin",
     "name:de": "Westeurop Becken",
     "name:en": "West European Basin",
-    "name:etymology:sl": "Podmorska kotlina je poimenovana glede na njeno lego v bližini zahodne Evrope.",
+    "name:etymology:sl": "Podmorska kotlina je poimenovana glede na njeno lego v bližini Zahodne Evrope.",
     "name:fr": "Bassin de l′ Europe Occidental",
     "name:hr": "Zapadnoeuropska zavala",
     "name:hu": "Nyugat-európai-medence",
@@ -112805,7 +112779,7 @@
    "properties": {
     "name": "West Siberian Plate",
     "name:en": "West Siberian Plate",
-    "name:etymology:sl": "Podmorski prag je poimenovan glede na njegovo lego v bližini legendarne jemenske pokrajine Saba.",
+    "name:etymology:sl": "Litosferska plošča je poimenovana glede na njeno lego na območju Zahodne Sibirije.",
     "name:hr": "Zapadnosibirska ploča",
     "name:sl": "Zahodnosibirska plošča",
     "semantic-type": "drugo",
@@ -112826,7 +112800,7 @@
     "name:de": "Westsibirische Tiefland",
     "name:en": "West Siberian Plain",
     "name:es": "Llanura de Siberia Occidental",
-    "name:etymology:sl": "Litosferska plošča je poimenovana glede na njeno lego na območju Zahodne Sibirije.",
+    "name:etymology:sl": "Prostrano nižavje je poimenovano glede na njegovo lego v zahodnem delu Sibirije.",
     "name:fr": "Plaine de Sibérie occidentale",
     "name:hr": "Zapadnosibirska nizina",
     "name:hu": "Nyugat-szibériai-alföld",
@@ -112848,7 +112822,7 @@
    "properties": {
     "name": "West Sheba Ridge",
     "name:en": "West Sheba Ridge",
-    "name:etymology:sl": "Prostrano nižavje je poimenovano glede na njegovo lego v zahodnem delu Sibirije.",
+    "name:etymology:sl": "Podmorski prag je poimenovan glede na njegovo lego v bližini legendarne jemenske pokrajine Saba.",
     "name:hr": "Zapadnosabski hrbat",
     "name:hu": "Nyugati-Sheba-hátság",
     "name:sl": "Zahodnošabski prag",
@@ -113396,7 +113370,7 @@
     "name": "Walvisbaai/Walvis Bay",
     "name:de": "Walfischbucht",
     "name:es": "Walvis Bay",
-    "name:etymology:sl": "Izvorno nizozemsko ime Walvisbaai v pomenu ′Zaliv kitov′ izhaja iz dejstva, da je bila tamkajšnja postojanka nekoč pomembno kitolovsko središče.",
+    "name:etymology:sl": "Izvorno nizozemsko ime Walvisbaai v pomenu ′Zaliv kitov′ izhaja iz dejstva, da je bila tamkajšnja postojanka nekdaj pomembno kitolovsko središče.",
     "name:fr": "Walvis Bay",
     "name:hu": "Walvis Bay",
     "name:it": "Walvis Bay",
@@ -113418,7 +113392,7 @@
     "name": "Walvis Bay",
     "name:de": "Walfischbucht",
     "name:es": "Walvis Bay",
-    "name:etymology:sl": "Izvorno nizozemsko ime Walvisbaai v pomenu ′Zaliv kitov′ izhaja iz dejstva, da je bila tamkajšnja postojanka nekdaj pomembno kitolovsko središče.",
+    "name:etymology:sl": "Izvorno nizozemsko ime Walvisbaai v pomenu ′Zaliv kitov′ izhaja iz dejstva, da je bila tamkajšnja postojanka nekoč pomembno kitolovsko središče.",
     "name:fr": "Walvis Bay",
     "name:hu": "Walvis Bay",
     "name:it": "Walvis Bay",
@@ -114106,11 +114080,10 @@
     "name": "Ilhas de Sotavento",
     "name:en": "Sotavento Islands",
     "name:es": "Islas de Sotavento",
-    "name:etymology:sl": "Ime skupine otokov izhaja iz njihove lege v zavetju severovzhodnih pasatnih vetrov.",
+    "name:etymology:sl": "Ime skupine otokov izhaja iz dejstva, da so ti Zelenortski otoki v zavetju pasatnih vetrov.",
     "name:fr": "Îles de Sotavento",
     "name:hr": "Otoci zavjetrine",
     "name:hu": "Sotavento-szigetek",
-    "note:sl": "Obseg izrazov privetrn in zavetrn se v angleščini razlikuje od njunega obsega v francoščini in večini drugih jezikov. Medtem ko so v angleščini privetrni južni otoki Malih Antilov ter Aruba, Bonaire, Curaçao, Aves in Margarita, so v francoščini in drugod privetrni vsi otoki Malih Antilov, zavetrni pa Aruba, Bonaire, Curaçao, Aves in Margarita.",
     "semantic-type": "otoška reliefna oblika",
     "source:alt_name:sl": "GIAM"
    }
@@ -114129,12 +114102,13 @@
     "name:de": "Inseln über dem Winde",
     "name:en": "Leeward Islands",
     "name:es": "Islas de Sotavento",
-    "name:etymology:sl": "Ime skupine otokov izhaja iz dejstva, da so ti Zelenortski otoki v zavetju pasatnih vetrov.",
+    "name:etymology:sl": "Ime skupine otokov izhaja iz njihove lege v zavetju severovzhodnih pasatnih vetrov.",
     "name:hr": "Otoci zavjetrine",
     "name:hu": "Szélcsendndes-szigetek",
     "name:it": "Isole Sopravento settentrionali",
     "name:ru": "Podvetrennye ostrova",
     "name:sl": "Zavetrni otoki",
+    "note:sl": "Obseg izrazov privetrn in zavetrn se v angleščini razlikuje od njunega obsega v francoščini in večini drugih jezikov. Medtem ko so v angleščini privetrni južni otoki Malih Antilov ter Aruba, Bonaire, Curaçao, Aves in Margarita, so v francoščini in drugod privetrni vsi otoki Malih Antilov, zavetrni pa Aruba, Bonaire, Curaçao, Aves in Margarita.",
     "semantic-type": "otoška reliefna oblika",
     "source:name:sl": "GIAM"
    }
@@ -114325,7 +114299,7 @@
     "name": "Zeeland",
     "name:en": "ni/Zealand",
     "name:es": "Zelanda",
-    "name:etymology:sl": "Ime v pomenu ′Morska dežela′ je zloženka nizozemskih izrazov zee v pomenu ′morje′ in land v pomenu ′dežela′.",
+    "name:etymology:sl": "Ime upravne enote v pomenu ′Morska dežela′ je zloženka staronorveškega izraza sjá v pomenu ′morje′ in besede land v pomenu ′dežela′.",
     "name:fr": "Zélande",
     "name:hr": "Zeland",
     "name:it": "Zelanda",
@@ -114349,7 +114323,7 @@
     "name:de": "Seeland",
     "name:en": "Zealand",
     "name:es": "Selandia",
-    "name:etymology:sl": "Ime upravne enote v pomenu ′Morska dežela′ je zloženka staronorveškega izraza sjá v pomenu ′morje′ in besede land v pomenu ′dežela′.",
+    "name:etymology:sl": "Ime v pomenu ′Morska dežela′ je zloženka nizozemskih izrazov zee v pomenu ′morje′ in land v pomenu ′dežela′.",
     "name:fr": "Seeland",
     "name:hr": "Zeland",
     "name:it": "Selandia/Zelanda/Zelandia",
@@ -115368,7 +115342,7 @@
    "properties": {
     "alt_name:sl": "Judovsko avtonomno okrožje",
     "marker-symbol": "circle-stroked",
-    "name": "Evrejskaja avtonomnaja oblast′/yidishe avtonome gegnt",
+    "name": "Evrejskaja avtonomnaja oblast′/Yidishe avtonome gegnt",
     "name:de": "Jüdische Autonome Oblast",
     "name:en": "Jewish Autonomous Oblast",
     "name:es": "Óblast Autónomo Hebreo/República Autónoma Hebrea",
