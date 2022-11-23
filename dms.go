@@ -1,7 +1,6 @@
 package main
 
 import (
-	"errors"
 	"fmt"
 	"math"
 	"regexp"
@@ -10,20 +9,20 @@ import (
 	"strings"
 )
 
-//"125° 8′ 6″ Z"
+// "125° 8′ 6″ Z"
 var dmsRegex = regexp.MustCompile(`^\s*([0-1]?[0-9]?[0-9])°\s*([0-5]?[0-9])′\s*([0-5]?[0-9])″\s*([SsJjVvZz])\s*$`)
 
 // ParseDMS takes the input DMS notation string (eg "125° 8′ 6″ Z") and converts it to decimal degrees
 func ParseDMS(dms string) (float64, error) {
 	if !hasValue(dms) {
-		return 0, errors.New("No dms value to parse: " + strconv.Quote(dms))
+		return 0, fmt.Errorf("No dms value to parse: %q", dms)
 	}
 
 	dms = strings.ReplaceAll(dms, "\u00a0", " ")
 
 	matches := dmsRegex.FindStringSubmatch(dms)
 	if len(matches) != 5 {
-		return 0, fmt.Errorf("Error parsing %s", strconv.Quote(dms))
+		return 0, fmt.Errorf("Error parsing %q", dms)
 	}
 
 	q := 0
@@ -43,7 +42,7 @@ func ParseDMS(dms string) (float64, error) {
 		q = 1
 		dmax = 180
 	default:
-		return 0, fmt.Errorf("Invalid direction %s", strconv.Quote(matches[4]))
+		return 0, fmt.Errorf("Invalid direction %q", matches[4])
 	}
 
 	// errors disallowed by regex :)
@@ -54,7 +53,7 @@ func ParseDMS(dms string) (float64, error) {
 	deg := (float64(d) + float64(m)/60 + float64(s)/60/60)
 
 	if d > dmax {
-		return 0, fmt.Errorf("%d deegrees to large for direction %s", d, strconv.Quote(matches[4]))
+		return 0, fmt.Errorf("%d deegrees to large for direction %q", d, matches[4])
 	}
 	return float64(q) * math.Round(deg*10000) / 10000, nil
 }
