@@ -8,4 +8,4 @@ Parse xlsx list of Slovenian exonyms and prepare them for OSM
 
 http://ungegn.zrc-sazu.si/Documents/THEGAZETTEEROFSLOVENIANEXONYMS.aspx
 
-The result can be seen in [eksonimi.geojson](eksonimi.geojson) file.
+The result can be seen in [eksonimi.geojson](eksonimi.geojson) file or on [geojson.io](https://geojson.io/#id=github:stefanb/ungegn-slo-exonyms/blob/master/eksonimi.geojson)
