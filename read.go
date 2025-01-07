@@ -16,7 +16,7 @@ import (
 )
 
 func main() {
-	// http://ungegn.zrc-sazu.si/Portals/7/VELIKA%20PREGLEDNICA_slo.xlsx
+	// https://ungegn.zrc-sazu.si/Portals/7/VELIKA%20PREGLEDNICA_slo.xlsx
 	excelFileName := "VELIKA PREGLEDNICA_slo.xlsx"
 	xlFile, err := xlsx.OpenFile(excelFileName)
 	if err != nil {

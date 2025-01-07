@@ -16,7 +16,7 @@ run: build download ## runs the conversion
 
 .PHONY: download
 download: ## downloads the source
-	wget --timestamping http://ungegn.zrc-sazu.si/Portals/7/VELIKA%20PREGLEDNICA_slo.xlsx
+	wget --timestamping https://ungegn.zrc-sazu.si/Portals/7/VELIKA%20PREGLEDNICA_slo.xlsx
 
 .PHONY: help
 help:
